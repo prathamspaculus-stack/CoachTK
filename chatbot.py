@@ -1,25 +1,27 @@
 from dotenv import load_dotenv
+import json
 from langchain_core.documents import Document
+from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_community.vectorstores import Chroma
 from langchain_community.embeddings import HuggingFaceEmbeddings
 from langchain_groq import ChatGroq
 from langchain_core.prompts import PromptTemplate
 from langchain_core.output_parsers import StrOutputParser
+from pydantic import BaseModel
 from langgraph.graph import StateGraph, START, END
-from typing import TypedDict, List, Annotated
+from typing import TypedDict, List, Annotated 
+from langgraph.checkpoint.memory import InMemorySaver
 from langgraph.graph.message import add_messages
-from langchain_core.messages import BaseMessage, HumanMessage, AIMessage
+from langchain_core.messages import BaseMessage, HumanMessage,AIMessage
 import sqlite3
 from langgraph.checkpoint.sqlite import SqliteSaver
-from mysql_memory import save_chat, load_chat
-import uuid
 
 load_dotenv()
 
 parser = StrOutputParser()
 
 model = ChatGroq(
-    model="llama-3.3-70b-versatile",
+    model="llama-3.3-70b-versatile", 
     temperature=0
 )
 
@@ -33,16 +35,13 @@ vectorstore = Chroma(
     collection_name="podcast_chunks"
 )
 
-retriever = vectorstore.as_retriever(
-    search_type="similarity",
-    search_kwargs={"k": 5}
-)
+all_data = vectorstore.get()
 
+retriever = vectorstore.as_retriever(search_type="similarity", search_kwargs={"k": 5})
 
-p1 = PromptTemplate(
+p1 = PromptTemplate( 
     input_variables=["question", "content"],
     template="""
-
 You are a practical coach Terry kim, not a teacher.
 
 RULES:
@@ -70,86 +69,113 @@ USER QUESTION:
 {question}
 
 ANSWER:
-
 """
 )
 
 class CoachAnswer(TypedDict):
-    messages: Annotated[List[BaseMessage], add_messages]
+    messages : Annotated[List[BaseMessage], add_messages]
     retrieved_docs: List[Document]
     context: str
     answer: str
 
-def retrieve_docs(state: CoachAnswer):
-    question = state["messages"][-1].content
-    docs = retriever.invoke(question)
+def retrieve_docs(state: CoachAnswer ):
+
+    last_question = state["messages"][-1].content
+    docs = retriever.invoke(last_question)
+
     return {"retrieved_docs": docs}
 
 def context(state: CoachAnswer):
-    history = "\n".join(f"{m.type.upper()}: {m.content}" for m in state["messages"])
+
+    chat_history = "\n".join(
+        f"{m.type.upper()}: {m.content}" for m in state["messages"]
+    )
 
     blocks = []
-    for i, doc in enumerate(state["retrieved_docs"], 1):
-        block = f"CONTENT {i}:\n{doc.page_content}"
-        blocks.append(block)
 
-    return {
-        "context": f"CHAT HISTORY:\n{history}\n\nCONTENT:\n" + "\n\n---\n\n".join(blocks)
-    }
+    
+    for i, doc in enumerate(state["retrieved_docs"], 1):
+        text = doc.page_content
+        link = doc.metadata.get("reference_link")
+
+        block = f"""
+CONTENT {i}:
+{text}
+"""
+        if link:
+            block += f"\nSOURCE LINK: {link}"
+
+        blocks.append(block.strip())
+
+    context_text = f"""
+CHAT HISTORY:
+{chat_history}
+
+CONTENT:
+{"\n\n---\n\n".join(blocks)}
+"""
+
+    return {"context": context_text}
 
 def answer(state: CoachAnswer):
     prompt = p1.format(
         content=state["context"],
         question=state["messages"][-1].content
     )
+
     response = model.invoke(prompt)
-    return {"answer": parser.invoke(response)}
+    final_answer = parser.invoke(response)
+
+    return {
+        # "messages": [AIMessage(content=final_answer)],
+        "answer": final_answer
+    }
 
 graph = StateGraph(CoachAnswer)
-graph.add_node("retrieve_docs", retrieve_docs)
-graph.add_node("context", context)
-graph.add_node("answer", answer)
 
-graph.add_edge(START, "retrieve_docs")
-graph.add_edge("retrieve_docs", "context")
-graph.add_edge("context", "answer")
-graph.add_edge("answer", END)
+graph.add_node('retrieve_docs', retrieve_docs)
+graph.add_node('context', context)
+graph.add_node('answer', answer)
 
-conn = sqlite3.connect("chat.db", check_same_thread=False)
+graph.add_edge(START, 'retrieve_docs')
+graph.add_edge('retrieve_docs', 'context')
+graph.add_edge('context', 'answer')
+graph.add_edge('answer', END)
+
+conn = sqlite3.connect(database='chat.db', check_same_thread=False)
+cursor = conn.cursor()
 checkpointer = SqliteSaver(conn=conn)
+
 workflow = graph.compile(checkpointer=checkpointer)
 
-THREAD_ID = str(uuid.uuid4())
-config = {"configurable": {"thread_id": THREAD_ID}}
+# while True:
+#     user_message = input("you: ")
 
-while True:
-    user_message = input("you: ")
+#     if user_message.lower() in ['exit', 'quite', 'bye']:
+#         break
 
-    if user_message.lower() in ["exit", "quit", "bye"]:
-        break
+#     config1 = {"configurable": {"thread_id": "1"}}
 
-    history = load_chat(THREAD_ID)
-    messages = []
+#     response = workflow.invoke({'messages': [HumanMessage(content=user_message)]}, config=config1)
 
-    for role, content in history:
-        if role == "user":
-            messages.append(HumanMessage(content=content))
-        else:
-            messages.append(AIMessage(content=content))
+#     print('TK:', response['answer'])
 
-    save_chat(THREAD_ID, "user", user_message)
+# print(workflow.get_state(config1))
 
-    response = workflow.invoke(
-        {"messages": messages + [HumanMessage(content=user_message)]},
-        config=config
-    )
+# initial_state = { 
+#     "messages" : [HumanMessage(content="tell me about the topics like entrepreneurship and innovation")
+#     ]}
 
-    ai_answer = response["answer"]
+# config1 = {"configurable": {"thread_id": "1"}}
 
-    save_chat(THREAD_ID, "ai", ai_answer)
+# result = workflow.invoke(initial_state, config=config1)
+# print(result['answer'])
 
-    print("TK:", ai_answer)
+# initial_state1 = {
+#     "messages": [HumanMessage(content="tell me my name")]
+# }
 
+# # config2 = {"configurable": {"thread_id": "2"}}
 
-
-
+# result1 = workflow.invoke(initial_state1, config=config1)
+# print(result1['answer'])

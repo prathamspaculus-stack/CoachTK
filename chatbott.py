@@ -15,6 +15,8 @@ from langgraph.graph.message import add_messages
 from langchain_core.messages import BaseMessage, HumanMessage,AIMessage
 import sqlite3
 from langgraph.checkpoint.sqlite import SqliteSaver
+import mysql.connector
+
 
 load_dotenv()
 
@@ -72,6 +74,16 @@ ANSWER:
 """
 )
 
+mysql_conn = mysql.connector.connect(
+    host="localhost",
+    user="coach_user",
+    password="coach123",
+    database="coachtk"
+)
+
+mysql_cursor = mysql_conn.cursor()
+
+
 class CoachAnswer(TypedDict):
     messages : Annotated[List[BaseMessage], add_messages]
     retrieved_docs: List[Document]
@@ -117,19 +129,46 @@ CONTENT:
 
     return {"context": context_text}
 
+
+def save_to_mysql(thread_id, question, answer, chunk):
+    sql = """
+    INSERT INTO coach_chat_logs
+    (thread_id, user_question, ai_answer, chunk)
+    VALUES (%s, %s, %s, %s)
+    """
+    mysql_cursor.execute(sql, (thread_id, question, answer, chunk))
+    mysql_conn.commit()
+
+
 def answer(state: CoachAnswer):
+    question = state["messages"][-1].content
+
     prompt = p1.format(
         content=state["context"],
-        question=state["messages"][-1].content
+        question=question
     )
 
     response = model.invoke(prompt)
     final_answer = parser.invoke(response)
 
-    return {
-        # "messages": [AIMessage(content=final_answer)],
-        "answer": final_answer
-    }
+    # 🔹 Combine chunks (retrieved docs)
+    chunks = "\n\n---\n\n".join(
+        doc.page_content for doc in state["retrieved_docs"]
+    )
+
+    # 🔹 thread_id (same as workflow config)
+    thread_id = "1"  # later you can make dynamic
+
+    # 🔹 SAVE EVERYTHING
+    save_to_mysql(
+        thread_id=thread_id,
+        question=question,
+        answer=final_answer,
+        chunk=chunks
+    )
+
+    return {"answer": final_answer}
+
 
 graph = StateGraph(CoachAnswer)
 
@@ -148,23 +187,20 @@ checkpointer = SqliteSaver(conn=conn)
 
 workflow = graph.compile(checkpointer=checkpointer)
 
-# while True:
-#     user_message = input("you: ")
 
-#     if user_message.lower() in ['exit', 'quite', 'bye']:
-#         break
+while True:
+    user_message = input("you: ")
 
-#     config1 = {"configurable": {"thread_id": "1"}}
+    if user_message.lower() in ['exit', 'quite', 'bye']:
+        break
 
-#     response = workflow.invoke({'messages': [HumanMessage(content=user_message)]}, config=config1)
+    config1 = {"configurable": {"thread_id": "1"}}
 
-#     print('TK:', response['answer'])
+    response = workflow.invoke({'messages': [HumanMessage(content=user_message)]}, config=config1)
+
+    print('TK:', response['answer'])
 
 # print(workflow.get_state(config1))
-
-
-
-
 
 # initial_state = { 
 #     "messages" : [HumanMessage(content="tell me about the topics like entrepreneurship and innovation")
