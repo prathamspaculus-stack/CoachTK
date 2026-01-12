@@ -1,0 +1,1432 @@
+[
+  {
+    "chunk_id": "chunk_1",
+    "text": "zero prior experience or are already an experienced IT professional, these insights will help you achieve greater success and satisfaction in your career that you might thought was never possible. Let’s get started! Stage 1: The Foundation (The Beginning: Humble Origins) I truly believe that once you learn networking, it opens the gateway to all possibilities in information technology. Below is a quick visual diagram to show you what’s possible once you have a strong foundation of IT princi- ples and networking concepts. Building this foundation requires two steps: 1. Enhance your education and obtain relevant certifications. I invested time and money into courses that aligned with my career goals. Gradually, I earned certifications in key areas such as: CompTIA Network+ This",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Networking",
+      "content_type": "Framework",
+      "reference_link": "https://drive.google.com/file/d/14CzY-daGNilir8kNln43Tsm73D-I_YxC/view?usp=sharing",
+      "source_type": "Book"
+    }
+  },
+  {
+    "chunk_id": "chunk_2",
+    "text": "my career goals. Gradually, I earned certifications in key areas such as: CompTIA Network+ This certification helped me solidify my under- standing of IT fundamentals and networking concepts. Cisco Certified Network Associate (CCNA) This certification opened doors to more advanced networking roles and significantly boosted my technical skills.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career Goals",
+      "content_type": "Example",
+      "reference_link": "https://drive.google.com/file/d/14CzY-daGNilir8kNln43Tsm73D-I_YxC/view?usp=sharing",
+      "source_type": "Book"
+    }
+  },
+  {
+    "chunk_id": "chunk_3",
+    "text": "The Ultimate IT Professional Blueprint These certifications not only enhanced my résumé but also gave me the confidence and knowledge to take on more challenging roles. The process of studying and passing these exams taught me the value of discipline and perseverance. 2. Build a home lab or use simulators like Packet Tracer or GNS3 for hands-on training. Y ou can set up a nice lab for a budget of around $1,000 or less. Stage 2: First IT Job ($40,000–$80,000) The goal at this stage is to break into the industry by joining an IT team. This is where a lot of people give up too easily. I remember hearing Ben Affleck and Matt Damon during an interview discussing how they would",
+    "metadata": {
+      "domain": "IT",
+      "topic": "IT Career",
+      "content_type": "Example",
+      "reference_link": "https://drive.google.com/file/d/14CzY-daGNilir8kNln43Tsm73D-I_YxC/view?usp=sharing",
+      "source_type": "Book"
+    }
+  },
+  {
+    "chunk_id": "chunk_4",
+    "text": "take any job with a crew when they first started in Hollywood just to get on a movie set where all the action is. It didn’t matter if they were the errand boys getting coffee, holding up the camera stick, or taking out the garbage— they just wanted to get on the scene! This is how your mindset should be when starting in IT. Y our only goal is to break into an existing IT team, no matter what. Get your foot in the door, and the rest will play out. The best way to break into larger IT teams or Fortune 500 companies is to get an internship or offer to work for free. Another tactic is to hit up local businesses in your network; I suggest looking for companies that have at least 500 employees or more. The third option is to apply creatively to the open jobs posted online using LinkedIn and",
+    "metadata": {
+      "domain": "IT",
+      "topic": "BreakingIn",
+      "content_type": "Advice",
+      "reference_link": "https://drive.google.com/file/d/14CzY-daGNilir8kNln43Tsm73D-I_YxC/view?usp=sharing",
+      "source_type": "Book"
+    }
+  },
+  {
+    "chunk_id": "chunk_5",
+    "text": "or more. The third option is to apply creatively to the open jobs posted online using LinkedIn and personal branding to get noticed. These tactics can all be used early in your career to get your foot in the door. For instance, one of the first 100 students I mentored in NGT Academy was Kevin Lee, who wanted to break into the tech industry but was unsure if he could make it without going back to college. By trusting me as his mentor, he was open-minded and ready to do whatever it took to accelerate fast. I said, “If you truly want to climb up this pyramid much faster, here’s what you need to do. ” He was a project manager for an art gallery in New Y ork. I asked him if he was okay with getting paid minimum to zero for a 3-month intern - ship. He said yes, since he was living with his",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Career",
+      "content_type": "Story",
+      "reference_link": "https://drive.google.com/file/d/14CzY-daGNilir8kNln43Tsm73D-I_YxC/view?usp=sharing",
+      "source_type": "Book"
+    }
+  },
+  {
+    "chunk_id": "chunk_6",
+    "text": "getting paid minimum to zero for a 3-month intern - ship. He said yes, since he was living with his parents and his bills were minimal. I said, “Great, here’s what you need to do. Complete our Full Stack Network Associate (FSNA) training and obtain your CCNA, ” which he did in 60 days. After that, I told him to look up 10 Cisco Gold Partners, who are value-added resellers selling Cisco IT solutions to companies; contact the engineering manager or network engineer in the services delivery department; and arrange to meet as many of them as he could, saying that he aspired to be network engineer and wanted to get insights into their amazing company and how they operate. My suggested strategy was to network and find a way in by asking each of the managers or engineer peers if he could\n\nwas to network and find a way in by asking each of the managers or engineer peers if he could volunteer for free on their",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career Advancement",
+      "content_type": "Advice",
+      "reference_link": "https://drive.google.com/file/d/14CzY-daGNilir8kNln43Tsm73D-I_YxC/view?usp=sharing",
+      "source_type": "Book"
+    }
+  },
+  {
+    "chunk_id": "chunk_7",
+    "text": "The Ultimate IT Professional Blueprint infrastructure upgrade projects for their clients. It worked! After several meetings, he got his first yes: “We would love to have you as an intern and will even pay you!” So he took this paid internship for 2 months and then found a junior network engineer position at another reseller in town in month 3. Five months in, he secured his engineer position. After 2 years, he landed his dream job at Samsung. This was a student who also just immigrated to the United States during his freshman year, and English was his second language. The moral of the story is that if you get laser-focused and execute the plan to break in, then you can start to work your way up in the industry. Don’t get caught up on the short-term sacrifice in pay or time, as once you",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career Advancement",
+      "content_type": "Story",
+      "reference_link": "https://drive.google.com/file/d/14CzY-daGNilir8kNln43Tsm73D-I_YxC/view?usp=sharing",
+      "source_type": "Book"
+    }
+  },
+  {
+    "chunk_id": "chunk_8",
+    "text": "way up in the industry. Don’t get caught up on the short-term sacrifice in pay or time, as once you secure the engineer title, your career is set for life as long as you keep up with industry trends and technologies—which will get easier to absorb over time once you go from beginner to SME in your career. As you know, my journey began in a small IT support role where I was earning just $28,000 a year in 2005 at a local credit union. At that time, I was struggling to make ends meet and knew I couldn’t survive off this salary for long to support my family of four. But I knew I was in the right career field; I just needed to move up the ranks and get laser-focused on securing the engineer title first. Y ou see, most jobs have a ceiling, whereas network engi- neers who stay in the same",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career Advancement",
+      "content_type": "Story",
+      "reference_link": "https://drive.google.com/file/d/14CzY-daGNilir8kNln43Tsm73D-I_YxC/view?usp=sharing",
+      "source_type": "Book"
+    }
+  },
+  {
+    "chunk_id": "chunk_9",
+    "text": "title first. Y ou see, most jobs have a ceiling, whereas network engi- neers who stay in the same profession for years or even decades enjoy salary increases. Y ou see, it’s not about how smart you are or how much potential you have; if you pick the wrong career, you will hit a ceiling, and in IT there is no such ceiling. It’s really limitless on how much you can earn. So, within 6 months, I went from network tech to network admin and received a pay raise to $60,000. A lot of folks now stop or stay stuck at this stage for years while earning $40,000–$80,000, just waiting for their yearly bonus or for when the boss gives them a promotion, which may or may not happen. This is a rookie mistake. Y ou need to work on the next leg up within the next 12 months, as IT has limitless opportunities",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career Growth",
+      "content_type": "Advice",
+      "reference_link": "https://drive.google.com/file/d/14CzY-daGNilir8kNln43Tsm73D-I_YxC/view?usp=sharing",
+      "source_type": "Book"
+    }
+  },
+  {
+    "chunk_id": "chunk_10",
+    "text": "Y ou need to work on the next leg up within the next 12 months, as IT has limitless opportunities for those will- ing to master the advanced skills that pay the big bucks, which come in at Stage 3 and higher.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career Advancement",
+      "content_type": "Advice",
+      "reference_link": "https://drive.google.com/file/d/14CzY-daGNilir8kNln43Tsm73D-I_YxC/view?usp=sharing",
+      "source_type": "Book"
+    }
+  },
+  {
+    "chunk_id": "chunk_11",
+    "text": "Stage 3: The Promotion ($80,000–$120,000) At this stage we are solely focused on securing the engineer title in our job. Why? Because the average salary and market rate for engineers gets you to a higher income bracket. It’s plain and simple; you can get paid two or three times more than entry-level jobs once you secure this title, giving you a pay range of $80,000–$120,000. (See Chapter 9, “Four More Steps to Demand Six-Figure Job Offers from Fortune 500 Companies, ” and check out the “Ten Strategies for Getting Promoted Quickly” sidebar.) The main secret here is that you need to get exposed to IT projects running within your department. Ask for the IT budget planned for the year and see how you can get involved. At this stage your goal is to get more responsibility on your plate and",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Promotion",
+      "content_type": "Advice",
+      "reference_link": "https://drive.google.com/file/d/14CzY-daGNilir8kNln43Tsm73D-I_YxC/view?usp=sharing",
+      "source_type": "Book"
+    }
+  },
+  {
+    "chunk_id": "chunk_12",
+    "text": "how you can get involved. At this stage your goal is to get more responsibility on your plate and start building some high-demand, mission- critical skills to support your employer. Y ou see, while your peers are trying to get away with doing the minimum for their paychecks, you are being hungry, curious, and ambitious to learn new high-demand skills that are tied to big-budget IT projects. This is the stage in which you want to be able to participate and eventually lead your own IT projects. Once you have several projects under your belt, the promotion becomes easy and smooth. In my case, I started searching for other jobs, lined up a few, and then had a discussion with my VP of IT at the time, when it became apparent he didn’t want to lose me. Why? Because I’ d been crucial to helping",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career Advancement",
+      "content_type": "Story",
+      "reference_link": "https://drive.google.com/file/d/14CzY-daGNilir8kNln43Tsm73D-I_YxC/view?usp=sharing",
+      "source_type": "Book"
+    }
+  },
+  {
+    "chunk_id": "chunk_13",
+    "text": "time, when it became apparent he didn’t want to lose me. Why? Because I’ d been crucial to helping upgrade a lot of the IT infrastructure and replacing me would’ve cost much more than it would to give me a pay raise to low six figures. I got promoted to a position with a $102,000 salary within 12 months and I was able to secure the senior network engineer title. This was a game changer for me; once I secured the engineer title and broke six figures in salary, everything changed. What I didn’t expect to happen was the limitless opportunities that opened up for me. I learned there were even higher-level engineers who",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career Advancement",
+      "content_type": "Story",
+      "reference_link": "https://drive.google.com/file/d/14CzY-daGNilir8kNln43Tsm73D-I_YxC/view?usp=sharing",
+      "source_type": "Book"
+    }
+  },
+  {
+    "chunk_id": "chunk_14",
+    "text": "The Ultimate IT Professional Blueprint made two or four times more than my $102,000 salary, which was mind-blowing. Imagine after you secured a $40,000 entry-level IT job you learned you could increase your income 10 times over the next few years— would you believe it? There are always levels to move up; you just need the courage and con- fidence to pursue learning the necessary skills as you move up. Stage 4: Level Up with Projects ($120,000–$180,000) I stayed in the senior network engineer role for 3 years, leading numerous IT projects with seven-figure budgets. I rolled out two data centers, upgraded IT infrastructure across 17 locations, and configured a full disas- ter recovery and business continuity plan using satellites in case AT&T had another major outage across the Gulf Coast.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career",
+      "content_type": "Story",
+      "reference_link": "https://drive.google.com/file/d/14CzY-daGNilir8kNln43Tsm73D-I_YxC/view?usp=sharing",
+      "source_type": "Book"
+    }
+  },
+  {
+    "chunk_id": "chunk_15",
+    "text": "continuity plan using satellites in case AT&T had another major outage across the Gulf Coast. This is the secret to my success and that of thousands of our students at NGT Academy. Why? Because we focus our training on these same concepts. For example, students in our Full Stack Network Engineering program get to architect, design, configure, implement, and finalize an entire infrastructure. This includes switches, routers, firewalls, VoIP and video systems, wireless, and secure remote access systems for an enterprise with a headquarters and two remote branches. Mastering these high-demand skills for IT infrastructure upgrades allowed one student, Keron Taylor, to impress his technical hiring manager and secure a job at Google as a network engineer. He achieved this even without a college",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Network",
+      "content_type": "Example",
+      "reference_link": "https://drive.google.com/file/d/14CzY-daGNilir8kNln43Tsm73D-I_YxC/view?usp=sharing",
+      "source_type": "Book"
+    }
+  },
+  {
+    "chunk_id": "chunk_16",
+    "text": "manager and secure a job at Google as a network engineer. He achieved this even without a college degree or industry certifications, simply due to his com- petency and ability to plan, design, and roll out infrastructure upgrades. The following diagram below illustrates the network infrastructure project Keron developed at NGT Academy, which played a key role in securing his job.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career",
+      "content_type": "Example",
+      "reference_link": "https://drive.google.com/file/d/14CzY-daGNilir8kNln43Tsm73D-I_YxC/view?usp=sharing",
+      "source_type": "Book"
+    }
+  },
+  {
+    "chunk_id": "chunk_17",
+    "text": "So remember, try to gain as much experience as possible working on IT projects during this phase. It’s like an artist building a portfolio of work to showcase throughout their career. This is why I emphasize highlighting key IT projects on your résumé to stand out from the crowd. Y ou can use the Résumé Template found in Appendix B. Stage 5: Stability—Architect/ Director/VP Level ($180,000–$250,000) At this stage, you’ve been implementing this blueprint for 3–5 years and have several IT projects in your portfolio that you can showcase. This is also a crucial stage where you can decide to stay on the technical path in your career or switch to managing a team within the IT department. In some cases, you may have already decided to move up to a director or VP level position, overseeing the",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career",
+      "content_type": "Advice",
+      "reference_link": "https://drive.google.com/file/d/14CzY-daGNilir8kNln43Tsm73D-I_YxC/view?usp=sharing",
+      "source_type": "Book"
+    }
+  },
+  {
+    "chunk_id": "chunk_18",
+    "text": "cases, you may have already decided to move up to a director or VP level position, overseeing the entire department. Congratulations! It took me 5 years to reach this stage, when I was recruited by Cisco Systems for a systems engineer position. I was customer-facing, creating IT Server 1 192.168.10.50 Server 2 HQ-AP-1 HQ-Core-Sw1 192.168.110.1 HQ-Access-Sw1 192.168.110.241 HQ-Access-Sw2 192.168.110.242 HQ Networks: VLAN 100 (Mgmt): 192.168.110.0/24 VLAN 192 (Data): 192.168.10.0/24 VLAN 10 (Voice): 10.10.10.0/24 VLAN 172 (Guest): 172.16.10.0/24 B-2 Networks: VLAN 100 (Mgmt): 192.168.130.0/24 VLAN 192 (Data): 192.168.30.0/24 VLAN 10 (Voice): 10.10.30.0/24 B-1 Networks: VLAN 100 (Mgmt): 192.168.120.0/24 VLAN 192 (Data): 192.168.20.0/24 VLAN 10 (Voice): 10.10.20.0/24 HQ-Access-Sw3",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Networks",
+      "content_type": "Example",
+      "reference_link": "https://drive.google.com/file/d/14CzY-daGNilir8kNln43Tsm73D-I_YxC/view?usp=sharing",
+      "source_type": "Book"
+    }
+  },
+  {
+    "chunk_id": "chunk_19",
+    "text": "192.168.120.0/24 VLAN 192 (Data): 192.168.20.0/24 VLAN 10 (Voice): 10.10.20.0/24 HQ-Access-Sw3 192.168.110.243 HQ-AP-2 HQ-Voice 10.10.10.10 HQ-Core-Sw2 192.168.110.2 Network Topology Internet Private PSTN Branch 2 Branch 1 HQ-INET-RTR 192.168.110.253 B2-RTR 192.168.130.1 B2-SW1 192.168.130.254 B1-RTR 192.168.120.1 B1-SW1 192.168.120.254 B1-AP-1 HQ-WAN-RTR 192.168.110.254 HSRP 192.168.110.100 Headquarters",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Network",
+      "content_type": "Example",
+      "reference_link": "https://drive.google.com/file/d/14CzY-daGNilir8kNln43Tsm73D-I_YxC/view?usp=sharing",
+      "source_type": "Book"
+    }
+  },
+  {
+    "chunk_id": "chunk_20",
+    "text": "The Ultimate IT Professional Blueprint solutions for some of Cisco’s biggest clients on the Gulf Coast. At this point, you will have limitless options because you now have in-demand skills to understand new IT trends, quickly grasp technology, and design IT solu - tions to solve business problems. I call this the stage of stability because you are set for life. Y ou can stay here and retire comfortably with a stable, high-demand job and complete job security. Just remember that to reach this stage you will want to go work for a tech manufacturer like Cisco, Amazon, Palo Alto Networks, Dell, Splunk, or Zoom, or at a reseller who sells these solutions (value-added resellers [V ARs]). I call the tech compa- nies the major leagues and the resellers the minor leagues. This is you jumping from",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career",
+      "content_type": "Advice",
+      "reference_link": "https://drive.google.com/file/d/14CzY-daGNilir8kNln43Tsm73D-I_YxC/view?usp=sharing",
+      "source_type": "Book"
+    }
+  },
+  {
+    "chunk_id": "chunk_21",
+    "text": "tech compa- nies the major leagues and the resellers the minor leagues. This is you jumping from the customer side to the client/consulting side of the house, which pays the big bucks! My recommendation is always to get to Stage 5 and try to join the major leagues, as I did working for Cisco Systems and Arista Networks in my career. Both are amazing companies; I could have simply retired if I hadn’t decided to pursue starting my own business. If you still want to move up the ranks, you could turn your years of working on IT projects into a consulting career. This could once again double your income, but keep in mind that the next step is not for every - one. There’s nothing wrong with staying at the $180,000–$250,000 level as long as you love what you do! Stage 6: Stability—Expert",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career Advancement",
+      "content_type": "Advice",
+      "reference_link": "https://drive.google.com/file/d/14CzY-daGNilir8kNln43Tsm73D-I_YxC/view?usp=sharing",
+      "source_type": "Book"
+    }
+  },
+  {
+    "chunk_id": "chunk_22",
+    "text": "staying at the $180,000–$250,000 level as long as you love what you do! Stage 6: Stability—Expert Consultant ($250,000–$500,000) At this stage of my career, I got burnt out being a systems engineer/ architect doing the same projects over and over again. I wanted to step into a consulting role, and that is when I joined Arista Networks. Arista was competing with Cisco Systems and taking market share away from them with innovative data center switching technologies that powered the data",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Career",
+      "content_type": "Story",
+      "reference_link": "https://drive.google.com/file/d/14CzY-daGNilir8kNln43Tsm73D-I_YxC/view?usp=sharing",
+      "source_type": "Book"
+    }
+  },
+  {
+    "chunk_id": "chunk_23",
+    "text": "centers for eBay, Amazon, Facebook, and many more of the top giants in Silicon Valley. At Arista, I was able to secure the job title of technical account manager with a six-figure salary and the ability to earn hundreds of thousands of dollars in commissions. I was in charge of a big territory in Atlanta, and I was super excited about this role due to its potential to earn up to $500,000 or even higher. This is the stage where you can also start your own consulting practice. In fact, this is the stage where the instructor for our Cloud/ DevOps Engineering program went from earning $10,000 monthly to $40,000 monthly by becoming a consultant and eventually starting his own consulting business. Stage 7: Start Your Own IT Business At this stage I was already 15 years into my career and wanted",
+    "metadata": {
+      "domain": "IT",
+      "topic": "IT Business",
+      "content_type": "Example",
+      "reference_link": "https://drive.google.com/file/d/14CzY-daGNilir8kNln43Tsm73D-I_YxC/view?usp=sharing",
+      "source_type": "Book"
+    }
+  },
+  {
+    "chunk_id": "chunk_24",
+    "text": "Stage 7: Start Your Own IT Business At this stage I was already 15 years into my career and wanted to break out. In fact, I had done this twice—once in 2013 at the peak of my career at Cisco Systems earning $200,000, I thought “Is this it?” Then I got the start-up/entrepreneur bug, and I quit my corporate job to build a start-up and get venture backing. For two years, with four co-founders, we started CheckAction, a cloud-based project management app for IT teams. The concept was great, but learning how to launch, scale, and grow our own IT software business was scary and daunting. But I decided to jump ship any- way and so I did. After two years, the start-up had massively failed, but we did get into the Atlanta Tech Village’s incubator and received $120,000 in funding. We were the first",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Start Own",
+      "content_type": "Story",
+      "reference_link": "https://drive.google.com/file/d/14CzY-daGNilir8kNln43Tsm73D-I_YxC/view?usp=sharing",
+      "source_type": "Book"
+    }
+  },
+  {
+    "chunk_id": "chunk_25",
+    "text": "get into the Atlanta Tech Village’s incubator and received $120,000 in funding. We were the first start-up to be accepted into their program. But eventually we ran out of cash, and I had to go back into the corporate world. But due to my high-demand IT project management and engineer- ing skills, I was able to get multiple six-figure job offers from companies within a couple of months. However, after two years in the field again,",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career",
+      "content_type": "Story",
+      "reference_link": "https://drive.google.com/file/d/14CzY-daGNilir8kNln43Tsm73D-I_YxC/view?usp=sharing",
+      "source_type": "Book"
+    }
+  },
+  {
+    "chunk_id": "chunk_26",
+    "text": "The Ultimate IT Professional Blueprint while at Arista Networks, I got this burning desire to impact the education system and change the world! This is when the idea of Zero to Engineer came about. I knew the col- lege education system was broken because all my clients from Cisco and Arista Networks would tell me how bad they needed some competent engineers and that the college applicants were often incompetent and lacked hands-on experience. Plus, given that I’ d trained thousands of young flight personnel as a technical instructor on Keesler Air Force Base with a top-secret clearance, I knew that it was possible to train people in months to support mission-critical networks and cybersecurity operations. This is the framework we’ve implemented with our job readiness training mod - ules",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Blueprint",
+      "content_type": "Framework",
+      "reference_link": "https://drive.google.com/file/d/14CzY-daGNilir8kNln43Tsm73D-I_YxC/view?usp=sharing",
+      "source_type": "Book"
+    }
+  },
+  {
+    "chunk_id": "chunk_27",
+    "text": "operations. This is the framework we’ve implemented with our job readiness training mod - ules inside NGT Academy, paired with capstone IT projects that get people job ready as an engineer in 4 months and not 4 years. Colleges do not cre- ate the curriculum for you to be job ready—courses are mainly based on concepts, theories, and memorizations, whereas I knew from experience and having worked in the field for 15+ years that you truly level up through hands-on training and mentorship. The year was 2016, and a for-profit college named ITT Tech Institute was shut down by the government education department, leaving 43,000 students stranded. This was bound to happen due to the false promises these types of colleges advertise in their late-night commercials charging students $85,000 for a",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Job Readiness",
+      "content_type": "Story",
+      "reference_link": "https://drive.google.com/file/d/14CzY-daGNilir8kNln43Tsm73D-I_YxC/view?usp=sharing",
+      "source_type": "Book"
+    }
+  },
+  {
+    "chunk_id": "chunk_28",
+    "text": "these types of colleges advertise in their late-night commercials charging students $85,000 for a network or cyber bachelor’s degree. I’ d thought this was a scam as I knew there was a faster, cheaper, efficient way to learn and gain hands-on skills training. This is when NGT Academy was born, and the rest is history. Fast-forward nine years in building and changing lives every day at NGT Academy . . . People are starting to see the truth. The truth is you don’t need to go to college to be successful in tech, and you sure don’t need to pay some college $85,000 to flip a coin to see if you get a job after 4 years. This is why I started NGT Academy—to provide every American who wants to switch careers to information technology to be able to do so in",
+    "metadata": {
+      "domain": "IT",
+      "topic": "College",
+      "content_type": "Story",
+      "reference_link": "https://drive.google.com/file/d/14CzY-daGNilir8kNln43Tsm73D-I_YxC/view?usp=sharing",
+      "source_type": "Book"
+    }
+  },
+  {
+    "chunk_id": "chunk_29",
+    "text": "months and not years, and do it cheaper, faster, and more efficiently than any college or university could. The choice is yours: 4 months or 4 years? CONCLUSION My journey from $28,000 to over $350,000 is a testament to the power of the Ultimate IT Professional Blueprint. By following its principles and strate - gies, I was able to transform my career and build a successful business from the ground up. I hope my story inspires you to take charge of your own career and achieve your dreams. Remember, with the right mindset, clear goals, continuous learning using Kaizen principles, and perseverance, any- thing is possible! The Zero to Engineer movement is here to stay. Will you join us? “The man who thinks he can and the man who thinks he can’t are both right. ” — Henry Ford",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career",
+      "content_type": "Story",
+      "reference_link": "https://drive.google.com/file/d/14CzY-daGNilir8kNln43Tsm73D-I_YxC/view?usp=sharing",
+      "source_type": "Book"
+    }
+  },
+  {
+    "chunk_id": "chunk_30",
+    "text": "CHAPTER TWELVE STUDENT SUCCESS STORIES “You miss 100% of the shots you don’t take. ” — Wayne Gretzky INTRODUCTION I want to give you just a few super powerful success stories of NGT gradu- ates that show what dedication, a strong foundation, and focused training can give you in the IT ecosystem. These stories, diverse as they are, under- score a common thread: Achieving personal and professional goals hinges not on where you start from, but on what decisions you make to get there. With the right mindset and support, anyone can break into this dynamic field. Each story shows you how all the concepts and strategies we’ve discussed translate into getting that six-figure salary . . . and beyond! These students are the real-world examples of people just like you, so take this opportunity to\n\nThese students are the real-world examples of people just like you, so take this opportunity to reflect on your own path and identify what resonates with you.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Student Success",
+      "content_type": "Story",
+      "reference_link": "https://drive.google.com/file/d/14CzY-daGNilir8kNln43Tsm73D-I_YxC/view?usp=sharing",
+      "source_type": "Book"
+    }
+  },
+  {
+    "chunk_id": "chunk_31",
+    "text": "As I’ve shown, it doesn’t take 4 years of college and a fancy degree, but just 4 months of dedication, hands-on training, mentorship, and the right projects and labs to build the competency to get you job-ready to start your career. The path from Zero to Engineer is not one you take alone. NGT Academy is here for you. We’ve trained thousands of students, taking them from Zero to Engineer. Jacob Hess, my co-founder and I, have trained thousands IT engineers as civilians and for the U.S. military, both holding Top Secret clearances and working in the IT career field for over 40 years combined. For our military students, we taught them to go from Zero to Engineer in just 16 weeks. So, yes, you can do it too. At NGT Academy, we’ve taken everything in this book and condensed it into a 16-week",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Zero to Engineer",
+      "content_type": "Advice",
+      "reference_link": "https://drive.google.com/file/d/14CzY-daGNilir8kNln43Tsm73D-I_YxC/view?usp=sharing",
+      "source_type": "Book"
+    }
+  },
+  {
+    "chunk_id": "chunk_32",
+    "text": "can do it too. At NGT Academy, we’ve taken everything in this book and condensed it into a 16-week program. By having this book, you are lightyears ahead of the curve, but only you can decide how quickly you get it done. SUCCESS STORIES Here are some stories that I hope will inspire you to take the leap of faith to build an amazing career for yourself, your family, and your loved ones. When you do, you’ll reach financial freedom by working on the latest tech- nologies and finding the ones that you’re truly passionate about. Kevin Lee Before: Art Gallery Manager — After: Network Engineer I want to start with Kevin Lee, who was in one of our first programs. Kevin joined NGT Academy in the first year we launched our training school. I remember Kevin distinctly because like me, he is a Korean",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Success Stories",
+      "content_type": "Story",
+      "reference_link": "https://drive.google.com/file/d/14CzY-daGNilir8kNln43Tsm73D-I_YxC/view?usp=sharing",
+      "source_type": "Book"
+    }
+  },
+  {
+    "chunk_id": "chunk_33",
+    "text": "Student Success Stories American and a first-generation immigrant who migrated to the United States in high school. His English was rather poor with a heavy accent, and he was working in New York as a project manager for an art gallery. Despite having student loan debt and a college degree, he didn’t want to return to college. He joined our program with little knowledge about the industry but with a burning desire to break into technology. With these language and financial challenges, I want to share with you that if Kevin could make it, you too can go from Zero to Engineer by following the blueprint. Kevin Lee completed our program in under 90 days. He secured a paid internship making $15 an hour, and after two months, landed an associate network engineer position. He achieved this title",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Success Stories",
+      "content_type": "Story",
+      "reference_link": "https://drive.google.com/file/d/14CzY-daGNilir8kNln43Tsm73D-I_YxC/view?usp=sharing",
+      "source_type": "Book"
+    }
+  },
+  {
+    "chunk_id": "chunk_34",
+    "text": "hour, and after two months, landed an associate network engineer position. He achieved this title within five months of starting his career from scratch and earned $45,000 per year. Now, fast-forward: One year later, he scored his dream job at Sam - sung, pulling in six figures in record time! That’s Kevin Lee’s story, but it could also be yours. Fast-forward again, five-plus years later, and he’s managing Samsung’s Wide Area Infrastructure team. Chase Mitchell Before: Unemployed — After: DevOps Engineer Next up is Chase Mitchell. Chase stumbled upon one of our Zero to Engineer ads while he was in the hospital, laid off and unemployed. Before that, he was a campaign manager for a politician in Texas. Saddled with tens of thousands of dollars in student loan debt and holding a bachelor’s",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career",
+      "content_type": "Story",
+      "reference_link": "https://drive.google.com/file/d/14CzY-daGNilir8kNln43Tsm73D-I_YxC/view?usp=sharing",
+      "source_type": "Book"
+    }
+  },
+  {
+    "chunk_id": "chunk_35",
+    "text": "in Texas. Saddled with tens of thousands of dollars in student loan debt and holding a bachelor’s degree in IT, Chase couldn’t seem to break into the industry. He lacked confidence and hands-on train- ing and had all but given up on his IT career. But after joining our program, within five months, we helped him secure a Cisco analyst position, earning",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career",
+      "content_type": "Story",
+      "reference_link": "https://drive.google.com/file/d/14CzY-daGNilir8kNln43Tsm73D-I_YxC/view?usp=sharing",
+      "source_type": "Book"
+    }
+  },
+  {
+    "chunk_id": "chunk_36",
+    "text": "$40,000 a year. Just 11 months later, he was promoted to a data center net- work engineer position, raking in $90,000 and achieving one of his major goals—working from home. Fast-forward three years, and Chase landed his dream job at Amazon as a DevOps engineer! Makeia Jackson Before: Stay-at-Home Mom — After: Cybersecurity Technician Makeia’s story is a powerful testament to the trans- formative potential of our program. Despite a long-standing aspiration to become a cyber secu - rity professional, she continually dismissed it as an unrealistic goal. Not only did she feel it would cost too much, but as a stay-at-home mom, she did not feel she had the ability to attend classes. She had a personal epiphany during the COVID-19 lockdown. Makeia found herself grappling with a sense of",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career Advancement",
+      "content_type": "Story",
+      "reference_link": "https://drive.google.com/file/d/14CzY-daGNilir8kNln43Tsm73D-I_YxC/view?usp=sharing",
+      "source_type": "Book"
+    }
+  },
+  {
+    "chunk_id": "chunk_37",
+    "text": "a personal epiphany during the COVID-19 lockdown. Makeia found herself grappling with a sense of unfulfillment and isolation and decided it was time to make a change. She enrolled in our comprehensive training program and embarked on an extraordinary journey of profes - sional development. In a remarkably short span of just seven months, she successfully tran- sitioned from being an unemployed stay-at-home parent to becoming a highly skilled cybersecurity specialist. The culmination of her hard work and determination was the attainment of an impressive $72,000 annual sal- ary in her very first job within the industry. Makeia’s story exemplifies the empowering impact of accessible train- ing with accelerated training pathways demonstrating how this program can profoundly change the lives\n\nwith accelerated training pathways demonstrating how this program can profoundly change the lives of anyone with nerve, grit, and tenacity who want to strive to reach their full potential.",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "CareerChange",
+      "content_type": "Story",
+      "reference_link": "https://drive.google.com/file/d/14CzY-daGNilir8kNln43Tsm73D-I_YxC/view?usp=sharing",
+      "source_type": "Book"
+    }
+  },
+  {
+    "chunk_id": "chunk_38",
+    "text": "Student Success Stories Chris Mendez Before: IT Support Specialist — After: Network Engineer Chris Mendez’s journey from a frustrating entry- level IT role to a fulfilling career is an inspiring one. His story resonates with many trapped in positions that don’t align with their aspirations or utilize their full potential. When Chris joined our program, he was working in a role that left him feeling unfulfilled and anxious. His days were filled with mundane tasks and constant firefighting, dealing with a variety of issues from server problems to printer malfunctions. The relentless cycle of putting out fires created a high-stress environment that was taking its toll on his well-being. Chris felt stuck in this position for years until he found our program. We helped him transition to a",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career",
+      "content_type": "Story",
+      "reference_link": "https://drive.google.com/file/d/14CzY-daGNilir8kNln43Tsm73D-I_YxC/view?usp=sharing",
+      "source_type": "Book"
+    }
+  },
+  {
+    "chunk_id": "chunk_39",
+    "text": "felt stuck in this position for years until he found our program. We helped him transition to a network engineer position within six months, and he received a massive 50 percent salary increase right out of the gate. After attending one of our programs, Chris’s career was remarkable. He successfully transitioned from his entry-level job to a position as a network engineer. The career leap not only provided Chris with more challenging and fulfilling work but also came with a substantial sal - ary increase. Today, he enjoys working as a network specialist supporting a large metropolitan city in California. He has not only improved his professional life, but also his overall well-being.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career Leap",
+      "content_type": "Story",
+      "reference_link": "https://drive.google.com/file/d/14CzY-daGNilir8kNln43Tsm73D-I_YxC/view?usp=sharing",
+      "source_type": "Book"
+    }
+  },
+  {
+    "chunk_id": "chunk_40",
+    "text": "Kayla Hendren Before: Security Officer — After: Working in Cybersecurity for Department of Homeland Security Fresh out of college, Kayla was determined to make a difference with her degree in Homeland Security and Emergency Management. Working as a security guard, she felt a yearning for more and sought advice from family and mentors. They suggested expanding her skills into cybersecurity, and she found the perfect program at NGT. After applying for many jobs and speaking with her family, she decided that going back to school to gain skills in cybersecurity would be a great step in her career. She found that NGT fit exactly what she was looking for and hit the ground running, gaining her certifications from NGT and CompTIA. W i t h i n o n e m o n t h o f g a i n i n g h e r S e c u r i t",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career Change",
+      "content_type": "Story",
+      "reference_link": "https://drive.google.com/file/d/14CzY-daGNilir8kNln43Tsm73D-I_YxC/view?usp=sharing",
+      "source_type": "Book"
+    }
+  },
+  {
+    "chunk_id": "chunk_41",
+    "text": "from NGT and CompTIA. W i t h i n o n e m o n t h o f g a i n i n g h e r S e c u r i t y + C e r t i f i c a t i o n , K a y l a f u l - filled her dream of working for the U.S. Department of Homeland Secu- rity. Finally, all her hard work and dedication has paid off. Even after achieving her dream, Kayla has continued her education with NGT, striv- ing for even greater heights. Her journey exemplifies the power of perse- verance and the importance of setting goals, inspiring others to follow their dreams. Keron Taylor Before: Chemical Operator — After: Network Engineer Let’s talk about Keron Taylor, whose story is noth- ing short of incredible. Keron was working as a forklift driver in a chemical plant. He had dropped out of college, frustrated by the lack of hands-on",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career",
+      "content_type": "Story",
+      "reference_link": "https://drive.google.com/file/d/14CzY-daGNilir8kNln43Tsm73D-I_YxC/view?usp=sharing",
+      "source_type": "Book"
+    }
+  },
+  {
+    "chunk_id": "chunk_42",
+    "text": "Student Success Stories learning, and was shouldering around $25,000 in student loans. He knew that college didn’t help with his learning style, as he needed practical, hands-on experience. Keron had almost given up on his IT aspirations until a turning point—he saw his friend, a fellow forklift driver, get laid off because an automated robot replaced him. It hit him like a ton of bricks; technology was advancing so quickly that it literally took his friend’s job. He realized he needed to dive into the tech world immediately. We guided Keron through NGT Academy, and within five months, he secured a position as a data center operations engineer. His enthusiasm was infectious, and I remember telling him that this was just the begin - ning. When I asked him about his dream job, he said it was",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Student Success",
+      "content_type": "Story",
+      "reference_link": "https://drive.google.com/file/d/14CzY-daGNilir8kNln43Tsm73D-I_YxC/view?usp=sharing",
+      "source_type": "Book"
+    }
+  },
+  {
+    "chunk_id": "chunk_43",
+    "text": "him that this was just the begin - ning. When I asked him about his dream job, he said it was to work for Google. We set that as a goal for the next 12 months. But guess what? Within just six months, Keron’s competence and experience impressed a Google manager so much during an interview that he got a job offer on the spot to join as a network engineer—no college degree required. Three years later, Keron is now managing the network engineering team at Google. Truly an awe-inspiring story! Keron’s motivation stemmed from his wakeup call—those pivotal moments in life that compel us to act. My wakeup call was Hurricane Katrina, which left me unemployed and tasked with supporting my fam - ily of four. Keron had to care for his family of five when he found himself unemployed due to a work",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Career",
+      "content_type": "Story",
+      "reference_link": "https://drive.google.com/file/d/14CzY-daGNilir8kNln43Tsm73D-I_YxC/view?usp=sharing",
+      "source_type": "Book"
+    }
+  },
+  {
+    "chunk_id": "chunk_44",
+    "text": "of four. Keron had to care for his family of five when he found himself unemployed due to a work injury and seeing his friend replaced by automation. So, what’s your wakeup call? Life changes pivot on two things: desper- ation or inspiration. Whether your back is against the wall, or you’re fueled by the stories you’re reading, I urge you to make your choice. Know that if Keron could do it, you can too.",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Wakeup Call",
+      "content_type": "Advice",
+      "reference_link": "https://drive.google.com/file/d/14CzY-daGNilir8kNln43Tsm73D-I_YxC/view?usp=sharing",
+      "source_type": "Book"
+    }
+  },
+  {
+    "chunk_id": "chunk_45",
+    "text": "Andy Pratt Before: Network Administrator — After: Systems Engineer Next is Andy Pratt. Andy was actually already in IT as a network administrator. As I’ve mentioned, people get stuck in these entry-level roles where they’re not making much money. In Andy’s case, even though he was a U.S. Air Force veteran, he was stuck at $50,000 for a few years. But with a family of four, he knew something had to change. I helped coach and mentor Andy with our program and got him to $90,000 within just three months using the same blueprint you have been given in this book. By working on getting a promotion using Step 2 from Chapter 8 he was able to get a 50 percent pay bump within 90 days and landed a full-time contract position at NASA as a network engineer, using Step 5 from Chapter 8 and securing that",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career Advancement",
+      "content_type": "Example",
+      "reference_link": "https://drive.google.com/file/d/14CzY-daGNilir8kNln43Tsm73D-I_YxC/view?usp=sharing",
+      "source_type": "Book"
+    }
+  },
+  {
+    "chunk_id": "chunk_46",
+    "text": "contract position at NASA as a network engineer, using Step 5 from Chapter 8 and securing that engineer job title. It was as simple as having to work on getting away from the network admin title and securing the engineer title. That’s what we helped him do in just 90 days. And then, 10 months later, Andy broke into a systems engineer role, earning over $150,000 working for Riot Games, where he could work from home five days a week. This was a huge goal of his because his spouse was active-duty military, and so he needed to be able to move around if she was stationed some - where else. He still works at Riot Games, but his dreams have come true, and he’s blown past $200,000 as a systems engineer.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career",
+      "content_type": "Story",
+      "reference_link": "https://drive.google.com/file/d/14CzY-daGNilir8kNln43Tsm73D-I_YxC/view?usp=sharing",
+      "source_type": "Book"
+    }
+  },
+  {
+    "chunk_id": "chunk_47",
+    "text": "Student Success Stories Ashley Cook Before: Teacher — A fter: Cloud Support Engineer at AWS Just like the military, Ashley sets high expectations for herself and the people around her. She is a strongly educated professional who focuses on constant growth and improvement throughout her career. Before NGT, she had a 15+-year career in education and multi- ple degrees to show for it. As time passed, Ashley noticed significant shifts in the public school system that troubled her. Recognizing the need for change, she decided it was time to reinvent her career. Transitioning into IT felt like a natural step, aligning with her desire for new challenges and opportunities. At NGT, Ashley set ambitious goals for herself, viewing the program as a stepping stone to her future success. She approached",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Career",
+      "content_type": "Story",
+      "reference_link": "https://drive.google.com/file/d/14CzY-daGNilir8kNln43Tsm73D-I_YxC/view?usp=sharing",
+      "source_type": "Book"
+    }
+  },
+  {
+    "chunk_id": "chunk_48",
+    "text": "goals for herself, viewing the program as a stepping stone to her future success. She approached her training with determination, earning credentials and receiving recognition for her hard work. Her efforts paid off when she secured a coveted position as a cloud support engineer at AWS. This role marks just the beginning of Ashley’s journey in IT, and there’s no doubt she will continue to thrive and evolve in her new career path. Karl Scott Before: Bicycle Delivery in New York — After: Cybersecurity Analyst Consultant For almost 10 years, Karl struggled in the user and digital experience field. He found himself, at 60 years old, running errands on a bike in New Y ork",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career",
+      "content_type": "Story",
+      "reference_link": "https://drive.google.com/file/d/14CzY-daGNilir8kNln43Tsm73D-I_YxC/view?usp=sharing",
+      "source_type": "Book"
+    }
+  },
+  {
+    "chunk_id": "chunk_49",
+    "text": "City, earning about $15 per hour and working any freelance web develop- ment job he could find. After connecting with NGT, Karl leveraged the Zero to Engineer blue- print to transform his life. Within nine months, he started working for Accenture, a top-tier consulting company. His starting salary was over $101,000, going from Zero to Engineer with a six-figure starting salary right out the gate! If he can do it, so can you. Hilda Tackie Before: Certified Nursing Assistant (CNA) — After: IT Engineer Hilda’s journey from healthcare to IT is a testa- ment to her resilience and determination. She was in the healthcare industry for four years, working tirelessly, assisting nurses in a hospital. For the people who don’t know, this is a strenuous and usually unappreciated role. Nonetheless,",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career",
+      "content_type": "Story",
+      "reference_link": "https://drive.google.com/file/d/14CzY-daGNilir8kNln43Tsm73D-I_YxC/view?usp=sharing",
+      "source_type": "Book"
+    }
+  },
+  {
+    "chunk_id": "chunk_50",
+    "text": "For the people who don’t know, this is a strenuous and usually unappreciated role. Nonetheless, Hilda put in the work every day. Hilda tried a few different ways to study in IT on her own, such as earning a Scrum Master certification. None of this training worked for her and didn’t feel like it was getting closer to her goal. After over a year of contemplation, she finally made the decision to jump all into IT and enrolled in NGT. What drew Hilda to NGT Academy was its clear pathway to success. The program outlined everything from foundational concepts to landing her first job, giving her a sense of direction. As Hilda began working through training, her confidence and excitement for the industry grew. She can finally see herself getting closer to her goals and into a new career. Just",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career Change",
+      "content_type": "Story",
+      "reference_link": "https://drive.google.com/file/d/14CzY-daGNilir8kNln43Tsm73D-I_YxC/view?usp=sharing",
+      "source_type": "Book"
+    }
+  },
+  {
+    "chunk_id": "chunk_51",
+    "text": "industry grew. She can finally see herself getting closer to her goals and into a new career. Just months after graduating and earning her certifications, Hilda achieved her goal—securing her first role as an IT engineer. All the hard",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career",
+      "content_type": "Story",
+      "reference_link": "https://drive.google.com/file/d/14CzY-daGNilir8kNln43Tsm73D-I_YxC/view?usp=sharing",
+      "source_type": "Book"
+    }
+  },
+  {
+    "chunk_id": "chunk_52",
+    "text": "Student Success Stories work she had invested finally paid off, marking the beginning of a fulfilling new chapter in her professional life. Jon Mallory Before: Pharmaceutical Researcher — After: Network Security Engineer I’ d like to introduce Jon Mallory, a 31-year-old res- ident of Nashville, Tennessee. Jon now proudly holds the position of a network security engineer with CDW Corp. But the journey to this point in his life was far from easy. Jon’s older brother Jeffrey is on the autism spectrum. This condition presents various social challenges, which unfortunately led Jeffrey to become a victim of an IRS phone scam a few years ago. Jeffrey lost thou - sands of dollars in this scam, and this incident deeply affected Jon. He was upset and angry. It spurred him on to delve into the world",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Success Stories",
+      "content_type": "Story",
+      "reference_link": "https://drive.google.com/file/d/14CzY-daGNilir8kNln43Tsm73D-I_YxC/view?usp=sharing",
+      "source_type": "Book"
+    }
+  },
+  {
+    "chunk_id": "chunk_53",
+    "text": "incident deeply affected Jon. He was upset and angry. It spurred him on to delve into the world of cybersecurity, hoping to combat such instances of fraud and identity theft. Before this, Jon was employed in a drug testing lab in Nashville, a job that did not fulfill him. He believed there was more he could achieve. After some research, he discovered the vast realm of cybersecurity careers, but he was unsure of which path to pursue. As fate would have it, while browsing Instagram after one day at work, he stumbled upon an ad featuring Jacob Hess’s welcoming face, promoting an NGT course. Intrigued, Jon delved deeper, realizing that our platform was professional and that we genuinely cared about our teaching. Jon decided to join the course, appreciating the structured approach and, above",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Career Change",
+      "content_type": "Story",
+      "reference_link": "https://drive.google.com/file/d/14CzY-daGNilir8kNln43Tsm73D-I_YxC/view?usp=sharing",
+      "source_type": "Book"
+    }
+  },
+  {
+    "chunk_id": "chunk_54",
+    "text": "about our teaching. Jon decided to join the course, appreciating the structured approach and, above all, the continuous support provided throughout the program. The mentors were a lifeline for him. He worked with the NGT team for a year when an exciting opportunity presented itself. The Career Services",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Teaching",
+      "content_type": "Story",
+      "reference_link": "https://drive.google.com/file/d/14CzY-daGNilir8kNln43Tsm73D-I_YxC/view?usp=sharing",
+      "source_type": "Book"
+    }
+  },
+  {
+    "chunk_id": "chunk_55",
+    "text": "department informed him about the launch of a new cybersecu - rity program. At the same time, a job opportunity in a data center surfaced. After a moment of consideration, Jon decided to pursue both opportunities, understanding that the data center job would offer hands-on experience, complementing his recent cybersecurity learning. Jon landed his first IT job with IES Communications at the data center, and he stayed there for almost a year until Bobby from NGT Academy presented him with an incredible opportunity at CWS. John seized the opportunity. He was offered a position in network security, a field he had prepared for with his recent certifications. Securing the job brought him more ful - fillment than he ever dreamed. The prospect of working remotely, avoiding the commute into",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Cybersecurity",
+      "content_type": "Story",
+      "reference_link": "https://drive.google.com/file/d/14CzY-daGNilir8kNln43Tsm73D-I_YxC/view?usp=sharing",
+      "source_type": "Book"
+    }
+  },
+  {
+    "chunk_id": "chunk_56",
+    "text": "ful - fillment than he ever dreamed. The prospect of working remotely, avoiding the commute into Nashville every day, made it even better. The new job not only presented a fulfilling career but also led to a huge salary hike. Jon’s income increased by 100 percent from his healthcare job and 50 percent from the data center position. The financial stability allowed him to clear debts, upgrade his vehicle, and even save for a down payment on a house. Joe Cabezuela Before: U.S. Army Officer — After: Network Engineer Meet Joe, a man deeply passionate about his work in IT. For him, the first IT job was all about prov- ing himself, demonstrating his knowledge and making a mark. After graduating with a bachelor’s degree in technical communication, Joe felt ready to enter the IT industry. However,\n\na bachelor’s degree in technical communication, Joe felt ready to enter the IT industry. However, he soon realized the field required more",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career",
+      "content_type": "Story",
+      "reference_link": "https://drive.google.com/file/d/14CzY-daGNilir8kNln43Tsm73D-I_YxC/view?usp=sharing",
+      "source_type": "Book"
+    }
+  },
+  {
+    "chunk_id": "chunk_57",
+    "text": "Student Success Stories practical experience and certifications. Following graduation, Joe enlisted in the U.S. Army, searching for a clean, technical role that offered a sense of community and purpose. After a decade in service, the long, grueling hours began to take a toll on him. When he was notified he’ d be given a medical retirement, it came as a blow. But Joe saw the silver lining. If he couldn’t serve actively, he could still contribute as a civilian, perhaps as a network engineer for a contractor or a Department of Defense employee. This is when NGT Academy came into the picture. Joe got in touch with us, did his due diligence, and his decision was met with complete support from his Army chain of command and his spouse. Together they understood that our program was a steppingstone",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Student Success",
+      "content_type": "Story",
+      "reference_link": "https://drive.google.com/file/d/14CzY-daGNilir8kNln43Tsm73D-I_YxC/view?usp=sharing",
+      "source_type": "Book"
+    }
+  },
+  {
+    "chunk_id": "chunk_58",
+    "text": "Army chain of command and his spouse. Together they understood that our program was a steppingstone to a promising civilian life after the military. The program helped Joe catch up on past skills and learn new ones for the future, reinforcing his confidence and self-assurance. After graduation, Joe realized how much the program’s projects and network upgrades mirrored his current work. When in doubt, he would refer to NGT program labs, revisit lesson plans, and brush up his skills to tackle real-world troubleshooting issues. He made it clear that NGT Academy’s confidence in its students, our job placement support, and especially the mock interview sessions were immensely helpful. Joe found himself in a better place in life, primarily working from home, traveling occasionally, and most",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career",
+      "content_type": "Story",
+      "reference_link": "https://drive.google.com/file/d/14CzY-daGNilir8kNln43Tsm73D-I_YxC/view?usp=sharing",
+      "source_type": "Book"
+    }
+  },
+  {
+    "chunk_id": "chunk_59",
+    "text": "himself in a better place in life, primarily working from home, traveling occasionally, and most importantly, doing what he loved. His wife shared that the completion of the program was a turning point for Joe. It resulted in multiple job offers that allowed him to work from home. Now, the couple didn’t have to worry about military drills or deploy- ments, having more time to relax and enjoy their life together. In Joe’s words, “Thanks to NGT Academy, I’m working a job as a net- work engineer that allows me to spend more time with my family while at the same time get to travel and grow in my position. ”",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Career",
+      "content_type": "Story",
+      "reference_link": "https://drive.google.com/file/d/14CzY-daGNilir8kNln43Tsm73D-I_YxC/view?usp=sharing",
+      "source_type": "Book"
+    }
+  },
+  {
+    "chunk_id": "chunk_60",
+    "text": "Iris Colon Before: Insurance Sales — After: NOC Technician Iris Colon went from selling insur- ance to working as a network opera - tions center (NOC) technician. She had zero knowledge about technology when she joined NGT , a life-changing opportunity she found while scrolling Facebook. Unsatisfied with her career in insurance sales, Iris always had an interest in technology. She loved setting up her home network and other similar tasks. It was her affinity for technology that led her to click on our NGT ad. The program became a gateway to a new life. One day, Iris received an email from a company that had come across her profile on LinkedIn. They asked if she was still looking for a job and offered her a position as an NOC technician. The job interview went well, and she landed the",
+    "metadata": {
+      "domain": "IT",
+      "topic": "CareerChange",
+      "content_type": "Story",
+      "reference_link": "https://drive.google.com/file/d/14CzY-daGNilir8kNln43Tsm73D-I_YxC/view?usp=sharing",
+      "source_type": "Book"
+    }
+  },
+  {
+    "chunk_id": "chunk_61",
+    "text": "and offered her a position as an NOC technician. The job interview went well, and she landed the position. On her first day on the job, Iris’s competence made an impression. Her new colleagues noted that she answered questions in a way many senior engineers wouldn’t have been able to. None of this would have been possible without NGT, from teaching her essential skills to preparing her to shine in the interview. We pro - vided her with the knowledge she needed and the confidence to pursue a career in a field she had always been passionate about. “I went into NGT at a lit- eral zero, and I knew abso- lutely nothing. And now, thanks to NGT, I found my niche in the job market. ” — Iris Colon",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career",
+      "content_type": "Story",
+      "reference_link": "https://drive.google.com/file/d/14CzY-daGNilir8kNln43Tsm73D-I_YxC/view?usp=sharing",
+      "source_type": "Book"
+    }
+  },
+  {
+    "chunk_id": "chunk_62",
+    "text": "Student Success Stories Travis Sanchez Before: Food Server — After: Network Administrator At just 18 years old, Travis Sanchez went from slinging spaghetti to building networks. Before joining, he faced the daily grind of a 35-minute commute to his job as a waiter, where he earned just below California’s average of $16 an hour. With the impending burden of attending college looming, Travis was feeling overwhelmed by the cost of tuition at this local community college, which is estimated at the lower end at $54,000 for an associate’s degree. He was on the cusp of completing his enrollment when he heard about NGT Academy. His discovery of NGT proved to be a game changer. Travis found the acad- emy’ s 4-month program much more appealing than the traditional college path. He joined NGT in",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Student Success",
+      "content_type": "Story",
+      "reference_link": "https://drive.google.com/file/d/14CzY-daGNilir8kNln43Tsm73D-I_YxC/view?usp=sharing",
+      "source_type": "Book"
+    }
+  },
+  {
+    "chunk_id": "chunk_63",
+    "text": "emy’ s 4-month program much more appealing than the traditional college path. He joined NGT in August 2023 and finished the Full Stack Network Associate level of the program by September of that year and his CCNA one month later. By January he secured a help desk job, and following the career path advice provided by NGT , soon advanced to a network administrator role. Not only did Travis make his career choice in months instead of years, but he now enjoys an average starting salary of $74,000—a significant leap from his earnings in the food service industry.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career",
+      "content_type": "Story",
+      "reference_link": "https://drive.google.com/file/d/14CzY-daGNilir8kNln43Tsm73D-I_YxC/view?usp=sharing",
+      "source_type": "Book"
+    }
+  },
+  {
+    "chunk_id": "chunk_64",
+    "text": "Tricia Sanchez Before: Unemployed — After: IT Project Manager Let me introduce you to Tricia. Tricia is nothing short of a hard worker and has been that way her entire life. Growing up on a farm, she was used to the daily physical and mental challenges that were pressed upon her. This helped shape her work ethic moving into her adult life. Prior to NGT in her adult life, she was a classically trained musician and educated with a master’s in fine arts. She worked over a decade in the events planning space primarily in the entertainment industry, working her way up to events services director, handling live concerts and events. Just like many people, COVID hit her industry hard and her job basically vanished overnight. She had some ups and downs in her field the next couple years but",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Career",
+      "content_type": "Story",
+      "reference_link": "https://drive.google.com/file/d/14CzY-daGNilir8kNln43Tsm73D-I_YxC/view?usp=sharing",
+      "source_type": "Book"
+    }
+  },
+  {
+    "chunk_id": "chunk_65",
+    "text": "job basically vanished overnight. She had some ups and downs in her field the next couple years but eventually decided she needed to make a change to a more reliable career path. That’s when she found NGT. Although she didn’t have an IT background, Tricia was no stranger to hard work. She started out with a bang in training and was able to land her first role as an IT project manager soon after gaining her Security+ certifi- cation with us. This role is an excellent starting point into IT for her and a way to leverage skills gained in training and in her past career. As expected, she continues to train with NGT, on her own and on the job to continue growing in her career.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career",
+      "content_type": "Story",
+      "reference_link": "https://drive.google.com/file/d/14CzY-daGNilir8kNln43Tsm73D-I_YxC/view?usp=sharing",
+      "source_type": "Book"
+    }
+  },
+  {
+    "chunk_id": "chunk_66",
+    "text": "Student Success Stories Jason Hoang Before: Private Tutor — After: Wireless Consulting Engineer Our next student, Jason, is a great example of growth in the industry. He came to NGT as a pri- vate tutor for math and science. Just like many teachers, he wasn’t making nearly enough money in the education field. Jason is very proactive and started studying in IT on his own, reading the Cisco CCNA book and studying for the Network+ certification. He realized quickly that he was missing the hands-on experience that would be needed for the field. As a beginner with no IT experience, he was drawn to NGT because of our training methodology that focuses on skills train- ing to prepare you for the job, just like Terry did in the military. Jason studied hard and graduated from NGT with hands-on",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Student Success",
+      "content_type": "Story",
+      "reference_link": "https://drive.google.com/file/d/14CzY-daGNilir8kNln43Tsm73D-I_YxC/view?usp=sharing",
+      "source_type": "Book"
+    }
+  },
+  {
+    "chunk_id": "chunk_67",
+    "text": "job, just like Terry did in the military. Jason studied hard and graduated from NGT with hands-on training and his CCNA certification. He soon was able to land his first IT role at CDW working as a wireless associate consulting engineer, doubling his pre- vious salary. Through hard work and continuing education, he was able to land a promotion to wireless consulting engineer and brought his salary over the six-figure threshold, all within two years. He’s direct proof that training with a plan will get you to your goals! Aneyah Wilson Before: Radiologic Technologist — A fter: Network Operations Engineer at Verizon Aneyah’s journey began in the healthcare field, where she earned a Bachelor of Science and an Associate’s degree in Radiography. This education",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career",
+      "content_type": "Example",
+      "reference_link": "https://drive.google.com/file/d/14CzY-daGNilir8kNln43Tsm73D-I_YxC/view?usp=sharing",
+      "source_type": "Book"
+    }
+  },
+  {
+    "chunk_id": "chunk_68",
+    "text": "paved the way for her first career as a Radiologic Technologist, where she worked night shifts in a hospital, handling X-rays and CT scans. After a few years in this demanding role, Aneyah began to seek a change. Her introduction to the world of IT came from a fellow coworker— a nurse who encouraged her to explore cybersecurity. Intrigued, Aneyah dove into research about the industry, discovering the vast job opportuni- ties, flexibility, and diverse career paths that IT had to offer. In August, she made a bold decision: it was time to take the plunge. While continuing her full-time night job, Aneyah dedicated her days to studying and pursuing her new career goals. Her hard work and commit - ment paid off when she secured her first role as a Network Operations Center (NOC) Engineer. But",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career Change",
+      "content_type": "Story",
+      "reference_link": "https://drive.google.com/file/d/14CzY-daGNilir8kNln43Tsm73D-I_YxC/view?usp=sharing",
+      "source_type": "Book"
+    }
+  },
+  {
+    "chunk_id": "chunk_69",
+    "text": "- ment paid off when she secured her first role as a Network Operations Center (NOC) Engineer. But Aneyah’s journey didn’t stop there. After a year and a half of demonstrating her dedication and strong work ethic, she earned a well- deserved promotion to the next level Engineer. These achievements are a testament to her determination and resilience—qualities that anyone who knows Aneyah would surely recognize. Roshode McQueen Before: Car Dealership Report Auditing — After: PCI DSS Cybersecurity With us from the beginning, Roshode joined NGT Academy in 2020. A distinguished Navy veteran, he obtained an NGT Cyber Security Associate cer- tificate in four months. His first job after he transi- tioned from the military was in governance, risk, and compliance (GRC), but he found himself stuck",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Career Advancement",
+      "content_type": "Story",
+      "reference_link": "https://drive.google.com/file/d/14CzY-daGNilir8kNln43Tsm73D-I_YxC/view?usp=sharing",
+      "source_type": "Book"
+    }
+  },
+  {
+    "chunk_id": "chunk_70",
+    "text": "tioned from the military was in governance, risk, and compliance (GRC), but he found himself stuck in his career, only finding general risk analysis jobs afterward. In Texas, the average salary for this position is $77,520.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career",
+      "content_type": "Story",
+      "reference_link": "https://drive.google.com/file/d/14CzY-daGNilir8kNln43Tsm73D-I_YxC/view?usp=sharing",
+      "source_type": "Book"
+    }
+  },
+  {
+    "chunk_id": "chunk_71",
+    "text": "Student Success Stories After obtaining his NGT Academy certification, he quickly landed a job at Wipro as a GRC specialist. Through dedication, he progressed in his career to his current position as a PCI DSS cybersecurity consultant, work- ing remotely for a well-known cybersecurity consulting firm whose aver - age salary for a consultant is $109,000. In a student feedback survey, Roshode shared these encouraging words: “Keep progressing and helping the way that you do. ” Dionne Davis Before: Vendor Analyst — After: IT Specialist Dionne’s story is a great example of the power of grit and determination. In 2021, she joined NGT Academy’s part-time cyber cohort class, which she completed in two months. However, her journey to securing employment was not without its chal- lenges. As a job",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Success Stories",
+      "content_type": "Story",
+      "reference_link": "https://drive.google.com/file/d/14CzY-daGNilir8kNln43Tsm73D-I_YxC/view?usp=sharing",
+      "source_type": "Book"
+    }
+  },
+  {
+    "chunk_id": "chunk_72",
+    "text": "two months. However, her journey to securing employment was not without its chal- lenges. As a job seeker in the highly competitive DMV (DC, Maryland, and Virginia) region, Dionne initially struggled to find a suitable position largely due to the prevalent requirement for security clearance in the area. Undeterred, Dionne proactively sought the guidance of a career success coach. Through this collaborative effort, Dionne was able to land a role as a network analyst, even though it required a longer commute than she had initially preferred. Recognizing the value of this opportunity to advance her career, Dionne was willing to put in the necessary time and effort, and her perseverance paid off tremendously. Today, Dionne’s hard work has culminated in an exceptional achievement—she now holds",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Career",
+      "content_type": "Story",
+      "reference_link": "https://drive.google.com/file/d/14CzY-daGNilir8kNln43Tsm73D-I_YxC/view?usp=sharing",
+      "source_type": "Book"
+    }
+  },
+  {
+    "chunk_id": "chunk_73",
+    "text": "tremendously. Today, Dionne’s hard work has culminated in an exceptional achievement—she now holds the position of IT specialist with the United States Department of Defense. This role boasts an impressive average base salary of $83,000 per year, underscoring the significant career growth and financial rewards that Dionne has attained through her unwavering",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career Growth",
+      "content_type": "Story",
+      "reference_link": "https://drive.google.com/file/d/14CzY-daGNilir8kNln43Tsm73D-I_YxC/view?usp=sharing",
+      "source_type": "Book"
+    }
+  },
+  {
+    "chunk_id": "chunk_74",
+    "text": "commitment and resilience. Dionne’s story serves as a powerful testament to the transformative impact of grit and determination. By embracing challenges, leveraging available resources, and maintaining a steadfast focus on her professional goals, she has successfully navigated the compet- itive job market and secured a remarkable career opportunity that aligns with her aspirations. Her success story is an inspiration to all who strive to overcome obstacles and achieve their dreams. Craig Fowler Before: Plumber — After: NOC Technician Let me introduce you to Craig Fowler. This is a great story about a blue-collar worker making the transition to his dream career. He was working as a plumber by trade. He knew he wanted to make a change in his career and had concocted a plan to do that. Craig",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Resilience",
+      "content_type": "Story",
+      "reference_link": "https://drive.google.com/file/d/14CzY-daGNilir8kNln43Tsm73D-I_YxC/view?usp=sharing",
+      "source_type": "Book"
+    }
+  },
+  {
+    "chunk_id": "chunk_75",
+    "text": "trade. He knew he wanted to make a change in his career and had concocted a plan to do that. Craig was enrolled in a university for almost four years, working on a degree toward IT, when he realized he needed help and college wasn’t giving him the skills that he needed. He found NGT online and pivoted toward our expedited learning approach. Craig focused on specializing in a career in networking and came in with a goal to break into the field. Very quickly he realized he was in the right place based on the quality of training he was receiving. He even mentioned that he learned more in six months at NGT than the entire time he was in college. Wow! On his first call with a career adviser he said his five-year goal was to become a senior network engineer. Upon graduation, Craig was able to",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career Change",
+      "content_type": "Story",
+      "reference_link": "https://drive.google.com/file/d/14CzY-daGNilir8kNln43Tsm73D-I_YxC/view?usp=sharing",
+      "source_type": "Book"
+    }
+  },
+  {
+    "chunk_id": "chunk_76",
+    "text": "said his five-year goal was to become a senior network engineer. Upon graduation, Craig was able to quickly land his first IT role working as a network operations center tech- nician at Think Tank NTG. He gained some excellent experience and has since moved up to a network engineer role, well on his way of achieving his",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career",
+      "content_type": "Story",
+      "reference_link": "https://drive.google.com/file/d/14CzY-daGNilir8kNln43Tsm73D-I_YxC/view?usp=sharing",
+      "source_type": "Book"
+    }
+  },
+  {
+    "chunk_id": "chunk_77",
+    "text": "Student Success Stories five-year goal. We are looking forward to seeing many more years of growth for Craig’s career. Richard Gan Before: Property Management — After: Data Center Technician Meet Richard, an excellent example of taking his life into his own hands and changing his life trajec- tory. For many years, Richard was working in property management and didn’t see a way to grow in his current field. As a kid, he grew up around technology because of his dad and always had engineering in the back of his mind as an adult. The turning point in Richard’s life was when he decided to take the leap of faith and enrolled with NGT Academy in March 2024. Within a month, he gained his first certification through NGT, the Full Stack Net - work Associate (FSNA) certification. This gave him the",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career Growth",
+      "content_type": "Story",
+      "reference_link": "https://drive.google.com/file/d/14CzY-daGNilir8kNln43Tsm73D-I_YxC/view?usp=sharing",
+      "source_type": "Book"
+    }
+  },
+  {
+    "chunk_id": "chunk_78",
+    "text": "through NGT, the Full Stack Net - work Associate (FSNA) certification. This gave him the groundwork to build and grow into his new career. Immediately after gaining the FSNA, he started his job hunt. Working closely with the NGT Career Services team, he was able to revamp his mar- ketability and focus on preparing for these technical interviews. Through this process, he landed his first job as a data center technician at MacSta - dium, approximately two months after he started training. It’s truly amaz- ing what Richard was able to achieve and shows how staying disciplined in your studies can help you reach your goals in record time.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career",
+      "content_type": "Story",
+      "reference_link": "https://drive.google.com/file/d/14CzY-daGNilir8kNln43Tsm73D-I_YxC/view?usp=sharing",
+      "source_type": "Book"
+    }
+  },
+  {
+    "chunk_id": "chunk_79",
+    "text": "Rodrigo Ramos Before: Public Servant — After: Cybersecurity Consultant Rodrigo Ramos had a career as a public servant in Mexico City, focusing on security. Politically moti- vated firings are sadly getting more prevalent in Mexico. and he was unable to thrive. He decided to leverage his security background with portable IT skills that will allow him stability and growth. He considered enrolling in MIT before he heard about NGT Academy. Between the difference in the tuition and time frame, he chose NGT. In three months he completed the NCSA program and is now consultor de ciberseguridad (a cybersecurity consultant). The typical salary for this position is MXN$225,000, but most importantly Rodrigo now has a career in which he can grow and thrive. Asi se hace , Rodrigo! Anna Mensah Before:",
+    "metadata": {
+      "domain": "IT",
+      "topic": "CareerChange",
+      "content_type": "Story",
+      "reference_link": "https://drive.google.com/file/d/14CzY-daGNilir8kNln43Tsm73D-I_YxC/view?usp=sharing",
+      "source_type": "Book"
+    }
+  },
+  {
+    "chunk_id": "chunk_80",
+    "text": "now has a career in which he can grow and thrive. Asi se hace , Rodrigo! Anna Mensah Before: Homemaker — After: IT Security Analyst Anna is a true diamond in the rough, whose radi- ant potential has been polished through her remarkable journey. Originally from Ghana, Anna faced the daunting task of reentering the work- force after a seven-year hiatus as a homemaker. Her determination and willingness to seek support propelled her forward as she enrolled in NGT Academy with hope. D e s p i t e i n i t i a l n e r v o u s n e s s , A n n a t a c k l e d c h a l l e n g e s , c o m p l e t i n g h e r FSNA certification in just four months. Encouraged by her accomplish- ment, she successfully finished the program and earned her coveted",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career Growth",
+      "content_type": "Story",
+      "reference_link": "https://drive.google.com/file/d/14CzY-daGNilir8kNln43Tsm73D-I_YxC/view?usp=sharing",
+      "source_type": "Book"
+    }
+  },
+  {
+    "chunk_id": "chunk_81",
+    "text": "Student Success Stories CCNA certification as well laying the foundation for her profes - sional career. Anna then landed a role as a third-party risk analyst, and she grew her career from there. Today, she proudly works as an IT security analyst at the Kellogg Company, earning over $77,000. A true Zero to Engineer success, Anna’s story testifies to the transformative impact of affordable education and the value provided by NGT, shining brightly as the diamond she has become. Stephen Philip Before: Line Cook — After: IT Analyst The fantastic journey of Stephen Philip starts in Nigeria and extends to Chicago and then to NGT Academy. Stephen worked as a line cook in a res - taurant in a Marriott Hotel. Despite the time demands of his job, Stephen was determined to create a better life. He",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Success Stories",
+      "content_type": "Story",
+      "reference_link": "https://drive.google.com/file/d/14CzY-daGNilir8kNln43Tsm73D-I_YxC/view?usp=sharing",
+      "source_type": "Book"
+    }
+  },
+  {
+    "chunk_id": "chunk_82",
+    "text": "Hotel. Despite the time demands of his job, Stephen was determined to create a better life. He completed the first part of the NGT program in three months. Reflecting on his time there, he recalls the supportive environment, stating, “Once you have any kind of problem and you reach out to them, people are ready to respond. ” Encouraged by his career coach, Stephen took a bold step and reached out to the IT department at Marriott. He shared his training and career aspirations, and his initiative paid off. Stephen was swiftly hired as an IT analyst, a role that came with a significant salary increase of $50,000. Stephen’s journey from line cook to IT analyst is not just a career pro- gression; it is a story of personal growth and the realization of dreams. His experience at NGT Academy",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Career Growth",
+      "content_type": "Story",
+      "reference_link": "https://drive.google.com/file/d/14CzY-daGNilir8kNln43Tsm73D-I_YxC/view?usp=sharing",
+      "source_type": "Book"
+    }
+  },
+  {
+    "chunk_id": "chunk_83",
+    "text": "it is a story of personal growth and the realization of dreams. His experience at NGT Academy provided him with the skills and confidence to transform his life. Stephen’s story is a heartwarming reminder that with the right support and determination, anyone can achieve their goals and create a brighter future for themselves.",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Personal Growth",
+      "content_type": "Story",
+      "reference_link": "https://drive.google.com/file/d/14CzY-daGNilir8kNln43Tsm73D-I_YxC/view?usp=sharing",
+      "source_type": "Book"
+    }
+  },
+  {
+    "chunk_id": "chunk_84",
+    "text": "Al Minnigan Before: Technician — After: Level 2 Network Security Admin Al’s journey is a familiar one for many aspiring IT professionals. After a decade as a technician for a school district, he found himself feeling stuck. The district’s new initiative to provide every student with a laptop turned his role into a constant cycle of troubleshooting and frustration. What was once a fulfilling job had become monotonous, and his spouse noticed his increasing unhappiness when he came home each night. Determined to change his situation, Al began studying for the Network+ certification on his own but struggled to make progress. It was then that he discovered NGT. After reaching out and discussing his goals with one of the career advisers, he realized that NGT’s structured training program was",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career",
+      "content_type": "Story",
+      "reference_link": "https://drive.google.com/file/d/14CzY-daGNilir8kNln43Tsm73D-I_YxC/view?usp=sharing",
+      "source_type": "Book"
+    }
+  },
+  {
+    "chunk_id": "chunk_85",
+    "text": "his goals with one of the career advisers, he realized that NGT’s structured training program was exactly what he needed. Al immersed himself in NGT’s training, earning his Cisco CCNA and completing the Advanced Infrastructure projects in the FSNP section. These achievements boosted his confidence and reignited his passion for his career. With newfound skills and confidence, Al took proactive steps at work, seeking out new projects and shadowing the infrastructure department. His eagerness and improved capabilities did not go unnoticed. When a Level 2 Network Security Admin position opened up, Al was encouraged to apply. Despite facing competition from 12 other internal candidates, he secured the role. Al credits much of his success to the training and guidance he received from NGT.",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Career",
+      "content_type": "Story",
+      "reference_link": "https://drive.google.com/file/d/14CzY-daGNilir8kNln43Tsm73D-I_YxC/view?usp=sharing",
+      "source_type": "Book"
+    }
+  },
+  {
+    "chunk_id": "chunk_86",
+    "text": "secured the role. Al credits much of his success to the training and guidance he received from NGT. Beyond his professional growth, the positive mindset and self-assurance he gained have transformed other aspects of his life. He now",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Professional Growth",
+      "content_type": "Story",
+      "reference_link": "https://drive.google.com/file/d/14CzY-daGNilir8kNln43Tsm73D-I_YxC/view?usp=sharing",
+      "source_type": "Book"
+    }
+  },
+  {
+    "chunk_id": "chunk_87",
+    "text": "Student Success Stories demonstrates to his kids the importance of advocating for oneself and pur- suing one’s goals with determination. Kwame Ohemeng Before: Warehouse Worker — After: Network Engineer Kwame’s story is a remarkable testament to the power of perseverance and the American Dream. Born and raised in Ghana, Kwame worked dili - gently as an entry-level network specialist at a tele- vision network, all the while nurturing a dream to live in the United States. Like countless others, he applied for the visa lottery program, hoping for a chance to turn his dream into reality. By sheer luck, Kwame won the lottery and was awarded a resident visa to the United States. Upon his arrival, Kwame faced the challenging reality of starting over. He had hoped to leverage his educational",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Success Stories",
+      "content_type": "Story",
+      "reference_link": "https://drive.google.com/file/d/14CzY-daGNilir8kNln43Tsm73D-I_YxC/view?usp=sharing",
+      "source_type": "Book"
+    }
+  },
+  {
+    "chunk_id": "chunk_88",
+    "text": "Kwame faced the challenging reality of starting over. He had hoped to leverage his educational background and experience to quickly resume his career in IT. However, he soon discovered that his qual- ifications and experience didn’t translate as smoothly as he had anticipated. Faced with the need to support himself, Kwame took a job in a warehouse, making ends meet while he sought new opportunities. Determined not to let this setback deter him, Kwame began exploring resources online and stumbled upon NGT Academy. He was drawn to the academy’s mentorship program and decided to enroll. Through intensive training and certification, Kwame updated his skills and benefited from the guidance of experienced mentors, including Terry, who played a piv - otal role in his development. Equipped with",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career",
+      "content_type": "Story",
+      "reference_link": "https://drive.google.com/file/d/14CzY-daGNilir8kNln43Tsm73D-I_YxC/view?usp=sharing",
+      "source_type": "Book"
+    }
+  },
+  {
+    "chunk_id": "chunk_89",
+    "text": "mentors, including Terry, who played a piv - otal role in his development. Equipped with new qualifications and renewed confidence, Kwame set out to find a role in IT. His efforts soon paid off in an unexpected way: he was invited to join Cisco’s prestigious “Dream Team” at Cisco Live, an",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career",
+      "content_type": "Story",
+      "reference_link": "https://drive.google.com/file/d/14CzY-daGNilir8kNln43Tsm73D-I_YxC/view?usp=sharing",
+      "source_type": "Book"
+    }
+  },
+  {
+    "chunk_id": "chunk_90",
+    "text": "exclusive event reserved for top students from across the United States and Canada. This opportunity provided Kwame with invaluable insights into building complex networks and reinforced his belief in his abilities. Not long after Cisco Live, Kwame secured his first IT job as a network engineer. Over the years, his dedication and expertise earned him a repu - tation as the go-to expert in his department. His career flourished, and he eventually advanced to the position of senior network engineer. Kwame’s journey is a powerful example of how dreams, combined with determination and the right guidance, can lead to extraordinary achieve - ments. His story is a celebration of resilience and the transformative impact of hard work and mentorship. Brent Whited Before: Cyber Analyst — After: Senior",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career",
+      "content_type": "Story",
+      "reference_link": "https://drive.google.com/file/d/14CzY-daGNilir8kNln43Tsm73D-I_YxC/view?usp=sharing",
+      "source_type": "Book"
+    }
+  },
+  {
+    "chunk_id": "chunk_91",
+    "text": "impact of hard work and mentorship. Brent Whited Before: Cyber Analyst — After: Senior Cybersecurity Engineer Brent’s journey from serving our country to find- ing his dream career is inspiring. After dedicating years protecting our nation as a cyber defense operator in the U.S. Marines, Brent faced the chal- lenge of transitioning to civilian life. He wanted to ensure that his military experience would translate in the private sector in a way that would qualify him for a position in which he could work remotely. When Brent discovered NGT Academy, he was drawn to our reputa - tion for excellence and focus on practical relevant skills. Brent saw the opportunity to be able to take his cybersecurity expertise to the next level. Approaching his studies with the same discipline and dedication",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Mentorship",
+      "content_type": "Story",
+      "reference_link": "https://drive.google.com/file/d/14CzY-daGNilir8kNln43Tsm73D-I_YxC/view?usp=sharing",
+      "source_type": "Book"
+    }
+  },
+  {
+    "chunk_id": "chunk_92",
+    "text": "expertise to the next level. Approaching his studies with the same discipline and dedication that served him well in the Marines, the academy’s military-based hands-on approach resonated with his learning style, allowing him to progress through the program quickly, and he soon landed an information security position. But Brent’s journey did not end there. Today he has achieved",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Career Advancement",
+      "content_type": "Story",
+      "reference_link": "https://drive.google.com/file/d/14CzY-daGNilir8kNln43Tsm73D-I_YxC/view?usp=sharing",
+      "source_type": "Book"
+    }
+  },
+  {
+    "chunk_id": "chunk_93",
+    "text": "Student Success Stories what many in the tech industry aspire to: a position as a senior cybersecu- rity engineer at T-Mobile, one of the nation’s leading telecommunications companies—and he can work remotely. Brent’s story exemplifies our mission to provide practical, career- focused education that empowers students to achieve their goals and NGT Academy’s goal of continuing to help aspiring IT professionals reach their potential. Robert Hardy Before: Musician, USMC — After: Level II IT Support Specialist Robert’s journey from musician and Marine to successful IT professional is a testament to his adaptability and the power of targeted education. His story is particularly inspiring as it showcases how one can overcome multiple career transitions and still find success in a new field.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Success Stories",
+      "content_type": "Story",
+      "reference_link": "https://drive.google.com/file/d/14CzY-daGNilir8kNln43Tsm73D-I_YxC/view?usp=sharing",
+      "source_type": "Book"
+    }
+  },
+  {
+    "chunk_id": "chunk_94",
+    "text": "showcases how one can overcome multiple career transitions and still find success in a new field. After serving his country honorably in the U.S. Marines, Robert faced the daunting challenge of transitioning to civilian life. Like many veterans, he found himself at a crossroads, seeking a new career path that would leverage his skills and provide long-term stability. Recognizing the growth opportunity in the tech industry, Robert decided to pivot his career to IT. He found his path forward with NGT Academy, liking the program known for its comprehensive and practical approach to IT education. The program’s focus on hands-on, real-world applications proved to be the perfect fit for Robert’s learning style. The impact of the quality of his training became evident almost imme- diately. Upon",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Career Transition",
+      "content_type": "Story",
+      "reference_link": "https://drive.google.com/file/d/14CzY-daGNilir8kNln43Tsm73D-I_YxC/view?usp=sharing",
+      "source_type": "Book"
+    }
+  },
+  {
+    "chunk_id": "chunk_95",
+    "text": "learning style. The impact of the quality of his training became evident almost imme- diately. Upon completing the fundamentals program, he quickly secured a position at a well-known bio-pharmaceutical company with a starting salary of $68,000.",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Learning Style",
+      "content_type": "Story",
+      "reference_link": "https://drive.google.com/file/d/14CzY-daGNilir8kNln43Tsm73D-I_YxC/view?usp=sharing",
+      "source_type": "Book"
+    }
+  },
+  {
+    "chunk_id": "chunk_96",
+    "text": "Robert’s success story doesn’t end with landing the job. He was able to make a significant impact. Drawing on his hands-on experience and trou- bleshooting methodology, he provided immediate value to his new employer. His ability to solve patching issues so early in his tenure not only validated his skills but also demonstrated the job-ready nature of the NGT Academy program. For veterans and career changes alike, Robert’s story serves as an inspi- ration. It demonstrates that regardless of your background, with the right education and mindset, you can quickly acquire the skills needed to thrive in the tech industry. Logan Brindley Before: Warehousing — After: System Administrator Here’s another compelling story about a student transitioning from a physically demanding blue-collar job to a",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career Transition",
+      "content_type": "Story",
+      "reference_link": "https://drive.google.com/file/d/14CzY-daGNilir8kNln43Tsm73D-I_YxC/view?usp=sharing",
+      "source_type": "Book"
+    }
+  },
+  {
+    "chunk_id": "chunk_97",
+    "text": "compelling story about a student transitioning from a physically demanding blue-collar job to a career in IT . Logan was working in a warehouse, growing tired of the abuse his body was taking on a day-to-day basis and the late-night graveyard shifts he was working. Unsurprisingly, Logan pushed his body too far and sustained an injury at work. Not only was he out of work for a month, but his employer didn’t acknowledge his injury as a qualifying worker’s com- pensation claim. This was the spark he needed to really make a change. This is when Logan found NGT. He liked what NGT was offering and it truly looked fun to him. He didn’t wait for his luck to change; he took action to make it change. After Logan gained the skills he needed, he started browsing online for opportunities. Among those,",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career Change",
+      "content_type": "Story",
+      "reference_link": "https://drive.google.com/file/d/14CzY-daGNilir8kNln43Tsm73D-I_YxC/view?usp=sharing",
+      "source_type": "Book"
+    }
+  },
+  {
+    "chunk_id": "chunk_98",
+    "text": "After Logan gained the skills he needed, he started browsing online for opportunities. Among those, he found a posi- tion for a programming role at eFusion, unrelated to his studies at NGT but something that always interested him. He wasn’t fully qualified for it but was confident and wanted to interview anyway.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career",
+      "content_type": "Story",
+      "reference_link": "https://drive.google.com/file/d/14CzY-daGNilir8kNln43Tsm73D-I_YxC/view?usp=sharing",
+      "source_type": "Book"
+    }
+  },
+  {
+    "chunk_id": "chunk_99",
+    "text": "Student Success Stories During the interview process with eFusion, the hiring manager was impressed with his knowledge after coming out of training and thought he’ d be perfect for a systems engineering role. The problem was, they’ d just filled that role a couple days prior. As luck would have it, Logan received a call from the hiring manager three weeks later that the previous hire didn’t work out and he wanted him to officially interview for the position. Of course, Logan was elated and came in the next week for an interview. As expected, he did great on his technical interview and was hired with a pay raise from his warehouse role. Just like that, Logan’ s life completely changed. He’ s enjoying what he does in his daily life. He gets to sleep on a normal schedule. Most importantly, he",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Success Stories",
+      "content_type": "Story",
+      "reference_link": "https://drive.google.com/file/d/14CzY-daGNilir8kNln43Tsm73D-I_YxC/view?usp=sharing",
+      "source_type": "Book"
+    }
+  },
+  {
+    "chunk_id": "chunk_100",
+    "text": "what he does in his daily life. He gets to sleep on a normal schedule. Most importantly, he gets to spend plenty of time with his family, which he was missing out on before. One of the most powerful things Logan mentioned in his interview with us was, “Because of NGT , I’ve not only been able to find a job I love, but I’m able to chart a course for my life going forward. ” Nathan Nicely Before: Fire Protection Industry — After: Network Support Analyst Nate is a current NGT mentor, technical instruc - tor, and network support analyst, but his story doesn’t start there. Before everything Nate has achieved, he was working in the fire protection industry. He had essentially hit a ceiling at his cur- rent career in all aspects. He knew he didn’t want to do this the rest of his life and wanted",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Career",
+      "content_type": "Story",
+      "reference_link": "https://drive.google.com/file/d/14CzY-daGNilir8kNln43Tsm73D-I_YxC/view?usp=sharing",
+      "source_type": "Book"
+    }
+  },
+  {
+    "chunk_id": "chunk_101",
+    "text": "cur- rent career in all aspects. He knew he didn’t want to do this the rest of his life and wanted more out of a career. When Nate started looking for a career in IT, he knew he wanted to get certifications but wasn’t sure what path to take. Does he go back to college, read some books, or find another training option? That’s when he discov- ered NGT, and our message really stuck with him. He scheduled a call with",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career",
+      "content_type": "Story",
+      "reference_link": "https://drive.google.com/file/d/14CzY-daGNilir8kNln43Tsm73D-I_YxC/view?usp=sharing",
+      "source_type": "Book"
+    }
+  },
+  {
+    "chunk_id": "chunk_102",
+    "text": "a career adviser and realized that he could gain the experience needed to reach his goals. Nate jumped into training and began on the networking pathway. He was essentially starting from scratch. He followed the simplified pathway that Jacob lays out by following the FSNA training to gain the fundamen - tals, gained his CCNA certification, and focused on the advanced projects and labs. This training and structure just made sense to him. After gaining the skills, he was concerned about how to translate his knowledge to a résumé. This is where NGT Career Services helped him stand out and be marketable to potential employers. The layout of the projects piqued the interest of hiring managers and landed him his first interview. As with most people, it can be a little intimidating going into an",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career",
+      "content_type": "Story",
+      "reference_link": "https://drive.google.com/file/d/14CzY-daGNilir8kNln43Tsm73D-I_YxC/view?usp=sharing",
+      "source_type": "Book"
+    }
+  },
+  {
+    "chunk_id": "chunk_103",
+    "text": "landed him his first interview. As with most people, it can be a little intimidating going into an inter- view, especially for a field you never worked in. Nate reached out to one of the NGT Alumni and Mentors, Sergio Maldonado. They spent a couple hours going over interviewing strategies to prepare him for the upcoming interviews. Nate ended up going through two rounds of interviews in three days before he was offered the job. What he didn’t expect was to be making $81,000 for an entry-level role in a completely new career field, a $20,000 bump from his prior career. This entire process from start to finish took him eight months to com- pletely change his life. He saved a ton of time and money while setting himself up for financial success in the future. These days you will still find",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Interview",
+      "content_type": "Story",
+      "reference_link": "https://drive.google.com/file/d/14CzY-daGNilir8kNln43Tsm73D-I_YxC/view?usp=sharing",
+      "source_type": "Book"
+    }
+  },
+  {
+    "chunk_id": "chunk_104",
+    "text": "money while setting himself up for financial success in the future. These days you will still find Nate working in the networking field while being an active technical instructor and mentor for NGT students.\n\nStudent Success Stories Junwon Suh Before: Retail Sales Manager — After: Junior Penetration Tester As a native Korean speaker, Junwon faced the dual challenge of not only changing careers but also navigating the technical complexities of cyberse - curity in a non-native language. Recognizing the growing demand for IT professionals and his own passion for technology, Junwon made the bold decision to pivot his career. He found his path forward with NGT Academy. Despite the language bar- rier, Junwon’s determination and the academy’s supportive learning envi- ronment allowed him to thrive. The impact of NGT Academy’s training on his career has been pro - found. In his own words, “The courses have directly helped me in my role. ” Junwon’s success story demonstrates it’s possible to",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career Change",
+      "content_type": "Story",
+      "reference_link": "https://drive.google.com/file/d/14CzY-daGNilir8kNln43Tsm73D-I_YxC/view?usp=sharing",
+      "source_type": "Book"
+    }
+  },
+  {
+    "chunk_id": "chunk_105",
+    "text": "courses have directly helped me in my role. ” Junwon’s success story demonstrates it’s possible to successfully transition into IT, regardless of your background or native language. Today, Junwon is a successful penetration tester and contributing to the vital field of cybersecurity. His journey from sales manager to IT pro - fessional highlights the growing global demand for skilled cybersecurity experts. His story exemplifies our mission to provide practical, career- focused education that empowers students from all backgrounds to achieve their professional goals in the dynamic world of technology and cybersecurity.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career Transition",
+      "content_type": "Story",
+      "reference_link": "https://drive.google.com/file/d/14CzY-daGNilir8kNln43Tsm73D-I_YxC/view?usp=sharing",
+      "source_type": "Book"
+    }
+  },
+  {
+    "chunk_id": "chunk_106",
+    "text": "CONCLUSION com/success-stories and witness countless individuals from various walks of life transforming their careers with our proven blueprint. I know these stories will propel you forward in your journey to become an IT rock star. On our website, you will see that we have Network Engineering, Cyber- security, Cloud, QA Automation, and Systems Engineering training pro - grams and we will continue to add tracks that have the most demand in the",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career",
+      "content_type": "Advice",
+      "reference_link": "https://drive.google.com/file/d/14CzY-daGNilir8kNln43Tsm73D-I_YxC/view?usp=sharing",
+      "source_type": "Book"
+    }
+  },
+  {
+    "chunk_id": "chunk_107",
+    "text": "CHAPTER TEN BRIDGING THE “GAP” “If you can’t yet do great things, do small things in a great way. ” – Napoleon Hill o, what is the “gap?” The gap refers to the space between where we are and where we want to be. Gap analysis measures the difference between the expected performance in an organization, business, or in a personal endeavor and the actual process to get there. It can also be called a need analysis, need assessment, or need-gap analysis. Basically, to get where you want to be, it’s not a straight line. We often think that by clearly defining our goal, it’s a direct route from here to there. The reality is not quite so simple, nor should it be. Data Information KnowledgeA ction Impact Design Expertise Leverage Execution",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Gap Analysis",
+      "content_type": "Framework",
+      "reference_link": "https://drive.google.com/file/d/14CzY-daGNilir8kNln43Tsm73D-I_YxC/view?usp=sharing",
+      "source_type": "Book"
+    }
+  },
+  {
+    "chunk_id": "chunk_108",
+    "text": "Understanding the “gap” is crucial in any transformation journey, especially in transitioning from a novice to an expert in the IT field. The gap represents the distance between your current position and where you aspire to be—becoming an engineer. Often, this journey is visualized as a straightforward path, but in reality, it’s more complex and filled with essential learning curves and decisions that shape your professional growth. UNDERSTANDING GAP ANALYSIS Gap analysis is defined as a strategic tool used to compare where you are with where you want to be. This analysis helps you identify areas of improvement and the actions you need to take to close the gap. Why It Matters In IT, where technologies and required skills evolve rapidly, understanding your current capabilities and how they",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Gap Analysis",
+      "content_type": "Framework",
+      "reference_link": "https://drive.google.com/file/d/14CzY-daGNilir8kNln43Tsm73D-I_YxC/view?usp=sharing",
+      "source_type": "Book"
+    }
+  },
+  {
+    "chunk_id": "chunk_109",
+    "text": "and required skills evolve rapidly, understanding your current capabilities and how they match up against industry stand - ards or job requirements is crucial. Y ou’re likely starting out with a skill level of Zero and your goal is to be an engineer. To get from Zero to Engineer is not a straight line. For the first few months, it looks and feels as if your skill level stays at Zero—and in many ways, it does. But this is where you have to dig in and stay focused. This is where the lessons in this book will keep you on mission even when it feels like you’re not getting anywhere. Closing The Gap The first step to bridging the gap is to understand the distance between your current skills and the expertise required for your desired role.",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Career",
+      "content_type": "Advice",
+      "reference_link": "https://drive.google.com/file/d/14CzY-daGNilir8kNln43Tsm73D-I_YxC/view?usp=sharing",
+      "source_type": "Book"
+    }
+  },
+  {
+    "chunk_id": "chunk_110",
+    "text": "Bridging the “Gap” • Assessing Skills and Knowledge Gaps: Begin with a personal skills audit—compare your current knowledge with the qualifications required for your target job. Use job descriptions or industry resources like LinkedIn and CyberSeek to identify gaps. For example, if you want to become a cloud engineer, you may realize that you need pro- ficiency in platforms like AWS or Azure, and certifications such as AWS S olutions Architect. • Setting Priorities: Not every gap needs immediate attention. Iden- tify which skills and certifications are essential for your next role and which can wait. Focusing on high-impact areas will keep you on track and prevent overwhelm. Once you have a clear understanding of where you are and where you need to be, the next step is creating a plan that",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Skills Gap",
+      "content_type": "Advice",
+      "reference_link": "https://drive.google.com/file/d/14CzY-daGNilir8kNln43Tsm73D-I_YxC/view?usp=sharing",
+      "source_type": "Book"
+    }
+  },
+  {
+    "chunk_id": "chunk_111",
+    "text": "understanding of where you are and where you need to be, the next step is creating a plan that transforms your goals into actionable steps. Break your goal into manageable milestones—such as earning a certification or completing a project. Be flexible with your time- lines, but stay consistent. Use a simple tracking system to monitor your progress and adjust goals as needed. Learning Through Action and Feedback Real learning happens when you apply your skills in real-world scenarios. Whether it’ s contributing to a project at work, freelancing, or volunteering, seek out opportunities that challenge you to practice what you’ve learned. Document these experiences to build a portfolio that highlights your technical abilities and practical problem-solving skills. At the same time, feedback is",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Goal Setting",
+      "content_type": "Advice",
+      "reference_link": "https://drive.google.com/file/d/14CzY-daGNilir8kNln43Tsm73D-I_YxC/view?usp=sharing",
+      "source_type": "Book"
+    }
+  },
+  {
+    "chunk_id": "chunk_112",
+    "text": "your technical abilities and practical problem-solving skills. At the same time, feedback is essential to growth. Regularly connect with mentors, managers, or peers who can provide insight into your pro - gress. Whether it’s formal reviews or casual check-ins, listen actively to what they say. Pay attention to both strengths and areas for improvement. Use their input to refine your approach, align your efforts with industry standards, and ensure that each new project pushes you closer to your",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Feedback",
+      "content_type": "Advice",
+      "reference_link": "https://drive.google.com/file/d/14CzY-daGNilir8kNln43Tsm73D-I_YxC/view?usp=sharing",
+      "source_type": "Book"
+    }
+  },
+  {
+    "chunk_id": "chunk_113",
+    "text": "goal. Learning is an iterative process—applying skills, gathering feed - back, and adjusting your approach will help you grow faster and more effectively. The Journey’s Realities While the goal is clear—transition from Zero to Engineer—the path is nei - ther straight nor predictable. Initially, your progress might feel stagnant, as foundational skills and knowledge are being built quietly under the sur - face. The following are key phases and strategies that shape this transform- ative journey: • Early Stages: These stages are characterized by seemingly slow pro- gress. Y ou’re accumulating essential knowledge and skills that don’t yet manifest as progress in your career. • Decision Points: Choices about certifications, projects, and specific job roles are not merely checkboxes. Each",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Learning",
+      "content_type": "Advice",
+      "reference_link": "https://drive.google.com/file/d/14CzY-daGNilir8kNln43Tsm73D-I_YxC/view?usp=sharing",
+      "source_type": "Book"
+    }
+  },
+  {
+    "chunk_id": "chunk_114",
+    "text": "Choices about certifications, projects, and specific job roles are not merely checkboxes. Each decision is a strategic step toward building a robust portfolio that aligns with your career aspirations. • Leveraging Lessons to Propel Forward: The initial chapters of this book are not just introductory—they are foundational. They keep you anchored to your mission, especially during periods when tangible progress feels elusive. • Strategic Learning: Every chapter until now has layered on essential skills and strategic thinking necessary to navigate your journey effectively. • Mindset and Persistence: Maintaining a positive and growth-oriented mindset is pivotal. The daily choices you make about how to approach challenges and opportunities will determine your trajectory. While it feels like",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Career Aspirations",
+      "content_type": "Advice",
+      "reference_link": "https://drive.google.com/file/d/14CzY-daGNilir8kNln43Tsm73D-I_YxC/view?usp=sharing",
+      "source_type": "Book"
+    }
+  },
+  {
+    "chunk_id": "chunk_115",
+    "text": "how to approach challenges and opportunities will determine your trajectory. While it feels like your skill line stays at Zero for the first few months, that line is actually filled with twists and turns. This certification or that",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Challenges",
+      "content_type": "Advice",
+      "reference_link": "https://drive.google.com/file/d/14CzY-daGNilir8kNln43Tsm73D-I_YxC/view?usp=sharing",
+      "source_type": "Book"
+    }
+  },
+  {
+    "chunk_id": "chunk_116",
+    "text": "Bridging the “Gap” one? This job or that one? These projects or those other ones? So many directions! But as long as you’re remembering the lessons from this book, those twists will all be a critical part of your path. Remember that upward or downward spiral? This is where you get to make choices on projects, certifications, trainings, and most of all, your mindset every single day. Do this and have faith that the path from Zero to Engineer will land you your dream job and your dream life! The truth is that, before you know it, after enduring the first few months your rise from Zero to Engineer will happen almost overnight! This is that huge swing up you see in the graph. After making all the best decisions, keeping a focused mindset, having a grateful heart, and follow - ing your natural",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Mindset",
+      "content_type": "Advice",
+      "reference_link": "https://drive.google.com/file/d/14CzY-daGNilir8kNln43Tsm73D-I_YxC/view?usp=sharing",
+      "source_type": "Book"
+    }
+  },
+  {
+    "chunk_id": "chunk_117",
+    "text": "best decisions, keeping a focused mindset, having a grateful heart, and follow - ing your natural curiosity, you could land that engineer title in just four months. But to do that, you’re going to need some help. To make your path from Zero to Engineer be as dynamic, comprehen- sive, and supportive as possible, I created NGT Academy. I’ve referenced it throughout the book, but now, if you haven’t already, it’s time you signed up. NGT Academy is on a mission to help 1 million people get tech jobs by 2030. Why? Because there will be 3 million unfilled IT jobs in the market by 2025. According to All Work, this means there’s an incredible 13 percent growth rate! By taking advantage of an affordable education, you will be job-ready for a career in cybersecurity. As I’ve made crystal clear,",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career Growth",
+      "content_type": "Advice",
+      "reference_link": "https://drive.google.com/file/d/14CzY-daGNilir8kNln43Tsm73D-I_YxC/view?usp=sharing",
+      "source_type": "Book"
+    }
+  },
+  {
+    "chunk_id": "chunk_118",
+    "text": "education, you will be job-ready for a career in cybersecurity. As I’ve made crystal clear, college is not the answer. Y ou shouldn’t be left with outrageous debt from degrees that don’t teach you the required skills to succeed in the workplace. NGT Academy has the best program to equip anyone to be IT specialists in the fastest way possible. We do this by teaching a strong foundation in network architecture before students go into our cybersecurity training. Once you master the fundamentals of networking, you are best prepared for additional training programs along with real-world projects. With hands-on learning combined with our proven methods, we’ll give you everything you need. While you alone hold the power of what",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Cybersecurity",
+      "content_type": "Advice",
+      "reference_link": "https://drive.google.com/file/d/14CzY-daGNilir8kNln43Tsm73D-I_YxC/view?usp=sharing",
+      "source_type": "Book"
+    }
+  },
+  {
+    "chunk_id": "chunk_119",
+    "text": "decisions you make, NGT Academy is here, and I am here, for you to mind the “gap” as you go from Zero to Engineer! Figure 10.3 shows the Ultimate IT Blueprint Pyramid, a structured representation of step-by-step skills acquisition from foundational to specialized knowledge in IT (for more, see Chapter 11). Transformation Realized The transition may feel gradual, but with the right foundation, the shift from learning to application—and ultimately to mastery—can seem sudden and dramatic.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Zero to Engineer",
+      "content_type": "Story",
+      "reference_link": "https://drive.google.com/file/d/14CzY-daGNilir8kNln43Tsm73D-I_YxC/view?usp=sharing",
+      "source_type": "Book"
+    }
+  },
+  {
+    "chunk_id": "chunk_120",
+    "text": "Bridging the “Gap” Once the foundational period is past, you are poised to rise quickly. The skills and knowledge acquired start to manifest as significant advancements in capability and job opportunities. Introducing NGT Academy To make your journey as comprehensive and supportive as possible, NGT Academy offers tailored educational pathways designed specifically for rapid, practical career development in IT. • Mission-Driven Education: With the goal to fill the burgeoning demand in the IT job market, NGT Academy provides an accelerated, focused educational experience that prepares you for real-world IT roles without the burden of excessive debt. • Curriculum Focus: Starting with network architecture fundamen - tals, the program seamlessly transitions into specialized training in",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career Development",
+      "content_type": "Advice",
+      "reference_link": "https://drive.google.com/file/d/14CzY-daGNilir8kNln43Tsm73D-I_YxC/view?usp=sharing",
+      "source_type": "Book"
+    }
+  },
+  {
+    "chunk_id": "chunk_121",
+    "text": "architecture fundamen - tals, the program seamlessly transitions into specialized training in cybersecurity, equipping you with a broad yet detailed skill set. • Hands-On Learning: Combining theoretical knowledge with prac- tical application ensures that you are not just learning but also applying concepts in real-world scenarios, enhancing retention and competence. As you venture from Zero to Engineer, remember that the path is yours to shape. While NGT Academy provides the road map and tools, your decisions, persistence, and dedication to continuous learning will determine your success. Mind the gap by making informed choices, leveraging available resources, and committing to your growth every step of the way. This chapter doesn’t just guide you; it empowers you to take control of your\n\nevery step of the way. This chapter doesn’t just guide you; it empowers you to take control of your career and bridge the gap with confidence and clarity.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Cybersecurity",
+      "content_type": "Advice",
+      "reference_link": "https://drive.google.com/file/d/14CzY-daGNilir8kNln43Tsm73D-I_YxC/view?usp=sharing",
+      "source_type": "Book"
+    }
+  },
+  {
+    "chunk_id": "chunk_122",
+    "text": "CHAPTER SUMMARY, EXERCISES, AND CONCLUSION Summary In every IT professionals career, there comes a time when you identify a gap between where you are and where you want to be. This chapter focused on identifying those gaps—be they skills, knowledge, or experience—and effectively bridging them to advance your career. We explored strategies for assessing your current situation, identifying needed improvements, and systematically addressing these areas to align closer with your career objectives. Understanding Your Current Position The first step in bridging any gap is understanding your current status accurately. This requires a thorough assessment of your skills, knowledge, experience, and how they compare to the requirements of your desired job or career advancement. • Skills Audit:",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career Gap",
+      "content_type": "Framework",
+      "reference_link": "https://drive.google.com/file/d/14CzY-daGNilir8kNln43Tsm73D-I_YxC/view?usp=sharing",
+      "source_type": "Book"
+    }
+  },
+  {
+    "chunk_id": "chunk_123",
+    "text": "and how they compare to the requirements of your desired job or career advancement. • Skills Audit: Conduct a comprehensive review of your technical and soft skills. List all the skills you possess and rate your profi - ciency in each area. • Performance Feedback: Regularly seek feedback from peers, super- visors, and mentors to gain an external perspective on your abilities and areas that may need improvement. • Industry Requirements: Stay updated on the latest trends and demands in your field. Regularly review job postings similar to your dream job to understand what employers are currently seeking.",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Career Advancement",
+      "content_type": "Advice",
+      "reference_link": "https://drive.google.com/file/d/14CzY-daGNilir8kNln43Tsm73D-I_YxC/view?usp=sharing",
+      "source_type": "Book"
+    }
+  },
+  {
+    "chunk_id": "chunk_124",
+    "text": "Bridging the “Gap” Planning Your Development Once you understand where the gaps lie, the next step is to create a tailored development plan to address these deficiencies effectively. • Setting Specific Goals: Based on your skills audit and the require - ments of your target position, set specific, measurable goals for improvement. • Choosing the Right Resources: Identify the best resources to help you develop the necessary skills. This might include courses, work- shops, books, or online tutorials. • Creating a Timeline: Develop a realistic timeline for achieving your goals, breaking down the path to smaller milestones that can be achieved more manageably. Implementing Your Plan With a clear development plan in place, the focus shifts to implementation. Staying committed and tracking your",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Development",
+      "content_type": "Framework",
+      "reference_link": "https://drive.google.com/file/d/14CzY-daGNilir8kNln43Tsm73D-I_YxC/view?usp=sharing",
+      "source_type": "Book"
+    }
+  },
+  {
+    "chunk_id": "chunk_125",
+    "text": "development plan in place, the focus shifts to implementation. Staying committed and tracking your progress are crucial to successfully bridging the gap. • Regular Learning Schedule: Dedicate regular time slots each week for learning and development activities to ensure consistent progress. • Practical Application: Look for opportunities to apply new skills in real-world scenarios, whether in your current job, through free - lance projects, or in a volunteer capacity. • Progress Reviews: Set up regular intervals to review your progress against your goals. Adjust your strategies as necessary to stay on track. Overcoming Common Obstacles During your journey, you may encounter several obstacles that can derail your progress. Addressing these proactively is key to successful development.",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Development",
+      "content_type": "Advice",
+      "reference_link": "https://drive.google.com/file/d/14CzY-daGNilir8kNln43Tsm73D-I_YxC/view?usp=sharing",
+      "source_type": "Book"
+    }
+  },
+  {
+    "chunk_id": "chunk_126",
+    "text": "• Motivation Fluctuations: Find ways to stay motivated over the long term, such as setting up rewards for achieving milestones or partnering with a study buddy. • Resource Limitations: If resources like time and money are lim - ited, prioritize your learning activities based on which skills are most crucial for your career advancement. • Adapting to Change: The IT field is rapidly evolving, and new technologies can shift the landscape. Be flexible and ready to update your development plan as the industry changes. Exercises Skills Gap Analysis Workshop Objective: Conduct a thorough analysis to identify skill gaps and prioritize their importance. Instructions: • List your current technical and soft skills and compare them against the requirements for your desired role using job postings or",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Motivation",
+      "content_type": "Advice",
+      "reference_link": "https://drive.google.com/file/d/14CzY-daGNilir8kNln43Tsm73D-I_YxC/view?usp=sharing",
+      "source_type": "Book"
+    }
+  },
+  {
+    "chunk_id": "chunk_127",
+    "text": "soft skills and compare them against the requirements for your desired role using job postings or profes- sional resources. • Categorize the gaps into high, medium, and low priority based on relevance and market demand. • Develop a mini action plan for each high-priority gap, including specific learning resources or activities (e.g., “Enroll in a cybersecu- rity fundamentals course within three weeks”). • Revisit your analysis every 3–6 months to track progress and update priorities. Development Plan Creation Objective: Build a structured development plan to close skill gaps effectively.",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Development Plan",
+      "content_type": "Framework",
+      "reference_link": "https://drive.google.com/file/d/14CzY-daGNilir8kNln43Tsm73D-I_YxC/view?usp=sharing",
+      "source_type": "Book"
+    }
+  },
+  {
+    "chunk_id": "chunk_128",
+    "text": "Bridging the “Gap” Instructions: • Based on your gap analysis, outline a development plan with clear goals and timelines for achieving each skill. • Identify the resources required (e.g., online courses, certifications, mentorship). • Break down each goal into milestones (e.g., “Complete first module of AWS training in one month”) and monitor your progress. • Use project management tools like Trello or Notion to organize tasks and stay consistent. Feedback Collection System Objective: Collect regular feedback to improve skills and track perfor - mance growth. Instructions: • Identify 2–3 trusted individuals (mentors, managers, peers) to pro- vide structured feedback. • Schedule quarterly check-ins or surveys for feedback focused on specific areas (technical skills, teamwork,",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Development",
+      "content_type": "Framework",
+      "reference_link": "https://drive.google.com/file/d/14CzY-daGNilir8kNln43Tsm73D-I_YxC/view?usp=sharing",
+      "source_type": "Book"
+    }
+  },
+  {
+    "chunk_id": "chunk_129",
+    "text": "quarterly check-ins or surveys for feedback focused on specific areas (technical skills, teamwork, communication). • Use a template or online survey to gather input. Categorize the feedback into themes and create small, actionable steps for improvement. • Review feedback regularly and adjust your development plan based on insights. Annual Career Strategy Retreat Objective: Review and realign your long-term career goals annually. Instructions: • Set aside a day each year to evaluate your career progress, reflect on your achievements, and identify any new challenges.",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Performance",
+      "content_type": "Advice",
+      "reference_link": "https://drive.google.com/file/d/14CzY-daGNilir8kNln43Tsm73D-I_YxC/view?usp=sharing",
+      "source_type": "Book"
+    }
+  },
+  {
+    "chunk_id": "chunk_130",
+    "text": "• Assess whether your current development plan aligns with market trends and your evolving career aspirations. • Adjust your strategies and development goals to stay on track toward your desired role. • Use this time to set new goals, outline next steps, and identify any certifications or skills to pursue in the coming year. Conclusion Bridging the gap between your current position and where you want to be in your IT career is a dynamic and ongoing process. By accurately assessing your skills, setting targeted goals, and methodically working toward them, you can effectively close these gaps and advance your career. This chapter provided you with the strategies, exercises, and action plan needed to systematically improve and position yourself for success in the competitive field of IT.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career Advancement",
+      "content_type": "Advice",
+      "reference_link": "https://drive.google.com/file/d/14CzY-daGNilir8kNln43Tsm73D-I_YxC/view?usp=sharing",
+      "source_type": "Book"
+    }
+  }
+]

@@ -1,0 +1,290 @@
+[
+  {
+    "chunk_id": "chunk_1",
+    "text": "Hey, welcome back, Terry Kim, your instructor and mentor here. And welcome to the Landry Dream IT job course. We're going to move into Module 3. Module 3, one of my favorites, discovered your dream IT job, right? And in this module, we're going to talk about the big picture of the IT ecosystem. And it's actually in the ecosystem is comprised of three kind of main primary areas. And we're going to dissect that and dive deep into that. And I'm hoping that once you understand the ecosystem, it'll bring some aha moments for you, understanding where you can discover your dream job. And then we'll move into the different career path. We'll break down all the career path and we'll talk about building your future. So here's kind of the breakdown.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Dream Job",
+      "content_type": "Story",
+      "timestamp": "00:00 - 00:53",
+      "reference_link": "https://vimeo.com/reviews/48b3efa2-8184-4747-aaf2-e2591f669f92/videos/247004169",
+      "source_type": "Course"
+    }
+  },
+  {
+    "chunk_id": "chunk_2",
+    "text": "So here's kind of the breakdown. First, a big picture, understanding this is super crucial. You're going to use this throughout your career. And you might find your dream job throughout that ecosystem. And you might move in and out of the different kind of areas within that ecosystem. And we'll also talk about all the different career paths. Like the technical track, we'll also talk about the management track. And we'll dissect together different roles. And I'm going to explain how you can move up across the tracks, and depending on which ecosystem you're in. And then lastly, this is super exciting. I'm going to share with you my personal five-step formula framework that's going to level you up like you've never experienced.",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Career",
+      "content_type": "Advice",
+      "timestamp": "00:51 - 01:39",
+      "reference_link": "https://vimeo.com/reviews/48b3efa2-8184-4747-aaf2-e2591f669f92/videos/247004169",
+      "source_type": "Course"
+    }
+  },
+  {
+    "chunk_id": "chunk_3",
+    "text": "that's going to level you up like you've never experienced. And if you use this framework, you'll be able to build your future and build a vision for yourself. So I'll be sure with you my personal vision board as well. So let's dive right into the big picture of IT and the ecosystem. So the ecosystem, again, as I mentioned, is really in three areas. And they all intersect. And in this magical, we could actually understand this ecosystem. Because within this ecosystem, you're going to find a dream I teach out. So first is the customer side. So on the customer side, you're going to find the big, let's say, any company or organization. For example, it could be working at Nike. It could be working at Bank of America. It could be working at Chevron.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "ecosystem",
+      "content_type": "Story",
+      "timestamp": "01:33 - 02:40",
+      "reference_link": "https://vimeo.com/reviews/48b3efa2-8184-4747-aaf2-e2591f669f92/videos/247004169",
+      "source_type": "Course"
+    }
+  },
+  {
+    "chunk_id": "chunk_4",
+    "text": "It could be working at Chevron. It could be working at Coca-Cola. You see, this is the customer operation side. And depending on your passion, you might be interested in a particular vertical, whether it's finance, whether it's disrupting cars. Like you could actually go work for Uber. Good friend of mine and also mentor on the platform is a network engineer at Uber. He's one of the senior leads over there, building out data centers around the world, traveling the globe. Like he's been in Bangkok, Thailand, Amsterdam, Germany, you name it. How awesome is that? Traveling the world, building out infrastructure for Uber. Because their infrastructure is in-house, right? So older IT stuff is in-house versus like out in the cloud or its outsource.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career",
+      "content_type": "Story",
+      "timestamp": "02:36 - 03:35",
+      "reference_link": "https://vimeo.com/reviews/48b3efa2-8184-4747-aaf2-e2591f669f92/videos/247004169",
+      "source_type": "Course"
+    }
+  },
+  {
+    "chunk_id": "chunk_5",
+    "text": "So older IT stuff is in-house versus like out in the cloud or its outsource. That therefore requires a lot of smart people in-house. And you could always choose to work on the customer side. Now, the next kind of area that makes up this equal system is the manufacturers. So manufacturers, there's literally hundreds of manufacturers or thousands, actually. And I'm going to name some big ones like Cisco, Amazon, Orista, Nutanix, Palauta. All right? So the manufacturers are the technology companies, right? The vendors, so to speak. And in the manufacturers, I've had the privilege to work for Cisco as a systems engineer and also working for Orista networks. So let's talk about some of these manufacturers. Cisco is going to be the big one, right?",
+    "metadata": {
+      "domain": "IT",
+      "topic": "IT stuff",
+      "content_type": "Story",
+      "timestamp": "03:31 - 04:45",
+      "reference_link": "https://vimeo.com/reviews/48b3efa2-8184-4747-aaf2-e2591f669f92/videos/247004169",
+      "source_type": "Course"
+    }
+  },
+  {
+    "chunk_id": "chunk_6",
+    "text": "Cisco is going to be the big one, right? That's the 800 pound gorilla for our career field of network engineering. And now Cisco competes across the technology stack. It'll just focus on routing and switching back when in the late 90s early 2000s they came about. Now they're into voice, video systems, wireless, cloud, security, server, computer. You name it. They have a product set in that technology stack. Now if you look at Amazon, Amazon in this case is what I'm talking about is AWS. Amazon Web Services. Now Amazon could also be here. I knew a client of mine, he was a network engineer and then he got recruited. He applied for a job in Seattle working at Amazon in their ITT. Right?",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career",
+      "content_type": "Story",
+      "timestamp": "04:41 - 05:44",
+      "reference_link": "https://vimeo.com/reviews/48b3efa2-8184-4747-aaf2-e2591f669f92/videos/247004169",
+      "source_type": "Course"
+    }
+  },
+  {
+    "chunk_id": "chunk_7",
+    "text": "Right? So they could also fall in this bucket as well. But Amazon Web Services, they're the leader, right? When it comes to cloud computing. So if you're passionate about learning about cloud or getting into even like DevOps, I mean, that's another area that you can focus on. Arista networks, they power some of the largest data centers in the world. Yahoo Google eBay, you name it, Google, like Facebook. They use Arista's spiny architecture to really push really heavy traffic. They have like 100 gig pipes and building a lot of resiliency and redundancy. So they have some amazing architecture around data center and they're disrupting that space. Nutanets, the leaders for hyper convergence where they can consolidate, you know, roles",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Cloud Computing",
+      "content_type": "Story",
+      "timestamp": "05:40 - 06:31",
+      "reference_link": "https://vimeo.com/reviews/48b3efa2-8184-4747-aaf2-e2591f669f92/videos/247004169",
+      "source_type": "Course"
+    }
+  },
+  {
+    "chunk_id": "chunk_8",
+    "text": "of a server racks with old legacy kind of technologies, whether it's flash storage to WAN acceleration to backups to blade centers to all these different components that make up a actual computer rack to service applications, they're able to converge into a two or you form back their box and be able to have software drive the innovation for all those needs. So like replacing 10 to 12 legacy technology stacks, compressing it into a two or you server, Nutanets hyper convergence, another huge space parallel to networks who reinvented firewall for the next generation. The Cisco was lagging behind that. Later Cisco acquired a company called SourceFire to up their game on their security portfolio for over like a billion dollars I believe.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Server Racks",
+      "content_type": "Story",
+      "timestamp": "06:31 - 07:37",
+      "reference_link": "https://vimeo.com/reviews/48b3efa2-8184-4747-aaf2-e2591f669f92/videos/247004169",
+      "source_type": "Course"
+    }
+  },
+  {
+    "chunk_id": "chunk_9",
+    "text": "for over like a billion dollars I believe. So a lot of big companies also acquire smaller companies that come out into the space that become what's important as best of three. So it's pretty cool to go work for a best of three company. When they emerge because it might be across a certain technology, IT trend, right? You find the best SDWAN player, blessed cloud and working provider, best wireless, best of breed company and you can find other manufacturers. When Cisco was lagging behind access campus like switching and wireless at the same time, Rubik came out with a switch. Rubik came out with a switch that actually had wireless controller ship built in here. Into the switch you would have thought of that consolidating wireless controller where that controller can manage multiple APs, right?",
+    "metadata": {
+      "domain": "IT",
+      "topic": "acquisition",
+      "content_type": "Story",
+      "timestamp": "07:34 - 08:46",
+      "reference_link": "https://vimeo.com/reviews/48b3efa2-8184-4747-aaf2-e2591f669f92/videos/247004169",
+      "source_type": "Course"
+    }
+  },
+  {
+    "chunk_id": "chunk_10",
+    "text": "that controller can manage multiple APs, right? In service PCs, right, printers, whatever, right, that switch. Now one switch can manage that and have a seamless user experience for connecting devices because mobile was blown up. We're really excited to disrupt that space. Cisco was like, well, we need to do something. They actually copied a Rubik basically and started building controllers into their switching and came up with a whole other line of switches, right? 30, 30, 650s and 30, 850s. So as an engineer, it's important to understand what's coming out of the marketplace, what products are an ideation from something needing to be innovative or disruptive, right? Also how do you do more or less? How do you be more agile, right?",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Network",
+      "content_type": "Story",
+      "timestamp": "08:38 - 09:38",
+      "reference_link": "https://vimeo.com/reviews/48b3efa2-8184-4747-aaf2-e2591f669f92/videos/247004169",
+      "source_type": "Course"
+    }
+  },
+  {
+    "chunk_id": "chunk_11",
+    "text": "Also how do you do more or less? How do you be more agile, right? Company CIOs is top of mind, right? How can I spend less money? How can I do more or less with my small team because I can't expand team or hire more people? So this is the manufacturing world and you see a lot of the best of breed companies come about. Palo Alto next generation, firewalls are much of that. And then lastly is the partners. We're also referred to as the value added resellers. And this makes up the ecosystem so we can name players like CDW, which is like an Amazon for computer stuff. So I can purchase stuff on this shopping site and just order stuff like a switch rather your name it software.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Agility",
+      "content_type": "Story",
+      "timestamp": "09:31 - 10:31",
+      "reference_link": "https://vimeo.com/reviews/48b3efa2-8184-4747-aaf2-e2591f669f92/videos/247004169",
+      "source_type": "Course"
+    }
+  },
+  {
+    "chunk_id": "chunk_12",
+    "text": "your name it software. But they're actually one of the biggest bars that offer consulting services like implementation services. So they're one of the largest bars. And within a bar there's these kind of tiers depending on how much money they can sell of a manufacturer's product. Like they're not necessarily called this but like gold silver bronze, right? Different tiers depending on how big the partner is. The higher you go up when a partner, the more opportunity the more jobs they'll have. So if we look at a CDW, they're probably the highest partner they can be, Francisco or Arista or Amazon Web Services or Nutanis. And it's not uncommon for a partner like CDW to sell multiple technologies of different manufacturing products.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Partner Tiers",
+      "content_type": "Story",
+      "timestamp": "10:29 - 11:30",
+      "reference_link": "https://vimeo.com/reviews/48b3efa2-8184-4747-aaf2-e2591f669f92/videos/247004169",
+      "source_type": "Course"
+    }
+  },
+  {
+    "chunk_id": "chunk_13",
+    "text": "manufacturing products. So when something hot comes out on the market, CDW and the team is going to be like, we need to learn that stuff. Why? Because our customers are going to want this new technology, right? So this is the partner community. There's also dimension data. One of the companies I work for, one of the largest global partners in the world. They have like several thousand engineers in their business. I mean, that's a lot of job opportunity, right? To deploy billions and billions of dollars of purchased equipment for the customer. So this is the entire ecosystem where we take a manufacturing product. The partners get educated, learn about it. And the partners present it to Coca-Cola, you know, and then sell the solution to solve",
+    "metadata": {
+      "domain": "IT",
+      "topic": "manufacturing products",
+      "content_type": "Story",
+      "timestamp": "11:29 - 12:19",
+      "reference_link": "https://vimeo.com/reviews/48b3efa2-8184-4747-aaf2-e2591f669f92/videos/247004169",
+      "source_type": "Course"
+    }
+  },
+  {
+    "chunk_id": "chunk_14",
+    "text": "a business problem. And also partners, right? You also have even partners that are manufacturers themselves that sometimes play this one, like IBM. IBM is a partner for Cisco. One of my friends is an architect over there. All he does is travel across the US doing nexus deployments. So data center, architecture and design, and he designs it and then implements it. So he'll go on site for three months, do the whole project, and then go to another project and just travel. And that's all he does. Anywhere's for IBM. So he's a Cisco architect at IBM, right? And then you have even like big companies like Accenture, right, on the partner side. So there's a very diverse group of people that can actually partner consult and sell",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "business",
+      "content_type": "Story",
+      "timestamp": "12:26 - 13:24",
+      "reference_link": "https://vimeo.com/reviews/48b3efa2-8184-4747-aaf2-e2591f669f92/videos/247004169",
+      "source_type": "Course"
+    }
+  },
+  {
+    "chunk_id": "chunk_15",
+    "text": "manufacturing products and solutions to the customers. All right. Well, this is the ecosystem and it's important to understand the big picture of this ecosystem. Why? Because you may start off working for Uber on the help desk, right? And we'll talk about the different roles and how you can work your way up through different roles, depending where you start. So I could be a help desk tech at Uber and work my way up on the customer side in ITT. Or I could go work for a imagine one of these manufacturers where the technical support center, right? Good friend of mine that now works at Uber, he started at Cisco's Technical Assistance Center as a tier one technical support guide, answering phone calls, you know, troubleshooting, you know, working on tickets.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career",
+      "content_type": "Story",
+      "timestamp": "13:23 - 14:20",
+      "reference_link": "https://vimeo.com/reviews/48b3efa2-8184-4747-aaf2-e2591f669f92/videos/247004169",
+      "source_type": "Course"
+    }
+  },
+  {
+    "chunk_id": "chunk_16",
+    "text": "you know, working on tickets. And then he would escalate if he can't figure it out, but that's like to help this for the manufacturer. So there's entry level positions in every ecosystem chamber, right? So even on the partner side, you could be the guy that's pulling cable, racking out and the stuff, doing the grunt work, so to speak, right? Or you could work in the actual support center. All these like partners have also technical support as well. And sometimes they even resell technical support for the manufacturing stuff with better SLAs and things like that. And there's another kind of world that I don't really fit into this from an engineering perspective, which I would say is a mis like a rookie mistake to make is living in the MSP world.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "career",
+      "content_type": "Story",
+      "timestamp": "14:19 - 15:16",
+      "reference_link": "https://vimeo.com/reviews/48b3efa2-8184-4747-aaf2-e2591f669f92/videos/247004169",
+      "source_type": "Course"
+    }
+  },
+  {
+    "chunk_id": "chunk_17",
+    "text": "MSP world. So kind of an attachment to the partner side, there's an MSP world called Managed Services Provider. In the Managed Services Provider, what you see is typically tier one, tier two, like help desk troubleshooting support, where let's say if your company is a 50 man organization and you don't have the budget to hire or build an IT team, an MSP can offer you IT as a service, right? They can remote into your PCs when someone's having some issues, connectivity issues to the wireless access point. They may even install the wireless apps. They may even like basically manage your infrastructure. And MSP is also another way for you to be a consultant. Lots of people that go into consultancy will start up as an MSP and then upgrade to",
+    "metadata": {
+      "domain": "IT",
+      "topic": "MSP world",
+      "content_type": "Story",
+      "timestamp": "15:12 - 16:08",
+      "reference_link": "https://vimeo.com/reviews/48b3efa2-8184-4747-aaf2-e2591f669f92/videos/247004169",
+      "source_type": "Course"
+    }
+  },
+  {
+    "chunk_id": "chunk_18",
+    "text": "Lots of people that go into consultancy will start up as an MSP and then upgrade to a value added reseller when they start doing bigger projects. These guys play on kind of the lower tier, lower level in my opinion. And here it's like putting on a lot of fires. It's like being on the help desk 24-7. So a lot of opportunities here is minimal in my opinion. It's okay to start off with MSP, but I would highly recommend moving from an MSP into a viral world if you want to see more opportunities and more potential for growth and to work on more big, impactful projects. All right. So that's the MSP world, value added reseller world. We'll talk about next is different career paths and we'll also maybe come back to this",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career Paths",
+      "content_type": "Story",
+      "timestamp": "16:02 - 16:57",
+      "reference_link": "https://vimeo.com/reviews/48b3efa2-8184-4747-aaf2-e2591f669f92/videos/247004169",
+      "source_type": "Course"
+    }
+  },
+  {
+    "chunk_id": "chunk_19",
+    "text": "as a reference to talk about different roles that reside in these chambers, right? But this is the entire IT ecosystem. You should be very familiar with it. You should understand that what's being attacked or hidden opportunities that reside are in this bar and manufacturing world. Right? A lot of people actually go into the IT career field and they're blindsided by this. They don't see this. You know, they actually just focus here. They live in breeze here. So my moment, my moment was when I was at the customer side at the bank and then I had to get to lead a project. I was like, wow. Like my boss, to be for him to be successful, he needed to like get a project delivered on time, you know, within budget and like make impact, right?",
+    "metadata": {
+      "domain": "IT",
+      "topic": "IT ecosystem",
+      "content_type": "Story",
+      "timestamp": "16:57 - 17:58",
+      "reference_link": "https://vimeo.com/reviews/48b3efa2-8184-4747-aaf2-e2591f669f92/videos/247004169",
+      "source_type": "Course"
+    }
+  },
+  {
+    "chunk_id": "chunk_20",
+    "text": "on time, you know, within budget and like make impact, right? So the business made the IT team shine. So I was like, wow, projects is key. So that was early on in my career. I figured out that projects was where I needed to focus on my energy. And when I got to working on projects, I found that projects and like consultancy was the partners were pitching basically the solution. What were they pitching to manufacturing stuff, right? So everyone like drinks to Cisco Kool-Aid when you're becoming a network engineer and you're like, wow, Cisco technology, amazing. And what you don't realize is that you're just so caught up in your day-to-day job. You don't think about opportunities that reside in these worlds or you think, I'm not good enough. Those guys are geniuses.",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Career",
+      "content_type": "Story",
+      "timestamp": "17:48 - 18:36",
+      "reference_link": "https://vimeo.com/reviews/48b3efa2-8184-4747-aaf2-e2591f669f92/videos/247004169",
+      "source_type": "Course"
+    }
+  },
+  {
+    "chunk_id": "chunk_21",
+    "text": "good enough. Those guys are geniuses. Those guys are, but they're not. They were all having like a spot where you guys were, right? In one point in their career. And just going to like, I'm going to be a systems engineer today, sort of designing networks and you know, security and think about it, right? They were, they were all started off with zero experience, right? No one was born with like chip in-pranning into the brain, you know, and they're just like all of a sudden they know engineering inside and out. So think about that. So if you think about that, I want you to open up your eyes to all the opportunities. So next time or when you're working up the five step, God in your career, think about",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Mindset",
+      "content_type": "Story",
+      "timestamp": "18:34 - 19:19",
+      "reference_link": "https://vimeo.com/reviews/48b3efa2-8184-4747-aaf2-e2591f669f92/videos/247004169",
+      "source_type": "Course"
+    }
+  },
+  {
+    "chunk_id": "chunk_22",
+    "text": "your position, your current environment, the project you're working on, think about be resourceful, right? So this is going to be key. Look at your surroundings and find out like who can I leverage, who can I learn from, and figure out where all these players reside in the ecosystem. Because I bet you that once you start your first IT job, or if you're already in IT, is you're going to be living in this ecosystem somewhere. And if you're living in this ecosystem, you're going to be able to see opportunities as a, your competition basically, let's put it in that way, right? You're going to be blindsided. And you're going to be like, well, there's opportunities, opportunities. You know, guess what? Instead of your peers saying, you know, I don't trust his vendor.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "IT Job",
+      "content_type": "Story",
+      "timestamp": "19:19 - 20:04",
+      "reference_link": "https://vimeo.com/reviews/48b3efa2-8184-4747-aaf2-e2591f669f92/videos/247004169",
+      "source_type": "Course"
+    }
+  },
+  {
+    "chunk_id": "chunk_23",
+    "text": "Instead of your peers saying, you know, I don't trust his vendor. You should be like, man, his vendor is awesome. I'm going to buddy up with this guy and learn everything he knows because guess what? I'm going to build a bond because later if a position opens up at his company, he might pick me on it, right? He might be like, hey, Terry, I was just thinking about you because you're a soul gun about this technology. We just opened up a junior slot or whatever. And like, he just pings you. And that's an amazing opportunity. So always don't underestimate like who you might run into one day, who you might be working with one day. Someone might become an SC manager that was your peer one day.",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Networking",
+      "content_type": "Advice",
+      "timestamp": "20:00 - 20:43",
+      "reference_link": "https://vimeo.com/reviews/48b3efa2-8184-4747-aaf2-e2591f669f92/videos/247004169",
+      "source_type": "Course"
+    }
+  },
+  {
+    "chunk_id": "chunk_24",
+    "text": "Someone might become an SC manager that was your peer one day. It happens all the time in this ecosystem where you're working here and this person goes here and he's a manager's SC manager because he took a different track. Now you have your phone call away, right? Your one connection away. To that next opportunity.",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Career Advancement",
+      "content_type": "Story",
+      "timestamp": "20:38 - 21:00",
+      "reference_link": "https://vimeo.com/reviews/48b3efa2-8184-4747-aaf2-e2591f669f92/videos/247004169",
+      "source_type": "Course"
+    }
+  }
+]

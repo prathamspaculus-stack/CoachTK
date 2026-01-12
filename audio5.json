@@ -1,0 +1,338 @@
+[
+  {
+    "chunk_id": "chunk_1",
+    "text": "You don't have to become manager in order to grow in your career. Each week we provide tech lessons, answer questions, and bring you interviews of the most successful engineers and thought leaders working in the IT space across technologies like data center, cloud, networking, collaboration and security. Listen in as you'll gain insights, strategies, tips, and more to help you level up along your journey in becoming a rockstar SE. So let the class begin. All right, SE nation. Let's get started. I am super excited to introduce my guest today, Sean Zandee. Sean Zandee is a lead infrastructure architect at LinkedIn, where he builds large scale data centers, backbones and is in charge of the networks. Over the past two decades, Sean has worked as a network and security architect for consulting firms from Dubai to Silicon Valley.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career Growth",
+      "content_type": "Story",
+      "timestamp": "00:00 - 00:57",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP10_-_Interview_-_Shawns_Journey_from_Dubai_to_Silicon_Valley.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_2",
+    "text": "He holds many publications, patents, and certifications, including three CCIEs and is also a CCDE. Hey, Sean, what's going on, my man? Hey, Tari, I'm doing good. Thank you. All right, you ready to rock the show, Sean? Let's do it. All right, let's go. Well, since I've given our listeners an overview, can you go ahead and please tell us a little more about yourself, such as where you're from, your current role, and maybe some hobbies. My name is Sean Zandee. Well, my job on make and sometimes break networks. That's my job. I have a weird mix of hobbies. I think it's better to start from the classy ones to crazy ones. I like art. I spend some of my weekends painting while having a wine listening to good music. On the extreme side, I enjoy car racing, driving sport, convertible cars in California. It's a hobby in a currently in Bay Area.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Interview",
+      "content_type": "Story",
+      "timestamp": "00:57 - 01:56",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP10_-_Interview_-_Shawns_Journey_from_Dubai_to_Silicon_Valley.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_3",
+    "text": "It's a very beautiful sunny day in San Francisco and Christmas is right around the corner. Yeah, sure is. No, thanks. So before we get started, Sean, let's go ahead and share with our audience. Maybe your favorite quote and let us know why you chose this one in particular. I chose RFC 1925 and this is a well known one, the 12 networking through rule 11 that it says every old idea will be proposed again with a different name and a different presentation, regardless of whether it works. And I chose this because of our work on a recent article regarding SDN recently, there was a there is a hype in industry and every market that seeks attention as media is evolving media market advertisement, even politicians keep feeding us as a lot of processed information, but they're for a specific intent or not. It is our responsibility as observer or receiver to question it.",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Mindset",
+      "content_type": "Story",
+      "timestamp": "01:57 - 03:02",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP10_-_Interview_-_Shawns_Journey_from_Dubai_to_Silicon_Valley.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_4",
+    "text": "Even with our limited set of facts before ultimately accepting rejecting or ignoring that information. So that was my connection to rule 11 for this audience today. I see no, thank you. Thank you. That's very unique in itself to even introduce an RFC as a quote. It's just awesome. So let's now kind of go back in time right and just tell the audience how you actually started your IT career journey. Take us back in time. Well, well, I started it on my door 64. I was a kid back in 88 89 in Germany. I wrote my first program in basic language. And I tried to write a chess game when it was maybe second or third grade in elementary school and well, miserable failed. I didn't never worked out. Then later in the school, we had this computer class that we used to mess with our with the lab itself and our teacher.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career Journey",
+      "content_type": "Story",
+      "timestamp": "03:03 - 04:08",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP10_-_Interview_-_Shawns_Journey_from_Dubai_to_Silicon_Valley.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_5",
+    "text": "We had IBM AD86 ADADA CPU rate was like five megahertz or 10 megahertz that was days memory was good. We had about 512k. I remember I wrote this a slubby testers program that everybody was using and in the end I did not get a good grade out of it. I remember the teacher told me you're not a bad programmer, but you're too proud of yourself and you're still you know you keep teasing us. So I'm going to give you a bad grade. And that was the lesson for me to stay humble and keep learning. We're always a students. Absolutely. So from there, how did you get I saw your background you had majored in computer science, but how did you break into it like your first job or whatnot. Tell us kind of that journey.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career",
+      "content_type": "Story",
+      "timestamp": "04:08 - 05:02",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP10_-_Interview_-_Shawns_Journey_from_Dubai_to_Silicon_Valley.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_6",
+    "text": "Sure, I think I was lucky to start networking right at the right time that when networking really took up around 90s. I finished my high school those days and I was deciding whether to go to college or go to workplace and doing some good projects and having not much money at that time I chose to go to work first. I installed token ring, thick necked Ethernet IPX SPX. Those kind of things those days. I remember PCP IP for novel came it was a game changer. We used to have you know windows and he had the fresh new things. Remember my friends used to order multiple PSD in our T1 or even depending on location to create a dial up I speak in their home in their garage. And I used to charge them for consulting and building those networks. I moved to voiceover IP calling cards around 2000 terminating originating calls over internet to reduce international phone bills for people.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Networking",
+      "content_type": "Story",
+      "timestamp": "05:02 - 06:14",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP10_-_Interview_-_Shawns_Journey_from_Dubai_to_Silicon_Valley.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_7",
+    "text": "And I think it was first time I noticed that my work is making an impact. People were really happy to talk to their loved ones over distance without fear of phone bills. Those days being an administrator as administrators we had some power hidden power checking people's phone like pages they browse, invading or protecting their privacy depending on how you look at it hacking was a gray area. It was not a crime in most places or I was not aware of that. Now the sharing was not that much common internet was you know shaping up Cisco was the biggest company on the planet at that time. It was a good time to start your career I started like many other people in the Cisco world with the CCNA was around 19 years old in 2000 very very speaking English it was not easy for me. And where were you at this time were you in Germany or were you.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career",
+      "content_type": "Story",
+      "timestamp": "06:14 - 07:20",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP10_-_Interview_-_Shawns_Journey_from_Dubai_to_Silicon_Valley.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_8",
+    "text": "And where were you at this time were you in Germany or were you. I was getting these projects for hotels and tall buildings to implement networks for different reasons they had their building management system over IP they had their CCTV physical security and I was able to order whatever I like and nobody was questioning it. Definitely not my most economical network designs but do I was just building up and scaling the infrastructure. It gave me a lot of hands on experiences along with finally finishing my degree those days eventually let me to Silicon Valley through set of projects and I have stayed here so far. So that's so interesting how did you end up finding those projects was it online you applied for a job or how did you get connected to that first kind of network job.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career",
+      "content_type": "Story",
+      "timestamp": "07:16 - 08:20",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP10_-_Interview_-_Shawns_Journey_from_Dubai_to_Silicon_Valley.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_9",
+    "text": "So I remember the very first one I just went door to door to every partner of manufacturers like whether Cisco is a junior per found read those days and tell him then and that's I'm available if you have any project I can contract you and there were so many projects those days. There were no knowing how to configure these things and other thing was being able to having multi vendor kind of knowledge to interrupt and connect all these you know pieces together. I see and then you you were probably self taught right yourself taught yourself and you got your first CCN a certifications right lack of public shared knowledge. So that's the luxury that taught me how to teach myself self study is a thing is it's a it's a good skill to learn every engineer should should become better and better in you know self guides and self study.",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Self Study",
+      "content_type": "Advice",
+      "timestamp": "08:20 - 09:29",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP10_-_Interview_-_Shawns_Journey_from_Dubai_to_Silicon_Valley.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_10",
+    "text": "So I love the story Sean I mean I think some key takeaways for S C nation to hear you know that you just kind of mentioned I just want to highlight is like like I love the hustle first of all trying to gain more hands on skills by just knocking doors and door across the manufacturers just trying to get you know more projects under your belt because like in my career the best years of my career where I really accelerated was through projects right. The hands on is very key in and instrumental so no thanks for sharing that so you went from there from Dubai and then now to Silicon Valley I'm curious just what were some key moments that really helps you accelerate your career that you can share with the audience.",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Career",
+      "content_type": "Story",
+      "timestamp": "09:29 - 10:16",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP10_-_Interview_-_Shawns_Journey_from_Dubai_to_Silicon_Valley.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_11",
+    "text": "A lot of stuff happened right we're talking about from maybe 97 98 to now which is 2000 almost 17 being able to keep up with technology trends at the right time and entering the market and reading a lot doing hands on experience spending a lot of times troubleshooting there's a lot of you know things to mention here. Yep. So one is keeping up with all the latest trends right you can't be left behind on that and then seems like troubleshooting is very essential for students to really grasp early on. And it's very important to not get distracted by new trends and know which ones are critical and which ones are practical and related to your the field that you're working because you can you know read a lot about different things but don't necessarily grasp the concept fundamentally unless you really use that knowledge in your job on a daily basis.",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Keeping Up",
+      "content_type": "Advice",
+      "timestamp": "10:16 - 11:33",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP10_-_Interview_-_Shawns_Journey_from_Dubai_to_Silicon_Valley.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_12",
+    "text": "I see is there any recent trends that you would recommend that has become a little more grounded that students could maybe start you know tapping their skills or reading up on that might become a serious skill that might be needed in the enterprise. Well, since we're talking about networking definitely we are talking about DevOps recently and there's a lot of and talks around it what it really means is try to script and automate your work so that you can accomplish your daily job or at least the project that you're doing in a more effective way you can never automate the thought process. And at least take your time in doing the tedious work and automate that part and then you're going to open up some more time to learn other stuff. Okay, awesome. There you go guys, you know brush up on some DevOps skills. I know like Python is popular programming language for network engineers maybe even like go for automation scripting.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "DevOps",
+      "content_type": "Advice",
+      "timestamp": "11:33 - 12:45",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP10_-_Interview_-_Shawns_Journey_from_Dubai_to_Silicon_Valley.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_13",
+    "text": "Are there ones that you particularly recommend or you've brushing up on people usually started Python I think that's a very good suggestion. Yep, but it really depends on what you're working on what API's and what platforms you're using any programming language can give you that necessarily the essential understanding of programming and that's the important one. Okay, perfect. Well, let's go on and just kind of talk about maybe a current or past project you worked on that really excited you and share with us, you know why and the reasons behind that. Sure thing is really hard to point out one thing, but currently our work has architect for LinkedIn for from infrastructure standpoint. Very first time I'm alive that I'm working for a company for almost five years and the reason I stayed this long is that we are not running out of challenges and puzzles.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Programming",
+      "content_type": "Example",
+      "timestamp": "12:45 - 13:49",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP10_-_Interview_-_Shawns_Journey_from_Dubai_to_Silicon_Valley.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_14",
+    "text": "And that's the standard entertaining part. My recent project was leading our next generation data center design, which is called alter that we fundamentally changed many building blocks over design and reduce the cost drastically while simplifying our architecture. We have more information about this in engineering blog in LinkedIn. The good thing about LinkedIn and I don't want to talk about the specifics here. Yeah, I'm not supposed to you don't have to become manager in order to grow in your career and people around me know that I don't like to be a people manager per se dealing with vacations times budgeting family issues.",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Career Growth",
+      "content_type": "Advice",
+      "timestamp": "13:49 - 14:34",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP10_-_Interview_-_Shawns_Journey_from_Dubai_to_Silicon_Valley.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_15",
+    "text": "As an engineer, I like to grow in my craft to the science parties more entertaining not necessarily the rank and that is one of the fundamental reasons that I like this company me along with my friend and current manager started this architecture group couple years back and took charge of I took charge of building a team. We don't anybody asking me and bringing people hiring negotiating with other engineers convincing others about innovations that we would like to see was more challenging for me than pure engineering and technical aspect is the part of the craft that you learn as you become more senior engineer. And that's not necessarily related to the field of work that you're doing. But you learn a truly experience.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career",
+      "content_type": "Story",
+      "timestamp": "14:34 - 15:27",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP10_-_Interview_-_Shawns_Journey_from_Dubai_to_Silicon_Valley.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_16",
+    "text": "But you learn a truly experience. Okay, let's talk about a couple of things you mentioned. So I know we won't we won't dive into the specifics. So project alter is that something that you let a team in just kind of reshaping the way data centers are built within within LinkedIn is that is that a good assumption. We are scaling rapidly and we are building data centers every year. And it is very important to stick to the most simplistic approach while scaling out your network and also being able to control and own your architecture without any influences from the market or vendors and stay in control of your end to end networking stack or the whole infrastructure as compute. Storage network or all part of it and it was a very critical project for us.",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Scaling",
+      "content_type": "Story",
+      "timestamp": "15:24 - 16:22",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP10_-_Interview_-_Shawns_Journey_from_Dubai_to_Silicon_Valley.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_17",
+    "text": "Storage network or all part of it and it was a very critical project for us. I see well, I will definitely link up the show notes for your your post. I saw early in the year you did a LinkedIn post under LinkedIn engineering project alter and shared some specifics there. Is there anything you want to kind of mention on on that article piece? It's basically the article itself talks about the mostly about strategy and approaches that we had in this project, not necessarily about specifics or configurations or languages or vendors or those kind of things. There were so many lessons learned in that project in that scale. And you know the more that you grow in your career, you learn that convincing people selling your ideas, conflict resolution, presentation skills, basically soft skills are become more and more important than daily code or take reviews.",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Career Growth",
+      "content_type": "Advice",
+      "timestamp": "16:14 - 17:16",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP10_-_Interview_-_Shawns_Journey_from_Dubai_to_Silicon_Valley.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_18",
+    "text": "And that was one of the things that early as earlier suggest to people that you don't need to have authority or title or position to lead can be a leader that people follow voluntarily as long as you're a good engineer. I love that. I think there's so many takeaways here Sean like that our listeners will appreciate and maybe we'll have to dive a little more deeper into just thinking about the concept in general. Like I see so many aspiring engineers that are either in the field or want to break into this field think like in order to accelerate their career, they have to go into a management position and be a manager or become a director of IT or a VP of technology where really the truth is that they could accelerate their career just by being an awesome engineer and just leveling up their skills right to your point. Absolutely. And you know in most cases becoming a manager is the end of the road for for the engineering.",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Leadership",
+      "content_type": "Story",
+      "timestamp": "17:16 - 18:17",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP10_-_Interview_-_Shawns_Journey_from_Dubai_to_Silicon_Valley.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_19",
+    "text": "It starts in you know completely different career. Yep exactly I totally agree with you. It's it's a different track and there's nothing wrong with the management track but you know it's at all. Yeah it's you have to decide at in one point in your career right to decide to take the management track or do you want to be an engineer and there's nothing wrong with being an engineer your whole career and you can still accelerate right. Right. And yeah the takeaway is probably is that make your know your options and make your choice based on whatever makes you happy. So what was the let's say let's just kind of bowl it down to maybe three big lessons you learned in this project what would they be. I don't really know if you want to quantify that way.",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Career",
+      "content_type": "Story",
+      "timestamp": "18:17 - 19:05",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP10_-_Interview_-_Shawns_Journey_from_Dubai_to_Silicon_Valley.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_20",
+    "text": "I don't really know if you want to quantify that way. I think there is a lot of stuff the most important one is that when you're working as an operator for company as such you don't want to change your strategy based on changes in vendor. So you're working in vendors architecture that you have to you know follow certain some of the vendors and it's part of the business that they don't sell you necessarily a single product they sell you the whole overall solution. So you go deep inside that solution you see that it has many components and part that play in hand in hand but in some cases they lock you in in specific proprietary way that you have to, for example, order a component and then it comes in another component and there are protocols that are not open and then you start with that architecture and you cannot easily scale that architecture unless you have vendor locks.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Vendor Lock",
+      "content_type": "Story",
+      "timestamp": "19:01 - 20:06",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP10_-_Interview_-_Shawns_Journey_from_Dubai_to_Silicon_Valley.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_21",
+    "text": "Yes, so one of the in the decision process is important for anybody who is responsible for his infrastructure to make those hard decisions that do I want to bring this knowledge inside and give myself control based on the team and competency that exists or rely on outsourcing and vendor to control it for you. And there's no right or wrong answer it just depends on your case. The size of enterprise and what you're doing but you have to be aware of all the options that you have and have a long term plan. Okay, no perfect. Thanks for summarizing. So let's kind of shift gears and now kind of talk about the keys to success that really help you get to where your ad Sean. So first of all, do you have any daily weekly rituals that have helped you become successful as an engineer? Success is one of those words, right?",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Decision",
+      "content_type": "Advice",
+      "timestamp": "20:06 - 21:07",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP10_-_Interview_-_Shawns_Journey_from_Dubai_to_Silicon_Valley.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_22",
+    "text": "Success is one of those words, right? Well, I don't know if there is no formal access other than work hard and play harder. There are mox in our office they see on a daily basis B ambitious work hard and play harder. For me, good rest, good breakfast, having my caffeine, I drink a lot to concentrate. The rest depends on your motivation and the gift that you're born with and to do the magic and make you successful. Again, success can mean different things to different people but whatever it is for you, you have to commit and write your own story. Love it. What are some things you do to keep up with technology that help you build mastery in certain skills or getting new skills? I think you have to be hungry. You have to read a lot and well at that I don't mean read for example tweets, short blogs or news articles necessarily.",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Success",
+      "content_type": "Advice",
+      "timestamp": "21:04 - 22:05",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP10_-_Interview_-_Shawns_Journey_from_Dubai_to_Silicon_Valley.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_23",
+    "text": "Reading in depth and really grasping and understanding the concept so that you don't easily lose it. I was reading a book recently on my flight back to SFO because the mechanism of mine it was comparing human brain with computer CPU and memory. The way it described it, apparently our brain does both functions as part of the memory surface. There is no processing memory in individual components. In most cases you forget something because you just stored the description like names, numbers, specs, not the explanation and there's a difference between the description versus the explanation. We should focus on learning concepts in detail. What is your favorite tool or application or website that you want to share with our listeners?",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Learning",
+      "content_type": "Story",
+      "timestamp": "22:05 - 23:07",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP10_-_Interview_-_Shawns_Journey_from_Dubai_to_Silicon_Valley.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_24",
+    "text": "Since your content is educational I thought to call out or being part of LinkedIn family I would like to call out the LinkedIn learning. But outside that there is this channel on YouTube which I sometimes check it talks about basic but fundamental and philosophical subjects and life. It calls school of life. I would suggest to check that out. Okay. We'll put that in the show notes. Lastly, what book would you recommend to SE Nation and why? And we just talked about one book. There are so many good books out there. I would go a little bit out of the scope of the conversation that we have. And I suggest a book by Lawrence Cross called Universe from Nothing. It's a book that teaches us good essential scientific reasoning.",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "SE Nation",
+      "content_type": "Story",
+      "timestamp": "23:07 - 24:02",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP10_-_Interview_-_Shawns_Journey_from_Dubai_to_Silicon_Valley.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_25",
+    "text": "It's a book that teaches us good essential scientific reasoning. It talks about the theory of how Universe might be formed through a series of events. I think as an engineer or scientist whether you agree or not with the concept is important to be able to listen and understand it, opposing opinion in order to challenge your own ideas and improve your own ideas. There are some people that I enjoy working with. They are listening to understand not only listen to respond and that elevates the whole outcome of the idea whether it's better or improved idea or going and changing or fundamental views. All right, guys. So that's let's transition into the tech topic of the day. So Sean, tell us what do you want to share with our listeners?",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Effective Listening",
+      "content_type": "Advice",
+      "timestamp": "23:58 - 24:47",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP10_-_Interview_-_Shawns_Journey_from_Dubai_to_Silicon_Valley.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_26",
+    "text": "So Sean, tell us what do you want to share with our listeners? And it might not be new to everyone. There's a topic in recent years applying machine learning to big data and artificial intelligence. We collect a lot of data and we can use this data to predict and answer adopt without implicitly programming the outcome. Computers are good in our superior in calculation while human brain is very good at pattern recognition. What I'm spending time recently and mostly studying how we can apply this artificial intelligence and machine learning to networking to be able to resolve or troubleshoot problems with minimal human interaction to create a self healing network. At least at the cons of the actual and philosophical side. I'm studying it to see how we can make it more pragmatic and that would be probably our journey to the sky net.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "AI in Networking",
+      "content_type": "Story",
+      "timestamp": "24:43 - 25:51",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP10_-_Interview_-_Shawns_Journey_from_Dubai_to_Silicon_Valley.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_27",
+    "text": "Yeah, this is pretty cool stuff, right? Applying machine learning and big data, I mean big data is the big buzz word, you know, that's gone mainstream. Everyone's compiling so much data and then how do you apply machine learning and to make networks more smart? Absolutely. Well, Sean, I've really truly enjoyed listening to your journey, your insights and I really appreciate. Yeah, you teaching us, you know, pleasure is mine. I'll take topic of the day, any closing comments or something in general you want to share? As always, pleasure is mine. I don't forget to balance between work and fun, I would say. There was a comment from Shining all work and no play makes Jack a doll boy. It's a comment from the Shining movie and I'm hoping you have a good one and Merry Christmas.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Machine Learning",
+      "content_type": "Story",
+      "timestamp": "25:51 - 26:42",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP10_-_Interview_-_Shawns_Journey_from_Dubai_to_Silicon_Valley.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_28",
+    "text": "Well, Sean, thank you for being so generous with your time expertise and sharing your knowledge with our listeners. Absolutely. This Rockstar SE class is ended, but there's more ways to propel you on your ideal IT engineer journey. Head over to rockstarse.com for show notes and be sure to sign up for our mailer. This will give you exclusive access for some amazing free content to help you level up and accelerate your career. We appreciate you joining us and look forward to helping you learn, focus and succeed next time on Rockstar SE.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "IT engineer",
+      "content_type": "Story",
+      "timestamp": "26:43 - 27:16",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP10_-_Interview_-_Shawns_Journey_from_Dubai_to_Silicon_Valley.mp3",
+      "source_type": "Podcast"
+    }
+  }
+]

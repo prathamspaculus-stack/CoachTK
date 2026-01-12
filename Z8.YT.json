@@ -1,0 +1,170 @@
+[
+  {
+    "chunk_id": "chunk_1",
+    "text": "Meta Ray-B band display. >> The Meta Ray-B band display. >> Meta's new $799 Ray-B band display smart glasses. >> Check this out. Two Harvard students were able to take Meta's Ray-B band smart glasses and combine them with facial recognition software that was connected to leaked databases on the dark web. And then these students were able to walk up to strangers, scan their faces, and within seconds they pulled up private details like their names, home addresses, where they work, their family members, and even in some cases social security number. And this might not seem like a big deal, but look how easy it was for them to gain the trust of this old lady.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Meta Ray-B",
+      "content_type": "Story",
+      "timestamp": "00:00 - 00:40",
+      "reference_link": "https://www.youtube.com/watch?v=T8iqOBlz4mY",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_2",
+    "text": "was for them to gain the trust of this old lady. was for them to gain the trust of this old lady. Hi, ma'am. Wait, are you a Betsy? Yes. Oh, okay. I think I uh I think I met you through like the Cambridge Community Foundation, right? Yeah. Yeah. It's great to meet you. I'm Kane. That woman had no clue who that guy was, but because he had real-time information about her, she felt comfortable enough to stand up and interact with him as if he was a friend. They were able to do this by using a program called IX-Ray, which taps into the existing reverse image search tools to quickly match faces with publicly available information online. That means if your face has ever been online,",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Trust Building",
+      "content_type": "Story",
+      "timestamp": "00:34 - 01:12",
+      "reference_link": "https://www.youtube.com/watch?v=T8iqOBlz4mY",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_3",
+    "text": "if your face has ever been online, this could be done to you. But consider how dangerous this can be. Because someone could use this technology to approach a child and know their parents by name, where they live, and even where they work. It's not hard to see how quickly this could turn into a nightmare scenario. And the scary part is that these databases and hackers are only getting stronger. Every time you're tagged in the picture on Instagram, Facebook, entering a sporting event, or even walking down the street, your facial information without your consent is being stored in a secret database on the dark web that's scraped, scanned, and sold by companies and criminals",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Facial Data",
+      "content_type": "Story",
+      "timestamp": "01:07 - 01:50",
+      "reference_link": "https://www.youtube.com/watch?v=T8iqOBlz4mY",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_4",
+    "text": "and sold by companies and criminals\nyou've never even heard of. And you\nprobably think this won't happen to you,\nright? Because most people think they\nare safe. But this mindset is exactly\nwhat leaves you even in great danger.\nBecause in reality, your digital\nfootprint is bigger than you think and\nit's growing. And whether you posted a\nsingle photo or not online, sporting\nevents and even our own government now\nare scanning and storing facial\ninformation. So considering the fact\nthat AI is advancing at unimaginable\nspeeds in the past couple years, think\nabout how much data they could be using\ninformation right now. And that\ninformation is often connected to",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Digital Footprint",
+      "content_type": "Story",
+      "timestamp": "01:46 - 02:31",
+      "reference_link": "https://www.youtube.com/watch?v=T8iqOBlz4mY",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_5",
+    "text": "information is often connected to sensitive data like your social security number. Now, most people think it's not a problem that they'll face being scanned because if you don't do anything wrong or break laws, it's not a big deal, right? But the problem is these companies with your data aren't properly securing this information. In fact, hackers are able to access them and steal them readily available in today's market. And a lot of companies are getting breached. It has already happened before. For example, in 2024, Out ofbox, an Australian firm that scanned faces for bars, clubs, suffered a breach. And all that information got leaked into the dark web. And you might",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Data Security",
+      "content_type": "Story",
+      "timestamp": "02:27 - 03:11",
+      "reference_link": "https://www.youtube.com/watch?v=T8iqOBlz4mY",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_6",
+    "text": "leaked into the dark web. And you might not think that's a big deal, but for your family, yourself, your security, and livelihood, it's actually a really, really scary problem. Here's why. There's a hidden industry that you don't know about where big data brokers scrape and collect information from countless sources like social media, shopping habits, public records, and often even illegal databases where your information may be stored or compromised. And they compile detailed profiles on people like you, your family, and even your children. These profiles are then bought and sold without anyone's consent or knowledge. For example, a company named Clear View AI scraped 30 billion photos",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Data Breach",
+      "content_type": "Story",
+      "timestamp": "03:07 - 03:48",
+      "reference_link": "https://www.youtube.com/watch?v=T8iqOBlz4mY",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_7",
+    "text": "Clear View AI scraped 30 billion photos from social media to build its facial recognition database. And this data was shared with US corporations. Plus, combined with recent hacks on companies that have DNA information like 23 and me, where they got hacked and where the company leaked over 7 million users of their DNA data. We're going down a dangerous path where companies or even criminals can have access to everything about you. Your address, your job, financial information, DNA records, even your allergies and your diseases or anything that is on your medical records. Imagine insurance companies denying you and millions of Americans care because they had access to your",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Data Privacy",
+      "content_type": "Story",
+      "timestamp": "03:42 - 04:30",
+      "reference_link": "https://www.youtube.com/watch?v=T8iqOBlz4mY",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_8",
+    "text": "care because they had access to your data and spotted a pre-existing disease that you didn't even know you had. And even if you think you're safe, it's documented that around 28% of Americans have been hacked at one point in time without even realizing it for months or maybe even years. In many cases, those attacks focus on financial accounts and allow people to take out loans in your name, drain your savings, rack up credit card debt, and leave victims unaware until the damage is already done. And that number doesn't count data that has been compromised due to company hacks. I'd estimate the number is more like 90% of Americans are exposed with their private information. But this threat",
+    "metadata": {
+      "domain": "IT",
+      "topic": "cybersecurity",
+      "content_type": "Story",
+      "timestamp": "04:24 - 05:11",
+      "reference_link": "https://www.youtube.com/watch?v=T8iqOBlz4mY",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_9",
+    "text": "private information. But this threat goes way deeper than just your personal privacy and information being sold because the real danger is how easily it can be weaponized against you. You see, behind the scenes right now, dark web face ID farms are thriving. What's happening is criminal groups are collecting facial photos and matching them with stolen identity documents to fool biometric systems used by banks. They can overlay your face onto theirs and even fool the most advanced security systems. And it's not just private actors doing the damage. Perceptics, a contractor for US Customs and Border Protection was hacked. Nearly 100,000 facial images of border crossers were",
+    "metadata": {
+      "domain": "IT",
+      "topic": "cybersecurity",
+      "content_type": "Story",
+      "timestamp": "05:05 - 05:50",
+      "reference_link": "https://www.youtube.com/watch?v=T8iqOBlz4mY",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_10",
+    "text": "facial images of border crossers were leaked into the dark web. So, if you've ever vacationed outside the country, your face is probably leaked and is tied to government databases with all your passport information. And in the wrong hands, combined with AI video technology, it can be used for impersonation, espionage, or worse. Now, luckily, there's still good people out there fighting to protect you. But every day, criminal hackers are getting smarter, faster, and more aggressive. And now, they're getting more organized, too. In fact, I'm convinced some of the next war tactics will be government hacking groups taking out key infrastructure. Imagine an enemy of",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Security",
+      "content_type": "Story",
+      "timestamp": "05:45 - 06:25",
+      "reference_link": "https://www.youtube.com/watch?v=T8iqOBlz4mY",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_11",
+    "text": "hacking groups taking out key hacking infrastructure. Imagine an enemy of America hacking and shutting down power grids, clean water, and banking services for months at a time, impersonating millions of Americans and creating deep fake videos that look realistic is really scary stuff, you see. And that's why America is sounding the alarm.  Currently, our nation lacks about 500,000 cyber professionals. That's a deficit of 1 million eyes. And this means that many of our networks and critical infrastructure are going unwatched.  Think that America lacks about 500,000 cyber security professionals. And right now, according to ISC, that's considered the world's largest IT security",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Cyber Security",
+      "content_type": "Story",
+      "timestamp": "06:18 - 07:03",
+      "reference_link": "https://www.youtube.com/watch?v=T8iqOBlz4mY",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_12",
+    "text": "the world's largest IT security the world's largest IT security organization says the global cyber security workforce is in short by more than 3.4 million professionals globally. And as facial recognition, deep fakes, and generative AI opens up a new attack surfaces, the need for cyber security professionals is only growing. Cyber security and network engineers to protect our nation grows more urgent every single day. Defending us from the dangers is next gen T. And this is why the crisis is actually an opportunity for those that are seeking to catch the next wave and trend of high demand skills that will pay the highest demand jobs. Because you see, cyber security is now at the forefront and one of the",
+    "metadata": {
+      "domain": "IT",
+      "topic": "cyber security",
+      "content_type": "Story",
+      "timestamp": "06:58 - 07:46",
+      "reference_link": "https://www.youtube.com/watch?v=T8iqOBlz4mY",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_13",
+    "text": "now at the forefront and one of the fastest growing, highest paying careers in the tech field. And you don't need a PhD or college degree to get started. You just need to have curiosity, courage, conviction, and a willingness to learn. and outthink the bad guys. And if that sounds interesting to you, we built a free quiz to help you figure out exactly how you could start your own cyber security or tech career without going to college so you can get paid to protect people. It just takes 3 minutes to take this quiz and it'll show you exactly how much you could potentially make if you were to work in the tech or cyber security space. and it will uncover the ideal path for you based on",
+    "metadata": {
+      "domain": "IT",
+      "topic": "cyber security",
+      "content_type": "Advice",
+      "timestamp": "07:41 - 08:25",
+      "reference_link": "https://www.youtube.com/watch?v=T8iqOBlz4mY",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_14",
+    "text": "uncover the ideal path for you based on personality, your strengths, your current profession, and your lifestyle Tap the link in the description or on your screen and now take the free 3minut quiz and get your personalized career path into tech or into cyber Security.",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Career Path",
+      "content_type": "Advice",
+      "timestamp": "08:21 - 08:40",
+      "reference_link": "https://www.youtube.com/watch?v=T8iqOBlz4mY",
+      "source_type": "YouTube"
+    }
+  }
+]

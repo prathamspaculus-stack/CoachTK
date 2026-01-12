@@ -1,0 +1,662 @@
+[
+  {
+    "chunk_id": "chunk_1",
+    "text": "welcome to the Cyber business podcast where we feature top Founders and where we feature top Founders and entrepreneurs and share their inspiring stories now let's get started with the show Matthew Connor here host of The show Matthew Connor here host of The Cyber business podcast where we feature successful Business Leaders CP law firms green energy companies and more today we're joined by the author of zero to engine a story of the American dream and the CEO of ngt Academy Terry Kim Terry welcome to the show thanks Matthew for having me on the show super glad to be here H super glad to have you before we get too far into it a quick word from our sponsors this episode is brought to you by cyberlink.com that's cybery nx.com you",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Cyber business",
+      "content_type": "Story",
+      "timestamp": "00:03 - 00:54",
+      "reference_link": "https://www.youtube.com/watch?v=3OBREA0u_W4",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_2",
+    "text": "episode is brought to you by cyberlink.com that's cybery nx.com you know if a hacker is in your system most people and most companies don't until the hacker done what they came to do uh with Cyber Links intrusion detection you'll know if a hacker finds his way past your security before they can do harm find out more at cyberlink.com that's cybery nx.com and now back to our show har I think that that Segways pretty nicely into um into into our guest here so Terry you've got a a pretty decent background in in cyber security yourself yeah that's correct yeah I started my career in the Air Force um at around 25 years ago so been in the IT industry for quite some time now fantastic um so I'd",
+    "metadata": {
+      "domain": "IT",
+      "topic": "cybersecurity",
+      "content_type": "Story",
+      "timestamp": "00:46 - 01:38",
+      "reference_link": "https://www.youtube.com/watch?v=3OBREA0u_W4",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_3",
+    "text": "quite some time now fantastic um so I'd  like to talk about your book you got a  great new book I'm I started reading it  the other day really interesting stuff  um can you tell us uh what was the  inspiration for for zero to  engineer yeah so zero to engineer was a  inspiration actually back when I was  working at Cisco and um it was during my  Cisco in ARIS to days uh where I would  basically I Was An Architect and I would  build IT solutions for top Fortune 500  companies and a lot of cios and it  directors would come to me asking for  engineering talent and I would ask them  like hey you know are you having  challenges and they would tell me that  especially the new Workforce coming into",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "book",
+      "content_type": "Story",
+      "timestamp": "01:33 - 02:25",
+      "reference_link": "https://www.youtube.com/watch?v=3OBREA0u_W4",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_4",
+    "text": "especially the new Workforce coming into the workforce like college grads that they didn't have any Hands-On training and they would flunk uh the technical process over and over again so what I found was there there were a lot of great candidates that L good on paper with the diplomas and even certifications we call them paper certified in the IT industry they might look good on paper but they really lack the hands-on experience and the actual competent skills they really need to perform on the job on day one so the idea was really could I take someone from zero to engineer instead of four years and the answer was yes cuz I did it",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Workforce",
+      "content_type": "Story",
+      "timestamp": "02:20 - 03:02",
+      "reference_link": "https://www.youtube.com/watch?v=3OBREA0u_W4",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_5",
+    "text": "years and the answer was yes cuz I did it you know I was in the Air Force I we taught 18 19 year olds that didn't even know anything about cyber security and we had to train them up to set up Mission critical networks in the battlefield and those networks had to be secure they had to be set up properly and so this whole concept of you know when I saw it Tech now they're shut down they got shut down in 2016 by the government I mean they were the biggest it you know infomercial right on the evening nights they were charging $80,000 for a four-year Network admin degree and I knew there was a better way so that that's what actually spun this idea of zero to engineer and I started",
+    "metadata": {
+      "domain": "IT",
+      "topic": "cyber security",
+      "content_type": "Story",
+      "timestamp": "02:56 - 03:44",
+      "reference_link": "https://www.youtube.com/watch?v=3OBREA0u_W4",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_6",
+    "text": "idea of zero to engineer and I started mentoring some students and found success and that's how ngt Academy was born and I turned that concept of zero to engineer into a book incorporating my entire story everything that I've used in terms of tools Frameworks and strategies to propel people's career into the IT industry and how to land your dream it job without the college degree obtain Financial Freedom and work on the latest Technologies that's great so your uh your target market there for the book obviously is somebody looking to transition into into it right with or without a degree which that's correct which I think is fantastic because as you look at you know there are so many",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career",
+      "content_type": "Story",
+      "timestamp": "03:40 - 04:26",
+      "reference_link": "https://www.youtube.com/watch?v=3OBREA0u_W4",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_7",
+    "text": "you look at you know there are so many jobs that are going to go through a very difficult transition I mean take a look at truck drivers for instance they're going to go through a massive transition and a lot of truck drivers trying to do their you know a code academy try to become a programmer and and and get out of the you know get get off a sinking ship if you will right so um I I think you're you're perfectly time I think there's a Hu we we know there's a huge demand for it in the in the it and cyber security space so hudos on on you know getting that out there um and on on ngt Academy so I I'd like to kind of dive into that a little as well because I think that's that's really really",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Jobs",
+      "content_type": "Story",
+      "timestamp": "04:20 - 05:06",
+      "reference_link": "https://www.youtube.com/watch?v=3OBREA0u_W4",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_8",
+    "text": "think that's that's really really brilliant it's a great idea there's huge necessity for it and here on the the Cyber business podcast we like to get into kind of the nuts and bolts of of business and kind of um I of say Workshop it but but really kind of discuss the actual nuts and bolts of of business so um so let's go with ngt Academy can you give us a a breakdown of of what it is what you're trying to do the overview and then then we'll go from there a absolutely um ngt Academy is an online Premiere Academy where you can train in in four months versus four years of college and how we've kind of revers engineered um the idea that you need to go to college for four years is",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Cyber business",
+      "content_type": "Story",
+      "timestamp": "05:01 - 05:49",
+      "reference_link": "https://www.youtube.com/watch?v=3OBREA0u_W4",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_9",
+    "text": "need to go to college for four years is that we focus on the Technical Training so all all of our programs um if you go to our website nt. Academy you'll see that we have network engineering we have cyber security and then we'll be launching devops and Cloud um later this month or late next month and then we also have product uiux and uh data science AI taken off uh taking the sto Market by storm so we've got a track that's coming out but basically we want to be your number one it Academy um when it comes to an alternative to uh college and so we're a tenth of the cost of a college education and we can train you in four months and we provide career services so it's a self-paced program",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Alternative",
+      "content_type": "Advice",
+      "timestamp": "05:45 - 06:31",
+      "reference_link": "https://www.youtube.com/watch?v=3OBREA0u_W4",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_10",
+    "text": "services so it's a self-paced program weekly live coaching depending on what module or kind of what Milestone you're at in the program well we're going to build a strong foundation and then also assign you multiple Keystone projects and mentors and then you go through these projects like you get to plan architect and roll out an entire infrastructure project like uh to work on Switching routing Voiceover IP Cloud ipct tunneling setting up a disaster recovery site like real world stuff and this is what they don't teach you in in Academia and and that's the unfortunate thing but we know this can be done because both me and my co-founder were both instructors in the Air Force with",
+    "metadata": {
+      "domain": "IT",
+      "topic": "services",
+      "content_type": "Story",
+      "timestamp": "06:26 - 07:08",
+      "reference_link": "https://www.youtube.com/watch?v=3OBREA0u_W4",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_11",
+    "text": "both instructors in the Air Force with top secret clearances and we had to train people in four months so ngt Academy is your number one platform to train if you want to get into it um if you're already stuck in it because we also see 30% of our students are in entrylevel job roles and they don't know how to move up the rank so we help upskill them as well but we also have a lot of people that are switching careers whether it's truck drivers we've have a lot of like retail Warehouse banking um you name it we've taken pretty much every Walk of Life or career path and switch them into um an IT professional and you know we like to take a lot of Pride and credit on how um efficient our",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career",
+      "content_type": "Story",
+      "timestamp": "07:04 - 07:49",
+      "reference_link": "https://www.youtube.com/watch?v=3OBREA0u_W4",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_12",
+    "text": "Pride and credit on how um efficient our training is because we've taken a forklift driver literally drowned in student loan debt and um almost gave up on his dream to get into it now he works at Google um as a network and and he didn't need to come out of an Ivy League school to do that and then we also have like a bike rider in New York City 60 years old making 400 a week and we landed him a a six-figure job at a centure as a cyber security analyst in in nine months like talk about career switch changes right like we're known for that so it's not about training or diploma for us it's about life transformation we love changing people's lives and and this is our mission here",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Career",
+      "content_type": "Story",
+      "timestamp": "07:44 - 08:31",
+      "reference_link": "https://www.youtube.com/watch?v=3OBREA0u_W4",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_13",
+    "text": "lives and and this is our mission here  to change a million lives with our  school um by  2030 that's fantastic I mean hudos and  if uh and I hope that we can help Propel  that that mission help get you on the  way because I think it's so so critical  I was I was Army uh as well for about 10  years and so totally totally agree with  you I think there's there's a huge um  there's a huge void and I I think this  is actually the key I mean it's fine  when when you want to be a doctor a  lawyer but when it comes to things like  cyber security the the  traditional University route is it I  don't think it's it's the best it's F  you know that even when it comes to  programming there's so much in",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Mission",
+      "content_type": "Story",
+      "timestamp": "08:27 - 09:14",
+      "reference_link": "https://www.youtube.com/watch?v=3OBREA0u_W4",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_14",
+    "text": "you know that even when it comes to programming there's so much in technology where that isn't necessarily the right solution for what you're looking to do it might be if you want to get in maybe onto the business side of things and you want to go and get your um okay that makes a lot of sense but for the I want to be a a network engineer you're not going to get a lot of what you need just as you're saying from that that college experience so you're going to come out you know with no experience with no real understanding some great academic understanding you can you know the the computer science Basics you got but not when it comes to",
+    "metadata": {
+      "domain": "IT",
+      "topic": "programming",
+      "content_type": "Story",
+      "timestamp": "09:08 - 09:54",
+      "reference_link": "https://www.youtube.com/watch?v=3OBREA0u_W4",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_15",
+    "text": "Basics you got but not when it comes to the network infrastructure and how to roll that out how to engineer it so I think that's brilliant so let me ask you so when did did you start ngt academy uh 2016 and it's it's about yeah it's like like you can talk to talk but can you walk to walk and I would say you know you you you pair up any college student with our our graduate and you're going to see a 10x difference because we validate on Real World skills and as you've been in the Army and myself in the military it's like it's skills-based training in the military it's like we need to train these people to be job competent or job ready is what we call it and that's how we've designed our",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Basics",
+      "content_type": "Example",
+      "timestamp": "09:49 - 10:33",
+      "reference_link": "https://www.youtube.com/watch?v=3OBREA0u_W4",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_16",
+    "text": "it and that's how we've designed our programs for students to be job ready  and like right now there couldn't be a better time to break into it I broke into it in 2000 and um here 2023 you got so many cool it Trends going on but there's 5723 192 cyber security jobs open right now here in the USA alone I'm looking at the heat map it's it's pretty wild so wild wild west if you want to break into an amazing career it you know a lot of people think it and oh I got to learn coding and programming I see a lot of truck drivers trying to learn how to code and we have a lot of students fail coding boot camps and come to us because it's like I've always wanted to get into",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career",
+      "content_type": "Advice",
+      "timestamp": "10:29 - 11:13",
+      "reference_link": "https://www.youtube.com/watch?v=3OBREA0u_W4",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_17",
+    "text": "it's like I've always wanted to get into Tech but you know I I thought you had to be a programmer and I'm just like there's so many there's hundreds of jobs outside of software programming in fact software boot camps are having more struggles right now um with the demand and the layoffs with a lot of the coding uh Engineers um it doesn't um impact our business because we're the network guys we're the cyber security guys we're the cloud guys we're the infrastructure and application all the way from you know physical layer all the way to the application layer and and there's so many jobs in in Information Technology oh 100% And and we already know that AI is going to basically eradicate the need",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Tech Jobs",
+      "content_type": "Story",
+      "timestamp": "11:09 - 11:55",
+      "reference_link": "https://www.youtube.com/watch?v=3OBREA0u_W4",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_18",
+    "text": "is going to basically eradicate the need for most programmers very very quickly so and it you make a really interesting point about so the education you know or at least the marketing education that people have re you know received when it comes to oh how do I get into Tech it's oh go to a coding boot camp it's just a few months you'll be able to get a job with Google that was a great thing six years ago seven years but today okay it's time for a transition and you really are setting people up for the the F you know for a future career because the future is in in the cyber security side it's not on the coding side for sure and so um I I think that's fantastic so let me ask you so there you",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Future",
+      "content_type": "Advice",
+      "timestamp": "11:49 - 12:37",
+      "reference_link": "https://www.youtube.com/watch?v=3OBREA0u_W4",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_19",
+    "text": "fantastic so let me ask you so there you are it's let me's go go from the the beginning of ngt Academy it's 2016 you say right you got this idea you're like hey wait I've got a better mouse trap so how do you go from uh from this idea to actually starting ngt Academy and and what happens after that yeah so I created a course on um basically I called it to zero to engineer it was a $500 course 497 I enrolled like 12 students into it um gave a massive transformation um breaking into their dream it job and I was like you know what I can scale this thing with a technical platform and so right from the start we knew we wanted to build a tech platform right so we're not like on",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "ngt Academy",
+      "content_type": "Story",
+      "timestamp": "12:33 - 13:25",
+      "reference_link": "https://www.youtube.com/watch?v=3OBREA0u_W4",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_20",
+    "text": "platform right so we're not like on kajabi or dinkic or some some generic LMS we actually hired a CTO and a uiux designer those were our first two hires because we wanted to build a platform that can scale to serve millions of users so our our actual learning platform in itself is designed for gamification upleveling discussion boards beautiful user experience in an online community unlike you know like a college portal um so you know rewind 2016 we were like hey we want to go all into this idea um how about we um because I knew I wanted to raise vure capital for this cuz I wanted to take it public one day and so we decided to raise um you know money and we got",
+    "metadata": {
+      "domain": "IT",
+      "topic": "platform",
+      "content_type": "Story",
+      "timestamp": "13:19 - 14:07",
+      "reference_link": "https://www.youtube.com/watch?v=3OBREA0u_W4",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_21",
+    "text": "raise um you know money and we got accepted into this startup incubator out of New York City um n SF so um we got accepted into Angel pad um spent two months in New York City drafting up the business plan and in the pitch deck and then moved to San Francisco for another two months for demo day and ended up um living in the Streets of San Francisco pitching angels and VCS and we got really lucky um you know through um perseverance like on week seven I I got a meeting and finally landed Joe Montana um you know MVP Hall of Famer yeah love Joe he he basically seeded in our seed round for 250k and I was able to end up raising you know a little over a million dollars um in in the two Monon period",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Startup",
+      "content_type": "Story",
+      "timestamp": "14:03 - 14:53",
+      "reference_link": "https://www.youtube.com/watch?v=3OBREA0u_W4",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_22",
+    "text": "dollars um in in the two Monon period And I told my co-founder at the time I said if we raised $1 million we're moving our company and our families to California Silicon Valley and um I guess the rest is history from there but that that was kind of the starting point and we both quit our jobs and we got $50,000 that was the first investment into ngt from Angel pad wow okay so there you go you got a quarter you know Mill from from Joe Montana which is just cool and then um and then you you finish raising the other million then what happen so it's you your co-founder and I think you said you brought on a CTO and a uiux developer you started developing your",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Startup",
+      "content_type": "Story",
+      "timestamp": "14:49 - 15:38",
+      "reference_link": "https://www.youtube.com/watch?v=3OBREA0u_W4",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_23",
+    "text": "developer you started developing your own platform inhouse uh now this is what now still 2016 yeah 2016 um raised in the summer moved uh to San Jose California in the fall um got a small wework office um for a four-person team and uh hired those two guys and it was a four-person team and we got like um we got the LMS um designed done and we started coding away and so that that was the first year was let's build this LMS and then in the background while our product um and our CTO team basically was building LMS me and Jacob said hey let's create a you know a flagship program uh for networking and cyber and so um you know that's how we started and we created our Flagship program and uh",
+    "metadata": {
+      "domain": "IT",
+      "topic": "LMS",
+      "content_type": "Story",
+      "timestamp": "15:32 - 16:22",
+      "reference_link": "https://www.youtube.com/watch?v=3OBREA0u_W4",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_24",
+    "text": "we created our Flagship program and uh that's been our strongest program uh since we Inception fantastic so you build out that program now how do you go um acquiring students what what's your strategy how did you lay this out now you've got a platform you got you've got a a program to sell what steps do you take now yeah so with any business you know once you know your a Target customer um and you understand your value or product or service you want to offer them um you want to you know um create a nice beautiful website and start generating leads and so we used Facebook and Instagram um primarily um in our early days and yeah it's it's you know if the product is good it it'll",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Program",
+      "content_type": "Story",
+      "timestamp": "16:18 - 17:05",
+      "reference_link": "https://www.youtube.com/watch?v=3OBREA0u_W4",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_25",
+    "text": "know if the product is good it it'll return some type of investment back like put a dollar in and get $3 back and then you figure out how to scale that and serve more more students so that's how we got first started so Facebook and Instagram ads or did you go straight just hey we're going to build content and and go organically how did how did you go about it well we had to build our platform so we we we waited probably almost um 9 months or a year um I would say nine months and then we launched our first version on the platform um and yeah we just started running ads and and started enrolling students and um off we went no kidding so you'd say all your your real growth then it it's all just",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Growth",
+      "content_type": "Story",
+      "timestamp": "17:00 - 17:50",
+      "reference_link": "https://www.youtube.com/watch?v=3OBREA0u_W4",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_26",
+    "text": "your real growth then it it's all just advertising LinkedIn and and Instagram that's that's where that's that's gone right all from that's correct we have organic content too so like don't get me wrong like we have we have 100K subscribers on our YouTube channel so we have like subnetting videos like that reach 1.2 million views and things like that and we have a Blog and so you know SEO traffic is very important for business owners that are listening like I wish I did more SEO in the early days but um how to be a network engineer like we Google rank pretty high on that and that's just a Blog article so it's like SEO and organic traffic is I would say even more important for the long term",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Growth",
+      "content_type": "Advice",
+      "timestamp": "17:44 - 18:30",
+      "reference_link": "https://www.youtube.com/watch?v=3OBREA0u_W4",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_27",
+    "text": "even more important for the long term um because short term like you're going to have to rely on these other platforms but now you've got Google you've got YouTube You've Got Tik Tok you've got Pinterest you've got so many other platforms it's like pick one and then scale to others other channels as you need to grow beyond that yeah well you mentioned Tik Tok and I'm kind of curious because I I think there's a there's so much opportunity on those on platforms like Tik Tok whether it's kind of building up your own or using micro influence ERS or influencers have you guys explored that um what's what's your take where do you guys stand on that yeah right now we're actually in the",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "short term",
+      "content_type": "Story",
+      "timestamp": "18:26 - 19:09",
+      "reference_link": "https://www.youtube.com/watch?v=3OBREA0u_W4",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_28",
+    "text": "yeah right now we're actually in the middle of a uh referral program that we're looking to launch and using micro um to macro influencers um in the networking cyber or it field so that's something in the works that we're going to launch in q1 of next year but here in Q4 we do have an epic referral program so if you're listening to this and you want to um learn more about it you can grab my free book and that book will allow you to access the referral program so zero engineer.com SL book you can grab the book there for free all you got to do is pay for shipping and then you get access to our referral program so every student that you send our way and they enroll you get",
+    "metadata": {
+      "domain": "IT",
+      "topic": "referral",
+      "content_type": "Story",
+      "timestamp": "19:05 - 19:49",
+      "reference_link": "https://www.youtube.com/watch?v=3OBREA0u_W4",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_29",
+    "text": "every student that you send our way and they enroll you get $500 so it's a pretty pretty nice referral program you know you enroll five students a month you get 2500 little side hustle right so yeah um and then the ambassador program we're going to double that uh next year and that's what we're going to launch across all the micro influencers and whatnot that's great so let's take this from the uh from the students perspective so let's say you're uh let's go back to the truck driver your truck driver you you're listening to the podcast you're like  I want to do this this would be perfect for me I didn't really like the whole coding thing I want to but Network",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Network",
+      "content_type": "Advice",
+      "timestamp": "19:42 - 20:23",
+      "reference_link": "https://www.youtube.com/watch?v=3OBREA0u_W4",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_30",
+    "text": "whole coding thing I want to but Network  Engineers cyber security that sounds  fantastic so um how do they go about it  what's their what's their you know is  there an upfront cost they got to come  out of pocket is there are there student  loans how's it work yeah we've had  different models over the per uh over  the last six seven years um we even  tried to zero tuition down uh 10% of  their income for four years it sounds  great on paper but at the end of the day  there's not enough skin in the game so  um it's really not a good business model  to scale in my opinion um I'd like to  direct the consumer model uh where  students pay up front um and they can  take a loan or get on a payment plan so",
+    "metadata": {
+      "domain": "IT",
+      "topic": "cyber security",
+      "content_type": "Story",
+      "timestamp": "20:19 - 21:03",
+      "reference_link": "https://www.youtube.com/watch?v=3OBREA0u_W4",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_31",
+    "text": "take a loan or get on a payment plan so um our tuition is a flat 10,500 um for our Flagship program uh that gives you 18 months access uh you can earn up to nine certifications get access to three Capstone projects and it comes with career services and we also have a money back guarantee like if you don't get a job within one year of completing our program um we'll refund your entire tuition so it becomes a no-brainer um offer guarantee um because we believe in our product and we believe in our services so um if you're curious all you got to do is go to nt. academy check out the programs there or you can go to zero engineer.com actually and you can see all the case",
+    "metadata": {
+      "domain": "IT",
+      "topic": "tuition",
+      "content_type": "Example",
+      "timestamp": "20:58 - 21:45",
+      "reference_link": "https://www.youtube.com/watch?v=3OBREA0u_W4",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_32",
+    "text": "actually and you can see all the case studies student successes um and there's a nice video introduction of of of what we're all about so um that could get you started that's that's fantastic man I mean like like that's really fantastic so let me ask you oh oh oh to piggyback on that you can get a loan and so the loans will bring down your monthly costs to about uh 250 to 450 a month so like who who can't afford 250 or 450 like if this is the program I designed for myself if I was 21 and I had the option to go to ngt versus Air Force I would have I would have chose ngt Academy um because within two three years you're going to be making six figures and four four to six years into the career like",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Success",
+      "content_type": "Story",
+      "timestamp": "21:40 - 22:27",
+      "reference_link": "https://www.youtube.com/watch?v=3OBREA0u_W4",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_33",
+    "text": "four to six years into the career like if you're really like awesome at what you're do like you could easily make 200k Plus in this field it's it's just so insane and it's very uh you know comparable to like a do doctor or lawyer pay even oh yeah no it's it's it's fantastic I mean it's just there there's so much opportunity in fact you know as you go up those ranks I was just reading um that the for um ciso they're you're now looking at the average pay being being up up in the near $500,000 when you're working at a large organization so we're talking serious pay now and even at the smaller organizations as you as you drop down you're still looking at at you know 300",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career",
+      "content_type": "Story",
+      "timestamp": "22:22 - 23:12",
+      "reference_link": "https://www.youtube.com/watch?v=3OBREA0u_W4",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_34",
+    "text": "you're still looking at at you know 300 to $400,000 a year 100% go from from nothing work your way up to that uh that where else are you GNA find that I mean you're not you're into none none just point blank so let's go back to the the certifications you said you can get I think said nine certifications are these CompTIA what what kind of certifications we talking about so it depends on the career pathway you want you want to choose um we have our own in-house so we treat kind of like coma Cisco all all the vendor shts Microsoft AWS all of them kind of is a commodity because at the end of the day like if you've been in it for a long time you know there's",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career",
+      "content_type": "Advice",
+      "timestamp": "23:06 - 23:58",
+      "reference_link": "https://www.youtube.com/watch?v=3OBREA0u_W4",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_35",
+    "text": "in it for a long time you know there's people that just there's there's test dump sites there's brain dumps and that's a big problem in the industry is that people are memorizing a pool of questions to pass these exams but it's not practical uh assessment so uh we reversed it um in the early training we provide our own in-house search so for example if you want to be a network engineer we have our own full stack Network associate CT that you get where we validate you on over a hundred real world skills once you passed that it's more of a practical exam right there's also a written exam but the practicality of it is that we're going to certify you that you can do the job and and and when",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Certification",
+      "content_type": "Story",
+      "timestamp": "23:48 - 24:32",
+      "reference_link": "https://www.youtube.com/watch?v=3OBREA0u_W4",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_36",
+    "text": "that you can do the job and and and when  you get through our three Capstone  projects an infrastructure buildout Data  Center and firewall upgrade right we're  going to um then issue the full stack  Network professional certification now  once you pass our fundamentals and our  projects then we um right before the  career uh you know hunting phase or  career job search phase where we match  you with our career um uh counselors and  um  specialist is that we're going to make  sure that you get one of the industry  search so if you want to be a cyber  security maybe it's a Security Plus um  and maybe the cissp or or some  additional C maybe certified ethical  hacker we'd like to kind of get one and",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career",
+      "content_type": "Advice",
+      "timestamp": "24:27 - 25:17",
+      "reference_link": "https://www.youtube.com/watch?v=3OBREA0u_W4",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_37",
+    "text": "hacker we'd like to kind of get one and two CTS um on top of our CTS so maybe three to five CTS uh for a graduate and then if you want to be a network engineer we'll we'll throw in the Cisco CCNA on top of our two other Sears so you come out with three fsna fsnp for the Capstone projects and then uh the CCNA but the truth be told um Matthew we have students that don't even get other shts and just get our own CTS and then go get a job because they just crushed the job interview and that's what's mostly important here is is like can you do the job because I think what we're seeing in the IT industry is managers there they want to hire um competent people that have the skills or have the",
+    "metadata": {
+      "domain": "IT",
+      "topic": "hiring",
+      "content_type": "Advice",
+      "timestamp": "25:11 - 25:59",
+      "reference_link": "https://www.youtube.com/watch?v=3OBREA0u_W4",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_38",
+    "text": "people that have the skills or have the potential or have the capacity to have some hands-on experience through their own learning through a platform like ours or maybe they built their own Labs you know and got their hands dirty and that's that's the that's the workforce that needs to come in I love that so I I really like this the the career counselor approach and and I'd like to kind of explore that more so let's say I'm a I'm a prospective student I love the idea want to get into into cyber security a little concerned because you know uh the you know $10,000 is is that's real money great but you got to invest in yourself I get that I'm so I want to do",
+    "metadata": {
+      "domain": "IT",
+      "topic": "cyber security",
+      "content_type": "Story",
+      "timestamp": "25:54 - 26:40",
+      "reference_link": "https://www.youtube.com/watch?v=3OBREA0u_W4",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_39",
+    "text": "yourself I get that I'm so I want to do this now I I don't know where to go once I've learned this information how am I going to find the job um and now tell me about this whole career counselor thing how are you going to help me get get the my my foot in the door and get into the into the industry yeah so we have a 90day game plan for each graduate once they graduate depending on the city and location where they're at uh we'll do their resume um we'll help them with their LinkedIn profile for personal branding we also help them with their um cover letters and also their outbound Outreach messages and things like that and um they can o apply to any open position first of all so you know like I",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Career",
+      "content_type": "Advice",
+      "timestamp": "26:33 - 27:22",
+      "reference_link": "https://www.youtube.com/watch?v=3OBREA0u_W4",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_40",
+    "text": "position first of all so you know like I said there's over half a million open cyber jobs um and networking is the feeder Ral for a lot of these jobs so that's a combination of cyber and working in other fields but um we basically match make them if there's an employer match so we have over 500 employers on our Network so if there's a recruiter match or an employer match we'll do that if not we really prepare them to apply to any job in the open market because right now the it Workforce is in huge demand right now um and they can't fill these positions fast enough so um I guess you know it's it's a combination of having so many open Jobs Plus our uh 500 plus employer",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Cyber Jobs",
+      "content_type": "Story",
+      "timestamp": "27:17 - 28:04",
+      "reference_link": "https://www.youtube.com/watch?v=3OBREA0u_W4",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_41",
+    "text": "Jobs Plus our uh 500 plus employer\nNetwork that allows us to um you know be\nvery successful at placing these\nstudents in jobs so we have about a nine\nout of 10 success rate uh once they\ngraduate\nwow that's fantastic man I I love\neverything about this this is this is so\ngreat it's so timely it's the right P\nyou know it's the right Focus it's the\nright way to do it um I think you know I\nthink far too often people take more of\nan academic approach and I'm not I'm not\nyou know kind of trashing Academia but I\nthink that when you when you look at\ncyber security and it there is a very\nrealworld uh kind of skill set that's\nneeded yeah you have to understand some",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Jobs",
+      "content_type": "Story",
+      "timestamp": "27:57 - 28:51",
+      "reference_link": "https://www.youtube.com/watch?v=3OBREA0u_W4",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_42",
+    "text": "needed yeah you have to understand some the the fundamentals why it works how it works but you get that as you as you go through the the kind of Hands-On not just like you know click this do that that but kind of the The Real World experience of oh why do we do that that's why we do it this way and this is how these things work you know that kind of that military style training which I think is is so great you just get in there and you start learning it with you know roll up your sleeves get dirty start figuring it out and and learning it handson I think is a really great approach for people who you know maybe that academic book B learner and and so",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Training",
+      "content_type": "Advice",
+      "timestamp": "28:45 - 29:32",
+      "reference_link": "https://www.youtube.com/watch?v=3OBREA0u_W4",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_43",
+    "text": "that academic book B learner and and so  I mean this is just fantastic so let me  ask you how close to your goal for 2030  are we I know you're you're still kind  of early on and I know this will  snowball but but I gotta ask it's it's  all big right there how close to the  goal are we um I mean we've got a long  ways to go we've we've onboarded  probably close to 50,000 students in the  past seven years um through our programs  courses and that's pretty much  everything we we offer awes so we're  making definitely strides and impact  there we're also working on an m&a uh  this quarter um that might move into  next quarter to expand our tracks and to  also uh scale over to uh the Asia Asia",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Goal Setting",
+      "content_type": "Example",
+      "timestamp": "29:25 - 30:13",
+      "reference_link": "https://www.youtube.com/watch?v=3OBREA0u_W4",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_44",
+    "text": "also uh scale over to uh the Asia Asia pack and also Europe um so that's kind of in the work for 2024 but you know at one point we'd like to be you know impacting 50 to 100,000 students every year with with our Academy so um yeah one life at a time that's Fant fantastic so so I got to ask I mean on the scaling side you know there there's so much human interaction here where you've got live coaching every week you've got career counselors so there's actual you know human beings involved so it's not just perfectly scalable where you just throw in some more throw in some more servers to handle the bandwidth so how do you you how do you scale that is it something where it's",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Scaling",
+      "content_type": "Advice",
+      "timestamp": "30:07 - 30:59",
+      "reference_link": "https://www.youtube.com/watch?v=3OBREA0u_W4",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_45",
+    "text": "scale that is it something where it's kind of quick and easy what what what's your plan there yeah the platform allows us to scale and our new model allows us to scale efficiently because we have mastered our program where it's self-paced with weekly 6090 minute calls so it's a on to many group coaching call but it allows us to serve the students in a live manner so they can never feel stuck um and have access to live our live instructors and mentors uh on a weekly basis and and then the platform allows us to scale we've tried live instruction um in 2020 and 2021 for two years straight running six month boot camps and and it just wasn't scalable and and it wasn't as effective whereas",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Scaling",
+      "content_type": "Story",
+      "timestamp": "30:54 - 31:47",
+      "reference_link": "https://www.youtube.com/watch?v=3OBREA0u_W4",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_46",
+    "text": "and and it wasn't as effective whereas now if you're you know a nurse working 80 hours a week and you want to break into Healthcare it which is a huge huge vertical and pays extremely well and you only have to work 40 hours once you're in it or you'll get paid overtime if you're on hourly but um that is a good transition and um where was I going with that um scaling yeah oh scaling yeah so you could be doing 20 hours per week um through our program uh self-paced or you can put in 10 hours a week so we have a lot of students that put 10 or 30 hours but it allows you to go at your own pace that's why we have students graduating at three months six months and nine months intervals yeah I I think think",
+    "metadata": {
+      "domain": "IT",
+      "topic": "scaling",
+      "content_type": "Advice",
+      "timestamp": "31:41 - 32:30",
+      "reference_link": "https://www.youtube.com/watch?v=3OBREA0u_W4",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_47",
+    "text": "months intervals yeah I I think think  you you you're spot on there and and I  applaud you for for trying it but I I I  think that that that's been my  experience with every sort of online  course I've I've ever taken where it's  okay those that are are scheduled first  of all you your schedule can't always  necessarily match that then you you've  missed it and okay fine you're catching  up so in the end it ends up being one of  these not live events anyway so if the  whole course is is planned out to be  self-paced great set your schedule you  want to finish this thing up in in 6  weeks n weeks great if it's going to  take you N9 months that's great too  whatever your schedule you know permits",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Online Courses",
+      "content_type": "Advice",
+      "timestamp": "32:24 - 33:08",
+      "reference_link": "https://www.youtube.com/watch?v=3OBREA0u_W4",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_48",
+    "text": "whatever your schedule you know permits so you learn and keep growing I I think that's brilliant and it fits so many people's lifestyle you know and as they go to trans because most of these people I'm assuming are currently working some job and this is some sort of transition I mean I I suppose you you have you had kids right out of say high school or even dropping out of high school and and you know going to ngt Academy is this something you're seeing yeah yeah we've had students as young as 18 all the way to 65 years old that's awesome yeah I love this I love this whole thing man um well that's fantastic so um I would imagine that your your kind of your network of 500 kind of partner companies",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "whatever",
+      "content_type": "Story",
+      "timestamp": "33:03 - 33:51",
+      "reference_link": "https://www.youtube.com/watch?v=3OBREA0u_W4",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_49",
+    "text": "network of 500 kind of partner companies now are these all larger companies or we talking like you know kind of Fortune 500 Fortune you know 1,000 kind of companies that that have a need for a lot of entry level or what are what are we looking at yeah it's a good mixture so I would say you know we have small businesses to medium to to Fortune 100 companies all in there from the centur cisios of the world all the way to the mom and pops msps of the worlds that's fantastic now this is just super cool um so um yeah no I mean I I I just love this so if you're if you're anybody looking to to transition into it because I've I've been asked a numerous times I work",
+    "metadata": {
+      "domain": "IT",
+      "topic": "network",
+      "content_type": "Example",
+      "timestamp": "33:45 - 34:37",
+      "reference_link": "https://www.youtube.com/watch?v=3OBREA0u_W4",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_50",
+    "text": "I've been asked a numerous times I work with a company uh no kidding whether they're a client or I'm I'm purchasing something from them invariably I can't tell I must have this question in the last year alone I've been asked personally at least 10 12 times how do I get into into cyber security i' I'd like to to get go to it I'd like to come work for you how do I do this how do I get there and people like hey can I work for you on the side can you train me up like you're working for you know one of our our clients or you're working for one of our our vendors and you're trying to come because you want to get into it so I get it the need is clearly there the the the demand is is huge and the",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Cyber Security",
+      "content_type": "Story",
+      "timestamp": "34:32 - 35:19",
+      "reference_link": "https://www.youtube.com/watch?v=3OBREA0u_W4",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_51",
+    "text": "the the the demand is is huge and the  question is how do I do it so and this  is a great now I have a a much better  answer for people you know before it was  you know I didn't have a great answer  I'll be honest that was look you know  are you sure that's what you want to get  into like there's a lot you kind of have  to have a a desire for this thing and  not just I want a job that's kind of  future proof it's fine if you want a job  that's kind of future proof you're good  with people let's let's talk about sales  okay cool but now uh this is this is  fantastic this is much better so now  I've got a place to send all these  people who are like Hey how do I um  absolutely love this man love everything",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Sales",
+      "content_type": "Advice",
+      "timestamp": "35:13 - 35:58",
+      "reference_link": "https://www.youtube.com/watch?v=3OBREA0u_W4",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_52",
+    "text": "absolutely love this man love everything  about it um well this is I you know I  normally I ask people to tell us where  they can find out more information about  you I'm going to ask you but I'm pretty  sure that everybody's got it from the  nt. academy and the zero to engineer  your background says it all but before  we we finish finish up here can you tell  everybody where they can find out more  about you and ngt Academy yeah so you  can visit nt. Academy for General broad  information if you want to uh book a  call with one of our career enrollment  special you can go to zero engineer.com  and if you do for/ book you can get that  free book which also comes and I wanted  to um make this book you know to really",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Interview",
+      "content_type": "Story",
+      "timestamp": "35:53 - 36:40",
+      "reference_link": "https://www.youtube.com/watch?v=3OBREA0u_W4",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_53",
+    "text": "to um make this book you know to really help impact this Million Lives number  to help impact this Million Lives number  and so like if if if you're like broke listening to this and you have no money  listening to this and you have no money to personally put in investing in  to personally put in investing in yourself just grab this book you just  you just pay for shipping and it can help you  pay for shipping and it can help you actually break into your first it job  once you get that first it job you come  you come back to us for upskill training because  why we helped you get into that first job like literally for free because this  like literally for free because this will give you the $297 course for free  will give you the $297 course for free which is a com Tia Network plus that  which is a com Tia Network plus that course will build the fundamentals we've  course will build the fundamentals we've had a lot of students just get thatt and  had a lot of students just get thatt and break into their first uh tier one job  break into their first uh tier one job so um yeah and then personally you can",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career",
+      "content_type": "Advice",
+      "timestamp": "36:34 - 37:21",
+      "reference_link": "https://www.youtube.com/watch?v=3OBREA0u_W4",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_54",
+    "text": "so um yeah and then personally you can  just follow me at project Kim on  Instagram um and that's my personal  handle and yeah that's that's it  well uh Terry huge fan over here you  you've converted me I love this we'll be  sending people your way because I think  what you're doing is absolutely  fantastic it's much needed I think you  guys are on a great Mission and I want  to help you get to that that Million  Lives change by 2030 so uh thanks for  coming on the show uh like you know look  forward to having you back on to uh as  as the go progresses and and you open up  new courses love to talk about it so  this has been fantastic thanks so much  Terry thanks  [Music]",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Personal",
+      "content_type": "Story",
+      "timestamp": "37:16 - 38:03",
+      "reference_link": "https://www.youtube.com/watch?v=3OBREA0u_W4",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_55",
+    "text": "Terry thanks [Music] Matthew thanks for listening to the Cyber business podcast we'll see you again next time and be sure to click subscribe to get future",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Cyber business",
+      "content_type": "Example",
+      "timestamp": "37:57 - 38:22",
+      "reference_link": "https://www.youtube.com/watch?v=3OBREA0u_W4",
+      "source_type": "YouTube"
+    }
+  }
+]

@@ -1,0 +1,194 @@
+[
+  {
+    "chunk_id": "chunk_1",
+    "text": "Each week, we provide tech lessons, answer questions, and bring you interviews of the most successful engineers and thought leaders working in the IT space across technologies like Data Center, Cloud, Networking, Collaboration, and Security. Listen in as you'll gain insights, strategies, tips, and more to help you level up along your journey in becoming a rockstar SE. So let the class begin! Hey, what's up SE nation? Your host Terry Kim here. And today's episode is focused on the tech lesson for today with my friend and co-founder of NextGen Jacob Hess. Hey Jacob, you ready to rock the show? Hey Terry, I sure am. Let's go. Alright, so today, guys and gals, we will be talking about understanding basic network traffic concepts.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "network traffic",
+      "content_type": "Story",
+      "timestamp": "00:00 - 00:50",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP06_-_Tech_Lesson_-_Understanding_Basic_Network_Traffic_with_Jacob_Hess.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_2",
+    "text": "traffic concepts. And I'll let Jacob explain that from a technical perspective. So more specifically, we'll be talking about collision domains and broadcast domains and how those relate to network traffic. Okay, perfect. In our last episode, we talked about the OSI model. So let's go in and talk about how collision domains and broadcast domains relate to the OSI model before we get started. Hey, that's a great idea Terry, because it's always good to think of things in networking as how they relate to the OSI model. So to get started here, collision domains work primarily with layer one or the physical layer and broadcast domains are more related to layer two and layer three of the OSI model. Oh, thanks for bringing that up.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "traffic concepts",
+      "content_type": "Story",
+      "timestamp": "00:50 - 01:35",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP06_-_Tech_Lesson_-_Understanding_Basic_Network_Traffic_with_Jacob_Hess.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_3",
+    "text": "Oh, thanks for bringing that up. And remember, guys and gals, the OSI model, right? The seven layers. Hope you guys didn't forget. And if you need some reference, remember from bottom top, please do not throw sausage piece away. And as Jake pointed out, he talked about how it references the bottom three layers. So let's go in and get started and talk about defining actually what is a collision domain, Jacob. Okay, I'd like to define that in as simple as terms as possible without leading you a stray. So in the real world, it is actually a shared piece of wire. So a collision domain is referencing a shared piece of wire where the devices that are connected to that shared piece of wire have the potential for their data to collide with each other.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "OSI model",
+      "content_type": "Example",
+      "timestamp": "01:32 - 02:19",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP06_-_Tech_Lesson_-_Understanding_Basic_Network_Traffic_with_Jacob_Hess.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_4",
+    "text": "each other. That creates a collision domain. So if I understand this right, could we actually relate this to let's say I'm going down a road and I can have the potential to collide with other cars on the street. That's actually a really great metaphor, Terry. So yes, exactly. And just as you have rules that guide traffic and how traffic runs on a street, we also have rules that guide how traffic can be detected on a shared piece of wire. So for example, let's just go ahead and use that metaphor that you said this concept is similar to stopping your car to check to see if another car is coming before using the road. So we may find an amusing that collisions can occur in data networking and indeed they can.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Collision Domain",
+      "content_type": "Story",
+      "timestamp": "02:18 - 03:03",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP06_-_Tech_Lesson_-_Understanding_Basic_Network_Traffic_with_Jacob_Hess.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_5",
+    "text": "can. So we need to check that wire and listen to see if there is any traffic on that wire. If there's not any traffic, we can then send traffic. If there is traffic, we're going to wait until that wire is free. I see. So let's dive deeper into maybe some concepts. Do you have any concepts or theories we can dive a little deeper into? Yeah, absolutely. So what I was just describing there is actually CSMA CD, which is a particular piece of the Ethernet protocol stack. So CSMA CD is carrier sense multiple access with collision detection. So your devices are actually listening in on the wire to check to see if there is any traffic on that wire or if there's a collision that has been detected.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "CSMA CD",
+      "content_type": "Story",
+      "timestamp": "03:02 - 03:46",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP06_-_Tech_Lesson_-_Understanding_Basic_Network_Traffic_with_Jacob_Hess.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_6",
+    "text": "any traffic on that wire or if there's a collision that has been detected. So these are kind of the traffic rules per say for the collision domains out there. I see. Okay, that makes sense. Now I'm curious on how this actually relates to network devices and how to separate the collision domains amongst different type of network devices. Okay, awesome. Let's break that down. So thinking of the three main network devices, we have router, we have a switch. And we have a hub. So these are kind of the three main network devices that people think of. And starting with a hub, we can say that even if you have a 24 port hub that has 24 computers connected to it, it's actually only a single collision domain.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "collision domains",
+      "content_type": "Story",
+      "timestamp": "03:43 - 04:27",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP06_-_Tech_Lesson_-_Understanding_Basic_Network_Traffic_with_Jacob_Hess.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_7",
+    "text": "connected to it, it's actually only a single collision domain. So that means that all of those devices that are connected to the hub are actually accessing really the same piece of wire. So the more devices you connect to a hub, the more potential for collisions you will have. So you can see how that could be bad as you expand your network and grow it. The more devices you have attached to the hub, the more poor performance you're going to get out of it. I see. So if a network has a hub, it seems like it could deter network performance. And if that's the case, like you mentioned, what should a network admin or engineer do to avoid that? You should definitely be using a switch instead of a hub in that scenario.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Network",
+      "content_type": "Story",
+      "timestamp": "04:24 - 05:12",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP06_-_Tech_Lesson_-_Understanding_Basic_Network_Traffic_with_Jacob_Hess.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_8",
+    "text": "You should definitely be using a switch instead of a hub in that scenario. So that's also a great piece of advice is just to go ahead and say, hey, you know, if you're using hubs, go ahead and replace those with switches. You should always be thinking in terms of switches if you're a network engineer and not hubs. You know, it's necessary to understand the difference, but it's also necessary to understand that you should be using switches in your network, not hubs. Can you explain how a switch actually separates collision domains? Yes. So a switch, you can think of it like this, every single port on a switch is its own collision domain. So whereas earlier we talked about a hub, even if you had a 24 port hub, there was only one collision domain.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Network",
+      "content_type": "Advice",
+      "timestamp": "05:07 - 05:46",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP06_-_Tech_Lesson_-_Understanding_Basic_Network_Traffic_with_Jacob_Hess.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_9",
+    "text": "one collision domain. Well, on a switch, if you have a 24 port switch, it actually has 24 different collision domains. And a router is actually the same. So if you have a router that has four interfaces on it, those are four separate collision domains. So now that we covered collision domains, let's go on and move into broadcast domains. So before we talk about broadcast domains, I think it will be beneficial to talk about what is a broadcast and Jacob. In my mind, I'm starting to think about a radio broadcast to the world. Now does that make sense or can you explain? It makes perfect sense. And yeah, that is the idea of a broadcast. So if I'm a host on a network and I send out a broadcast, I'm sending out a message",
+    "metadata": {
+      "domain": "IT",
+      "topic": "collision domains",
+      "content_type": "Story",
+      "timestamp": "05:45 - 06:33",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP06_-_Tech_Lesson_-_Understanding_Basic_Network_Traffic_with_Jacob_Hess.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_10",
+    "text": "So if I'm a host on a network and I send out a broadcast, I'm sending out a message that's going to be received by every single other host on that network. So that's what a broadcast is. Similar to a radio broadcast, you're sending it out to everybody. So let's talk about how it relates to network traffic. Can you tell me maybe some protocols that relate to a broadcast? Sure. The digital call that is commonly used is DHCP or dynamic host configuration protocol. This protocol is used by hosts to dynamically obtain an IP address on the network so that they can talk to each other with IP. For this to happen, the DHCP host needs to first discover who the DHCP server on the network is. And in order to do this, it needs to send out a DHCP discovery broadcast.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Network",
+      "content_type": "Story",
+      "timestamp": "06:28 - 07:18",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP06_-_Tech_Lesson_-_Understanding_Basic_Network_Traffic_with_Jacob_Hess.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_11",
+    "text": "And in order to do this, it needs to send out a DHCP discovery broadcast. So the host comes onto the network and it says, hey, everybody in the network, please tell me if you are the DHCP server. Awesome, Jake. Thanks for sharing that. Now, what about a broadcast domain? Let's go in and define that. Okay. Yeah. So you were talking about how a broadcast is kind of like a radio broadcast. We were using that kind of terminology, that kind of metaphor. So if we think of a radio broadcast being sent out to the entire world and we try to think of that in the terms of the internet, you could say that the internet actually would not function because if we had IP traffic that was just being broadcasted from one single",
+    "metadata": {
+      "domain": "IT",
+      "topic": "DHCP",
+      "content_type": "Example",
+      "timestamp": "07:13 - 07:59",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP06_-_Tech_Lesson_-_Understanding_Basic_Network_Traffic_with_Jacob_Hess.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_12",
+    "text": "DHCP host that went over the entire internet, then you would have many hosts doing this, which would end up crashing the internet. So the internet actually wouldn't function if a broadcast could pass across the entire internet. So that brings us to describe what a broadcast domain is. A broadcast domain segments separate broadcasting groups so that in a broadcast domain, you have hosts that can actually hear and receive and listen to the broadcast on that network. But it keeps them in one small domain or one small group. And actually that broadcast domain is a network. Oh, I see. That's very helpful in terms of remembering, right? So broadcast domain equals network as Jacob says, well, what about a network that has multiple violins?",
+    "metadata": {
+      "domain": "IT",
+      "topic": "broadcast domain",
+      "content_type": "Story",
+      "timestamp": "07:59 - 08:50",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP06_-_Tech_Lesson_-_Understanding_Basic_Network_Traffic_with_Jacob_Hess.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_13",
+    "text": "violins? I'm assuming each VLAN equals, right? A network, virtual local area network would equal its own broadcast domain. That's exactly right. Now the light bulb is turning on and we're starting to realize that a broadcast domain is a network and is a VLAN. So each individual VLAN is its own broadcast domain. Each individual IP network is its own broadcast domain. And this is actually how we are limiting the way that broadcast travel across our networks. And again, taking the internet, for example, the internet is a collection of many, many, many different networks. So each one of those little networks are their own broadcast domain. And remember, if this wasn't the case, the internet would not function because everything",
+    "metadata": {
+      "domain": "IT",
+      "topic": "VLAN",
+      "content_type": "Story",
+      "timestamp": "08:49 - 09:35",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP06_-_Tech_Lesson_-_Understanding_Basic_Network_Traffic_with_Jacob_Hess.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_14",
+    "text": "would be one giant broadcast domain and that just would not work. Everything would crash. So there you have it, folks. We just covered collision domains, broadcast domains and understanding the basic network traffic concepts and theories. And if you want to learn more, visit rockstarse.com for the show notes, because we actually have a three page quick guide that dives deeper with visual elements into this exact tech lesson of the day. Jacob, any closing comments? Yes, I just like to say that understanding this builds a very strong foundation for everything else that you will learn in networking. So these foundational topics, even though they may seem a little cumbersome at first, once you understand them, they really pave the way for your success in understanding networking.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "network traffic",
+      "content_type": "Story",
+      "timestamp": "09:35 - 10:26",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP06_-_Tech_Lesson_-_Understanding_Basic_Network_Traffic_with_Jacob_Hess.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_15",
+    "text": "Well, there you have it, folks. If you have any questions, again, email us at questions at rockstarse.com and we will be answering all questions randomly at the end of the week. And lucky winners will be picked for some awesome rockstar S.E. T. shirts that we give out on a monthly basis. Guys and gals, you know what time it is? It's time for you to level up in becoming a rockstar engineer. This rockstarse class has ended, but there's more ways to propel you on your ideal IT engineer journey. Head over to rockstarse.com for show notes and be sure to sign up for our mailer. This will give you exclusive access for some amazing free content to help you level up and accelerate your career. We appreciate you joining us and look forward to helping you learn, focus and succeed next",
+    "metadata": {
+      "domain": "IT",
+      "topic": "rockstarse",
+      "content_type": "Story",
+      "timestamp": "10:27 - 11:20",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP06_-_Tech_Lesson_-_Understanding_Basic_Network_Traffic_with_Jacob_Hess.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_16",
+    "text": "time on rockstarse.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "time",
+      "content_type": "Story",
+      "timestamp": null,
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP06_-_Tech_Lesson_-_Understanding_Basic_Network_Traffic_with_Jacob_Hess.mp3",
+      "source_type": "Podcast"
+    }
+  }
+]

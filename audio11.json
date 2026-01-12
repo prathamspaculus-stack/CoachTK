@@ -1,0 +1,98 @@
+[
+  {
+    "chunk_id": "chunk_1",
+    "text": "Each week we provide tech lessons, answer questions, and bring you interviews of the most successful engineers and thought leaders working in the IT space across technologies like Data Center, Cloud, Networking, Collaboration and Security. Listen in as you'll gain insights, strategies, tips, and more to help you level up along your journey in becoming a Rockstar SE. So let the class begin! Hey what's up S.C. Nation, your host Terry Kim here. And today's episode is all about Q&A. I'm sure you have a lot of questions that might have come up and you're just wanting some answers. So I'm going to go through some questions and we'll wrap up the week. The first question is from Carlos. Carlos says, I have my CCNA routing and switching. Now since September 2015, should I continue my CCNP for route switch or should I go for my CCNA security and then CCNP security and so on?",
+    "metadata": {
+      "domain": "IT",
+      "topic": "IT space",
+      "content_type": "Example",
+      "timestamp": "00:00 - 01:06",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP03_-_Ask_Us_Anything_-_Open_Questions_and_Answers_with_TK.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_2",
+    "text": "So if you're interested in security or going across the wireless path, now I would say if you have a solid foundation on route switch, then you can start specializing. However, if your foundation is weak, meaning you're switching routing kind of concepts, just not really grasping the foundational and knowledge, I would recommend moving into the CCNP track for routing and switching. So if you are comfortable with your foundational knowledge, then by all means go into the CCNA security and start specializing. I hope that was helpful. Next question comes from Latanya. I have had my CCNA for a year and a half now, had a few interviews but can't seem to find any entry level network engineering jobs. Most jobs want experience. I don't have. I've tried with my current position as a tech, but network engineers is basically another group. Too much red tape.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career",
+      "content_type": "Advice",
+      "timestamp": "01:06 - 02:11",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP03_-_Ask_Us_Anything_-_Open_Questions_and_Answers_with_TK.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_3",
+    "text": "So I started to study for my NPP, hope this helped me any suggestions. So you're a technician. However, you need experience, right? And a lot of hiring managers can see if you're the right candidate they want to take on as a, let's say, associate or junior network engineer. So you've already landed your entry level IT job. Now you just got to move into an engineering role. And how you can do that is a couple things. One, I would recommend getting as much experience as possible with doing your own project simulations. And what I mean by that is using different simulation tools like GNS3, packet tracer or viral and being able to build up some hands on. Two, I would recommend volunteering on projects, those different business units, your network engineering teams are working on and volunteer for free, right?",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career Advancement",
+      "content_type": "Advice",
+      "timestamp": "02:11 - 03:09",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP03_-_Ask_Us_Anything_-_Open_Questions_and_Answers_with_TK.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_4",
+    "text": "Do you know spend time like they probably do those projects on nights and weekends. Just go ahead and volunteer and be an extra hand. And that will help you build experience. But two, will help you start building relationships with those folks that can be your way into that department. So I hope that helps. Next, I'm currently working as a computer systems administrator at age 23 will try my best to knock out the CCNA. Any suggestions on what I should do next? I apply for a network engineer job. So a couple things right. Your assist admin. That's great. Now you need to probably get into a network entry level job. So in order to get there, you need to start building some experience and show whoever your hiring manager will be or interviewer is that you have what it takes to be a successful engineer on the network site.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career Advice",
+      "content_type": "Advice",
+      "timestamp": "03:09 - 04:13",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP03_-_Ask_Us_Anything_-_Open_Questions_and_Answers_with_TK.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_5",
+    "text": "And what I would recommend if you're just starting out is probably the CompTIA network plus or you can go straight into the Cisco CCNA track. But definitely set a goal 90 days, knock out that exam and then maybe build out some home labs and start gaining some hands on experience and then go from there. So here's a question from Rosario Rosario ask what do you recommend on someone that wants to specialize what I would recommend on specializing is making sure you lay down a rock solid foundation. And that's understanding what a network is understanding the fundamentals of the OSI model, understanding switching routing and all the different components inside let's say a data center or a enterprise network. And then figure out what areas of technology you're super passionate about. It's important to not just focus on one specialty, but understand overall how all the technologies work.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career",
+      "content_type": "Advice",
+      "timestamp": "04:13 - 05:28",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP03_-_Ask_Us_Anything_-_Open_Questions_and_Answers_with_TK.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_6",
+    "text": "And then you can dive into one area where you can be a subject matter expert, whether that cyber security, whether it's collaboration, virtualization data center, you name it or even cloud computing. So I hope that is helpful. So the final question I have here for the end of the week is from meat. I am a 17 year old teenager and I am very interested in technology. I am highly into computers and planning to do further studies in IT. I want to know what's the best place to start. So what I would recommend is going and exploring the different technologies. So first of all, if you're into computers, one recommendation is how about building yourself a custom PC, go ahead and just build out all the components and start studying about it, the CPU, the memory, the hard drive and just build out a PC and start understanding how that PC is.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career Advice",
+      "content_type": "Advice",
+      "timestamp": "05:28 - 06:31",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP03_-_Ask_Us_Anything_-_Open_Questions_and_Answers_with_TK.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_7",
+    "text": "How does it communicate? And then from there, maybe take an A plus or a network plus certification exam from CompTIA. And that will help you understand a little bit more, but also definitely just stay tuned into the rock star as C show as we help you lay down a foundation and also build upon that. Now after that, you'll start to get a feel on what areas you're super passionate about and you'll want to start leaning towards those areas that are particularly if interest to you, because that's what will make you successful is combining your interest, your passion and your love of technology, but going towards what interests you the most and then deep diving into that. So I hope that helps. And if you have any questions, always feel free to email us at questions at rockstar SC dot com and every month random winners will be picked and we'll be giving out some cool rock star s e t shirts.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career",
+      "content_type": "Advice",
+      "timestamp": "06:31 - 07:43",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP03_-_Ask_Us_Anything_-_Open_Questions_and_Answers_with_TK.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_8",
+    "text": "Guys, thank you for your time. You know what time it is. It's time for you to level up in your journey and becoming a rock star engineer. This rock star s e class is ended, but there's more ways to propel you on your ideal IT engineer journey. Head over to rockstarse.com for show notes and be sure to sign up for our mail. This will give you exclusive access for some amazing free content to help you level up and accelerate your career. We appreciate you joining us and look forward to helping you learn, focus and succeed next time on rock star s e. you",
+    "metadata": {
+      "domain": "IT",
+      "topic": "rock star",
+      "content_type": "Story",
+      "timestamp": "07:43 - 08:25",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP03_-_Ask_Us_Anything_-_Open_Questions_and_Answers_with_TK.mp3",
+      "source_type": "podcast"
+    }
+  }
+]

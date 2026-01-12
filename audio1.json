@@ -1,0 +1,602 @@
+[
+  {
+    "chunk_id": "chunk_1",
+    "text": "The more you know about something, the more capable you are to talk about it, but more importantly, the more capable you are really understanding how to apply it. Each week, we provide tech lessons, answer questions, and bring you interviews of the most successful engineers and thought leaders working in the IT space across technologies like Data Center, Cloud, Networking, Collaboration, and Security. Listen in as you'll gain insights, strategies, tips, and more to help you level up along your journey in becoming a rockstar SE. So let the class begin! Now, this episode is sponsored and brought to you by our IT training company called NextShit, and we are the creators of Zero to Engineer, a revolutionary online course for those that are looking to break into network or systems engineering from the ground up. Zero experience or certifications are required. Visit zerotoengineer.com and feel free to share this with your friends and",
+    "metadata": {
+      "domain": "IT",
+      "topic": "IT space",
+      "content_type": "Story",
+      "timestamp": "00:00 - 01:04",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP14_IronMan_Athlete_and_Cisco_SE_Director_Mark_Moffett_shares_his_journey_habits_for_success_and_more.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_2",
+    "text": "family that are looking for a proper jumpstart in exploring a career in IT. And again, that is zerotoengineer.com. And now on to the show! All right, SE Nation, let's get started. I am simply honored to introduce my guest today, Mark Moffitt, who leads systems engineering for state local government education for the Eastern United States. He and his team of 130-plus systems engineering managers, system engineers, architects are responsible for design and deployment of a wide variety of Cisco solutions. He's also an Iron Man triathlon athlete and loves to compete on his spare time. Hey Mark, it's been a while since we've seen each other. How's it going? The very good Terry. I'm very excited to be here today. I've watched a couple of podcasts and anytime you get an opportunity to get in front of a lot of people and talk about engineering and talk about the exciting things we do. It's a good day, so I appreciate the opportunity. Thanks Mark, so are you ready to rock the show? I'm ready. Let's go.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career",
+      "content_type": "Example",
+      "timestamp": "01:04 - 02:08",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP14_IronMan_Athlete_and_Cisco_SE_Director_Mark_Moffett_shares_his_journey_habits_for_success_and_more.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_3",
+    "text": "Thanks Mark, so are you ready to rock the show? I'm ready. Let's go. All right, so since I've given our listeners an overview, please take a minute and now tell us a little bit more about yourself, such as where you're from, your current role, and maybe some hobbies. All right, thanks Terry. So as you can tell, I'm definitely not from upstate New York. I'm actually from a downstate Mississippi deep in the south, and I think Terry, you know, I've shared that in common. You were down on the Gulf Coast. So I was actually raised in a little bit of town called Naches Mississippi, which is about 80 miles north of Baton Rouge. And interestingly, Terry, I did not start my career in technology. You're where I left high school and went directly offshore to offshore drilling job where I spent eight and a half years. And then interestingly, when things got tough in the industry, I decided to, of all things joined the Air Force. And I know you were a fellow tech controller. That's right.",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Interview",
+      "content_type": "Story",
+      "timestamp": "02:04 - 03:05",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP14_IronMan_Athlete_and_Cisco_SE_Director_Mark_Moffett_shares_his_journey_habits_for_success_and_more.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_4",
+    "text": "joined the Air Force. And I know you were a fellow tech controller. That's right. 27 years old, I made the bold decision. I think the cutoff age was 28 to actually join the Air Force. I happened into the field. I'd never seen a computer or a food with any electronics up to that point, which is the coolest thing about, I guess, my career path. It just shows that no matter where you are and what you're doing, you can have not only a great start and a great opportunity, but have valve until a great career. So I joined the Air Force. I was a tech controller for eight and a half years. I spent a brief stint with three comp for two and a half years out of the Air Force. And then I've been with Cisco for a little over 17 years now. So hard to believe. That much time has passed a lot of water under the bridge, but a lot of cool things going on. I'm currently the SE director for the Eastern half of the US for our state, local government",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Career Path",
+      "content_type": "Story",
+      "timestamp": "02:59 - 03:56",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP14_IronMan_Athlete_and_Cisco_SE_Director_Mark_Moffett_shares_his_journey_habits_for_success_and_more.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_5",
+    "text": "and education business. And as you said in the opening, I've got about 137 plus engineers, architects and leaders that spend every single day in front of our state government, local government officials, as well as K through 12 and higher ed, trying to make sure that we help them solve their biggest business challenges. Now, I introduced to our listeners that you competed in an Ironman for those that don't know what an Ironman competition is. What is an Ironman competition work? Well, you have to build a little bit insane and sadistic take on something like that. But I'll tee it up, Terry, about saying the more fun part of that story is like everybody in their mid 40s, a lot of us have not worked out in a few years since our athletic days of high school. And so not that I was totally out of shape, but I hadn't done any aerobics or any of that stuff forever. I just did work out on my little small farm and gained",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Business",
+      "content_type": "Story",
+      "timestamp": "03:56 - 05:04",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP14_IronMan_Athlete_and_Cisco_SE_Director_Mark_Moffett_shares_his_journey_habits_for_success_and_more.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_6",
+    "text": "fair amount of weight and my wife looked at me one day and said you need to get in shape. So I took her up on it. And I literally could not run a half a mile without stopping to take a breather, but I set my sights on losing some weight. And within six months, I'd lost about 62 pounds. Wow. And ran my first marathon in Birmingham, Alabama at the Mercedes. Well, that evolved into joining a local running group and a good buddy of mine who had done triathlons for years said hey, man, you should try these. Well, you know, being the typical AA personality, I said, what's a triathlon? And he explained it, well, the Ironman seemed so far out of reach. It's a 2.4 mile swim. Yep. 112 miles on a bike. And then you turn around and finish it up with a nice little 26.2 mile run called a marathon. So it is a really long day. They call it a, so it gets a 140. So it's 140 total miles. And you try to obviously do that as fast as possible. So, wow. So long event,",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Weight Loss",
+      "content_type": "Story",
+      "timestamp": "05:04 - 06:11",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP14_IronMan_Athlete_and_Cisco_SE_Director_Mark_Moffett_shares_his_journey_habits_for_success_and_more.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_7",
+    "text": "very arduous. It takes a lot of tough training and a lot of a lot of discipline and a very strong\nmindset to finish that thing up. Yeah, that is insane. I didn't know you lost so much weight to 62 pounds.\nWow. 62 pounds. Wow. That is a lot. So that got you in shape. I mean, you just took it to the\nextreme. That's that's very impressive, Mark. Yeah, I remember you sharing with me stories on like\nbefore you even would start your day, you and your partner or account manager used to wake up like\nat five or before five in the morning and go train for this. Yeah, actually, you know, working for\nCisco. Cisco doesn't let you take time off to go goof off and do things like Iron Man event. So\nmy really good friend and business partner time was Greg Miles. We would actually get up and\nstart around three o'clock in the morning. Oh, wow. Because we needed to get in a three or four hour\nworkout before our, you know, our day got started. So it was a very hectic time and a very hectic",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Mindset",
+      "content_type": "Story",
+      "timestamp": "06:11 - 07:04",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP14_IronMan_Athlete_and_Cisco_SE_Director_Mark_Moffett_shares_his_journey_habits_for_success_and_more.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_8",
+    "text": "year. I can't imagine going back and doing that again. But it's probably one of more fun things and a great accomplishment for sure. I'm definitely going to put that in the show. No skies. If you guys want to kind of start off, you heard Mark himself, right? Couldn't even run a half a mile and he started competing and finished his first Iron Man. So that's really impressive. Before we start into your career journey, I would like for you to share with our audience your favorite quote and let us know why you chose this one to share. So Terry favorite quote is if you're lucky enough to find a person with a lot of head and a lot of heart, they will never come off the fill second. And that's by the late late great Vince Lombardi, of course, from the Green Bay Packers. So man, after my own heart, and I'll live by that quote long before I saw it out there, that kind of plays into Terry what we talked about with the Iron Iron Man event, right? Is head and heart is really all",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Career Journey",
+      "content_type": "Story",
+      "timestamp": "07:10 - 08:04",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP14_IronMan_Athlete_and_Cisco_SE_Director_Mark_Moffett_shares_his_journey_habits_for_success_and_more.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_9",
+    "text": "you need. I know a lot of people look at at resumes and they think you've got to add a lot of context around job and technical skills and all those type things, but I've always said even before I found that quote recently, give me a great attitude and somebody with a lot of passion, a lot of heart and you can really teach on anything you want to teach on and moreover make them lifetime quality employees. So that's been one of the things I've stood by for a long time before even need that quote existed. I love it. Now take us back in time. How did you actually start your first or how did you break into IT? Let's start there. Great question. Like I said, when I joined the Air Force, again, you're very familiar with the ASFAP test and how they put you through all these different areas of testing to figure out what you're going to be best at and for whatever reason I tested out really high in electronics and computing. Up until that point, as 27-year-old, I literally had never",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career",
+      "content_type": "Story",
+      "timestamp": "08:04 - 09:07",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP14_IronMan_Athlete_and_Cisco_SE_Director_Mark_Moffett_shares_his_journey_habits_for_success_and_more.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_10",
+    "text": "touched a computer and had never dealt with any electronics. So I'm not sure how that happened. That's interesting because you said off-shore drilling and then you scored high on electronics and probably math too and compute. That's so fascinating. Think what it boils down to what's turned out over the years and as a key trade of most engineers is a very logical thinking. I think your ability to think through scenarios, think through use cases, think through problems and how to get to a resolution probably landed itself to that. Anyway, I was fortunate enough to get to land what was a tech controller job and a tech controller for your audience who doesn't know. Yeah, who raw tech control? You got water walkers. That's it. The tech control feel really was what I would call a precursor to what we do today around what I'd call post-cells or day two engineering, which is troubleshooting circuits, making sure the circuit stayed true and then as it evolved and as technology evolved,",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career",
+      "content_type": "Story",
+      "timestamp": "09:07 - 10:11",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP14_IronMan_Athlete_and_Cisco_SE_Director_Mark_Moffett_shares_his_journey_habits_for_success_and_more.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_11",
+    "text": "you ended up when I got down to Gunner Air Force Base, we were using Thicknet K-Bull. I remember the old vampire tap still using time and reflectometers to troubleshoot Ethernet. Well, interestingly, when I, my first tour was over in the Philippines, I spent three years over there. We were building out a brand new tech control facility and that really lent itself to me joining a special team to do a lot of that deployment. So I learned a lot about just what I'd call basic layer one technologies, right? A lot of signal troubleshooting, putting in an E-Rax and after I left there and ended up at Gunner Air Force Base, they were consolidating all of the military data centers down to a few and I got into that right at the beginning and so I had a really good opportunity to do a lot of installation but with Ethernet, FDDI, token ring and some of the technologies back then, well, as luck with Abidab, I went to a training class for basic routing, switching, etc and ended up",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career",
+      "content_type": "Story",
+      "timestamp": "10:11 - 11:21",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP14_IronMan_Athlete_and_Cisco_SE_Director_Mark_Moffett_shares_his_journey_habits_for_success_and_more.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_12",
+    "text": "getting an offer from the instructor Doug Lauer at the time to co-lead this class with him and then eventually teach the class at Auburn's Technical Center down in Montgomery. And through that, one of the people coming through one of my classes actually was being recruited by 3COM, did not want to leave civil service, gave the recruiter my name and long story short, I ended up getting a job, getting an early out of the Air Force to join 3COM where I spent about two and a half years as a post-cells implementation engineer predominantly doing ATM networking, which was ahead of its time, I think, and then left there in 1999 to join Cisco as a systems engineer and spent four and a half years doing that role with Cisco moved into a leadership role back in 2004 timeframe and have been on the upward progression since then to the role I have now, which again is the SE Director for our sled business. Some good key takeaways here, I guess,",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Career",
+      "content_type": "Story",
+      "timestamp": "11:21 - 12:26",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP14_IronMan_Athlete_and_Cisco_SE_Director_Mark_Moffett_shares_his_journey_habits_for_success_and_more.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_13",
+    "text": "also for our listeners is Mark joined the Air Force to kind of kick off his career and his journey into IT as a tech controller and I said, who raw tech control, I used to be a tech controller as well, to serve five years, that actually specialty field was called 3C2 and now the Air Force has re, well they've merged multiple 3C and 3A and 2E's and merged it in 2009 and now they have it as 3DOX1 fields all under cyber system, cybersecurity, computer systems programming, clients, clients systems and administration. So for those that are interested into kind of breaking into this field of technology, I'll go and post that in the show notes as well. Yeah, that's a great call out, Terry. Look, I know a lot of people are reluctant to join the military for obvious reasons, but I'll tell you, it catapulted my career, right? Absolutely. I certainly would be where I am today without it. Yeah, it's definitely a viable option for sure. 100% health coverage and also I believe it's 100%",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career",
+      "content_type": "Story",
+      "timestamp": "12:26 - 13:39",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP14_IronMan_Athlete_and_Cisco_SE_Director_Mark_Moffett_shares_his_journey_habits_for_success_and_more.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_14",
+    "text": "college tuition assistance while you serve and it's a great way to get four years of experience. I think that's the only minimum requirement, right, Mark? Yeah, you got it. And a very good career field to your point that they've evolved everything over into cyber now. So as, you know, it's been a long time since I've been in a military and you've been in, so certainly a lot of new technology that people get to immerse themselves in today for sure. Absolutely. So you came out and became a network consultant. I saw you also are a CCIE. Did you get that obtained that CCIE during your first few years as an SC or at 3COM? No, I actually got it here at Cisco. We had a big initiative at Cisco back in the early 2000s. And the goal was really if you're going to and sent or inspire your partner community to have certifications, it would be a great idea if we had them too. And I'll tell you, because of the time commitment to get that CCIE, you know, it's very heavy. But I got dragged along by my manager",
+    "metadata": {
+      "domain": "IT",
+      "topic": "career",
+      "content_type": "Story",
+      "timestamp": "13:39 - 14:47",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP14_IronMan_Athlete_and_Cisco_SE_Director_Mark_Moffett_shares_his_journey_habits_for_success_and_more.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_15",
+    "text": "at the time, David Wright kicking in screaming. However, I will tell you, it's probably along with the Iron Man event. One of the best things I ever did for my career. I thought with 14 years experience prior to getting at CCIE, I just felt like as a very technical engineer for a lot of years that I had to experience. It really wasn't going to buy me anything, but I will tell you the difference even with existing customers after I got that was daylight and dark. It gives you a stamp of validity, if you will, to all the work you've done over the years. And I know there's been a lot of questions around how valid the CCIE is, especially in the role I've been in for a lot of years, which is sales. But the way I look at it, Terry, is the more you know about something, the more capable you are to talk about it, but more importantly, the more capable you are really understanding how to apply it to customer scenarios. So that CCIE was probably one of the best things I ever did",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career",
+      "content_type": "Story",
+      "timestamp": "14:47 - 15:47",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP14_IronMan_Athlete_and_Cisco_SE_Director_Mark_Moffett_shares_his_journey_habits_for_success_and_more.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_16",
+    "text": "from a career standpoint, for sure. I'm glad you mentioned that because my next question was going to be what were some key moments that really accelerated your career? And I think you touch up on a couple of those areas, anything you want to add on to that. Terry, I think, and this may be a bit of unorthodox, but you can already tell by the fact that I'm doing Iron Man's and doing CCIE's and doing crazy things like joining the military at 27 years old after you've been working off shore for all those years. It's a little bit of my DNA to be a risk taker and also to go above and beyond what people expect without an ask to do so. And so I think I think the big thing for me is, if I look back at key moments, you know, I was not a public speaker, as a matter of fact, the total opposite of that, I was pretty introverted prior to joining the military. So a few key things is stepping out and taking that risk and chance to stand up in front of a group of people",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Career",
+      "content_type": "Story",
+      "timestamp": "15:47 - 16:50",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP14_IronMan_Athlete_and_Cisco_SE_Director_Mark_Moffett_shares_his_journey_habits_for_success_and_more.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_17",
+    "text": "and teach IP basics and routing and switching that class I was sharing with you that I taught  down at Auburn's Technic Center of Montgomery, taking a chance and joining the military like I did  and getting totally outside of the scope of what I was comfortable with. With three-com, joining a  company where I had a little experience and, you know, joining as a post-cells implementation  engineer and the requirement was a lot of travel, a lot of time away from home. And then when I  joined Cisco, you know, I think I think I had a lot of good moments, but that CCIE really was  one of those things that transitioned and helped me understand what I was truly capable of.  And then lastly, it's just stepping into the management role. People have asked me for years,  we'll mark you were really technical. You got a lot of credibility as a technical person,  but that experience, what I learned was probably, even though I was gifted in the technical area,",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career",
+      "content_type": "Story",
+      "timestamp": "16:50 - 17:47",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP14_IronMan_Athlete_and_Cisco_SE_Director_Mark_Moffett_shares_his_journey_habits_for_success_and_more.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_18",
+    "text": "my biggest gift is probably inspiring and helping motivate people around what we do for living, which is self-developing engineers really taken a personal interest in whether it's developing engineers or managers or specialists. And so those, uh, those few things have been the big steps I've made that I think have made a difference and helping me get to where I am. Very nice. Thanks for sharing. Now for our audience, you mentioned a couple different job titles for the audience. Can you briefly explain what the difference between a post-cells engineer is and a pre-cells engineer making that transition from three-com to Cisco? When I joined three-com, I guess because my entire career had been from a military standpoint, operational, if you will, meaning that, you know, our job was to implement circuits. We were the knob-turners, if you will. And so we were the ones that really knew how to get this stuff to work, how to implement it, all those type things. When I talk about post-cells, it really is what I call",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Motivation",
+      "content_type": "Advice",
+      "timestamp": "17:47 - 18:53",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP14_IronMan_Athlete_and_Cisco_SE_Director_Mark_Moffett_shares_his_journey_habits_for_success_and_more.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_19",
+    "text": "after the cell type approach. So you got the pre-cells engineers which are more, I'm not going to say we're not deep technologists, but it's more theoretical knowledge. We help customers with architecture, design. But we don't necessarily get too often into the bits and bytes of what is your IP, addressing scheme look like and where do you plug things exactly and, you know, where this switch sits and where that's what sits. So really your pre-cells job is to do architecture, design, bills and materials, stand up in front of an audience prior to the cell and make sure that they understand what they're getting, why they're buying what they buy. The post-cells team are the ones who take that pre-cells knowledge and actually turn it into a reality by doing the day-to-day for work which is the implementation and ongoing operational support. And so typically your post-cells engineers have a lot more what I call working knowledge of the systems and you have typically a lot",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Engineers",
+      "content_type": "Story",
+      "timestamp": "18:54 - 20:02",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP14_IronMan_Athlete_and_Cisco_SE_Director_Mark_Moffett_shares_his_journey_habits_for_success_and_more.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_20",
+    "text": "more innate troubleshooting skills because you spend most of your time trying to get things implemented and turned up and naturally through that process you're figuring out things that are breaking and not working right and how to get them going. No, perfect. I think that helps our listeners kind of understand maybe during their career what kind of path they want to take and for those listening like Mark mentioned the post-cells engineers you can see a lot of these openings or jobs in the channel or in the partner segment. So Cisco goes to market through their channel and partners and these partners needs needs a lot of engineers to implement and do the implementation of these solutions. And then you would see more of these pre-cells SC roles within the manufacturing side. Now Mark let's talk about a current or past project you've worked on that really excited you the most and why. You know there's so many of them here but the one you and I spoke about that I",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Career Path",
+      "content_type": "Advice",
+      "timestamp": "20:02 - 21:07",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP14_IronMan_Athlete_and_Cisco_SE_Director_Mark_Moffett_shares_his_journey_habits_for_success_and_more.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_21",
+    "text": "think it's the most compelling because it really is requiring us to rethink systems engineering  as we've known it up to this date and it really is around programmability. If you look at the  at the top concern for most customers on where they spend most of their money if you look at the  advent of the cloud you look at outsourcing a lot of that has come about because of the  not the not how much things cost up front but the ongoing support of that stuff I think the  industry has shown that on average about 80% of what a customer spends on a solution over time  is the day to support it's the people cost all that type things. So what's most compelling about  programmability as it relates to an orchestration I should say as it relates to the network is how do  you take a lot of the command line monotonous work that's involved with as we were just talking about  on the post-sale side turning things up how do you automate a lot of that functionality so that",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Programmability",
+      "content_type": "Advice",
+      "timestamp": "21:07 - 22:17",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP14_IronMan_Athlete_and_Cisco_SE_Director_Mark_Moffett_shares_his_journey_habits_for_success_and_more.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_22",
+    "text": "it's streamlined if you will and it makes implementation faster it takes a lot of the you know and I'll say this to kind of interrupt myself as a lot of us as engineers were initially concerned well is this going to displace me or take my job actually it's the exact opposite you know I heard one of our former executives really well he said look I think the thing that we don't need to do is over rotate we've got a lot of people call CCIE CCNP CCNAs that have been quote-unquote programming network devices for years they've just been using command line the way they do that is going to change where we're using python json different languages to script to effectively get the same result but it's going to automate a lot of that stuff so that you're not having to repeat those functions box by box you can do it to essentialize so we'll call a controller so one of the things that Cisco started a few years back is called DevNet if you want to",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Automation",
+      "content_type": "Story",
+      "timestamp": "22:17 - 23:28",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP14_IronMan_Athlete_and_Cisco_SE_Director_Mark_Moffett_shares_his_journey_habits_for_success_and_more.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_23",
+    "text": "access it you simply go to developer.sisco.com and when you go on that website they give you an opportunity to join DevNet and it's got a lot of modules that you can kind of a self-paced thing you can go through that teaches you really you have to have zero coding knowledge and you can really learn a great deal about how to configure networks voice equipment those type things to get out of them a more customized approach to how they handle your business so with DevNet it becomes become really a big deal a big part of Cisco live and we've got quite the community built the intent was obviously to ramp up the skill set and the engineering community around network automation and development and that type thing and now we've started this as part of DevNet DevNet experience where we have local events around the country and you'll see those listed out there and those are actually live events where you can go get hands on with a trainer",
+    "metadata": {
+      "domain": "IT",
+      "topic": "DevNet",
+      "content_type": "Story",
+      "timestamp": "23:28 - 24:35",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP14_IronMan_Athlete_and_Cisco_SE_Director_Mark_Moffett_shares_his_journey_habits_for_success_and_more.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_24",
+    "text": "that I believe they're free events theory which makes them even better and you can hard to do this alongside some of your peers and with some instructor-led type classes well as part of DevNet express initially they're doing DNA architecture and DNA for the audience is our digital network architecture and if I were to encapsulate that it really bulls down to we obviously see what people are talking about the internet of things call it what you want to call it really it is the digitization of everything and the need for the network to be able to be smarter in a way that it handles whether you're talking about sensors video end points are back to what we're talking about earlier the way you automate and orchestrate that network to function yeah everything's changing absolutely a lot of our listeners are are even intrigued or a looking at AI and machine learning and they're seeing you know iLT and like 50 billion plus devices to be connected by by 2020 is huge so I think for the listeners it's so important to",
+    "metadata": {
+      "domain": "IT",
+      "topic": "digital network",
+      "content_type": "Story",
+      "timestamp": "24:36 - 25:50",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP14_IronMan_Athlete_and_Cisco_SE_Director_Mark_Moffett_shares_his_journey_habits_for_success_and_more.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_25",
+    "text": "understand this huge shift that we're living in right now that creates a massive opportunity for really exciting careers and jobs that are opening around network engineering systems engineering cybersecurity that is all happening as Mark mentioned with a lot of let's say day-to-day tasks will be automated but it doesn't mean that these jobs will be going away just your role and your what you do on a daily basis is going to be more around orchestration creating policies and being able to do more creative things so to speak and I think that's really exciting now I'm curious Mark what is what makes up the digital Cisco digital network architecture what's that main controller let's talk about that okay we call it the apik em application programmable interface controller dash enterprise management and tear I know you you're very familiar with what we've done with ACI over the last couple years and the apik controller and the data center is around orchestrating",
+    "metadata": {
+      "domain": "IT",
+      "topic": "careers",
+      "content_type": "Story",
+      "timestamp": "25:50 - 27:02",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP14_IronMan_Athlete_and_Cisco_SE_Director_Mark_Moffett_shares_his_journey_habits_for_success_and_more.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_26",
+    "text": "the Nexus 9000 series of switches and a lot of things we've talked about today will as that's evolved obviously you need to do the same thing for the campus and the whan edge so apik em is our controller for that environment and we started out with really three key things eat what we call easy QOS which is a way to automate quality of service if you've ever done any configs for quality of service you know it can be quite tedious and time consuming and the bigger the network the tougher it gets will be able to automate that so to speak to make sure that all of the switches are set up appropriately to handle for example a high quality video call takes a huge burden off of the staff and let's you get quicker to what your real job is which is supporting the business function not deploying quality of service configurations the next thing is plug-in play and again this is if you can imagine what's very time consuming is switch by switch",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Nexus 9000",
+      "content_type": "Example",
+      "timestamp": "27:02 - 28:08",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP14_IronMan_Athlete_and_Cisco_SE_Director_Mark_Moffett_shares_his_journey_habits_for_success_and_more.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_27",
+    "text": "configurations truck rolls all those type things so being able to deploy for example switches in a stat and have a policy and of configs built where that switch kind of phones home to the controller realized it's where it lives and then self configures if you will and inserts itself into a stack that again are the type things that we're working on and the last thing is around i-wan which is the our SD-WAN capability and being able to again all for a software to find WAN service it's easy to troubleshoot easy to deploy those type things so that's the initial three but as you can imagine with apkm offering you the ability to script around doing things one of the things you could imagine being possible going for is are things like audits typically you got to go switch by switch route or by router and pull those configs do some analysis on them so forth and so on around particular audits whether something the irs or some law enforcement requirement would have you do well",
+    "metadata": {
+      "domain": "IT",
+      "topic": "configurations",
+      "content_type": "Example",
+      "timestamp": "28:08 - 29:14",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP14_IronMan_Athlete_and_Cisco_SE_Director_Mark_Moffett_shares_his_journey_habits_for_success_and_more.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_28",
+    "text": "you can imagine now with apkm being able to develop a script that would effectively go out and even give an executive an easy button if you will to do a quick audit check on the environment and give you back a port so i think it's a fascinating time to be in the industry and as you look at you sysco and others opening up our platforms the ability to get creative around how you interact with the infrastructure and i think the last piece of this you didn't call out when you were talking about iot what people are really after is the data right because watch you have the data whether telemetry from our network components or telemetry data from sensors then your ability to act on that data and make better decisions to service your citizens or handle public safety those type things that's really where the magic happens today for most of us no i love it mark i mean there's a lot of takeaways here too that i would personally love for our listeners to start thinking",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Industry",
+      "content_type": "Example",
+      "timestamp": "29:14 - 30:22",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP14_IronMan_Athlete_and_Cisco_SE_Director_Mark_Moffett_shares_his_journey_habits_for_success_and_more.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_29",
+    "text": "about looking at technology and better understanding how to tie solutions to actual business problems and that will create a lot of value for your team your organization like mark mentioned a bunch of things here like not only increasing your productivity with things like easy qs i remember doing auto qs back in my day and saved a lot of time doing voice projects and deploying network devices faster like if you need a top of rack switch right mark you don't want to be able to you want to be able to just plug and play that not spend three hours configuring that it's you know so you want to spend your energy spend your time doing more awesome creative work and getting these projects implemented sooner rather than later so what were some of the biggest lessons you've learned from getting your team to work on this this huge initiative or project if you will really good question Terry the i'll tell you the toughest thing right is um i've got engineers that",
+    "metadata": {
+      "domain": "IT",
+      "topic": "productivity",
+      "content_type": "Story",
+      "timestamp": "30:22 - 31:26",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP14_IronMan_Athlete_and_Cisco_SE_Director_Mark_Moffett_shares_his_journey_habits_for_success_and_more.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_30",
+    "text": "are like me and their mid fifties all the way to engineers in their mid-twenties and so what i would say is anytime you've got that diverse of a group with diverse skill sets i think the biggest lesson learned for me is where i would have assumed that my team members with the programming skills would have been the initial group to latch on and take this forward the interesting thing it ended up been uh one of my engineers which is no programming experience whatsoever but he does have his ccae and he i think what got him so interested is he found a customer opportunity where he could really make this a reality so timing is everything as we always hear and you said something interesting earlier that i think uh really to me has me continually enamored and passionate about the pre-sales role is we are constantly looking for ways and concert with our customers to help them figure out how to use Cisco technology with to solve a real-world business problem right and so i can't talk",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Team Dynamics",
+      "content_type": "Story",
+      "timestamp": "31:27 - 32:38",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP14_IronMan_Athlete_and_Cisco_SE_Director_Mark_Moffett_shares_his_journey_habits_for_success_and_more.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_31",
+    "text": "about the specific customer but we have a customer that is one of our departments of transportation and we really lucked into this meaning that it was going to be a traditional network cell and the customer application development team got involved and when they realized that they could actually write fog applications directly to our industrial ethernet switches the game changed because all of a sudden now talking about iot one of the big things there is your ability to obviously with interstates and all these roads uh you can't transfer to all this actionable data back to a data center and then act on at any reasonable time with car driving 70 80 a hundred miles an hour right yep and so an example would be if you've got fog areas having having fog is catastrophic what you're talking about California or the deep south and you see these big pile ups and those type things will those obviously end up a lot of cases unfortunately with fatalities will think about",
+    "metadata": {
+      "domain": "IT",
+      "topic": "IoT",
+      "content_type": "Story",
+      "timestamp": "32:38 - 33:44",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP14_IronMan_Athlete_and_Cisco_SE_Director_Mark_Moffett_shares_his_journey_habits_for_success_and_more.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_32",
+    "text": "today's network if you had the ability to close interstate off ramps that would lead into areas where you could potentially have a safety hazard or you could trigger digital speed limit science to start throttling traffic that miles before a fog bound area you could see how those are real business challenges that dot would be trying to face and the fact that Cisco can get involved with those type situations and help a customer really resolve those those are the fun type things so think the big lesson learned here for us is that while this stuff looks like it's somewhat pie in the sky at time it is a it's a real world scenario that's playing out everywhere every day and i think the speed that we thought we would be able to travel if you will to get people ramped up and ready was far slower than the requirement that's really out there because this stuff's happening today we're seeing a lot of grants and things come around for what you're",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Network",
+      "content_type": "Story",
+      "timestamp": "33:44 - 34:48",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP14_IronMan_Athlete_and_Cisco_SE_Director_Mark_Moffett_shares_his_journey_habits_for_success_and_more.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_33",
+    "text": "talking about autonomous cars smart city initiatives all those type things that are really requiring  our scs to rethink how they go to market in this programmability part of our job has become a today  reality not something we had to focus on have a longer term time to focus on absolutely and  for those listening internet of things is driving a lot of innovation and demand different skill  sets and that's mark mention around industrial kind of market there is a new certification  from Cisco actually called the Cisco industrial networking specialist you could actually  certify in this and mark mentioned i.e. switches or the industrial ethernet rugged switch  and that provided a huge seems like solution for one of your big big customers yep sure was  and hopefully we can scale it out to even more but you know that's that's probably been the  biggest thing for us it's just the evolution of what an engineer has to be capable of today",
+    "metadata": {
+      "domain": "IT",
+      "topic": "innovation",
+      "content_type": "Story",
+      "timestamp": "34:48 - 35:50",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP14_IronMan_Athlete_and_Cisco_SE_Director_Mark_Moffett_shares_his_journey_habits_for_success_and_more.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_34",
+    "text": "as shifting very very quickly and so again a fun time to be in the industry absolutely now let's talk about some keys to success smart you've found a lot of success throughout your career and i'm curious what some daily or weekly rituals that have helped you become successful the first one terrier is just yet you really do have to be passionate about oh what you do right i run into people what they were talking about at Cisco with customers when i was three com or in the military that are they're just going through the motions so the first thing is and john chambers said this at one of our i think our 30th birthday event is just uh i never realized this about myself and about the people who've been the most successful but this intense curiosity around in our case technology and and what it can do for in our case here in sled you think about the way we go to market when i go talk to a principal or a superintendent i'm talking as a dad or a grandfather right so it's real world and the fun",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Success",
+      "content_type": "Story",
+      "timestamp": "35:50 - 36:59",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP14_IronMan_Athlete_and_Cisco_SE_Director_Mark_Moffett_shares_his_journey_habits_for_success_and_more.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_35",
+    "text": "thing about what we do for a living here uh in my organization is you have a real link to the customers you're visiting because you are their customer right so i just think that intense curiosity that keeps you driven for example i get up early every day anywhere from five to five thirty i try to spend even still today although i've been in management for years to spend at least an hour reading blogs reading different post research in the industry taking online training that we offer to Cisco some of those type things just to stay short on what we do so that's probably thing number one number two is what i just characterizes relentless work ethic i know it's easy to get caught up you know my son's 22 years also i can certainly relate to younger generations and you know i grew up on a farm so whether you wanted to work or you didn't you had to and so we grew up with that rise early you work all day you're relentless about what you do and i know times they've certainly changed but you know i think",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Work Ethic",
+      "content_type": "Advice",
+      "timestamp": "36:59 - 38:10",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP14_IronMan_Athlete_and_Cisco_SE_Director_Mark_Moffett_shares_his_journey_habits_for_success_and_more.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_36",
+    "text": "what employers look at today and you can really see as employees who really have an invested interest in what they do and that plays out and in the way they show up and uh that the tenacity that they work uh every day i love it the third one i would just wrap it up with is balance right people asking me all the time will mark how do you work in the garden and spend time in the outdoors and work on your farm and still cover 27 states and lead to 137 people i think you got to keep things in perspective right because there's hopefully going to come a day when all of us retire and and lay back and you can't have uh burned the candle at both ends and only focused on work for your entire career and then wake up suddenly and and realize there's other parts of life so you just got to keep balance i know tear you worked with Cisco and it's a struggle at times but you just got to keep things in perspective and remember that family and hobbies and all those things",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Employer",
+      "content_type": "Advice",
+      "timestamp": "38:10 - 39:04",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP14_IronMan_Athlete_and_Cisco_SE_Director_Mark_Moffett_shares_his_journey_habits_for_success_and_more.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_37",
+    "text": "make you a better you absolutely thanks for sharing mart now what are some things you do to keep up with technology to continue to build mastery in your skills or learn new skills yes so uh fortunately at uh Cisco there's a lot of avenues that we have first of all with the advent of social media there's never an excuse for not knowing something about something or having an opportunity to study whether it's reading you know Cisco blogs for example is uh one place i spend a lot of time as we've got every technology including services and other areas broken out and just taking some time like i said earlier an hour or so to read through those and in turn repost those out on you know i primarily use twitter and and link down for posting all of my stuff so i do a lot of studying i dedicate about an hour a day we have very good internal product documentation and those type things and so i think the first thing they're very is just dedicating and carving the time out to do it most people the first area that they cut",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Personal Development",
+      "content_type": "Advice",
+      "timestamp": "39:08 - 40:12",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP14_IronMan_Athlete_and_Cisco_SE_Director_Mark_Moffett_shares_his_journey_habits_for_success_and_more.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_38",
+    "text": "if they're looking for areas to cut to make room for things else is their self-development you've just got to make the time to to do that and i pick up a few key things Cisco blogs follow things on twitter follow things on LinkedIn and then try to go out as an example i saw as we were talking about the sci-of-t stuff earlier i saw where the city of Las Vegas for example was partnered with outie and part of what they were looking at was the protocol that interfaces with traffic lights so that they could i guess get into this place where cars can sense the lights changing and stop or warn you that you need to stop vice versa so a lot of it was around traffic flow and safety and those type things so you see articles like that all the time and the first thing you think about is wow that's applicable to what we do and so how would we make that happen and then i'll go out and do some study and the other thing and and probably most important fun part of",
+    "metadata": {
+      "domain": "IT",
+      "topic": "self-development",
+      "content_type": "Advice",
+      "timestamp": "40:12 - 41:12",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP14_IronMan_Athlete_and_Cisco_SE_Director_Mark_Moffett_shares_his_journey_habits_for_success_and_more.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_39",
+    "text": "being with Cisco we got a lot of smart people here so associate with really sharp people  spend some time in the room together white boarding discussing topics i know you do that today  through a podcast like this you've got group learning forums you could be a part of but that's  probably the final big thing i put out there it's just associating with top with quality engineers  that have the same interests and bounce ideas back and forth and joint learning absolutely you'd never  want to be the smartest person in the room right mart i never have that problem  so what's your favorite tool maybe some applications or a particular website that you can share  with our listeners and it can be just maybe even an app on your phone well so my my new favorite app  has has become spark and so for your listeners who may not know what that is that it's our new  it's really our new architecture around collaboration but spark itself you can grab it off the app store",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Associating",
+      "content_type": "Advice",
+      "timestamp": "41:12 - 42:16",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP14_IronMan_Athlete_and_Cisco_SE_Director_Mark_Moffett_shares_his_journey_habits_for_success_and_more.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_40",
+    "text": "i'll run it on my phone and i'll also run a spark client on my laptop all day you don't have to have a client and it's just a collaboration forum which gets you to look at it somewhat like a social media feed where you can post content you can collaborate you can make video calls all those type things so Skype like but i think much more to true enterprise collaboration so let's become my new favorite simply because it seems to be weaning people off of email and it also is for my engineering team for example we've got a spark room called a sled east engineering hangout and ask mark and it just has inspired i think a lot of dialogue with the team so that's that's one and then from a pure sales perspective i use salesforce.com quite a bit just to get business inside around what we do to help us figure out how to move forward with our customers okay i'll be sure to put that in the show notes it's i think there's a lot of apps that really increase productivity and",
+    "metadata": {
+      "domain": "IT",
+      "topic": "productivity",
+      "content_type": "Example",
+      "timestamp": "42:16 - 43:22",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP14_IronMan_Athlete_and_Cisco_SE_Director_Mark_Moffett_shares_his_journey_habits_for_success_and_more.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_41",
+    "text": "i'm not a huge fan of email for sure especially for collaboration so here on my team we use an app called slack and i wouldn't be able to be as productive with my team without slack and it's like kind of like Cisco spark and in that sense it totally makes sense so when i add both of that into the show notes lastly what book would you recommend to s c nation and why you know i don't often recommend books i've not read uh full yet but the first current one that i think is probably paramount everything we've talked about today as extreme ownership is written by a couple of navy sales and it's one of the things terry is is business has evolved times have evolved you know i'm i'm in the bill last to the baby boomers and so obviously you've got millennials and gen x's i think the big thing that has transpired over the last few years is you see companies and i think it can happen particularly in big companies like assist go this uh not my job mentality and",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Productivity",
+      "content_type": "Advice",
+      "timestamp": "43:23 - 44:31",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP14_IronMan_Athlete_and_Cisco_SE_Director_Mark_Moffett_shares_his_journey_habits_for_success_and_more.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_42",
+    "text": "what that leads to obviously is deferring to other people to do what you can do yourself and what i\nlike about this book extreme ownership that talks about exactly that it's taken ownership for\neverything around you and doing everything you can do within your power to uh to make whether it's\nthe work environment the best it can be customer situation the best it can be or what we talked about\nearlier just your own career and the way you do your job day to day be the best you can be so i think\nthat's a book i would recommend to everybody that i'm working through now that i think will have a\nprofound impact on how you conduct yourself around whatever the scenario inside of work or out\nnow for a tech topic of the day tell us uh mart what do you want to share with our listeners\nfor the for the tech topic i think we'll go back to terry what we talked about earlier which is\nuh programmability and automation you know i think the the thing that i did last year for my team",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Ownership",
+      "content_type": "Advice",
+      "timestamp": "44:31 - 45:33",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP14_IronMan_Athlete_and_Cisco_SE_Director_Mark_Moffett_shares_his_journey_habits_for_success_and_more.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_43",
+    "text": "and you know it's just uh one of those things you try to do to inspire people i bought everybody on the team a raspberry pie as a way to get them at least a tool where they could get Linux loaded and and do some creative things and they have within their own teams done some hack the thorns they've created games they've done all kind of different things so it really is such a profound part of where we're headed that i think something we could spend a lot of time talking about so we call it programmability i'm not sure if the industry follows that but all of the all of the communication you see out there today around learning to code and all those type things really point to the fact that we're moving into what you hear sisco talk about all the time becoming a software company yep uh really what that means is our customers using the feature functionality in the software that they buy you know we've been selling software for years right everything that we have as a hardware device",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Leadership",
+      "content_type": "Story",
+      "timestamp": "45:33 - 46:37",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP14_IronMan_Athlete_and_Cisco_SE_Director_Mark_Moffett_shares_his_journey_habits_for_success_and_more.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_44",
+    "text": "with some software running on it whether you're talking about a switch or a ip telephone or video endpoint it has sisco software running on it but sadly and you know this from being in the industry for quite some time customers turn on very few of those features and functions yep and so you end up paying a heck of a lot of money for a device that you could have spent a lot less for but on the other side of that if you took advantage of the software functionality that's really out there like you were talking about slack earlier i was talking about spark there's really some innovative things that you can do so this whole programmability thing i think is putting in our teams and the mindset of understanding that not just programming the network environment for orchestration and those type things but it really boils down to how do you make for example i heard somebody this morning reference that they had actually interface their running shoes with",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Software",
+      "content_type": "Story",
+      "timestamp": "46:37 - 47:42",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP14_IronMan_Athlete_and_Cisco_SE_Director_Mark_Moffett_shares_his_journey_habits_for_success_and_more.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_45",
+    "text": "spark through the open api so that they could actually track their their exercise through their collaboration tool i was talking about earlier so just interesting things like that that you can do yourself but you can see how that stuff really starts to play out if you're talking about for example the classroom environment what's one of the top things you want to do as a teaching institution is you want to generate successful students well if you're going to generate successful students you want those students to be able to you want to be able to see how they do what they do and you want to be able to kind of follow their success well with things like spark now offering open apis and our switching infrastructure and web acts and on and on and on i shared with you i think the story of learning management systems well prior to now if i'm a teacher or student i would go to a lm s system i'd see my lessons then then i would have to jump out and get on a conferencing",
+    "metadata": {
+      "domain": "IT",
+      "topic": "spark",
+      "content_type": "Example",
+      "timestamp": "47:42 - 48:46",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP14_IronMan_Athlete_and_Cisco_SE_Director_Mark_Moffett_shares_his_journey_habits_for_success_and_more.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_46",
+    "text": "tool a web act or a skype or whatever and then i would have to open up my collaboration tool whether instant messaging or jab or whatever and then i would have to go over and use a different tool to you know get notifications notes like things tool what the old programmability thing is evolved into and the thinking is is well now if i can if i can through open apis now interface for example web acts directly into the into an lm s system and i can interface spark directly into that lm s system and i can take our vbrick rev solution which is basically content development and i can use its capability to interface it into the lm s system and i can use something like tropo to notify students of learning links and those type things what that now gives me the ability to do is instead of a teacher having to have all this technology knowledge they can focus on teaching stay in the learning management system automatically spin up teaching conferences if you will",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Collaboration",
+      "content_type": "Story",
+      "timestamp": "48:46 - 49:58",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP14_IronMan_Athlete_and_Cisco_SE_Director_Mark_Moffett_shares_his_journey_habits_for_success_and_more.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_47",
+    "text": "around a certain lesson plan they can build spark rooms or collaboration rooms automatically  based off of those easy content host hosted directly in there and then if a student calls a teacher  and says hey i can't remember how to get to this you could use that tropo tool to sms them a link  straight out lm s so being able to automate real business function and tell that stuff together is  where scs really are having to evolve their thinking and mindset not that they necessarily have to  know how to do all of that stuff even though i think that's a plus but just understanding how to  articulate it and share with a programming audience which is an audience we've never had up until  this point really share with that audience the capabilities there and then certainly those  application programmers those type folks can figure out how to make it happen so that's my spill on  the topic well thanks for sharing mark and for those listeners that are wondering what is a Raspberry",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Raspberry",
+      "content_type": "Advice",
+      "timestamp": "49:58 - 51:04",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP14_IronMan_Athlete_and_Cisco_SE_Director_Mark_Moffett_shares_his_journey_habits_for_success_and_more.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_48",
+    "text": "Pi a Raspberry Pi is this tiny affordable computer and you can just hack it and program it and do fun projects with it like mark said and he bought one for all of his scs and that's a great way to start getting into programmability on top of maybe learning a new language like python or go and i think those are kind of the popular ones that i keep reading about so mark i have truly enjoyed listening to your journey insights and appreciate you teaching us about network automation orchestration and the importance of programmability and talking about iolt and industrial kind of segments any closing comments or something in general you want to share with our audience terrier's been a pleasure i really enjoyed it this has been a lot of fun it's fun to talk about what we do for a living and certainly go through the career path i would just close with encouraging your listeners here no matter where they are in their journey you know there's always a place for a career in technology",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Raspberry Pi",
+      "content_type": "Story",
+      "timestamp": "51:04 - 52:04",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP14_IronMan_Athlete_and_Cisco_SE_Director_Mark_Moffett_shares_his_journey_habits_for_success_and_more.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_49",
+    "text": "today and i think that's what's so exciting it's not the mundane it grew where i like the reference customers used to throw money into this black hole and they couldn't figure out where it went we've moved from the basement to the boardroom with it and so it really is an exciting time to be in systems engineering are in an engineering industry whether you're talking about data scientists or computer scientists whatever that career field is it really is a place now to get involved in the business which to me is a lot of fun so i appreciate the opportunity and look forward to maybe you'd be in a part of a future broadcast well mark thank you for being so generous with your time expertise and sharing your knowledge with our listeners now you know what time it is it's time for you to level up in becoming a rock star engineer this rock star se class is ended but there's more ways to propel you on your ideal it engineer journey head over to rockstar se.com for show notes",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career",
+      "content_type": "Advice",
+      "timestamp": "52:04 - 53:02",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP14_IronMan_Athlete_and_Cisco_SE_Director_Mark_Moffett_shares_his_journey_habits_for_success_and_more.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_50",
+    "text": "and be sure to sign up for our mailer this will give you exclusive access for some amazing free content to help you level up and accelerate your career we appreciate you joining us and look forward to helping you learn focus and succeed next time on rock star se.",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Career",
+      "content_type": "Example",
+      "timestamp": "53:02 - 53:20",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP14_IronMan_Athlete_and_Cisco_SE_Director_Mark_Moffett_shares_his_journey_habits_for_success_and_more.mp3",
+      "source_type": "podcast"
+    }
+  }
+]

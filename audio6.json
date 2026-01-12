@@ -1,0 +1,530 @@
+[
+  {
+    "chunk_id": "chunk_1",
+    "text": "I think the most important thing that you have and it's the hardest thing to do is listen to your instincts. Each week we provide tech lessons, answer questions and bring you interviews of the most successful engineers and thought leaders working in the IT space across technologies like Data Center, Cloud, Networking, Collaboration and Security. Listen in as you'll gain insights, strategies, tips and more to help you level up along your journey in becoming a rockstar SE. So let the class begin! Alright SE nation, let's get started. I am super excited to introduce my guest today, Steven Lynch, who is a consulting systems engineer with Cisco working in the Marocky Cloud Business Unit. Steven's been in the IT industry going on 8 years and got his start with Cisco's Networking",
+    "metadata": {
+      "domain": "IT",
+      "topic": "IT space",
+      "content_type": "Story",
+      "timestamp": "00:00 - 00:49",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP08_-_Interview_with_Stephen_Lynch_-_CCIE_at_age_21_and_Consulting_Systems_Engineer_at_Cisco_Meraki.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_2",
+    "text": "Academy program and worked his way up from intern to now rockstar engineer at Marocky. But most importantly earned an incredible achievement by passing his CCIE certification by age 21. Hey Steven, what's going on my man? Nothing much, how are you? Doing great, you ready to rock the show? Absolutely. Alright so since I've given our listeners an overview please take a minute and tell us a little more about yourself such as where you're from, current role and hobbies. Sure, yes so I'm 25 now right? It's been a little while since my CCIE based out of Virginia Beach so I love the water. Starting at Cisco Networking Academy, I got into the field a little bit and some of the hobbies, like love skiing, traveling around the world, I don't get a chance in lucky enough",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Career",
+      "content_type": "Story",
+      "timestamp": "00:49 - 01:40",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP08_-_Interview_with_Stephen_Lynch_-_CCIE_at_age_21_and_Consulting_Systems_Engineer_at_Cisco_Meraki.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_3",
+    "text": "where this company's allowed me to travel a little bit super into home automation and I'm doing scuba diving training right now. So pretty fun stuff. Hell that is awesome. I like to dabble in some home automation myself, I used to install those instian devices in my home and whatnot. What kind of gadgets do you have? So I have got the simply saved security system and the 5Q garage door opener, so I can see what people open and close my garage door opener, looking into the ring doorbell. I think the Google home sounds pretty interesting, I love the idea behind, hey up, you know, just like Amazon has their Echo or Alexa. Oh yeah. Turn on these lights from porch or play top country, whatever music you might like. I think those things are pretty cool.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "home automation",
+      "content_type": "Story",
+      "timestamp": "01:40 - 02:29",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP08_-_Interview_with_Stephen_Lynch_-_CCIE_at_age_21_and_Consulting_Systems_Engineer_at_Cisco_Meraki.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_4",
+    "text": "I think those things are pretty cool. So it's all trial and error. I think the industry is a little early. It's kind of, it's around from an enterprise standpoint from a consumer grid area though. It's really starting to take off. I agree. I've got Alexa at the house and it's pretty awesome. I haven't done any of the integration yet with the home, but cool. Now before we start, I'd like for you to kind of share with our audience your favorite quote and let us know why you chose this one to share. Sure. Yeah. So I actually got off Jim Carrey, which you wouldn't think to be an area like serious person, but check out his YouTube video. You get a commencement speech two years ago. And he said, you can figure out what you don't like.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Industry",
+      "content_type": "Story",
+      "timestamp": "02:27 - 03:09",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP08_-_Interview_with_Stephen_Lynch_-_CCIE_at_age_21_and_Consulting_Systems_Engineer_at_Cisco_Meraki.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_5",
+    "text": "And he said, you can figure out what you don't like. So you might as well do what you love. And the idea behind that was, he was talking about his dad and his dad was at this, I believe it was a accounting job. And he thought that was a safe career. And turns out that he lost that job and his family went through a lot of trouble in times because of that financially. And so he made a vow to himself, like, I'm never going to do something that I think is safe because in reality, doing what you think is safe is never really safe, right? You can try to think you can get that accounting job, but you could lose it. So you might as well do something that you absolutely love because you could fail at that or you could be extremely successful at that as well.",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Career Advice",
+      "content_type": "Story",
+      "timestamp": "03:06 - 03:48",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP08_-_Interview_with_Stephen_Lynch_-_CCIE_at_age_21_and_Consulting_Systems_Engineer_at_Cisco_Meraki.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_6",
+    "text": "that or you could be extremely successful at that as well. So that was the idea behind the quote and why it's been really powerful. But behind the video, absolutely check it out. It's been really important to me. Oh, that's amazing. Yeah. We'll be sure to post that in the show notes as well. And I'll definitely check out the video myself. Now take us back in time. How did you start your journey in IT? Well, taking it real far back when I was a kid, I would take apart moped told cars, take off the body strong and then I would put cameras and lights and really annoy my parents. And I think that was the start, right? They were backing up, built-in screws and all these things in my room. And from there, it started getting into computers and gaming.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career",
+      "content_type": "Story",
+      "timestamp": "03:45 - 04:28",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP08_-_Interview_with_Stephen_Lynch_-_CCIE_at_age_21_and_Consulting_Systems_Engineer_at_Cisco_Meraki.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_7",
+    "text": "And from there, it started getting into computers and gaming. I think that's a pretty common story for most people in technology. They say, let's, you know, let's play this game and what I found was playing a game and it would start lagging or it would be slow for whatever reason. And I read some things on the forums and I really didn't know what I was doing at the time. But I found, okay, I need to replace this part in my computer, right? So I need to replace the video card. And I play the next game and I say, okay, this is great. You know, it looks so much better. And then a new game would come along because the development of software was going so much faster than almost the hardware was. I had to replace the hardware again.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Technology",
+      "content_type": "Story",
+      "timestamp": "04:24 - 04:58",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP08_-_Interview_with_Stephen_Lynch_-_CCIE_at_age_21_and_Consulting_Systems_Engineer_at_Cisco_Meraki.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_8",
+    "text": "I had to replace the hardware again. And through that, I started to get really into the gaming because I got better at it. And moving on from there, I started to get into building websites for these teams that I would associate with in the gaming world. And so I got really into web development, actually started when I was like 17. I started my web hosting company. I had like 10 clients. It wasn't super successful, but it was certainly a really interesting learning experience. Did a lot of work with a company called Real Time Worlds, which ultimately sent me out to Scotland on an all-page trip when I was about 18 years old. So that was pretty cool. That is awesome. Yeah, actually, I did some kind of server hosting myself with a company called Rackspace",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career",
+      "content_type": "Story",
+      "timestamp": "04:56 - 05:42",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP08_-_Interview_with_Stephen_Lynch_-_CCIE_at_age_21_and_Consulting_Systems_Engineer_at_Cisco_Meraki.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_9",
+    "text": "when I was 21. And I stumbled upon that by playing Counter Strike. And we had a big team. And we basically built our own server on Linux box that we're hosting in Rackspace. And then we ended up carving up more servers and started renting them out, turned into a little small business. Yeah, and they're in there pretty big companies, that. Oh, yeah. Now it was like, man, if I only knew they were going to be that big, because I was actually one of their first customers. So it was interesting how fast they grew. It was back in like 2000. Well, cool. Now, let's talk about some key moments that, you know, that for you that kind of really helped accelerate your career. Can you talk about those moments?",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career",
+      "content_type": "Story",
+      "timestamp": "05:42 - 06:26",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP08_-_Interview_with_Stephen_Lynch_-_CCIE_at_age_21_and_Consulting_Systems_Engineer_at_Cisco_Meraki.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_10",
+    "text": "helped accelerate your career. Can you talk about those moments? Yeah, I was interesting. I wasn't really too sure. We were talking previously about the standard degrees, right? I wasn't sure what I was going to do. I wasn't too into the normal educational courses, right? When you were taught, okay, do math, do science. I just wasn't too much. It wasn't interesting to me. But I actually had a kind of luck down. There was a local Cisco networking academy as part of my high school. And so I joined the Cisco and American Academy. And I got a lot of fundamentals in regards to networking. And I think that's really where it kicked off. We got a nice internship outside of that program.",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Career",
+      "content_type": "Story",
+      "timestamp": "06:23 - 07:01",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP08_-_Interview_with_Stephen_Lynch_-_CCIE_at_age_21_and_Consulting_Systems_Engineer_at_Cisco_Meraki.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_11",
+    "text": "We got a nice internship outside of that program. I wasn't actually went into a marketing page, right? So for about two months, I said, look, it's the recession. I'll work for free. I just want the experience. And that's what's key. Getting some experience to get your Portland door. So I did that for a while. And I didn't think I was going to originally go to college, but I did because I was so interested in networking. So I got a degree at information technology at George Mason University. And I just continued to work on my certifications. And what's interesting is I didn't graduate with that with debt, which is nice. But I found that even with my college degree, for the most part, my certifications and",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career",
+      "content_type": "Story",
+      "timestamp": "06:58 - 07:45",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP08_-_Interview_with_Stephen_Lynch_-_CCIE_at_age_21_and_Consulting_Systems_Engineer_at_Cisco_Meraki.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_12",
+    "text": "my experience paid off a lot more than my college degree itself. So it's not a bad thing, but it's unfortunate that I paid a couple of thousand dollars in certifications and tens of thousand dollars in a college degree. And one is far more valuable to me today than the other. Yeah, absolutely. I agree with you there. Hands on is so, so critical. And guys and gals listening, as Steven mentioned, you have to get your foot in the door and start building experience. And like Steven just basically said, hey, I'll work for free. All I want is to experience. And you have to do whatever it takes in the early stages, as Steven mentioned. And that's a great kind of lesson learned there in that story. I want to kind of dive into your certification training.",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Experience",
+      "content_type": "Story",
+      "timestamp": "07:41 - 08:29",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP08_-_Interview_with_Stephen_Lynch_-_CCIE_at_age_21_and_Consulting_Systems_Engineer_at_Cisco_Meraki.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_13",
+    "text": "I want to kind of dive into your certification training. I know you got your CCIE, I'm assuming in route switch, it's such an early age. Can you just kind of walk us through that kind of journey and maybe give us, you know, our listeners any advice for those that are kind of pursuing the certification route? Absolutely. Yeah. So when I started in this, this guy came and he got my CCNN. And at that point, I was, and truth be told, I failed my ICB1 exam the first of right. And it's a hard, it's a hard moment in your life when you study for something really that difficult. I vowed that I never fail again, again, which of course didn't work. But I failed that exam and I kept going and I ended up getting my CCNP and my senior year of high school.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Certification",
+      "content_type": "Story",
+      "timestamp": "08:25 - 09:11",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP08_-_Interview_with_Stephen_Lynch_-_CCIE_at_age_21_and_Consulting_Systems_Engineer_at_Cisco_Meraki.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_14",
+    "text": "of high school. So prior to even going off the college, I got my CCNN. Oh wow. Switch. And which was a little bit unheard of, right? That's a certification, usually, of a union, years and years of experience. And from there, I just started the journey of the CCIE. I think it was really valuable to me as having good mentors. So part of the Cisco, we've never been in the academy. We had a great relationship with previous mentors. One of them, a great mentor, mine, Cory Bre. He works at Cisco as well. And he was kind of my inspiration to get the CCIE. And to be honest, it was also the money. I saw all the salaries online and I said, okay, they can make a lot of money any year. I'm in.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career",
+      "content_type": "Story",
+      "timestamp": "09:10 - 09:47",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP08_-_Interview_with_Stephen_Lynch_-_CCIE_at_age_21_and_Consulting_Systems_Engineer_at_Cisco_Meraki.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_15",
+    "text": "I'm in. And I don't think that's the best route to take, but you know what? It's paid off. Yep. And you had to pass it to. Whatever tech, too, right? So that kind of aligned. That's right. I mean, that started as a young kid. But when you get both worlds right, I think the key to remember is you'll get the money if you enjoy the technology. If you enjoy what you do, you'll be good at it enough or somebody's going to pay you. So I ultimately went into my college degree. I was learning about networking, you know, seeing all the girls in college. It was a little bit of a distraction. But I got my GNS3 lab set up where I was, it's gotten a lot better over the years, but",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Career",
+      "content_type": "Story",
+      "timestamp": "09:46 - 10:25",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP08_-_Interview_with_Stephen_Lynch_-_CCIE_at_age_21_and_Consulting_Systems_Engineer_at_Cisco_Meraki.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_16",
+    "text": "I had four physical switches because you couldn't emulate those at the time. And I had all my routers emulated in GNS3. I interface through those. I have a pretty wild picture of all these USB, Ethernet adapters connecting to each other. And you know, I kept studying. I probably logged a couple thousand hours in lab time. And I wrote actually a notebook, my own personal notes, along with some other authors. And it was about, I mean, I think it's like 1200 pages now of technical notes about OSPF and ASRP and MBLS and all these things. And that was really valid for me. The thing I would mention in regards to the CCIE is, and any certifications of that, is you have to figure out how you learn best. Some people read. Some people do labs.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "CCIE",
+      "content_type": "Story",
+      "timestamp": "10:25 - 11:07",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP08_-_Interview_with_Stephen_Lynch_-_CCIE_at_age_21_and_Consulting_Systems_Engineer_at_Cisco_Meraki.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_17",
+    "text": "Some people read. Some people do labs. Some people do videos. Some people need boot camps. And just because someone says, hey, all I did was read this book. I did these practice questions. It doesn't mean that's going to be right for you. For me personally, it was watching videos, doing notes, and doing, and just doing the labs over and over. over. Okay. Well, awesome. Now, let's dive into maybe a current or past project you've worked on that really excited you the most and why. You know, I think one, it's going back to the academy that I started up. You know, I felt obligated to get back. And so recently I've taken over this project. They've been doing it for the last 10 years or so.",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Mindset",
+      "content_type": "Story",
+      "timestamp": "11:05 - 11:46",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP08_-_Interview_with_Stephen_Lynch_-_CCIE_at_age_21_and_Consulting_Systems_Engineer_at_Cisco_Meraki.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_18",
+    "text": "They've been doing it for the last 10 years or so. But what they do is they take these students and they give them their CCIE knowledge. So basic networking. They say, here's an RFP. Very similar to what you get in the real world. Here's an RFP. We want you to respond to it and give us, you know, the layout of the design, the type of equipment you're going to use, the pricing, the different protocols you're going to use with it. And then take that, put it in the presentation, build us an RFP response, and then present that to a panel of industry experts. Right? So they, they're product managers, engineers, and marketing specialists. And so my current project is basically managing the peers in industry and the students and",
+    "metadata": {
+      "domain": "IT",
+      "topic": "CCIE",
+      "content_type": "Example",
+      "timestamp": "11:44 - 12:30",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP08_-_Interview_with_Stephen_Lynch_-_CCIE_at_age_21_and_Consulting_Systems_Engineer_at_Cisco_Meraki.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_19",
+    "text": "instructors of that actual project and bringing them all together and trying to bring that kind of sense of realism to the students course. And so that's been my current project. And I absolutely love it. I really like working with the younger guys. And that's pretty much it. Yeah, that's amazing. Steven, what's some lessons learned in this project that you can kind of share with the audience as well? Yeah, I mean, giving back is rewarding, right? So it's kind of, it's great to have, you know, yourself be successful, but if you can give back, it's that much better. You know, that kind of reminds me of this, I'm going to Cisco Live this year. This is my second year doing it. And we're going and installing the wireless for the entire conference.",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "project",
+      "content_type": "Story",
+      "timestamp": "12:30 - 13:12",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP08_-_Interview_with_Stephen_Lynch_-_CCIE_at_age_21_and_Consulting_Systems_Engineer_at_Cisco_Meraki.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_20",
+    "text": "And we're going and installing the wireless for the entire conference. So alongside the Cisco Knock team, and I'm going there as a, the primary instructor for the Cisco Network and Academy. So we're taking 10 students nationally. And we're having them get real work experience by deploying this wireless network and learning by some of the best engineers in industry. So I, you know, key lesson is giving back is rewarding. You can get a lot out of it. And you can learn from a lot of the people, right? It doesn't matter what level role they're in. I learned a lot from engineers that have been an industry lesson me, and they just particularly go to one thing, and I take that with me. So. Absolutely. That's interesting.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Leadership",
+      "content_type": "Story",
+      "timestamp": "13:08 - 13:47",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP08_-_Interview_with_Stephen_Lynch_-_CCIE_at_age_21_and_Consulting_Systems_Engineer_at_Cisco_Meraki.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_21",
+    "text": "So. Absolutely. That's interesting. One of our students, Kwame, actually last year got selected to be on the Cisco Live Dream team. And he was super excited. He went out to Cisco Live and helped build out the wireless infrastructure. And actually even met my buddy Jacob out there as well. So that's awesome. You're doing that. That sounds like a very fun project. Yeah. You know, actually, what's interesting about Kwame, such a motivated guy, I remember being, when I first met him, I met in the airport. It was the only academy student I met. You know, we were just getting there in San Diego. Met him at the airport. You just had a casual conversation, but a really nice person.",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Motivation",
+      "content_type": "Story",
+      "timestamp": "13:44 - 14:25",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP08_-_Interview_with_Stephen_Lynch_-_CCIE_at_age_21_and_Consulting_Systems_Engineer_at_Cisco_Meraki.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_22",
+    "text": "You just had a casual conversation, but a really nice person. But as a CCI, you get a little swag, right? When you go to the conference. So we got these Fedoras. And I don't look good in hats, right? So I was like, Kwame, this is you. This is your hat. We got pretty close during that whole experience because it was really long days. And I said, I think at the time, we were studying for a CCNP. And I said, Kwame, I'm going to give you this hat. And I'm going to leave the tag on it. You can't wear it until you get your CCI. And I remember just the look that he gave me. It was just this, he was so happy to get it. And you know, those are the times in your life that I think giving back is really important. But an incredible person.",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Motivation",
+      "content_type": "Story",
+      "timestamp": "14:21 - 15:06",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP08_-_Interview_with_Stephen_Lynch_-_CCIE_at_age_21_and_Consulting_Systems_Engineer_at_Cisco_Meraki.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_23",
+    "text": "But an incredible person. So I wish him the best of luck. I think he'll do really well. Yeah, absolutely. He's going to crush it. And he is doing it right now. He's working on some awesome projects. But yeah, if it wasn't for Kwame, we wouldn't have synced up. So that's awesome, right? Yeah, the power of networking. Yeah. So let's move into diving into your keys to success. So I'm going to drill into several questions here and we'll just kind of do rapid fire. Is that cool? Yep. All right. So do you have any daily or weekly rituals that have really helped you become successful? Yeah. So there's a lot.",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Keys to Success",
+      "content_type": "Story",
+      "timestamp": "15:05 - 15:41",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP08_-_Interview_with_Stephen_Lynch_-_CCIE_at_age_21_and_Consulting_Systems_Engineer_at_Cisco_Meraki.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_24",
+    "text": "Yeah. So there's a lot. One of them is you'll notice that email is pretty much taken over the industry. There's some destructors out there. Cisco has got spark and Slack or some of those I think might switch up the game a little bit, but email is just taken over. So I have an interesting policy and it's basically called a zero inbox policy. And what that means is I don't end the day with any emails and inbox. So I have to take action every single email. And for many of you, if you've been an issue for like talking about that request because you get so many emails and how do you possibly respond to them, what I improve though, that's possible. And I think it's made me accountable. I think everyone knows that I'm going to respond immediately if I can.",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Email Policy",
+      "content_type": "Advice",
+      "timestamp": "15:38 - 16:24",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP08_-_Interview_with_Stephen_Lynch_-_CCIE_at_age_21_and_Consulting_Systems_Engineer_at_Cisco_Meraki.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_25",
+    "text": "I think everyone knows that I'm going to respond immediately if I can. And that's been part of my success. I think anybody that you talk to, I'm an absolute perfectionist. I mean, and then is with everything and it's almost obsessive, right? I'll go out to my driveway and make sure every pave is like our paper is clean and there's just no dripping of dirt on my house. I live near the water rights. You get a lot of sand built off and everything. Just absolutely everything I do has to be perfect. And the goal there is I don't do what's easy because it's not you really build on you, but I do it's right. And I do it all the time. It's very consistent about doing what I think is right personally and my career as well.",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Success",
+      "content_type": "Story",
+      "timestamp": "16:20 - 17:03",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP08_-_Interview_with_Stephen_Lynch_-_CCIE_at_age_21_and_Consulting_Systems_Engineer_at_Cisco_Meraki.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_26",
+    "text": "So you know, I think with the zero inbox policy, policy being an absolute perfectionist and with that, you know, I think there's no surprise that I'm just highly organized, right? So everything I have, my house, my car, every desktop folder, you can see my screen right now. And you see my desktop as like nothing on and I was really interested in Sunday actually. And they were talking about desktops. No, I don't know if this is true or not, but they were saying based on the buy cons and folders and files and everything that you had on your desktop was an indication of like how in control where you are of your life and how everything is organized. So I don't know. It's kind of like making your bed for me, but I think that's the best. And you know what the final ritual is?",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Productivity",
+      "content_type": "Story",
+      "timestamp": "17:03 - 17:43",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP08_-_Interview_with_Stephen_Lynch_-_CCIE_at_age_21_and_Consulting_Systems_Engineer_at_Cisco_Meraki.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_27",
+    "text": "And you know what the final ritual is? Just have fun. Yep. If you can't do that, then what's the point, right? Why be perfect at everything you do? Why organize everything? If the goal isn't so you can just have fun with the lack of additional rituals I have. Absolutely. No, thanks for sharing. I sometimes get a cluttered desktop and I have to archive everything and then I clean it up and then I'm like feeling super, you know, happy about it. So cool. So what are some things you do to keep up with technology that's, you know, ever changing and maybe that helps also with mastery in your skill sets? Well, it all started when I was at George Mason and I didn't really enjoy learning from other people.",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Mindset",
+      "content_type": "Story",
+      "timestamp": "17:41 - 18:26",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP08_-_Interview_with_Stephen_Lynch_-_CCIE_at_age_21_and_Consulting_Systems_Engineer_at_Cisco_Meraki.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_28",
+    "text": "other people. Surprising is that might be, but I didn't like teaching other people, which is strange, right? Because you got to learn it somewhere. So I usually like learning for myself and then teaching others. So it's typical critical, but I am actually a Cisco certified systems instructor. So I went through this training and I'm also a Cisco networking academy instructor. I've done both. And I use that as a way to keep up with the technology. So I constantly am teaching out in the contractor field about what's the latest thing in technology. And you know, something to build on that too is I was talking about how I'm doing SCUBA, for example, while SCUBA isn't directly related to my field, to networking, there's a lot",
+    "metadata": {
+      "domain": "IT",
+      "topic": "teaching",
+      "content_type": "Story",
+      "timestamp": "18:25 - 19:08",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP08_-_Interview_with_Stephen_Lynch_-_CCIE_at_age_21_and_Consulting_Systems_Engineer_at_Cisco_Meraki.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_29",
+    "text": "of things that you can take from different things in your life, different experiences that you have that build on each other. And one of the examples is that I have is like power lighting has become really big in industry. And guess what it's probably going to use is, it's going to use PUE, right? And so PUE is part of networking to power things. And so all these things start building on each other and you might be an electrician and working on these power lighting. And you had no idea what PUE was, but the networking person would. And so by building these connections with different things, home automation, SCUBA, you're kind of building your toolkit out. So you can be ready for the industry of the future.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "industry",
+      "content_type": "Story",
+      "timestamp": "19:08 - 19:44",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP08_-_Interview_with_Stephen_Lynch_-_CCIE_at_age_21_and_Consulting_Systems_Engineer_at_Cisco_Meraki.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_30",
+    "text": "So you can be ready for the industry of the future. Now what's your favorite tool application or website you want to share with our listeners? Yeah, that was an interesting question. I would actually give more of a recommendation and that is use less tools, right? Keep your life simple. I've seen a lot of people that have drop-offs, who move drive and two different email clients and Alexa and every room. I think simplicity is really important. I think part of that's learning at Marockie, but my favorite tool is using less tools, right? Using things that are simple in nature and more efficient. I love it. No less is more, right? So that's awesome. What book would you recommend to SC Nation and why? It best, what I've ever read.",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Simplicity",
+      "content_type": "Advice",
+      "timestamp": "19:41 - 20:26",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP08_-_Interview_with_Stephen_Lynch_-_CCIE_at_age_21_and_Consulting_Systems_Engineer_at_Cisco_Meraki.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_31",
+    "text": "It best, what I've ever read. It's called The Best Places to Work. Believe I got the title right. And it's not so much about technology. I hate reading technology books for the most part. Just fall asleep. But this book kept me awake and it talks about how good companies take care of their employees and little tricks about your mind and your body about how to make yourself more productive. And all these things, like they was talking about the invention of the cubicle and you kind of start seeing how four plans of offices are starting to change, right? They used to be very open and then people wanted privacy. So they got cubicles to get privacy and then now they're really tight and people don't have the space in the work in.",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Best Places",
+      "content_type": "Story",
+      "timestamp": "20:24 - 21:08",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP08_-_Interview_with_Stephen_Lynch_-_CCIE_at_age_21_and_Consulting_Systems_Engineer_at_Cisco_Meraki.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_32",
+    "text": "have the space in the work in. So then we're seeing the transition to stand up deaths and a little more customization. So it's a really interesting book. That's one I definitely recommend. And it really helped me when I was actually making a transition from one point in my life to another. I was trying to figure out what I wanted to do next. So take a look at it. Okay. Yeah. For sure. And we'll post it in the show notes as well. Do the tech lesson of the day. So Steve and tell us what will we be learning today? Chilobo Maraki, right? I mean, there's no other way I can do this. I think my company would bash me if I didn't. So this really cool technology was it was interesting trying to find a new job.",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Transition",
+      "content_type": "Story",
+      "timestamp": "21:06 - 21:46",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP08_-_Interview_with_Stephen_Lynch_-_CCIE_at_age_21_and_Consulting_Systems_Engineer_at_Cisco_Meraki.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_33",
+    "text": "So this really cool technology was it was interesting trying to find a new job. And I didn't really know what I wanted to do necessarily. I was in a pre sales role previously. So I said, okay, probably pre sales really want to work from home. Like my former company said, look, we can't really work on it when I was like, okay, fine, I'm going to do something else. And it's not a knock on that company. It's just that you again, you have to know what you enjoy and what's going to get you there. So anyways, I found Maraki sold their products when I was there and my previous employer. And the big thing for me is it's simplicity, right? This is, I'm a guy that went through the certification rings, got into every BGP,",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Job Search",
+      "content_type": "Story",
+      "timestamp": "21:40 - 22:23",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP08_-_Interview_with_Stephen_Lynch_-_CCIE_at_age_21_and_Consulting_Systems_Engineer_at_Cisco_Meraki.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_34",
+    "text": "This is, I'm a guy that went through the certification rings, got into every BGP, you know, metric and how that all would configure and work together in these super complex environments. And then I'm thrown into a world about simplicity and taking a product and making it so you can just click yes or no to make it turn on or off, right? Like an IPS system, right? Intrusion protection. It's pretty complex system. And we took something. We made it really, really easy by turning it on or off and giving analytics behind it. There's been some really interesting use cases with Maraki. One of them is having a single dashboard, right? And I always do these trains with Maraki and they, people still bring in the console cables trying to get them equipment.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "BGP",
+      "content_type": "Story",
+      "timestamp": "22:19 - 23:03",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP08_-_Interview_with_Stephen_Lynch_-_CCIE_at_age_21_and_Consulting_Systems_Engineer_at_Cisco_Meraki.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_35",
+    "text": "cables trying to get them equipment. I'm like, no, that's not actually ours. And there's some, the use cases are, for example, having a security appliance or a switch or an access point on a oil rig or a cruise ship or any hand-tank of places that you normally wouldn't want to travel to. So the flexibility on having a product that you can always reach and leveraging a tool that we always have, right? The internet and the bandwidth speed that we have today have opened up the potential to have these highly distributed networks that you can manage from anywhere. In fact, when I joined Maraki back in November, I was flying back and customer messaging me over email, right? So I was responding, obviously, because I got to be a zero in-box.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "distributed networks",
+      "content_type": "Story",
+      "timestamp": "23:02 - 23:47",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP08_-_Interview_with_Stephen_Lynch_-_CCIE_at_age_21_and_Consulting_Systems_Engineer_at_Cisco_Meraki.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_36",
+    "text": "So I was responding, obviously, because I got to be a zero in-box. And they said, you know, I need some help with my equipment. And I was like, okay, well, I'm not sure I can, oh, wait, I work from Maraki. I can just jump into the dashboard and manage it. So I'm 35,000 feet up with the United Wi-Fi connection. And I jump into this customer's equipment and I can help them troubleshoot. And that was just an amazing moment for me to realize how powerful this technology is and how simple it is to use. Yeah, that is awesome. Yeah. Yeah. So we got some pretty incredible products. And I think the last thing I've been with is from a Maraki standpoint is just things that usually make people really happy with it is the analytics behind it.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Customer",
+      "content_type": "Story",
+      "timestamp": "23:43 - 24:30",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP08_-_Interview_with_Stephen_Lynch_-_CCIE_at_age_21_and_Consulting_Systems_Engineer_at_Cisco_Meraki.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_37",
+    "text": "usually make people really happy with it is the analytics behind it. You know, having layers of analytics to see what data is actually going through your environment. And then also retail analytics. Like the ability to have someone go into a wall walk, click like on a Facebook, for example. And then using that technology, seeing that, okay, we can use those analytics to see that this person's mail. We can see that they're at age 25. We can see that they last went to a baseball game, you know, and using all those analytics. And what that has turned into for me has finally taken something technology, which we always hope we always ask that technology is going to make us better in our job and better for a company.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Analytics",
+      "content_type": "Story",
+      "timestamp": "24:20 - 25:06",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP08_-_Interview_with_Stephen_Lynch_-_CCIE_at_age_21_and_Consulting_Systems_Engineer_at_Cisco_Meraki.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_38",
+    "text": "a company. But that was the first time that I've seen technology really make an impact on a business and improve it. So it's been pretty cool stuff. Yeah, I remember I'm not sure if it's still called like Cisco Maraki C.M.X. Or I forget what the acronym was, but it was, yeah, it was really fascinating to see, you know, you could actually identify high traffic spots using the APs, right? In the retail store, it's just like amazing. And I was at Cisco, actually, when they did the acquisition in 2012 and when they did it, I was like such a huge fan. I was a raving fan of Maraki because it was just because of the simplicity. I loved it from day one. Yeah, thanks for sharing. I know Maraki just announced also a minus.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Cisco",
+      "content_type": "Story",
+      "timestamp": "25:05 - 25:55",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP08_-_Interview_with_Stephen_Lynch_-_CCIE_at_age_21_and_Consulting_Systems_Engineer_at_Cisco_Meraki.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_39",
+    "text": "I know Maraki just announced also a minus. We'll talk about it maybe as we close the interview up is the UC product line. I thought that was amazing. Now you've got voice now on top of your switching and your security and your wireless. So can you briefly talk about that? Yeah, absolutely. It's funny. It's been a really bad secret within Maraki. We were so excited to tell people about it and just kind of leaked out. But it was funny. I've had the phone for about four months now, tested it. And I got mail this, you know, prototype box. And I open this box and I'm like, you know, just a little kid again. And I'm showing my parents and then my girlfriend. And they're like, what are you doing? And I'm like, look at it.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "UC product",
+      "content_type": "Story",
+      "timestamp": "25:53 - 26:36",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP08_-_Interview_with_Stephen_Lynch_-_CCIE_at_age_21_and_Consulting_Systems_Engineer_at_Cisco_Meraki.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_40",
+    "text": "And they're like, what are you doing? And I'm like, look at it. It's awesome. You know, like it's a phone. And I'm like, yeah, but you know, it's common manage. And like, okay, like they just do. But to me, the phone, it's like the next DVD player. It's a VHS DVD because phones are really complex. They really are. And well, they don't have to be, but they are in how we set them up, right? And there's a couple of organizations out there. There's one, I'd say three, right? One where you get everything outsourced for your phone system. And it's all peak systems to where you have a dedicated telecommunications team, which are, you know, highly specialized skills. Is your aim for another person on your staff, which is fine.",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Mindset",
+      "content_type": "Story",
+      "timestamp": "26:32 - 27:15",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP08_-_Interview_with_Stephen_Lynch_-_CCIE_at_age_21_and_Consulting_Systems_Engineer_at_Cisco_Meraki.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_41",
+    "text": "Is your aim for another person on your staff, which is fine. We need jobs. And third is the guy that is the Jack of all trades and he hates his life because he has no idea how to use his phone. And so I think we're going to meet somewhere in the middle and have this phone that is just going to be easy to use. I'll have anybody to set it up regardless of whether they have voice knowledge. And it's just going to develop over time. So incredibly interesting product. It's amazing. I've been waiting for you guys to release that. So that's just so awesome. Well, yeah, Stephen, I have really, truly enjoyed listening to your journey insights and appreciate you teaching us to tech lesson of the day.",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Mindset",
+      "content_type": "Story",
+      "timestamp": "27:12 - 27:51",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP08_-_Interview_with_Stephen_Lynch_-_CCIE_at_age_21_and_Consulting_Systems_Engineer_at_Cisco_Meraki.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_42",
+    "text": "insights and appreciate you teaching us to tech lesson of the day. Any closing comments or something in general you want to share with our audience? Sure. I think it came from what I was transitioning from my previous job. And I was really unhappy. We were talking to Cubicles. Our second is Cubicle. And it's a good job. It paid well. I had good people around me, but it just wasn't a pack. And I think the most important thing that you have, and it's the hardest thing to do, is listen to your instincts. If you feel like you need to leave, feel like you need to do something different in your life regardless of whether it's technology or personally, that's really important that you listen to it.",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Career Advice",
+      "content_type": "Story",
+      "timestamp": "27:48 - 28:25",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP08_-_Interview_with_Stephen_Lynch_-_CCIE_at_age_21_and_Consulting_Systems_Engineer_at_Cisco_Meraki.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_43",
+    "text": "to it. It couldn't have worked out better with Monocchi. And I'm just having a lot of fun doing that. So it was important lesson for me and something I'll never forget. So if you're not happy right now, stop whatever you're doing and change it. You can take some time and a lot of figure out what you want to do. And you might not get it right in the first time. Your instincts might not get it right, but you do it again and you'll get there eventually. And you'll end up being a better person. Well, Stephen, thank you for being so generous with your time, expertise, and sharing your knowledge with our listeners. Thanks for listening, SC Nation. And if you enjoyed the show, please be sure to subscribe, leave a review, and share this",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Motivation",
+      "content_type": "Story",
+      "timestamp": "28:24 - 29:02",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP08_-_Interview_with_Stephen_Lynch_-_CCIE_at_age_21_and_Consulting_Systems_Engineer_at_Cisco_Meraki.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_44",
+    "text": "episode with your friends and colleagues. Now you know what time it is. It's time for you to level up in becoming a Rockstar Engineer. This Rockstar SE class is ended, but there's more ways to propel you on your ideal IT engineer journey. Head over to rockstarse.com for show notes and be sure to sign up for our mailer. This will give you exclusive access for some amazing free content to help you level up and accelerate your career. We appreciate you joining us and look forward to helping you learn, focus, and succeed next time on Rockstar SE.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Rockstar SE",
+      "content_type": "Story",
+      "timestamp": "29:02 - 29:35",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP08_-_Interview_with_Stephen_Lynch_-_CCIE_at_age_21_and_Consulting_Systems_Engineer_at_Cisco_Meraki.mp3",
+      "source_type": "Podcast"
+    }
+  }
+]

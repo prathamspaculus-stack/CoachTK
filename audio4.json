@@ -1,0 +1,890 @@
+[
+  {
+    "chunk_id": "chunk_1",
+    "text": "I think the way we teach networking technology, particularly at a college level, is not optimal. Each week, we provide tech lessons, answer questions, and bring you interviews of the most successful engineers and thought leaders working in the IT space across technologies like Data Center, Cloud, Networking, Collaboration, and Security. Listen in as you'll gain insights, strategies, tips, and more to help you level up along your journey in becoming a rockstar SE. So let the class begin! Alright, SE Nation, let's get started. I am simply honored to introduce my guest today, Russ White, who has over 30 years of experience in network engineering. A distinguished architect during his time at Cisco, holds the highest certification Cisco has to offer as a CCAR",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Networking",
+      "content_type": "Story",
+      "timestamp": "00:00 - 00:52",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP11_Legendary_Network_Architect_Russ_White_CCDE1_and_CCAr_shares_his_habits_for_success._We_discuss_SDN_Fog_Computing_Disaggregation_and_the_future.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_2",
+    "text": "and holds CCDE number one. He's also a published author, worldwide speaker at many tech conferences and has over 40 patents. This guy's a legend, folks, in the field of networking. Hey, Russ, it's been a while since we connected. How's it going? It's going fine. You know, there's intros always give me this imposter syndrome thing going on, you know? Well, you've accomplished a lot in your career, Russ. I remember myself and my friend, Jacob, we watched you at Cisco Live giving a talk. I was like really impressed even with my first engagement with you while we connected. Oh, cool. Do you remember which one it was? I forget it. This has been a while. It was like seven years ago, I believe. Oh my goodness. Yeah, that's a long time ago. Wow. Yeah. And I skipped Cisco Live for a couple",
+    "metadata": {
+      "domain": "IT",
+      "topic": "networking",
+      "content_type": "Story",
+      "timestamp": "00:52 - 01:43",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP11_Legendary_Network_Architect_Russ_White_CCDE1_and_CCAr_shares_his_habits_for_success._We_discuss_SDN_Fog_Computing_Disaggregation_and_the_future.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_3",
+    "text": "of years, but I'm back over there. I'm back in Cisco Live now doing a lot of talks there. So you might see me there again this year. Okay. I'm going to Berlin and I hopefully will be going to Vegas again. Oh, awesome. Well, we'll definitely see you there. We're looking at actually maybe even setting up a booth over there for a big debut. So, okay. Cool. Yeah. Great. Well, since I've given our listeners an overview, now please take a minute and kind of maybe fill in the gap. Tell us a little more about yourself where you're from, your current role and your hobbies. Well, let's see. I currently live in Raleigh. Well, between Raleigh, between Apex, really, and Oak Island, which is a small island off the North Carolina coast. And I'm currently an architect at LinkedIn working on the architecture team working on network",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career",
+      "content_type": "Story",
+      "timestamp": "01:43 - 02:35",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP11_Legendary_Network_Architect_Russ_White_CCDE1_and_CCAr_shares_his_habits_for_success._We_discuss_SDN_Fog_Computing_Disaggregation_and_the_future.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_4",
+    "text": "architecture type stuff, primarily working on edge security around BGP security and working on a new control plane that we've been working on. And the Falco project, which is kind of our white box disaggregated solution for our data center. But I'm also involved a bit in the Microsoft acquisition and what's going on there and how our networks are going to work together and how we're going to work together as teams. And I'm also working on a few other odds and ends. I'm always working on a few other odds and ends here and there, you know, when I'm in the day job. In the night job or whatever you might want to call it, I'm building a new book for Pearson, new introduction and networking fundamentals, which should be interesting. It's not actually the",
+    "metadata": {
+      "domain": "IT",
+      "topic": "networking",
+      "content_type": "Story",
+      "timestamp": "02:35 - 03:24",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP11_Legendary_Network_Architect_Russ_White_CCDE1_and_CCAr_shares_his_habits_for_success._We_discuss_SDN_Fog_Computing_Disaggregation_and_the_future.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_5",
+    "text": "title of the book. I don't know the title of the book. I don't remember these things. The guys at Pearson come up with this stuff and I just say, yeah, fine, I don't care what you call it. Let's just write it and get it over with and the content will speak for itself. And, you know, the only one I really focused on the title on was optimal routing design because I thought that was a cool title. But, art of network architecture and stuff like that, I've just kind of let them choose the title for whatever I'm working on at the time. And doing a PhD in philosophy at South Eastern Baptist Theological Seminary and doing just a lot of other stuff, you know, have two kids at home. So that's kind of where I am right now. That's probably as much as people want to know",
+    "metadata": {
+      "domain": "IT",
+      "topic": "network",
+      "content_type": "Story",
+      "timestamp": "03:24 - 04:06",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP11_Legendary_Network_Architect_Russ_White_CCDE1_and_CCAr_shares_his_habits_for_success._We_discuss_SDN_Fog_Computing_Disaggregation_and_the_future.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_6",
+    "text": "about my life. Well, you've got your handful. I mean, you, I mean, that's a lot of stuff you're working on. So I'm sure you stay quite busy. Yes. Yeah, just a few minutes ago, I was nailing up trying to put up a new door in the house. So don't even start. Wait. Interesting network fundamentals. So I mean, your last book I was looking at navigating network complexity with SDN service virtualization service training. That seems like a very advanced topic and an advanced book. Now you're working on an intro book, it seems like for, and that's maybe perfect for our audience too. Can you tell us a little more why you're writing this book? Yeah, so I think that the intro book market in the networking industry is many of the books are long in the tooth. They've been out there a long time. I still love them, but they're just old",
+    "metadata": {
+      "domain": "IT",
+      "topic": "networking",
+      "content_type": "Story",
+      "timestamp": "04:07 - 05:01",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP11_Legendary_Network_Architect_Russ_White_CCDE1_and_CCAr_shares_his_habits_for_success._We_discuss_SDN_Fog_Computing_Disaggregation_and_the_future.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_7",
+    "text": "and they're not really up to date. And the other thing is is I don't, I think the way we teach networking technology, particularly at a college level, is not optimal in many cases. We tend to start with, okay, this is how OSPF forms neighbor adjacencies and then we get into all sorts of details about that. And then somewhere down towards the very end we say, and this is how short as math first works. Well, yeah, that's nice. And it kind of explains the protocol, but it isn't really explained the technology to me. And so this whole book, the concept behind this book is to start with problems and move to solutions. So we're actually trying to outline as if you're going to build a control plane, what is every problem you're going to run into? What is the total scope of commonly",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Networking",
+      "content_type": "Advice",
+      "timestamp": "05:01 - 05:49",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP11_Legendary_Network_Architect_Russ_White_CCDE1_and_CCAr_shares_his_habits_for_success._We_discuss_SDN_Fog_Computing_Disaggregation_and_the_future.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_8",
+    "text": "used solutions for those problems? And then put those problems and solutions together into protocol examples to show you how people have implemented things in the past. So it's more about trying to understand the background and understand why things are done the way they're done more than it is how. So I kind of have in my head this this quadrangle of books or whatever you want to call. There's like Art of Network Architecture, which is all about the business connection to technology. And then there's Navigate Network Complexity, which is kind of focused on one specific area of thought, which is complexity theory and how that interacts with network design and architecture. And then there's Optimal Routing Design, which is really, really old at this point, but it's still",
+    "metadata": {
+      "domain": "IT",
+      "topic": "network",
+      "content_type": "Example",
+      "timestamp": "05:49 - 06:35",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP11_Legendary_Network_Architect_Russ_White_CCDE1_and_CCAr_shares_his_habits_for_success._We_discuss_SDN_Fog_Computing_Disaggregation_and_the_future.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_9",
+    "text": "quite useful in trying to understand basic hierarchical design, stuff like that. And so this fourth book, it's not really my fourth book, it's actually my 11th, but either way. So this book is kind of more about the introduction. So I've been trying to in my head put together a set of books that a network engineer, somebody who wants to become a network engineer, could read and actually get a good sense for the space rather than just putting out one book that's a point product. And that's kind of the way I've been thinking about it. And in the meantime, there's product called Books and other stuff in there. Kind of my first experiment and doing things this way was I just did a video on ISIS for Pearson. And I started that with shortest path first. And I actually explained Dijkstra's",
+    "metadata": {
+      "domain": "IT",
+      "topic": "network engineer",
+      "content_type": "Story",
+      "timestamp": "06:35 - 07:22",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP11_Legendary_Network_Architect_Russ_White_CCDE1_and_CCAr_shares_his_habits_for_success._We_discuss_SDN_Fog_Computing_Disaggregation_and_the_future.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_10",
+    "text": "algorithm four times in that video series. Because I really want to make sure that the people watching the video nail the concept of how Dijkstra works. Because if you understand that, then it's much easier to understand flooding domains and all this other stuff that's going on if you really understand Dijkstra. So, you know, it's kind of interesting. So I've been changing my view on the way training, we're not training, but education, I shouldn't say training because training to me feels more practical. Training to me feels more like I'm teaching you how to actually deploy this today. Educational wise, I'm thinking more along the lines of we need to get back as engineers and learn the theory and understand why this stuff is done this way. And I actually think you need",
+    "metadata": {
+      "domain": "IT",
+      "topic": "algorithm",
+      "content_type": "Advice",
+      "timestamp": "07:22 - 08:06",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP11_Legendary_Network_Architect_Russ_White_CCDE1_and_CCAr_shares_his_habits_for_success._We_discuss_SDN_Fog_Computing_Disaggregation_and_the_future.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_11",
+    "text": "both. I think there's a there's a parallel string crossing here that you need. Both of these things. But the industry seems to me to focus on one thing and not on the other. So, you know, I've been intentionally trying to focus the other direction. Kind of. Yep. No, I agree with you. I mean, like the industry you can see people focus on training in terms of certification training, right? And then you have maybe some practical training. But then when you look at the education kind of aspect, we have students that we mentor like with our training businesses, like they'll have gone through a two year or four year education program through an institute, a college university. And the education that they kind of instill is very, very high level and doesn't really go deep into",
+    "metadata": {
+      "domain": "IT",
+      "topic": "training",
+      "content_type": "Story",
+      "timestamp": "08:06 - 08:56",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP11_Legendary_Network_Architect_Russ_White_CCDE1_and_CCAr_shares_his_habits_for_success._We_discuss_SDN_Fog_Computing_Disaggregation_and_the_future.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_12",
+    "text": "the weeds of actual theory and understanding fully grasping certain technologies. Yeah, I would agree with that. That is to me very strange. It's not strange. But and I think it's partially because it's what employers are looking for too, right? They're looking that they don't most employers when you go into an interview process. They're going to ask you point questions about what's the BGP knob that does this on Junos version blah, blah, blah. And I'll tell you my answer to that is my answer is usually, oh, you want to play the esoteric game? Do you? Fine. We can play the esoteric game. Trust me. This is the way it works. You ask me esoteric questions about configuration and about little bit of things like this and not about larger issues. And I'll ask you questions about the same",
+    "metadata": {
+      "domain": "IT",
+      "topic": "technology",
+      "content_type": "Story",
+      "timestamp": "08:56 - 09:43",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP11_Legendary_Network_Architect_Russ_White_CCDE1_and_CCAr_shares_his_habits_for_success._We_discuss_SDN_Fog_Computing_Disaggregation_and_the_future.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_13",
+    "text": "thing. And then we'll keep a running scoreboard on the whiteboard and whoever, whoever can ask the most questions that the other person can't answer. They win, I guess, or something like that, you know? Because because I mean, when I started, you know, when I started in this, I was working on Neville Network and Baynean Vines in X25, using inverse multiplexers to do T1s. So I can ask you all sorts of weird esoteric questions that absolutely no one else has ever worked on in their life. So Russ, I'm glad you brought that up. What's a good question, a hiring manager, let's say a network manager should ask when they're trying to hire their next network engineer? What's a better question? So I have two lines of questions, questions I like to use. One is more technical and one is",
+    "metadata": {
+      "domain": "IT",
+      "topic": "networking",
+      "content_type": "Advice",
+      "timestamp": "09:43 - 10:31",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP11_Legendary_Network_Architect_Russ_White_CCDE1_and_CCAr_shares_his_habits_for_success._We_discuss_SDN_Fog_Computing_Disaggregation_and_the_future.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_14",
+    "text": "more personal or more personality wise. So for me, I always ask things about what their projects are, I ask them to describe their projects, what they did in the project, how it worked out for them, where they felt like they made mistakes, or where they felt like the team made mistakes, not just them, because quite often candidates are going to feel like, I can't tell you about mistakes I made. Oh no, you won't hire me if I make mistakes, you know? So you kind of can depersonalize a little bit and give them the chance to be open about it without being self-blaming in a sense, because it's a very tense situation most of the time. On the engineering side, I usually much more basic, just start with something like, all right, draw two rows, two hosts in a router on the board, turn them all on at the same time. Now, host day wants to talk to host",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Interview",
+      "content_type": "Advice",
+      "timestamp": "10:31 - 11:20",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP11_Legendary_Network_Architect_Russ_White_CCDE1_and_CCAr_shares_his_habits_for_success._We_discuss_SDN_Fog_Computing_Disaggregation_and_the_future.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_15",
+    "text": "me, explain to me what happens, just explain to me in your own words, what happens here? What are the problems that need to be solved, and how are those problems solved? And if you don't like IPv6, use IPv4, if you don't like IPv4, use IPv6. My question is not, whether or not you know v6 or v4, or netwear, or CLNS, or whatever it might be. My question is, do you understand this concept that somehow somebody's got to do discovery and figure out where A and B are. A and B have to figure out where each other are. How does that happen? There's a router in the middle. What route, what role does the router play in this game? And then if they get that piece right, then I add a second router and I say, okay, now I have two routers. Now I have ABC and D, so host day wants to talk to host D. All right, now explain to me what happens. Explain to me,",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Networking",
+      "content_type": "Example",
+      "timestamp": "11:20 - 12:10",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP11_Legendary_Network_Architect_Russ_White_CCDE1_and_CCAr_shares_his_habits_for_success._We_discuss_SDN_Fog_Computing_Disaggregation_and_the_future.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_16",
+    "text": "I powered them all for four on at the same time. Now I've got two routers in the middle, B and C. Well, how do they learn about each other's attached networks? What does that look like? What are the protocols that can be used to do that? I love it. And this kind of ties into what you were saying earlier, love to kind of teach students on how to figure out solutions to problems that you kind of present through these scenarios, it seems like. Right, exactly, exactly. You know, the whole problem solution type thing. I think we have a lot of coding people who do this. And I don't want to be like the hard puzzle. This is a major puzzle and it's really weird. Like you've run seven, you have seven horses or three, seven groups of three horses or whatever. You've got to do all this",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Networking",
+      "content_type": "Example",
+      "timestamp": "12:10 - 12:56",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP11_Legendary_Network_Architect_Russ_White_CCDE1_and_CCAr_shares_his_habits_for_success._We_discuss_SDN_Fog_Computing_Disaggregation_and_the_future.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_17",
+    "text": "logic to figure it out. That's not the point. The point is still be practical, but to be practical and understanding what's real and what's really happening in that network. Not some artificial problem and yet not just how do you configure this? Right. And so somewhere in the middle there, somehow is the area I like to get into. Okay. Well, hey, let's talk about your career journey. But before we get into that, can you share with our audience maybe you're one of your favorite quotes and let us know why you chose this one to share? Sure, this one's by C.S. Lewis. Each day we are becoming a creature of splendid glory or one of unthinkable horror. And to me, in my personal life, for me, life is not work. Life is work is a part of life. It's not the whole of life. And so I have a",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Career",
+      "content_type": "Story",
+      "timestamp": "12:56 - 13:44",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP11_Legendary_Network_Architect_Russ_White_CCDE1_and_CCAr_shares_his_habits_for_success._We_discuss_SDN_Fog_Computing_Disaggregation_and_the_future.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_18",
+    "text": "family and I have kids and I'm deeply involved in philosophical discussions and other areas of life. And so to me, life and work itself, even being a better engineer is all about not just learning the skills and not just being a better engineer, but actually being a better person and learning how to build what we call in the philosophical world, intellectual virtue, to have the intellectual virtue of honesty and doing the other things to become an actual better person. And I think if we get lost in the world of engineering and we forget those pieces, then we've kind of, again, like Lewis says, if you put second things first, you lose the first things and the second things. So to me, putting engineering first actually means I lose the humanity and the engineering. And so",
+    "metadata": {
+      "domain": "Mindset",
+      "topic": "Philosophy",
+      "content_type": "Story",
+      "timestamp": "13:44 - 14:34",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP11_Legendary_Network_Architect_Russ_White_CCDE1_and_CCAr_shares_his_habits_for_success._We_discuss_SDN_Fog_Computing_Disaggregation_and_the_future.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_19",
+    "text": "I have to figure out how to balance those in some way. And to me, that's about thinking through where I want to be and who I want to be as a person as much as anything else. Thanks for sharing Russ. That was pretty deep. So let's go back in time a little bit. How did you start your journey in IT? So very, very humble beginnings. That was actually in the United States Air Force working on electronics, doing air-filled radar and radio and air-field meteorological navigational aids. Stuff so I was actually working on a lot of radar and radio systems and other stuff that most people listening to your podcast would be totally baffled by. But that's okay. Lock-pure dipoles and all this weird stuff. Wow. I got involved with the Hurrah Air Force. So I'm an Air Force veteran too. So I didn't know that, Russ.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "journey",
+      "content_type": "Story",
+      "timestamp": "14:34 - 15:25",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP11_Legendary_Network_Architect_Russ_White_CCDE1_and_CCAr_shares_his_habits_for_success._We_discuss_SDN_Fog_Computing_Disaggregation_and_the_future.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_20",
+    "text": "Yeah, I was in for nine years. I think you said new thing you were in for nine years as well. Oh five. Five years. Okay, I was in for nine years. Yeah. So at some point or another in the path, I was learning to code. I was self-teaching myself to code. And I was learning X-Base, Basic, and Axler is actually a similar on a Cocoa 2. Don't that's like a long time ago. I was drawn into the Small Computer Support Center at the base hours stationed at and started getting involved in this project to replace the network. Because actually there wasn't a network at all. I mean, there were a bunch of little ones. There was another network, Token Bus, Over and Legal. There was a Xerox Star System over in the 21st Air Force. There were various odd little networks here and there. But there was no base-wide network. I see. So I got involved in this",
+    "metadata": {
+      "domain": "IT",
+      "topic": "network",
+      "content_type": "Story",
+      "timestamp": "15:26 - 16:15",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP11_Legendary_Network_Architect_Russ_White_CCDE1_and_CCAr_shares_his_habits_for_success._We_discuss_SDN_Fog_Computing_Disaggregation_and_the_future.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_21",
+    "text": "project to do this and just started learning about networking. So when I got out of the Air Force, I went to work for a really small value reseller for a couple of years. Not even a year, it was about two years. Then I went to work for BASF and started working on the Nivell Network at BASF. So I was a big Nivell Network guy. I was actually a certified network, a certified Nivell C&E for years. And then, I don't know, my wife and I decided to move to Raleigh just on a whim. It wasn't really a whim, but we were going to have kids. We knew we were going to have kids and decided that we wanted to be close to both as close as we could to both families. So we got enough savings together to live for about six months. We moved to Raleigh, had no jobs. And we interviewed all over the place.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "networking",
+      "content_type": "Story",
+      "timestamp": "16:15 - 17:02",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP11_Legendary_Network_Architect_Russ_White_CCDE1_and_CCAr_shares_his_habits_for_success._We_discuss_SDN_Fog_Computing_Disaggregation_and_the_future.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_22",
+    "text": "And I ended up interviewing at Cisco and got a job in the Cisco Tech and targeted through the routing protocols team in Cisco Tech. So that's basically how I got my started. I have a very strong electronics background. I've self-taught myself to code over many, many years. Of course, I did some code at Cisco here and there and odds and ends, but that's actually how I got really deeply started in the networking industry is. On Nivell Network, Banyan Vines and Cable Tron and Bay Routers, way way back in the late 80s. And then I guess started in the world of Cisco and IP and Cisco Tech at Cisco in 1996. I see. Wow. You started on the ground floor right inside Cisco Tech. That's a lot of people just start intact usually right after college sometimes too. Yeah. Well, in those days,",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Networking",
+      "content_type": "Story",
+      "timestamp": "17:02 - 17:56",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP11_Legendary_Network_Architect_Russ_White_CCDE1_and_CCAr_shares_his_habits_for_success._We_discuss_SDN_Fog_Computing_Disaggregation_and_the_future.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_23",
+    "text": "we actually had to go to the hardware team first. So you started out at doing nothing but RMAs. Oh, wow. So your first two or three months on the job, you did nothing but RMAs. I see. Before you could even talk to a customer. Well, no, I mean, you were talking to customers. So they wanted to get you used to being on the phone with customers and stuff like that without having to deal with more complex problems. Yeah, technically. So basically, they just said, okay, if the RP team has somebody that does something that needs to be RMAed, they ship it to the hardware team. They transfer the call to the hardware team. The hardware team picks up the case and RMAs the parts. So you just learned the Cisco equipment catalog how to run the system with that time was called care, how to answer the phone, how to deal with people. And of course,",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career",
+      "content_type": "Story",
+      "timestamp": "17:57 - 18:42",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP11_Legendary_Network_Architect_Russ_White_CCDE1_and_CCAr_shares_his_habits_for_success._We_discuss_SDN_Fog_Computing_Disaggregation_and_the_future.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_24",
+    "text": "they were evaluating you for dealing with people well, right? And for taking time and trying to figure new things out. So what they kind of expected on the hardware team is for you to actually start taking crashes and figure out like doing tracebacks and figuring things like that out. So then once you make it through that level, you go to what's called fast track engineering, which was FDE was primarily only focused on physical and data link layer problems. So X25 Ethernet, not any protocols, not any layer three protocols, not even IP. It was just strictly, can you solve this token ring problem? Can you solve this Ethernet problem? And it was all, you know, live. And so then if you pass that little, if you got good, you know, you got good marks there, then they would move you into what was called a backline TRT.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Engineering",
+      "content_type": "Story",
+      "timestamp": "18:42 - 19:33",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP11_Legendary_Network_Architect_Russ_White_CCDE1_and_CCAr_shares_his_habits_for_success._We_discuss_SDN_Fog_Computing_Disaggregation_and_the_future.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_25",
+    "text": "then they would move you into what was called a backline TRT. Okay, so you went from tack to fast track engineering program and then you went to No, it was, it was all within tack. All within tack. All within. So right, so you start out in hardware, you go to FTE, then you go to your actual backline TRT, which for me was routing protocols. So I was in routing protocols for about two years in the routing protocols, backline TRT, taking cases on routing protocols. And I can say this that of all the things in my career, I would say that falling among that group of people at that time in my career was the most fortunate and best thing that ever happened to me. Those, the people I worked with on that team, the RP team, routing protocols team. Some of them are still recognizable names, some of them",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career",
+      "content_type": "Story",
+      "timestamp": "19:30 - 20:23",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP11_Legendary_Network_Architect_Russ_White_CCDE1_and_CCAr_shares_his_habits_for_success._We_discuss_SDN_Fog_Computing_Disaggregation_and_the_future.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_26",
+    "text": "were off doing other things. But by and large, I had direct access to like Tony Lee, Paul Panzel, Alvaro Ratana was on my team. He was my team lead. James Eng was my other team lead. Don Slyce, who's not cumulus. Daniel Walton was on my team. He's not cumulus. Steve Moore, Jerry Redwine. These are Monica Nee. These are, these were fantastic engineers. And just not only fantastic engineers, but really great people. And our one bragging point for that two years that that I was on the RP team was that we had zero cap cases. We had zero cases escalated to an actual critical accounts manager in that entire years. That is impressive. For the audience that doesn't understand what a cap case is just really briefly. What's a cap case? So a cap case is when somebody calls in,",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Team",
+      "content_type": "Story",
+      "timestamp": "20:23 - 21:19",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP11_Legendary_Network_Architect_Russ_White_CCDE1_and_CCAr_shares_his_habits_for_success._We_discuss_SDN_Fog_Computing_Disaggregation_and_the_future.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_27",
+    "text": "the problem can't be solved. It's escalated to the global escalation team. It still can't be solved. Or it's a P1. It's like a complete network down. And it needs to be fixed right now. And the engineer on duty can't fix it. So they get escalated to a to a critical accounts manager who actually takes the case over and brings in resources from engineering and all over the company to actually make the case get fixed essentially. So yeah. Now I should say we had, you know, we had Don Slyce and those guys on global escalation helping us on a daily basis. So it's not like we never got anything escalated, but nothing ever went cap. So very impressive. When I was on the Cisco sales engineering team, you had a cap case that you couldn't sleep. You couldn't have your",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Escalation",
+      "content_type": "Story",
+      "timestamp": "21:19 - 22:04",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP11_Legendary_Network_Architect_Russ_White_CCDE1_and_CCAr_shares_his_habits_for_success._We_discuss_SDN_Fog_Computing_Disaggregation_and_the_future.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_28",
+    "text": "weekends back, right? Yeah. That's exactly what it was. That's right. Yeah. So from there, I went into global escalation. I went into global escalation for a couple of years doing routing protocols escalation, which was a terrific job because a lot of people don't like escalation, but the reality is is that when it gets to you, it's so broken that no matter what you do, it's probably going to get better. Yeah. So I was on global escalation for a while and then through various things, I gained commit access to the iOS code base. Not when I was on escalation, actually, while it was in TAC. So I was actually taking customer cases, filing the defect with the code fix and or just simply committing the code to fix the defect from TAC. So eventually, some folks in engineering said, well, this is kind of crazy. Let's just pull you",
+    "metadata": {
+      "domain": "IT",
+      "topic": "career",
+      "content_type": "Story",
+      "timestamp": "22:04 - 23:05",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP11_Legendary_Network_Architect_Russ_White_CCDE1_and_CCAr_shares_his_habits_for_success._We_discuss_SDN_Fog_Computing_Disaggregation_and_the_future.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_29",
+    "text": "in engineering, but I didn't want to be a full-time coder. So we actually created this team, Alvaro Tana and Don, Slice and myself and some other people, created this team called deployment and architecture. And this team was kind of like one step above escalation, but one step below being a coder, of being a full-time coder. So we did commit code. We went on, did network design with customers. You know, part of our job and DNA was go find me new features that customers want. And you can always go talk to the sales team, but the other thing that's kind of cool to do is to go actually find a network that's being built, help them build the network, and in the process, you'll run into problems that need to be solved. Then you can take those problems back and make",
+    "metadata": {
+      "domain": "IT",
+      "topic": "engineering",
+      "content_type": "Story",
+      "timestamp": "23:05 - 23:56",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP11_Legendary_Network_Architect_Russ_White_CCDE1_and_CCAr_shares_his_habits_for_success._We_discuss_SDN_Fog_Computing_Disaggregation_and_the_future.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_30",
+    "text": "them into product. So that was kind of the mode, the mode of software on there, the way that the DNA team worked. So I was on that for several years and I went to, then I went to sales as a distinguished architect and then left and went to Verassign. I see. What were some key moments in your career during those times that really you believe helped accelerate your career? Was it when you were on the routing protocols team and you moved to global escalation or after global escalation? Well, I would actually say the whole process was useful, but I would say that bigger things for me were being put to speak at Cisco Live, being put in a position where the first book advanced up in network design became a reality, finding a way to make that happen, and getting involved in",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career",
+      "content_type": "Story",
+      "timestamp": "23:56 - 24:55",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP11_Legendary_Network_Architect_Russ_White_CCDE1_and_CCAr_shares_his_habits_for_success._We_discuss_SDN_Fog_Computing_Disaggregation_and_the_future.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_31",
+    "text": "the speaking world and in the writing world. The first time that my manager, not really an manager, but my tech lead Alvaro took me to the ITF and said, if you're going to do this stuff, you need to get involved in the ITF and you need to get along and figure out how to be more involved in the community as a larger community. So I would say those were more important to me or more shaping than promotions or particular teams by and large. Because I learned to be in part of the community. I learned to actually be to get involved in the ITF, to play rough and tumble with the big boys because the ITF, this is by the way another thing that I think is really crucially important is that as you grow as a network engineer, it's really easy to be the smartest person in",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Leadership",
+      "content_type": "Story",
+      "timestamp": "24:55 - 25:44",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP11_Legendary_Network_Architect_Russ_White_CCDE1_and_CCAr_shares_his_habits_for_success._We_discuss_SDN_Fog_Computing_Disaggregation_and_the_future.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_32",
+    "text": "the room. It really is. If you work in a small to mid-size company, it is so easy to be the person who knows more about networking than anyone else in your company. Even in a larger company like LinkedIn or Microsoft or someplace else, it's very hard to be in a place where there are people who know more than about networking technologies than you do unless you work someplace like Cisco Fortune or something like that, which is what they do for a living. But if you're outside of that environment, it's very difficult to put yourself in a position where you're not the smartest person in the room. And I think that Cisco Live, I think that SDXE, which is a new conference coming up, I think going to conferences, going to NANO, going to operator groups, going to meet-ups,",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Networking",
+      "content_type": "Advice",
+      "timestamp": "25:44 - 26:34",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP11_Legendary_Network_Architect_Russ_White_CCDE1_and_CCAr_shares_his_habits_for_success._We_discuss_SDN_Fog_Computing_Disaggregation_and_the_future.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_33",
+    "text": "going to the ITF, participating in the ITF, even if you don't go to the ITF, you can participate in the ITF just on the mailing list. Putting yourself, intentionally putting yourself in the room with people who are smarter than you on a very consistent basis is an absolutely crucial thing to learn how to do because you'll never grow if you're not. And even if you do grow, you just get a big head after a while. You just become this person who, oh, I'm the smartest person in my company about networking, you can just shut up now because I know what I'm doing and you don't know what you're doing. And there's so many people in IT that are that way. And it's just not healthy, as a person, and it's not healthy for the entire area. I mean, if you work at a company and you're",
+    "metadata": {
+      "domain": "IT",
+      "topic": "networking",
+      "content_type": "Advice",
+      "timestamp": "26:34 - 27:24",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP11_Legendary_Network_Architect_Russ_White_CCDE1_and_CCAr_shares_his_habits_for_success._We_discuss_SDN_Fog_Computing_Disaggregation_and_the_future.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_34",
+    "text": "the smartest person in the room on networking, and you know it, and you have that attitude, when the CTO comes to you and says, I need this done, and you say, oh, no, you don't need to do that, that's just stupid. Well, how is that helpful to your company? How does that give your CTO or your CEO a good impression of networking as a technology and networking engineers? And it doesn't. And so I think it's really important to keep that humility. And one way to do that is just to make sure you're not the smartest person in the room as often as you can. So that's another interesting kind of career thing for me that I've always been pretty intentional about. Oh, I love it, Russ. There's so many takeaways. I don't even know where to start from here for audience, but I would say the biggest is definitely drop your ego if you're starting to get one,",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Mindset",
+      "content_type": "Advice",
+      "timestamp": "27:24 - 28:16",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP11_Legendary_Network_Architect_Russ_White_CCDE1_and_CCAr_shares_his_habits_for_success._We_discuss_SDN_Fog_Computing_Disaggregation_and_the_future.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_35",
+    "text": "and you feel like you are the smartest person in the room. I think that happens to a lot of  guys because they're just very smart individuals. And the biggest takeaway for me and from just what you shared is definitely always try to surround yourself with smarter people. So you're constantly growing. And you mentioned like things like meetups and also going to more conferences. You mentioned I ETF for those that don't know what that acronym is. I'm assuming Russ, you're referring to the internet engineering task force. Yep, that's correct. And so I mean, if someone is a network admin, they just got a couple of years under their belt, they just started their career. How do they get involved with such a big organization? Because like I would have never thought like,",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Growth",
+      "content_type": "Advice",
+      "timestamp": "28:16 - 29:01",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP11_Legendary_Network_Architect_Russ_White_CCDE1_and_CCAr_shares_his_habits_for_success._We_discuss_SDN_Fog_Computing_Disaggregation_and_the_future.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_36",
+    "text": "hey, let me start joining the I ETF. So what's your thoughts there? How can they get started? So the best way to start is just join a mailing list. And don't be afraid of the be afraid of the environment. There are extremely rough and tumble people who are very nasty. But you just get used to it after a while. Just let them slide and learn how to just let the water run off your back like a duck and don't worry about it. Okay, you just got to keep moving and do and do the right thing. And so and don't worry if you make a fool of yourself. I've done that many, many times on I ETF mailing list. It's just a part of the growth process and it is the way it is, right? So the I ETF to explain to your listeners is the organization that actually sets the standards for the internet. So if you want to know how the internet protocol works or OSPF works or",
+    "metadata": {
+      "domain": "IT",
+      "topic": "ETF",
+      "content_type": "Advice",
+      "timestamp": "29:01 - 29:55",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP11_Legendary_Network_Architect_Russ_White_CCDE1_and_CCAr_shares_his_habits_for_success._We_discuss_SDN_Fog_Computing_Disaggregation_and_the_future.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_37",
+    "text": "anything like that, you can go to the itf webpage itf.org and you can find the RFCs, the requests for comments, that describe what the vendors are supposed to follow when they implement these protocols. The lot of the problem with these documents is they're very esoteric, they're very hard to read. But that's also a part of the growing process is to learn to read those things and try to figure out like what does that actually say? What does that what do they mean when they say, you know, this TLV or that TLV or or whatever it is? That's actually part of the learning process as a network engineer as well. But getting involved a little bit in those things will put you in the presence of some of the smartest people in the industry. Those are the people who are designing the next generation of",
+    "metadata": {
+      "domain": "IT",
+      "topic": "network",
+      "content_type": "Advice",
+      "timestamp": "29:55 - 30:41",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP11_Legendary_Network_Architect_Russ_White_CCDE1_and_CCAr_shares_his_habits_for_success._We_discuss_SDN_Fog_Computing_Disaggregation_and_the_future.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_38",
+    "text": "protocols and the next generation that changes for protocols into the coming future. Very very impressive people, generally pretty nice. Some of them are mean. Many of them are quite nice. You learn who is who and you go on about your life. So participating I think is a good thing. I also think like Nogs again, join the Nannog mailing list if you're in North America, if you're in Europe, join the right mailing list or join both, no matter where you live, and just listen to operators chat amongst themselves about what their concerns are, what they're working on, what's going on. You'll learn an awful lot by doing that even if you can't go to the network operators group conferences and stuff like that. So Russ, you mentioned the SDXC conference. What is that? It's a new conference coming up in September in Austin, Texas. What's it called? SDXC?",
+    "metadata": {
+      "domain": "IT",
+      "topic": "network",
+      "content_type": "Advice",
+      "timestamp": "30:41 - 31:41",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP11_Legendary_Network_Architect_Russ_White_CCDE1_and_CCAr_shares_his_habits_for_success._We_discuss_SDN_Fog_Computing_Disaggregation_and_the_future.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_39",
+    "text": "Yep, SDXE software defined enterprise. Oh, okay. If someone wants to learn software defined networking, what would you recommend they do now to kind of get their feet wet? Because there's a lot of hype around SDN and I don't think a lot of engineers out there like fully grasp it, right? So what would you recommend? Well, hard question because although my answer is going to, my first answer is going to be go back and learn the technologies like OSPFI as IS, you know, the theory behind this stuff, because the theory behind SDN is the same as the theory behind this stuff. You're just centralizing the control planer. Not even I shouldn't say centralizing the control plane because people don't like that terminology. You're pulling the control plane out of the box. So SDN, if I was going",
+    "metadata": {
+      "domain": "IT",
+      "topic": "SDN",
+      "content_type": "Advice",
+      "timestamp": "31:42 - 32:34",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP11_Legendary_Network_Architect_Russ_White_CCDE1_and_CCAr_shares_his_habits_for_success._We_discuss_SDN_Fog_Computing_Disaggregation_and_the_future.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_40",
+    "text": "to get started, I would be looking at, I probably would be looking at OpenFlow and trying to learn about OpenFlow, but more as a matter of understanding the principles than anything that's practically applicable. The more practical applications are Yang models and being able to use NetCompt to directly control not just the configuration, but also the forwarding behavior of boxes, PCEP, which is path control element protocol and PCE is kind of an interesting area. There's an entire thing around BGP and flow spec, which is kind of SDN-ish I2RS interface to the routing system is very SDN sort of range of area. So those are the types of things I would be looking at. As far as getting involved today, I don't know if I was running a network today that I was actually hands on running the network, I tend to do more five year planning",
+    "metadata": {
+      "domain": "IT",
+      "topic": "SDN",
+      "content_type": "Advice",
+      "timestamp": "32:34 - 33:33",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP11_Legendary_Network_Architect_Russ_White_CCDE1_and_CCAr_shares_his_habits_for_success._We_discuss_SDN_Fog_Computing_Disaggregation_and_the_future.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_41",
+    "text": "stuff at LinkedIn than I do in actually configuring things, but I would be looking less at automation in terms of how do I automate configuring things and I would be looking more at automation in terms of, I have this particular problem I need to solve. For instance, let's say I have to do active active data center and I have to figure out how to make sure that in this active active data center, clients are sent to the data center that's not only active but has a good connection to the database server. Okay fine. I can do that with features on a Cisco box or a Juniper box or a RISTA box and I could focus my time on automating the configuration of those features. That's one way of looking at the problem. To me, I would be looking at ways of automating solving the problem",
+    "metadata": {
+      "domain": "IT",
+      "topic": "automation",
+      "content_type": "Advice",
+      "timestamp": "33:33 - 34:22",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP11_Legendary_Network_Architect_Russ_White_CCDE1_and_CCAr_shares_his_habits_for_success._We_discuss_SDN_Fog_Computing_Disaggregation_and_the_future.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_42",
+    "text": "in a way that is independent of the Cisco Juniper or RISTA CLI. Right? I would be thinking of ways of, can I spend a VM and figure out how to do a live test against the database server and have it manipulate routing in such a way that I get active active while using base protocol stuff rather than thinking about which feature can I use. We live in the networking industry, we tend to really focus on features and what can this box do for me or blah blah blah. If you really want to do software to find what you've got to do is get away from the features and start thinking about the problem you're trying to solve. How can I solve that problem by cooking up a little script or doing something that actually impacts the protocol or the forwarding in the box? So that's kind of the",
+    "metadata": {
+      "domain": "IT",
+      "topic": "networking",
+      "content_type": "Advice",
+      "timestamp": "34:22 - 35:12",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP11_Legendary_Network_Architect_Russ_White_CCDE1_and_CCAr_shares_his_habits_for_success._We_discuss_SDN_Fog_Computing_Disaggregation_and_the_future.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_43",
+    "text": "way I would. That's the simple way into the software to find the world to me is to, I see a lot of people out there going, I'm going to configure all my boxes with Ansible. Wonderful. Configure all your boxes with Ansible, but you're still configuring boxes. If you really want to move away from the configuring boxes paradigm, start thinking of how to use Ansible or other things to directly impact the control plane in a way or QOS or whatever it is in a way that actually does ban with calendaring and other other stuff that you need to do. Yeah, and if you're so feature focused, you start also just looking at one particular vendor after another, just a look for a feature set versus really just coming up with a vendor-agnostic problem solution kind of design. Exactly. Exactly.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Ansible",
+      "content_type": "Advice",
+      "timestamp": "35:12 - 36:01",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP11_Legendary_Network_Architect_Russ_White_CCDE1_and_CCAr_shares_his_habits_for_success._We_discuss_SDN_Fog_Computing_Disaggregation_and_the_future.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_44",
+    "text": "And we're moving into a world where vendors are going to have less power and less control in many parts of the world. I have theories about I believe there are some parts of the world where the vendors will still reign, but we're moving into a world more cloud-based and more disaggregated, I think, where you're going to be buying like you do today. Well, I may buy Lenovo or Dell, but I'm still going to run NICS or Windows on it or whatever, right? I'm not going to time my equipment to my software. And I think we're moving into that world. As we move into that world, just like when you're designing between Unix or running Windows on your desktop or whatever the case might be, different machines or Mac OSX or whatever it might be, you're thinking about",
+    "metadata": {
+      "domain": "IT",
+      "topic": "vendors",
+      "content_type": "Advice",
+      "timestamp": "36:01 - 36:45",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP11_Legendary_Network_Architect_Russ_White_CCDE1_and_CCAr_shares_his_habits_for_success._We_discuss_SDN_Fog_Computing_Disaggregation_and_the_future.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_45",
+    "text": "what that particular piece of software would do for you regardless of what the hardware is doing. And you think about what the hardware does for you regardless of what the software does. So there's this whole disaggregation thing going on and I don't think network engineers are thinking in those terms. We tend to think more in terms of what can I buy from Cisco? What can I buy from you? Right? Yep. Exactly. It's a bad habit. That's what it is. It's a bad habit. It really is. I would almost say it's a crutch, right? Yep. And we don't have to be engineers if we allow the people at Cisco and Juniper to be engineers for us, essentially. Well, there you have it, folks. I love it, Russ. I mean, this is great, right? For those listening that are going to be",
+    "metadata": {
+      "domain": "IT",
+      "topic": "networking",
+      "content_type": "Advice",
+      "timestamp": "36:45 - 37:30",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP11_Legendary_Network_Architect_Russ_White_CCDE1_and_CCAr_shares_his_habits_for_success._We_discuss_SDN_Fog_Computing_Disaggregation_and_the_future.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_46",
+    "text": "the next generation of engineers, right? The millennials that are getting into our field should start thinking about everything that we just kind of discussed and you shared. I mean, it's powerful stuff. Well, yeah. So Russ, let's go. This is my whole stick. Talk to us about a project that you worked on that excited you recently or in the past or maybe one that you're working on currently that you can share. Yeah. I think one of the most interesting and exciting things I'm working on right now is this whole concept of building a new control plane at LinkedIn that fits our business model and fits what we do for a living more so than a standard protocol or a non-modified protocol. I shouldn't necessarily say just a standard protocol, but a non-modified protocol. You know,",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Engineering",
+      "content_type": "Story",
+      "timestamp": "37:30 - 38:18",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP11_Legendary_Network_Architect_Russ_White_CCDE1_and_CCAr_shares_his_habits_for_success._We_discuss_SDN_Fog_Computing_Disaggregation_and_the_future.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_47",
+    "text": "trying to try to get under the hood and realize what does LinkedIn do for a living and how can we enable that in a way that makes sense and get out of being so focused on vendors and get out of being so focused on product and be more focused on this is my set of business problems. What set of business problems am I trying to solve? How do I enable those business, those business solutions that LinkedIn's trying to sell? And so this to me is an interesting thing that we're working on, Sean. I think you're an interview, Sean, not too long ago. And a few of us at LinkedIn are working on together around this concept of let's just start over and think about what this would look like, what we can build that would be interesting and would actually enable LinkedIn's business rather than",
+    "metadata": {
+      "domain": "Strategy",
+      "topic": "Business",
+      "content_type": "Story",
+      "timestamp": "38:18 - 39:11",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP11_Legendary_Network_Architect_Russ_White_CCDE1_and_CCAr_shares_his_habits_for_success._We_discuss_SDN_Fog_Computing_Disaggregation_and_the_future.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_48",
+    "text": "just what's off the shelf available. And this is Project Falco? Well, this is part of Project Falco. Yes, yes, yes, yes. So Falco is, you know, hardware which is primarily just a white box vendor buy, but it's a white box buy. And software which is open switch plus some other things that are being worked on with snap route and other Quaga and other pieces that are coming, doing pull together to work on stuff and a control plane, which is we're kind of still mulling over and figuring out what we want this to look like, which is taking some open source tools we already have, taking some open source tools we're bringing in and doing some things to them. We just filed a few patents in this area of stuff that we're going to probably push into this this work that we're doing so that we",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Project Falco",
+      "content_type": "Story",
+      "timestamp": "39:11 - 40:06",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP11_Legendary_Network_Architect_Russ_White_CCDE1_and_CCAr_shares_his_habits_for_success._We_discuss_SDN_Fog_Computing_Disaggregation_and_the_future.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_49",
+    "text": "can try to build something that actually works for the LinkedIn environment much better. And ultimately, our goal is not to have a network that has automated configuration. It's our goal is to have a network that doesn't need to be configured at all. Base configuration doesn't exist. The only reason you touch the network is to implement policy and to fine tune things, which means now your network engineering team, your net engine, your net ops guys can actually sit and focus on running the network in a way that adds business value rather than running the network in a way that prevents failures. Which a revolution in the way of thinking about these things. So that's kind of, and I know other players have done this. So this is not like unique to the to the hyperscale world. But what's",
+    "metadata": {
+      "domain": "IT",
+      "topic": "network",
+      "content_type": "Advice",
+      "timestamp": "40:06 - 40:58",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP11_Legendary_Network_Architect_Russ_White_CCDE1_and_CCAr_shares_his_habits_for_success._We_discuss_SDN_Fog_Computing_Disaggregation_and_the_future.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_50",
+    "text": "fast saying about LinkedIn is that we're so much more open source and so much more trying to be a part of the community than other people have been in the past. Seems like you guys are working on like really building this intelligent network so to speak, right? That can adapt if it's like all policy driven. Yep, that's exactly right. We do want it to be adaptable. We do want it to be driven more from the application requirements and more able to be flexible in the future, particularly in terms of scale and in terms of applications, right? If someone comes to us and says, we need this application run on the network and it's not there today. We don't want to have to say, oh, we didn't think about that. Right. We got to redesign the whole network to do that. No.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "network",
+      "content_type": "Story",
+      "timestamp": "40:58 - 41:45",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP11_Legendary_Network_Architect_Russ_White_CCDE1_and_CCAr_shares_his_habits_for_success._We_discuss_SDN_Fog_Computing_Disaggregation_and_the_future.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_51",
+    "text": "We do have some base rules that we will not we will not do like our fabric doesn't do layer two. We only do layer three on the fabric. But you got to have some of those kinds of rules to build an environment that's simple enough and then we go back to whole complexity thing that's simple enough to make it flexible in other areas. There's you've got to nail some things down so that other places can float. And if you let too much float things become too complex and you end up nailing everything down to keep yourself from going crazy. So you got to you got to figure out some places where you're going to put a stake in the ground and you're going to say no, we won't do this because that allows you to design around. We won't do this and we will do that. And it actually allows you",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Strategy",
+      "content_type": "Advice",
+      "timestamp": "41:46 - 42:30",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP11_Legendary_Network_Architect_Russ_White_CCDE1_and_CCAr_shares_his_habits_for_success._We_discuss_SDN_Fog_Computing_Disaggregation_and_the_future.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_52",
+    "text": "to be freer in other areas as strange as that might seem. But that's that's the way it really works. What were let's say one or two big lessons you've learned working through this project that you can share with the audience? That it's always harder to actually implement something that it seems like when you draw on the whiteboard. I guess maybe I've learned that 10 times in my career or 20 times in my this point. But it's always a good lesson to relearn. That it's important to think in terms of the business. I mean, I've always tried to think this way, but this type of project actually brings it more home that the business is what drives the network. And that you really need to focus on what the business is trying to do. And that's the bottom line that we don't think about",
+    "metadata": {
+      "domain": "IT",
+      "topic": "implementation",
+      "content_type": "Story",
+      "timestamp": "42:30 - 43:21",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP11_Legendary_Network_Architect_Russ_White_CCDE1_and_CCAr_shares_his_habits_for_success._We_discuss_SDN_Fog_Computing_Disaggregation_and_the_future.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_53",
+    "text": "a whole lot. So excellent. Well, thanks for sharing Russ. Can you share with the audience maybe some daily or weekly rituals that helped you build your successful career? Oh, wow. Yeah, probably a few. I get up early in the morning. I work from home a lot. In fact, my office is in San Francisco and I'm in Raleigh. So I work from home a lot. So I tend to not I tend to not split work and pleasure or work and rest of my life so much as I do time with other people and time not with other people. That may sound strange. Like work life integration. Yeah, work life integration for me is much more about building a meeting schedule and building time with other people such that I still have time to not be with other people so that I can work on projects and get things done.",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Career",
+      "content_type": "Story",
+      "timestamp": "43:21 - 44:15",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP11_Legendary_Network_Architect_Russ_White_CCDE1_and_CCAr_shares_his_habits_for_success._We_discuss_SDN_Fog_Computing_Disaggregation_and_the_future.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_54",
+    "text": "I think that in the networking industry in particular, we tend to get into this mode where we're going to have meetings 24 hours a day, seven days a week. We're always going to be in the office. We're always going to be on whatever, whatever. I think it's really important to shut down sometimes to get offline to not sometimes. In fact, an awful lot more than we might think. I mean, some people I'd say, well, 15 minutes a week is enough for me. Well, it's not for me. I mean, you know, having time offline to think and to work on things is a big deal. Other things like daily rituals, things I always do besides getting up early and trying to arrange my day around making sure that I have blocks of time to work on things is I read for about an hour or",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Mindset",
+      "content_type": "Advice",
+      "timestamp": "44:16 - 45:03",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP11_Legendary_Network_Architect_Russ_White_CCDE1_and_CCAr_shares_his_habits_for_success._We_discuss_SDN_Fog_Computing_Disaggregation_and_the_future.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_55",
+    "text": "night. I read about 50 to 60 books a year, typically. And plus I read a lot of blogs and I read a lot journals and I read a lot of other stuff, RFCs and research papers and things like that. And I think getting into the habit of reading on a daily basis, whatever it is you might read and learning how to read well is really important. Another kind of habit, I think, is to allow space in your life for other people to criticize you in meaningful ways. So I think that one of the reasons that I can write even as well as I do is and I would not claim to be the best writer on the face of the earth. But even as well as I do is because I've given my life space, I've given myself space to be criticized by lots and lots of editors and people who are either better writing",
+    "metadata": {
+      "domain": "Mindset",
+      "topic": "Habits",
+      "content_type": "Advice",
+      "timestamp": "45:03 - 46:03",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP11_Legendary_Network_Architect_Russ_White_CCDE1_and_CCAr_shares_his_habits_for_success._We_discuss_SDN_Fog_Computing_Disaggregation_and_the_future.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_56",
+    "text": "to me or at least better at picking out details and understanding stuff than I am. I think those are crucial habits. Routine wise, like I said, I try to get up at a fairly regular time, get a better, a fairly regular time, read a particular amount of time. I don't watch a lot of television. Yup, cut out the TV, guys. Yeah, I cut out the TV. Believe it or not, I don't do a lot of social media. I don't really do a lot of, um, Twitter or Instagram Facebook. Twitter, Instagram, Facebook, LinkedIn's about the only place you can find me on a fairly regular basis other than that. I do have some automated Twitter stuff set up, but I don't spend a lot of time actually logged into Twitter looking at my feed and stuff. I watch maybe an hour to an hour and a half of television four or five times a week with my kids. Other than that, I really don't watch",
+    "metadata": {
+      "domain": "Mindset",
+      "topic": "Habits",
+      "content_type": "Story",
+      "timestamp": "46:03 - 46:57",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP11_Legendary_Network_Architect_Russ_White_CCDE1_and_CCAr_shares_his_habits_for_success._We_discuss_SDN_Fog_Computing_Disaggregation_and_the_future.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_57",
+    "text": "very much. I guess I'm much more disciplined about my usage of time than a lot of people are. Do you block out that time like on a daily weekly ritual? Like is it on the calendar where you block this out or it just comes natural? Well, I started out by blocking out time. When I was in global escalation, I might have deal with my boss that would work from home one day a week. And that would be my project time. And one day a week soon enough, it came two and three and four and pretty much I was down to the point where I was coming into the office one or two days a week. And now I go into the office two to three days a month. But by and large, it kind of comes natural to me now that if I sit down and start working on something, I do what I call macro tasking,",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Time Management",
+      "content_type": "Story",
+      "timestamp": "46:57 - 47:42",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP11_Legendary_Network_Architect_Russ_White_CCDE1_and_CCAr_shares_his_habits_for_success._We_discuss_SDN_Fog_Computing_Disaggregation_and_the_future.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_58",
+    "text": "which is I'm going to work on it until I'm done with it. Or at least I'm at a stopping point. I feel comfortable with. I don't like like if I'm writing a book, if I start the chapter, I won't work on other research projects until I'm done with that chapter. And I just I focus on that one thing until I get it done. And once it's done, then I switch shift gears and do something different. But I don't like sit for 15 minutes and go camera right chapter for 15 minutes. And then these 15 minutes, I'm going to do this. And that 15 minutes, I'm going to read the news or whatever it is. I tend to be much more focused that way. But I think that is a habit that I built up over the last 15 to 20 years to be able to do that. And I think a lot of people want to be able to do that, but they don't realize it takes that long to build that habit.",
+    "metadata": {
+      "domain": "Mindset",
+      "topic": "Focus",
+      "content_type": "Story",
+      "timestamp": "47:42 - 48:29",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP11_Legendary_Network_Architect_Russ_White_CCDE1_and_CCAr_shares_his_habits_for_success._We_discuss_SDN_Fog_Computing_Disaggregation_and_the_future.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_59",
+    "text": "What are some things that you do to keep up with technology to help kind of build mastery and gaining new skills? At this point, I am mostly in research papers and IETF drafts and reading blogs. Any favorite blogs come in my? Yeah, you know, I read packet pushers, I read the new stack, I read the next platform, I read I read the Arbor security blog. I can actually be long list. I'll be sure to post this in the show notes guys. Yeah, there's a number of them that I read. There's a number of blogs I read on a regular. In fact, I read about, I follow about 100 and something blogs. Oh wow. Not all of them are technology obviously. Yeah, I'll send you a list of the most interesting. So you can put it on the show notes because I think it is important to know these",
+    "metadata": {
+      "domain": "IT",
+      "topic": "technology",
+      "content_type": "Advice",
+      "timestamp": "48:30 - 49:29",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP11_Legendary_Network_Architect_Russ_White_CCDE1_and_CCAr_shares_his_habits_for_success._We_discuss_SDN_Fog_Computing_Disaggregation_and_the_future.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_60",
+    "text": "things. You know, where to go find the right information or not the right information, but where to go to like learn new things. Yep. What's your favorite tool or application that you can share with our listeners? Wow. Okay. Lots. Name three. Top three. Notepad plus plus, not the regular notepad that comes with windows, but there's a notepad plus plus. I really like one note. I live my life in one note. Other people like Evernote, it just depends on your style. Yep. I really live my life in one note and I can't emphasize how important it is to have some tool like that regardless of which one it is. Evernote one note. There's a bunch of these types of things that allow you to build to do lists and to schedule things and to write down short notes and things like this and to that is",
+    "metadata": {
+      "domain": "IT",
+      "topic": "tools",
+      "content_type": "Advice",
+      "timestamp": "49:29 - 50:25",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP11_Legendary_Network_Architect_Russ_White_CCDE1_and_CCAr_shares_his_habits_for_success._We_discuss_SDN_Fog_Computing_Disaggregation_and_the_future.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_61",
+    "text": "such a helpful thing to me. The third one is actually probably Slack. I use Slack a lot. I'm on Slack a lot. Cool. That may sound very strange. No, no, we use it here on our team. So it's we use it for live communications, everything. Yeah, I try to get I try to get as much done as I can on Slack because I actually find it useful in many different ways as far as being able to share things and be more real time without being totally synchronous. You know what Slack reminds me of Slack reminds me of my IRC days back in the day when I was a gamer. We used to have these IRC channels and we used to communicate. Yeah, that's pretty much what it is actually. So yeah, so that's absolutely true. All right. What book would you recommend to Essie Nation and why? Oh my goodness.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Slack",
+      "content_type": "Story",
+      "timestamp": "50:25 - 51:18",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP11_Legendary_Network_Architect_Russ_White_CCDE1_and_CCAr_shares_his_habits_for_success._We_discuss_SDN_Fog_Computing_Disaggregation_and_the_future.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_62",
+    "text": "So I'll be I'll be self-referential. Absolutely. And I'll recommend the Art of Network Architecture because I think it is a really good book for trying to understand the intersection between technology and business and even a good overview of a lot of different areas of business that people might not think about when they get into the field. And you can buy this on Amazon? Yeah, Amazon. It's available on Safari Online, which is another good tool, by the way. So Safari Online is a good it's a good thing to have an account at Safari. Okay, well perfect. Well, now we're at the kind of last segment of the show. It's the tech topic of the day. So tell us Russ, what do you want to share with our listeners? So I think what I would share with our listeners is",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Architecture",
+      "content_type": "Advice",
+      "timestamp": "51:20 - 52:09",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP11_Legendary_Network_Architect_Russ_White_CCDE1_and_CCAr_shares_his_habits_for_success._We_discuss_SDN_Fog_Computing_Disaggregation_and_the_future.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_63",
+    "text": "that the networking world is changing rapidly. Get used to it. Things are blending together that might not have seemed like they would blend together two or three years ago. And another thing seemed to be splitting apart. And we're paying less attention, I think, to what is splitting apart than what is blending. Technology-wise, I think the big thing to watch out right now for is disaggregation and trying to understand the whole white box movement and understand the whole disaggregation concept. Can you kind of talk more about disaggregation and kind of explain what that really means? Yeah, so disaggregation to me, when I worked for Cisco, you bought a Cisco 7500 or 7200 or 4500 or whatever it was. I'm talking about old routers. New ones. MGSs and AGS pluses and whatever. And you kind of had this feeling that the network was an",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Networking",
+      "content_type": "Advice",
+      "timestamp": "52:09 - 53:06",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP11_Legendary_Network_Architect_Russ_White_CCDE1_and_CCAr_shares_his_habits_for_success._We_discuss_SDN_Fog_Computing_Disaggregation_and_the_future.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_64",
+    "text": "appliance, right? You had these appliances. You plug them together, you can figure them and they just work. Right. And there's protocols in there and there's an operating system and there's all this stuff. But you don't really get inside the box. You're really focused on the box as an appliance. What is it capable of? What does it do? Things like this. The whole disaggregation movement is kind of hand in hand with the white box movement, which is even though it's not necessarily just white box because there are disaggregators that are not white box per se. Cisco sells boxes that are disaggregated and Juniper sells some stuff that's disaggregated and arrists it does and other people so it's not just a not not just white box. Is more thinking about get away from the appliance model. Think about what does the device actually do?",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Networking",
+      "content_type": "Advice",
+      "timestamp": "53:06 - 53:58",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP11_Legendary_Network_Architect_Russ_White_CCDE1_and_CCAr_shares_his_habits_for_success._We_discuss_SDN_Fog_Computing_Disaggregation_and_the_future.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_65",
+    "text": "What pieces do I need to build that device? Think about building that device yourself. Again, I buy a laptop from Dell. I run Unix on it. Red Hat or Debian or whatever the case might be. A Boot-Doo or something whatever or I run Windows on it or I buy a Macbot, a Mac piece of hardware and I can run OSX or Windows or whatever I want to on that Mac. The people from Apple Land are going to be something up and down. It's screaming. But I do know people who run Mac machines with Apple hardware with Windows software. I had a friend that ran Windows 7 on his backbook. Right. It does happen. But that process again going back to that concept is much more important to me. I think that is the future of where real network engineers are going to be. I think there is",
+    "metadata": {
+      "domain": "IT",
+      "topic": "network",
+      "content_type": "Advice",
+      "timestamp": "53:59 - 54:48",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP11_Legendary_Network_Architect_Russ_White_CCDE1_and_CCAr_shares_his_habits_for_success._We_discuss_SDN_Fog_Computing_Disaggregation_and_the_future.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_66",
+    "text": "another space which is high for convergence. But that's going to be allowing the vendor to do more of your engineering than they do today. And you're basically just going to be buying the Lego blocks and putting it together. You're not going to be buying appliances like routers. You're going to be buying entire racks. Okay. And then there's cloud and then you're just buying the whole service. You're buying the whole network as a service basically. Right. Yep. So I think where network engineers are going to end up having to live or not having to live or going to end up living the most advanced, smartest, whatever network engineers are going to be in the disaggregation realm. And thinking about how to put these boxes together and thinking about not just, or I just buy this",
+    "metadata": {
+      "domain": "IT",
+      "topic": "network",
+      "content_type": "Advice",
+      "timestamp": "54:48 - 55:31",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP11_Legendary_Network_Architect_Russ_White_CCDE1_and_CCAr_shares_his_habits_for_success._We_discuss_SDN_Fog_Computing_Disaggregation_and_the_future.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_67",
+    "text": "box and it has a set of features. No, I buy this box. I install that software because it has that set of features. And that to me, if you want to get involved in that realm, it's humanless, six-wind snap route. Try to understand those companies what they're doing, how they're doing it. Go look at Dell OS X and the Dell hardware offer in the disaggregated space. And things like that and trying to understand in a Rista, the same way, Rista sells boxes that you can build your own control plan on. I think this is a realm that is going to be big in the next five to 10 years. And partially, you know, this is something I'm working on. So of course, it relates back to the whole Falco project that LinkedIn is doing. So that's kind of my tech, my tech technology thought for the",
+    "metadata": {
+      "domain": "IT",
+      "topic": "technology",
+      "content_type": "Advice",
+      "timestamp": "55:31 - 56:25",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP11_Legendary_Network_Architect_Russ_White_CCDE1_and_CCAr_shares_his_habits_for_success._We_discuss_SDN_Fog_Computing_Disaggregation_and_the_future.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_68",
+    "text": "moment is think about disaggregation, think about where that takes you and what you can do with that and how you can learn about that to some degree. And it's like it says, not just white box. White box is one piece. You can disaggregate without going white box. And you can guy white box without disaggregating actually. So there's different things in there. So that's kind of my thing right now. And, you know, be broad based. Don't be a silo engineer. Cut that out. No, perfect. I mean, you covered a lot of technologies around disaggregation. You mentioned SDN, Cloud computing, hyper convergence. There's one other kind of area that I think maybe five, 10 years down the road will will get really mainstream is this whole concept of fog computing or edge computing. And how would that change the network engineers world? Have you thought about that",
+    "metadata": {
+      "domain": "IT",
+      "topic": "disaggregation",
+      "content_type": "Advice",
+      "timestamp": "56:25 - 57:22",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP11_Legendary_Network_Architect_Russ_White_CCDE1_and_CCAr_shares_his_habits_for_success._We_discuss_SDN_Fog_Computing_Disaggregation_and_the_future.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_69",
+    "text": "or do you have any thoughts on that? So yeah, actually do. I mean, I think it's pretty interesting actually that edge computing is coming back into play. I have this thing. I actually have slides that I use in this area where I talk about it all. When I first came into the networking industry, I was installing termal emulation cards into Z100's in Z250's to act as a termal emulator for an IBM mainframe. It wasn't actually an IBM. It was a Harris mainframe, which was bought by Burris. But anyway, that's like way ancient history. But anyway, basically a mainframe. And then when I worked at the American Society Mechanical Engineer, we had an IBM 400 and A is 400, which is a mini. So, you know, when I started, everything was centralized. Then we moved to decentralized people put PCs, little Z100's and Z250's and stuff like that. I'm little 80,",
+    "metadata": {
+      "domain": "IT",
+      "topic": "computing",
+      "content_type": "Story",
+      "timestamp": "57:22 - 58:14",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP11_Legendary_Network_Architect_Russ_White_CCDE1_and_CCAr_shares_his_habits_for_success._We_discuss_SDN_Fog_Computing_Disaggregation_and_the_future.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_70",
+    "text": "88's and 82, 86's and 386's in their closet. And they would hide them from the IT people. And they would run Lotus 123 on them. And they would do all of their financial calculations on those. And they would input them into the mainframe by copying them down by hand and then carrying them over to their terminal and entering that information into the mainframe. And so that whole decentralization thing and what we were today called bog computing became the thing. And then we moved to the cloud, which was in many ways, a redo of the entire mainframe. And I would actually say that the actual redo of the mainframe is serverless. Okay. Because mainframes actually required you to talk a certain API to the mainframe. And that's exactly where serverless is. You buy a particular service. You're not writing to an OS.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "mainframe",
+      "content_type": "Story",
+      "timestamp": "58:14 - 59:09",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP11_Legendary_Network_Architect_Russ_White_CCDE1_and_CCAr_shares_his_habits_for_success._We_discuss_SDN_Fog_Computing_Disaggregation_and_the_future.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_71",
+    "text": "That's running on a bare metal server in a cloud or a VM running on a server in a cloud. You're actually writing to an API. But if you want to move your application from serverless provider A to serverless provider B, it's just like moving it from a burst mainframe to an IBM mainframe. You've got to rewrite the application. So to me, that's kind of the same in my mind. I do these analogies where I think about the way things used to be and how they happened. And so, so fog to me is going back to where we were. Data goes back to the edge. Compute goes back to the edge. What does this mean for the network? It means the network has to be faster, perhaps less bandwidth before in cloud computing bandwidth is the key. Right? Everything is about bandwidth. When you get to something like fog, what matters?",
+    "metadata": {
+      "domain": "IT",
+      "topic": "serverless",
+      "content_type": "Advice",
+      "timestamp": "59:09 - 60:04",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP11_Legendary_Network_Architect_Russ_White_CCDE1_and_CCAr_shares_his_habits_for_success._We_discuss_SDN_Fog_Computing_Disaggregation_and_the_future.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_72",
+    "text": "What matters is delay, jitter, consistency, speed. And so now it changes your life as a network engineer because you have to start thinking less about how many bits can I shove and how and start thinking more about how consistently can I shove bits? Right? Yep. And so that that becomes a slightly different mentality. It's bandwidth is cheap, fine, but a delay in jitter or not cheap. Yep. And how do I work with the application in a way that makes sense from that direction? So that's kind of I think where we're going to see more stuff going on in the networking world. Well, thank you, Russ. I really truly enjoyed listening to your journey insights and appreciate you teaching us the tech topic of the day and any closing comments or something in general you want to share with our audience? Not really. I mean, it's a great show. I'm glad you",
+    "metadata": {
+      "domain": "IT",
+      "topic": "networking",
+      "content_type": "Story",
+      "timestamp": "60:05 - 61:04",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP11_Legendary_Network_Architect_Russ_White_CCDE1_and_CCAr_shares_his_habits_for_success._We_discuss_SDN_Fog_Computing_Disaggregation_and_the_future.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_73",
+    "text": "had me on. Thanks for the invite. And I guess if anybody wants to find me, they can always find me at rule11.us. That's my blog, which covers all sorts of weird things. You never know what you're going to find it at network. And you can always find me on LinkedIn. And I do have a Twitter account. You know, I don't really check it a lot, but if you direct message me, I do get an email and I will answer direct messages on Twitter. And whatever else. And you'll see me at Cisco Live, Nog, ITF, wherever I happen to be around and about. I'm always doing something here there. Awesome, Russ. We'll be sure to probably even bring you back on the show. I mean, there's so much other topics we could talk about. So thank you for being so generous with your time, expertise, and sharing your knowledge with our listeners. Thanks very much for having me on.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Networking",
+      "content_type": "Story",
+      "timestamp": "61:04 - 61:53",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP11_Legendary_Network_Architect_Russ_White_CCDE1_and_CCAr_shares_his_habits_for_success._We_discuss_SDN_Fog_Computing_Disaggregation_and_the_future.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_74",
+    "text": "This Rockstar SE class is ended, but there's more ways to propel you on your ideal IT engineer journey. Head over to rockstarse.com for show notes and be sure to sign up for our mailer. This will give you exclusive access for some amazing free content to help you level up and accelerate your career. We appreciate you joining us and look forward to helping you learn, focus, and succeed. Next time on Rockstar SE.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career",
+      "content_type": "Advice",
+      "timestamp": "61:56 - 62:26",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP11_Legendary_Network_Architect_Russ_White_CCDE1_and_CCAr_shares_his_habits_for_success._We_discuss_SDN_Fog_Computing_Disaggregation_and_the_future.mp3",
+      "source_type": "podcast"
+    }
+  }
+]

@@ -1,0 +1,866 @@
+[
+  {
+    "chunk_id": "chunk_1",
+    "text": "It's not about memorization and getting a certification. To me, it's about learning a base of knowledge. Each week, we provide tech lessons, answer questions, and bring you interviews of the most successful engineers and thought leaders working in the IT space across technologies like data center, cloud, networking, collaboration, and security. Listen in as you'll gain insight, strategies, tips, and more to help you level up along your journey in becoming a rockstar SE. So let the class begin. All right, SE Nation. Let's get started. I am super excited to introduce my guest today, a former colleague of mine, and someone I highly respect in the industry, Lloyd Evans.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "IT space",
+      "content_type": "Story",
+      "timestamp": "00:00 - 00:45",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP04_-_Interview_with_Data_Center_Solutions_expert_Loy_Evans_at_Cisco.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_2",
+    "text": "I highly respect in the industry, Lloyd Evans. Lloyd's been in the IT industry going on over 20 years, and he got his start actually as a programmer. But jumped into the networking side of the house early in his career. He holds a CCE in route switch and is currently working at Cisco Systems as a data center solutions consultant. He's also been a distinguished speaker numerous times at Cisco Live, and his passion is data center technologies. Hey, Lloyd, how's it going, my man? Hey, I'm doing fantastic. How are you? I'm doing great, and I'm glad you're on the show. And since I've given our listeners an overview, please take a minute now and tell us a little bit more about yourself,",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Lloyd Evans",
+      "content_type": "Story",
+      "timestamp": "00:41 - 01:24",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP04_-_Interview_with_Data_Center_Solutions_expert_Loy_Evans_at_Cisco.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_3",
+    "text": "a little bit more about yourself,  such as where you're from, current role, and hobbies. You bet.  And thanks for having me.  I appreciate the opportunity.  So my name is Lloyd Evans.  I am actually originally from the Baton Rouge area.  I was actually really born in Alaska.  My dad was an Air Force man, and I was born in Alaska,  but moved to Baton Rouge when I was around a year old.  So I've been here for a really long time.  I've had some stints where I've lived in some other places,  but I've continually ended up coming back home  where we have family.  So I still live in the Baton Rouge area.  I live with my wife and two kids.  They are 15 and 12, Ethan and Abby, my wife Molly,",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Introduction",
+      "content_type": "Story",
+      "timestamp": "01:22 - 01:58",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP04_-_Interview_with_Data_Center_Solutions_expert_Loy_Evans_at_Cisco.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_4",
+    "text": "They are 15 and 12, Ethan and Abby, my wife Molly, who has been a stay at home on for quite a while, but actually recently just went back into the workforce working for a networking technology company. So kind of excited to be able to have nerd stuff to talk to her about again. As far as, you know, you mentioned the things that I do at work, but outside of work, I like to try to keep myself busy, you know, really just kind of, you know, learning new things. I love to do woodworking. I love to do, you know, all kinds of, you know, different craft hobby type things. I like to build things and, you know, when I have the time, which is almost never, I like to try to read.",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Personal",
+      "content_type": "Story",
+      "timestamp": "01:55 - 02:32",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP04_-_Interview_with_Data_Center_Solutions_expert_Loy_Evans_at_Cisco.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_5",
+    "text": "when I have the time, which is almost never,  I like to try to read.  I typically like to try to read non-technical things to, you know,  obviously to get my mind a bit of an escape  from the the drudgery of the manuals and things like that  that we normally have to push through.  But in general, I like to just,  I like to keep my mind busy as much as I can.  And one of the latest things that I'm playing around with  is I got some recording equipment for my son  who is a very talented new musician.  And we're learning how to actually do scores  and record and mix things.  So that's kind of a new project  that I recently just took on.  Oh, that is awesome.  You've got your hands full with a bunch of projects.",
+    "metadata": {
+      "domain": "Mindset",
+      "topic": "Reading",
+      "content_type": "Story",
+      "timestamp": "02:28 - 03:11",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP04_-_Interview_with_Data_Center_Solutions_expert_Loy_Evans_at_Cisco.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_6",
+    "text": "You've got your hands full with a bunch of projects. Absolutely. Well, thanks for sharing, Lloyd. And before we start, I would like for you to share with our audience, maybe your favorite quote. And let us know why you chose this one to share. There's actually a quote. I'm not the one who originally found this. I got it from a good buddy of mine, gentleman named Bill DeFrain. He actually uses it in the signature line of his emails. But the quote is Ancora Emparo. I'm probably pronouncing that completely wrong. It's Italian. And it's typically attributed to Michelangelo. But I've seen that that's disputed in some cases. Because apparently it was just a very commonplace",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Time Management",
+      "content_type": "Story",
+      "timestamp": "03:08 - 03:52",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP04_-_Interview_with_Data_Center_Solutions_expert_Loy_Evans_at_Cisco.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_7",
+    "text": "Because apparently it was just a very commonplace language back in the days that Michelangelo was alive. But it's Italian for, I'm still learning. And to me, especially if it really is something that Michelangelo has known to have said, to think of a pure genius like that, to say, I'm not stopped. I have not stopped. I'm still continuing to add to the things that I want to learn and know about. That right there captures what I think we should all be doing, continue to push forward, don't stand still and keep working to acquire new knowledge and learning. I love it, Lloyd. I mean, I think a lot of people get to a certain point in their career and they might say, hey, I know it all, but what happens then, right?",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Mindset",
+      "content_type": "Story",
+      "timestamp": "03:46 - 04:32",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP04_-_Interview_with_Data_Center_Solutions_expert_Loy_Evans_at_Cisco.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_8",
+    "text": "hey, I know it all, but what happens then, right? The first thing that happens when you think you know it all is you get smack in the face with something going on. Exactly, especially in our career field, right? Absolutely. Now, let's talk about going back. You started as a programmer. That's very interesting. Was that kind of an intern position or maybe you were getting paid, but kind of take us back in that time period where you just broke into, let's say, IT? Yeah, absolutely. Well, I've got a, it's called anti-typical type of entrance into IT. My mom was actually a computer programmer at Louisiana State University. And she actually programmed there for about 28 years.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career",
+      "content_type": "Story",
+      "timestamp": "04:29 - 05:11",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP04_-_Interview_with_Data_Center_Solutions_expert_Loy_Evans_at_Cisco.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_9",
+    "text": "And she actually programmed there for about 28 years. So I got exposure to doing programming when I was in like a fourth grade, right? So I got exposure really early. And my high school was lucky enough to go to a high school where they had a sponsored program by Exxon where they put emphasis on computer and technology. And I learned six computer programming languages before I left high school. Well, yeah, it seems pretty cool. And so I went into LSU and I basically majored in a major called quantitative business analysis with a computer science option. But essentially what it was was what most organizations, or excuse me, what most universities call an MIS degree. So I learned about databases and telecommunications",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Early Exposure",
+      "content_type": "Story",
+      "timestamp": "05:07 - 05:53",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP04_-_Interview_with_Data_Center_Solutions_expert_Loy_Evans_at_Cisco.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_10",
+    "text": "So I learned about databases and telecommunications and programming and things like that. and programming and things like that. A lot of decision support and information support systems. So when one of my final classes in my last year was actually an independent study course with one of my professors, I was a graduate level course where I was, my basically, I was teaching myself how to do programming. And he was actually introducing me to a couple of customers that he did consulting for. And I started writing visual basic, basically very, very early, visual database applications for basically heavy equipment sales and things like that. So yeah, I was doing some very interesting stuff when I was in school. And I just happened to meet a guy.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career",
+      "content_type": "Story",
+      "timestamp": "05:50 - 06:34",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP04_-_Interview_with_Data_Center_Solutions_expert_Loy_Evans_at_Cisco.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_11",
+    "text": "when I was in school. And I just happened to meet a guy. It's actually he was the brother of a guy that I knew in high school. So everything's a little connected around here. But I started doing programming for him. And essentially what he did was he said, look, when you graduate, I want you to cover some specific projects that we have planned for the next year. And so what I want you to do is go ahead and continue your studying in school. And we'll pay you, it was not much, but it was an hourly wage that was a little bit above minimum at the time, which obviously is a college student. You're happy to get any kind of paper doing coursework, right? Absolutely. So I basically got out of school",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Career",
+      "content_type": "Story",
+      "timestamp": "06:31 - 07:10",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP04_-_Interview_with_Data_Center_Solutions_expert_Loy_Evans_at_Cisco.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_12",
+    "text": "Absolutely. So I basically got out of school and immediately went to work for them, making, let's call it a decent but minimal salary wage and started writing database applications to support a number of state agencies and basically it's different types of information tracking. Well, it just so happened that I was doing that work. And one of the things that in my personal opinion, I found that pure coding, which was about 90% heads down, I found that to be a little bit out of line with what I enjoyed. I actually enjoyed the human aspect of things. And so I went and did a network conversion from, and I'm going to date myself severely here, but we were converting from art net to ethernet,",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career",
+      "content_type": "Story",
+      "timestamp": "07:06 - 07:52",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP04_-_Interview_with_Data_Center_Solutions_expert_Loy_Evans_at_Cisco.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_13",
+    "text": "but we were converting from art net to ethernet, running three-com hubs, and we were converting from a IBM land manager network operating system to a Novel Netware 3.1 for an insurance agency here in Louisiana. And I just enjoyed the heck out of it because it was more like a, let's call it maybe a 50-50, heads down to heads up ratio. And I actually got to interact with the customer and kind of say, you know, kind of understand what it was that they were trying to get and we could do things to specifically deliver that at that moment in time. It wasn't like, okay, you get programming requirements and then you come back six months later and show that you have. And then they kind of say, mm, okay, well, that's not exactly",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Network",
+      "content_type": "Story",
+      "timestamp": "07:48 - 08:30",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP04_-_Interview_with_Data_Center_Solutions_expert_Loy_Evans_at_Cisco.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_14",
+    "text": "And then they kind of say, mm, okay, well, that's not exactly what we wanted and then you have to go back to the heads down, this was a lot more interactive and a lot more, let's call it ADD friend work, right? So basically at that point, I was like, you know, I really liked doing this and told my boss at that time that I wanted to get into the networking side of things and he said, okay, I'll tell you what, I'll give you a challenge. And here's one of the key lessons, is if you see an opportunity, don't be afraid to go and ask for the ability to take advantage of that opportunity and if you are given that opportunity, make sure you follow through, right? So when I sat down with him and said, I really want to do that instead of programming,",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Career",
+      "content_type": "Story",
+      "timestamp": "08:27 - 09:09",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP04_-_Interview_with_Data_Center_Solutions_expert_Loy_Evans_at_Cisco.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_15",
+    "text": "I really want to do that instead of programming, he said, okay, well, first things first, you need to finish the project you have, but here's the deal, there's a bunch of spare parts that we have in our lab. If you can go in, get that set up and running and get it to where you have, you know, a network server, two PCs and a printer, all doing file and print sharing on a network, we will pay for your, that this back then, this was the Nobel CNA, you know, certified network administrator. And then, you know, if you want to go beyond that, go into the CNA certification and I was like, you know what, I'm just going to skip the A, I'm going to go for the E and, you know, I'm going to show him I can do it.",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Career Advice",
+      "content_type": "Story",
+      "timestamp": "09:07 - 09:44",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP04_-_Interview_with_Data_Center_Solutions_expert_Loy_Evans_at_Cisco.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_16",
+    "text": "and, you know, I'm going to show him I can do it. So I literally went in, I think that was a Friday that we had that conversation. I went in Friday evening and I basically worked on that and by Monday morning, I had all of that completely, and this was literally, back to this, back in the days when people actually really still bought motherboards and memory and built their own computers, right? And so I built those three computers, I got them doing file sharing, I connected the printer in and I actually did, you know, printer sharing and basically by Monday, he was just kind of like, no way, you didn't do, she got to show me that. So I went in and I showed him, and I showed him that not only did,",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Story",
+      "content_type": "Example",
+      "timestamp": "09:42 - 10:20",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP04_-_Interview_with_Data_Center_Solutions_expert_Loy_Evans_at_Cisco.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_17",
+    "text": "So I went in and I showed him, and I showed him that not only did, you know, I accept the challenge, but I also understood the basics were underneath it, right? So after that, you know, they kind of, went down the route of getting me my C&E certification, and then after the C&E certification, that was around I think 94, 95-ish. I was involved in the first startup, excuse me, the first dial up ISP in the Baton Rouge area, and one of the things that we put in was a Cisco 2500 router connected to you unit, which, you know, again, that's gonna date me because most people don't remember what you unit was. But anyway, so got into Cisco routers at that time, and so from 95 until 97,",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career",
+      "content_type": "Story",
+      "timestamp": "10:15 - 11:00",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP04_-_Interview_with_Data_Center_Solutions_expert_Loy_Evans_at_Cisco.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_18",
+    "text": "and so from 95 until 97, I'd do very heavily into Cisco networking technologies, which were obviously, you know, admittedly, a lot more simplistic back then, but you had to get a lot deeper with them in order to get certification. But by 97, I was able to get my Cisco CCIE, and you know, since then, you know, been kind of involved in some, you know, pretty interesting high-level stuff that involves networking, but I have always tried to make sure that I never made networking. My only singular myotic focus. Wow, there's a lot of golden nuggets here, and key takeaways. I mean, first of all, it seems like, you know, when you got that opportunity, you latched onto it because you found that",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career",
+      "content_type": "Story",
+      "timestamp": "10:57 - 11:40",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP04_-_Interview_with_Data_Center_Solutions_expert_Loy_Evans_at_Cisco.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_19",
+    "text": "you latched onto it because you found that it was very, very just fulfilling, and you found the love for networking, like right out the gate with network. It's, I think that's the key takeaway, guys, here is that if you do get an opportunity to learn networking, you know, it is your passion, like Lloyd mentioned, you need to grab that opportunity and give it all you got, and have the confidence that you can, you know, learn it and build it, and have Lloyd have to mock up that lab and get it, you know, basically do a POCO most, right? Lloyd, for your manager to see if you actually have what it takes to them to give you an opportunity in moving basically careers from programmer to a networking job.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Networking",
+      "content_type": "Advice",
+      "timestamp": "11:37 - 12:19",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP04_-_Interview_with_Data_Center_Solutions_expert_Loy_Evans_at_Cisco.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_20",
+    "text": "in moving basically careers from programmer to a networking job. Absolutely, I don't say POC is a very good way that there's more proof of capability. Yeah, right. You know, rather than a concept, but yeah, I mean, the main thing there is, and I will say that I did not consciously go to work for that company to choose networking, but I happen to think, you know, man, this is, this is a much more interesting way to interact with people, right, and help them achieve the goals that they want in their business than programming. Now again, there's nothing wrong with programming, right? But back in those days, it was a lot different. You didn't have the rapid development environments that you have nowadays, right?",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Career Change",
+      "content_type": "Story",
+      "timestamp": "12:14 - 12:55",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP04_-_Interview_with_Data_Center_Solutions_expert_Loy_Evans_at_Cisco.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_21",
+    "text": "that you have nowadays, right? So would I make the exact same choices now? I don't know. I still enjoy the heck out of doing networking, but I do happen to think, and we can talk about this a little later, I do happen to think that we're starting to see an interesting change in the industry, where those two things may start to merge a little bit. There's some interesting movements in the networking arena, the networking industry that I think we're going to see, I just think that our tools will probably change over time. Right. No, you're right. I mean, I got started in this career very late. Like 21 is like when I first touched my first computer and built it from scratch, but like I was majoring in MIS",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career",
+      "content_type": "Story",
+      "timestamp": "12:54 - 13:34",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP04_-_Interview_with_Data_Center_Solutions_expert_Loy_Evans_at_Cisco.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_22",
+    "text": "and built it from scratch, but like I was majoring in MIS at the time, and there was programming classes, and I thought I'd want to, you know, back in the day, I was like, man, what if I could be a programmer? I thought that would be like the ultimate way to become a hacker, so to speak. And I started learning C++ Visual Basic, and it was just like, oh wow, I don't know if I could do this for the long term. And the networking side just came about because I love that kind of the hands-on aspect, the customer engagement aspect, it's just a little more, it's a little bit different, but like to your point, these days, you know, you've got agile development, so it's probably a little bit more different.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career",
+      "content_type": "Story",
+      "timestamp": "13:30 - 14:07",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP04_-_Interview_with_Data_Center_Solutions_expert_Loy_Evans_at_Cisco.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_23",
+    "text": "so it's probably a little bit more different. There's more engagement than like back in the day where you'd have to work on a program for months and months before you have any human interactions. Yep. So 95, right? Netwear, I remember Netwear used to be popular back in the day when I started too, especially in my Air Force days, 95, you got into the Cisco world, and then what was that kind of aha moment that made you want to go after the CCE, was that just like a career goal at that time? Would that help accelerate your career, or can you just share some key moments that you believe that really kind of accelerated your career? Right, so you actually, yes, they were actually a couple of seminal moments at that time,",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career",
+      "content_type": "Story",
+      "timestamp": "14:06 - 14:45",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP04_-_Interview_with_Data_Center_Solutions_expert_Loy_Evans_at_Cisco.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_24",
+    "text": "a couple of seminal moments at that time, and again, now this, remember, this is about 94, 95, right? And for our younger audience, it may seem hard to comprehend that this was the case, but when we turned up that the T1 on that, that 2500 router, it was kind of like, you know, that basically the flood of capabilities and information that came with that simple device connection, it was like, okay, this is gonna completely open up a very different thing, and it is going to shrink the world, right? And what's interesting was, I got confirmation of that, not too much longer after that, as I was actually on a support call, you know, like I think it was like the midnight 1 a.m., something like that at the time,",
+    "metadata": {
+      "domain": "IT",
+      "topic": "seminal moments",
+      "content_type": "Story",
+      "timestamp": "14:45 - 15:28",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP04_-_Interview_with_Data_Center_Solutions_expert_Loy_Evans_at_Cisco.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_25",
+    "text": "something like that at the time, and back in those days, that was very, you know, very early with Cisco, and they only had a couple of different tax centers, and I believe that it was only San Jose and Australia, were the only two, right? So that they could do, you know, around follow the sun, but they only had a few tax centers at that time. And I remember being on the phone at Lail, like one or whatever o'clock in the morning, talking to a lady from Australia, and I was sending her a show, basically a debug from, and this was back when the PIX firewalls were the very first version of those. Yeah, the 501s. Is it the 500 or this was called the Cisco PIX, there was no model number or anything like that.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Cisco PIX",
+      "content_type": "Story",
+      "timestamp": "15:27 - 16:14",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP04_-_Interview_with_Data_Center_Solutions_expert_Loy_Evans_at_Cisco.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_26",
+    "text": "there was no model number or anything like that. Yeah, yeah, yeah. Booted from a floppy, right? So again, dating myself, but I remember sending her some debug information, and within a second, she said, okay, I've got it. That was that kind of reaffirming thing that, okay, you know, massive reach communications are going to be, I think the next big thing, and again, this was a long time ago, kind of hard to imagine that people can think that, getting an email within seconds is a big deal. Back then it really was, right? I mean, you know, very, very people actually had access to instant access email and stuff like that, right? It's not as, was not as prevalent, but anyway, those two things were very close together",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Story",
+      "content_type": "Story",
+      "timestamp": "16:12 - 16:58",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP04_-_Interview_with_Data_Center_Solutions_expert_Loy_Evans_at_Cisco.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_27",
+    "text": "but anyway, those two things were very close together when it happened that I was like, you know what, this is something that I think is actually going to be a very significant change in how the world works. And so that was when I decided to, you know, go ahead and jump into the networking arena very heavily. And back in those days, there was no CCNA, CCNP, there was no, there was no certification of any kind, other than the CCI. Oh, wow, I didn't know that. Yeah, exactly. And so, you know, again, you know, the way that I looked at it was, you know, because I don't really have that, you know, back in those days, I didn't really have a learning map that could get us from zero to networking expert.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Networking",
+      "content_type": "Story",
+      "timestamp": "16:55 - 17:38",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP04_-_Interview_with_Data_Center_Solutions_expert_Loy_Evans_at_Cisco.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_28",
+    "text": "from zero to networking expert. So what I did was, okay, I'm going to just set a target of getting my CCI, but the main thing that I wanted to do was figure out how to build my learning map to go from zero to expert level. And that was the target that I use. So one of the things that I've actually mentored a number of people who have been working on their CCI certifications, and the number one thing that I always try to tell them is, especially if they go take it and fail, which is still a very high percentage of people, don't worry about the failure, because the number one thing that you should get out of this is not the certification in the number at the end. It should be the knowledge that you gain along the journey, right?",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Networking",
+      "content_type": "Story",
+      "timestamp": "17:36 - 18:15",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP04_-_Interview_with_Data_Center_Solutions_expert_Loy_Evans_at_Cisco.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_29",
+    "text": "It should be the knowledge that you gain along the journey, right? So to me, the journey is way more important than the actual certification. Now, obviously, the certifications are really good thing. It's a good resume builder, but the learning and knowledge you pick up along there, that is actually where the goal is. Absolutely true. I mean, one thing that I can't emphasize enough for our listeners, but also during my career journey is what I've learned is working on projects actually helped me the most. And it's gaining that practical hands-on experience. And as your point, if you're gonna go after that CCIe, that journey is so very important and it helps build upon your actual skill sets. Absolutely, absolutely.",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Career Journey",
+      "content_type": "Advice",
+      "timestamp": "18:12 - 18:56",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP04_-_Interview_with_Data_Center_Solutions_expert_Loy_Evans_at_Cisco.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_30",
+    "text": "Absolutely, absolutely. And that's one of the things that Cisco's actually done a pretty decent job at, which is you can't just memorize a bunch of questions and go get your CCIe certification, right? Exactly. And it's exactly what you're saying is being able to take that and practically apply the things you learn to actual delivery. That's a pretty big thing. And again, they're not the only ones, right? Back in those days, they were the only ones that had a practical certification, but nowadays, there's a lot of people, but again, it's not about memorization and getting a certification. To me, it's about learning a base of knowledge. And one of the things that I've heard people say",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Certification",
+      "content_type": "Advice",
+      "timestamp": "18:54 - 19:36",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP04_-_Interview_with_Data_Center_Solutions_expert_Loy_Evans_at_Cisco.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_31",
+    "text": "And one of the things that I've heard people say in the market is that, the CCIe is dead, the network engineer is dead, blah, blah, blah. I personally think because of that exact concept of learning the journey, learning the concepts of long mid-journey is worth so much more in the base knowledge of how things work, that even if you don't get to the actual certification, the things you learn along the way will always be helpful, right? Even if the network engineer job changes, right? Let's say that it's no longer a single switch in a command line interface. It's maybe multiple switches in a programming interface, but you still need to understand the networking concepts and the people who understand networking concepts",
+    "metadata": {
+      "domain": "IT",
+      "topic": "network engineer",
+      "content_type": "Story",
+      "timestamp": "19:33 - 20:21",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP04_-_Interview_with_Data_Center_Solutions_expert_Loy_Evans_at_Cisco.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_32",
+    "text": "and the people who understand networking concepts  are still gonna be very valuable over time, right?  Oh, absolutely.  The foundation, the building blocks, right?  That kind of sets your foundation on what's about to come  and what you're about to learn.  And I think you hit it on the head right when you said,  it's not about memorization.  I see so many students even that I mentor  or people that I run across in the industry  where back in 2000s, you can get a CCNA and CCNP  and you can land a pretty good paying job  as a network engineer without really too much experience.  But I mean, this day and age,  anyone can go memorize a pool of questions  or whatnot and just answer multiple question exam.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Networking",
+      "content_type": "Advice",
+      "timestamp": "20:18 - 21:02",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP04_-_Interview_with_Data_Center_Solutions_expert_Loy_Evans_at_Cisco.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_33",
+    "text": "or whatnot and just answer multiple question exam. I think that's the mentality people need to get out of is not just chasing that cert to get a job, but using that as a resume builder like you said, Lloyd, but actually finding out how you can build practical skills is key. One thing, can you shed some light on like, it's hard to get that CCN your first attempt. How many attempts did you take? Oh, it took me three. Okay, that's what you need to do. It took me three in average, yeah. Yeah, one thing I will say is that a lot of people today do have a benefit of being able to actually have lab gear available virtually. You can take boot camps and get prepped and stuff like that. Back in our day, sound like an old man.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Certification",
+      "content_type": "Story",
+      "timestamp": "20:58 - 21:44",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP04_-_Interview_with_Data_Center_Solutions_expert_Loy_Evans_at_Cisco.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_34",
+    "text": "Back in our day, sound like an old man. Back in, when I was taking it, there was no materials available. Matter of fact, the only materials you actually had that you could use was the, it was actually called the Cisco universe CD, which was actually a documentation CD and the command reference manuals for 10.0 and I think 11.0 may have just come out. I can't remember the exact time frame. And so there was nothing in the market to learn how to do this. So I literally went and took one of the exam tests just to find out what was physically in the lab, how it was connected and how you had to interact with it and what the questions were that they asked. So I went and took it and then I came back",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Old Days",
+      "content_type": "Story",
+      "timestamp": "21:42 - 22:23",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP04_-_Interview_with_Data_Center_Solutions_expert_Loy_Evans_at_Cisco.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_35",
+    "text": "So I went and took it and then I came back and basically built my own lab at the time and then went back and I missed the, on my second attempt, I missed the CCIE, I missed the troubleshooting because back in those days it was a two day test, right? A day of build and then another half day of build and a half day of troubleshooting. And so I missed the troubleshooting by like one point on my second attempt. Oh wow. My third attempt, I actually, I don't know what my actual number score was, but I had zero deductions going into troubleshooting. So with some perseverance and also learning from the experience of the previous times, I was able to continue to build my knowledge base",
+    "metadata": {
+      "domain": "IT",
+      "topic": "CCIE",
+      "content_type": "Story",
+      "timestamp": "22:21 - 23:03",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP04_-_Interview_with_Data_Center_Solutions_expert_Loy_Evans_at_Cisco.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_36",
+    "text": "I was able to continue to build my knowledge base and was able to knock it out. Well, as we talk about hands on and building labs and let's talk about projects, right? So what's the current or past project that you've worked on that really excited you in a lot of ways and why? Honestly, I can't really talk a lot about current projects. Customers are very particular about that. But one of the things that I can do is kind of, going in the way back machine and talk about the project that I did, believe we started it, early 2005, trying to remember the actual dates. But anyway, so there's a hotel in Casino in Balexia, Mississippi called the Hard Rock. And when they first built that building,",
+    "metadata": {
+      "domain": "IT",
+      "topic": "hands on",
+      "content_type": "Story",
+      "timestamp": "23:00 - 23:43",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP04_-_Interview_with_Data_Center_Solutions_expert_Loy_Evans_at_Cisco.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_37",
+    "text": "And when they first built that building, I was working for Bell South at the time. And they came in and essentially wanted a turnkey solution to put in all of the wired networking of the wireless networking, basically like Cisco Commander IPPBX. They wanted to integrate the touchscreen phones into a property management system. They wanted to do IP based video delivery and television. They wanted to do, I mean, basically the whole shooting match. And so, basically, I was at the time, I was really the only lead on Cisco equipment for a three-state region in Bell South at the time. And so, this is a pretty significant size project. I believe that the actual implementation time was, we did it in about 12 weeks.",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Story",
+      "content_type": "Story",
+      "timestamp": "23:40 - 24:29",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP04_-_Interview_with_Data_Center_Solutions_expert_Loy_Evans_at_Cisco.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_38",
+    "text": "was, we did it in about 12 weeks. Oh, wow. 12 weeks. And this was before Katrina, right? Because I remember it all on the news and they got little damage from old Grand Open. It wasn't a little damage. They actually lost the bottom three floors of the hotel. And that is actually one of the lessons that I got out of it is that, you know, this is what happened. The Katrina hit on the Monday. And I think it was August 29th of 2005. Their casino was set to open September 1 of 2005. We literally got the project in like 100% complete. There was maybe some buttons. So let's say maybe 99% complete. And when the state basically implemented what they call Contraflow, which for the people",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Project",
+      "content_type": "Story",
+      "timestamp": "24:26 - 25:14",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP04_-_Interview_with_Data_Center_Solutions_expert_Loy_Evans_at_Cisco.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_39",
+    "text": "what they call Contraflow, which for the people\nthat don't live in Hurricane Land,\nwhat that means is that traffic will only flow\naway from the Hurricane zone.\nSo they don't let anybody drive into a Hurricane zone.\nSo I had to basically tell all of the people\nthat we had working for us and working on my team\nand assisting our team.\nWe had to basically call it quits on the Saturday before.\nAnd so we basically lost quite a bit of time.\nAnd we were thinking, well, we got it really, really close.\nSo we'll just have a few button up items\nto finish when they open.\nWell, for those that may not remember, Hurricane Katrina\nactually took a turn to the east.\nAnd it actually made landfall.",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Hurricane Katrina",
+      "content_type": "Story",
+      "timestamp": "25:11 - 25:58",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP04_-_Interview_with_Data_Center_Solutions_expert_Loy_Evans_at_Cisco.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_40",
+    "text": "actually took a turn to the east. And it actually made landfall. The eye of the storm made landfall about 15 or 20 miles away from the hard rock casino. And when the water came in and came back out, it literally just, I mean, completely, you could drive up to the hotel from the front of it. You could see the Gulf of Mexico through the bottom three floors of the hotel. And so it was a complete loss. So we actually never were able to finish the project. So the data set was on the first turn. The data set was actually on the fourth floor. On the fourth floor. Yeah, it actually stayed intact. And what was interesting was two weeks later, we went back and they had a large number of the people",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Story",
+      "content_type": "Story",
+      "timestamp": "25:52 - 26:38",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP04_-_Interview_with_Data_Center_Solutions_expert_Loy_Evans_at_Cisco.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_41",
+    "text": "we went back and they had a large number of the people who were working at the casino. who were working at the casino. They had actually moved into the hotel. They were running off of generator. And they had network connectivity and all of the video distribution and phone for working in the hotel, which is extremely hilarious considering what they had gone through. But what was interesting was that they also, we're using that basically as a base of operations. And a lot of the people had moved some of their family in there because their homes had been completely destroyed. So it was an interesting time. But one of the things that I, you know, one of the lessons I got of that was that, no matter how good you do,",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Resilience",
+      "content_type": "Story",
+      "timestamp": "26:35 - 27:12",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP04_-_Interview_with_Data_Center_Solutions_expert_Loy_Evans_at_Cisco.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_42",
+    "text": "no matter how good you do, sometimes things are out of control, right? And so disappointments can happen and probably will happen, right? They're almost an inevitability. But you can still find value in the things that you do even in the disappointments. And that's awesome because I mean, you know, being on the Gulf Coast myself, I just moved up a couple years ago here at Atlanta, but living on the Gulf Coast, I remember when the hard rock opened, went there several times and the rooms were just fascinating because, you know, like I could actually dock my iPod and they just really like focused on technology and I could video conference with the front desk. And I remember it was just like very, very high tech.",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Disappointment",
+      "content_type": "Advice",
+      "timestamp": "27:10 - 27:51",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP04_-_Interview_with_Data_Center_Solutions_expert_Loy_Evans_at_Cisco.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_43",
+    "text": "And I remember it was just like very, very high tech. So that's awesome. You actually worked on that project. That was one of the early full hotel property management integrations in touchscreen phones. I had it to where you could, you know, check your bill, you could check in, check out, you can, well, actually not check in, but you could check out, you could order food, you could service, whatever. It's, yeah, everything from the interface on the phone. Wow. And you guys did so Cisco VoIP, right? For those that don't understand voice over IP and you've also incorporated video technologies and what else? Like the infrastructure I'm assuming was all Cisco and wireless as well. That's right.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Project",
+      "content_type": "Story",
+      "timestamp": "27:48 - 28:26",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP04_-_Interview_with_Data_Center_Solutions_expert_Loy_Evans_at_Cisco.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_44",
+    "text": "and wireless as well. That's right. Yeah, actually we had the only place we didn't have coverage across that hotel was inside the elevator shafts and that was one of the things that we were actually, we had pushed it to a lower priority item that we could come back to, but they wanted to be able to take a phone call from, you know, up in the hotel and actually stay on that call and get all the way down to the casino floor in the event that there was some sort of security issue or something like that. So that was the only thing that we didn't have covered over that whole block was inside the elevator shaft wireless. So yeah, we had quite a bit, the video distribution system was not a Cisco system, but we worked on, you know,",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Coverage",
+      "content_type": "Story",
+      "timestamp": "28:24 - 29:02",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP04_-_Interview_with_Data_Center_Solutions_expert_Loy_Evans_at_Cisco.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_45",
+    "text": "was not a Cisco system, but we worked on, you know, mapping out all the multi-cast networking capabilities so that you could watch TV or actually see video and demand or TV from any room across an ethernet network or a wireless network where required. So we did some really interesting stuff that back in 2004, 2005, you just didn't see that often. Gotcha. Now what was some other big lessons learned throughout that project? I'm sure there was a lot of planning in that phase and what really is crazy to me are insane is the rollout period. You said 12 weeks, that's pretty aggressive. It was extremely aggressive. So there was a couple things, I would say that, again, not necessarily technology based.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Project",
+      "content_type": "Story",
+      "timestamp": "29:02 - 29:50",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP04_-_Interview_with_Data_Center_Solutions_expert_Loy_Evans_at_Cisco.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_46",
+    "text": "again, not necessarily technology based.  I find that some of the biggest lessons that I learned  in working with technology is really all about people.  And one of the things that I learned is, you know,  I kind of went into that project thinking, you know,  I can do all of this, you know, on my own  with just a little bit of help.  And one of the things that I learned is that  that there is nothing more untrue than the internal lie  that most people tell themselves that they can do it.  You know, they can do it on their own, you know, things like that.  And you know, you have to be able to learn how to work with people.  And when you work with those people, especially when you work  on an intense project like that,  one of the things you have to learn is,",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Working with People",
+      "content_type": "Story",
+      "timestamp": "29:47 - 30:31",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP04_-_Interview_with_Data_Center_Solutions_expert_Loy_Evans_at_Cisco.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_47",
+    "text": "one of the things you have to learn is, how to identify people you can trust, when you can trust them, right? When they have built up that level of trust and when you do, you need to learn how to let go and trust them intensely and make sure that they know that you trust them, right? Basically, a lot of it comes down to giving them control and giving them flexibility to make the decisions that they think are right and let them go with it, right? So that's a very tough lesson for me to learn through that process because, you know, if anything had ever gone wrong before that, I was willing to just go ahead and step in and just take care of it instead of letting a person, you know, do their own thing, right?",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Trust",
+      "content_type": "Story",
+      "timestamp": "30:30 - 31:08",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP04_-_Interview_with_Data_Center_Solutions_expert_Loy_Evans_at_Cisco.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_48",
+    "text": "you know, do their own thing, right? So, you know, that was an interesting lesson. The other one is 12 weeks and it was 12 weeks, six to seven days a week during the implementation phase. And I was willing to take that on. One of the things that I also learned is that no matter what you do or how you do it, you need to make sure that you consider what your personal life is, you know, before, during and after, things like that. And it was something that I, you know, again, I think I probably would have pushed for, you know, a little bit different delivery timelines or maybe would have pushed for more higher level assistance early on in the project because I spent a lot of time away from home during those days",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Personal Life",
+      "content_type": "Story",
+      "timestamp": "31:06 - 31:48",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP04_-_Interview_with_Data_Center_Solutions_expert_Loy_Evans_at_Cisco.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_49",
+    "text": "because I spent a lot of time away from home during those days and I had two very small kids at the time. So, if it didn't kill you, it makes you stronger in this case. It definitely made me more aware of, you know, the decisions that you make in work and how they can, you know, directly impact, you know, personal life, right? Now, nothing negative happened. It was just, you know, it forced me to, you know, kind of reevaluate a little bit of what priorities should be. Well, thanks for sharing, Lloyd. It seems like a very, that was a very interesting project in your timeline and show you've worked on plenty more projects. Now, what would you say? I mean, do you have any like keys to success?",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Keys to Success",
+      "content_type": "Story",
+      "timestamp": "31:45 - 32:24",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP04_-_Interview_with_Data_Center_Solutions_expert_Loy_Evans_at_Cisco.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_50",
+    "text": "I mean, do you have any like keys to success? Let's say daily or weekly rituals that kind of helped you become successful in your career? I wouldn't say that I'm actually really a big, I don't pay attention to specific rituals, right? I may have some, you know, I try to keep a, to do list and I try to make sure I check things off and stuff like that. But to me, I think it's actually a little bit more of, maybe more of a, a, a neural type of thing to keep in mind is to me, I think that having empathy is gotta be one of the things that every engineering focused person should keep in mind because as engineers, we typically try to look at things technically and, and myopically, whereas if, if you can look at it",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Success",
+      "content_type": "Story",
+      "timestamp": "32:21 - 33:04",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP04_-_Interview_with_Data_Center_Solutions_expert_Loy_Evans_at_Cisco.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_51",
+    "text": "whereas if, if you can look at it from a human perspective and have empathy for what you're trying to do or what they're trying to get out of it, then essentially, if you look at it like that, you can kind of understand, or at least try to understand, what the people you're working with or working for are trying to get, you know, what they need to get out of the project or the interaction that you're going through. And with that empathy, try to put yourself into their shoes. Once you, you can gain a bit of empathy from that, you know, that different lens, I find that it actually makes communications so much better, right, and, and from that communications being better, it's a lot easier to build a relationship.",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Empathy",
+      "content_type": "Advice",
+      "timestamp": "33:02 - 33:46",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP04_-_Interview_with_Data_Center_Solutions_expert_Loy_Evans_at_Cisco.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_52",
+    "text": "it's a lot easier to build a relationship. And, you know, I will say that that's something that, again, engineering people don't typically keep in mind as a number one. They maybe make that a number five or number 10 priority. I personally think it needs to be number one at all times. Oh, I love it. I'd never thought about it that way. I mean, Louis, yeah, I can really relate to that, like just trying to always put yourself in someone else's shoes, right, on a emotional level. That is awesome. Now, what are some things you do to keep up with technology, you know, with all this ever-fast changing environment, they really help build mastery, let's say, in your particular skill sets?",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Relationship",
+      "content_type": "Advice",
+      "timestamp": "33:44 - 34:20",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP04_-_Interview_with_Data_Center_Solutions_expert_Loy_Evans_at_Cisco.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_53",
+    "text": "in your particular skill sets? So I try to read, you know, something every day, right? You know, time doesn't always work out well for that, but, you know, I follow a number of people in the industry on Twitter, and I try to, you know, aim for, you know, let's call them maybe CTO, you know, tech executives levels and try to see what it is that they find interesting. And I try to read through some of the things, and, you know, if there's something, you know, some little nuggets of things that are in the blogs or the articles or the, you know, documents that they post about, I try to go gain a little bit of knowledge from that as to what people outside of my lens are doing and how they're doing it, right?",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Reading Habits",
+      "content_type": "Advice",
+      "timestamp": "34:18 - 35:05",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP04_-_Interview_with_Data_Center_Solutions_expert_Loy_Evans_at_Cisco.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_54",
+    "text": "and how they're doing it, right? So I don't have any one go-to thing, but, you know, typically Twitter is where I, you know, will look and see what other people are talking about, and then I'll try to follow that through, right? Whether it's a Google search for, you know, relevant information or if somebody posts a blog or an article or something like that, I'll try to go in and kind of, you know, see what, what those things are, are that they're talking about. And I typically will look at, you know, I know a lot of what our company does. I typically try to go look at what other companies are doing, right? So, you know, maybe, you know, the CTO for Cisco, you know, if you don't work for Cisco, he might be an interesting person to just see",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Research",
+      "content_type": "Advice",
+      "timestamp": "35:04 - 35:45",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP04_-_Interview_with_Data_Center_Solutions_expert_Loy_Evans_at_Cisco.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_55",
+    "text": "he might be an interesting person to just see what he's talking about, right? I find that, you know, if I can think about kind of where the industry is going and go follow, like the CTOs and the, you know, chief scientists and stuff like that for those different types of companies, like what, you know, different companies do from an application level, what they do from, you know, how they build their applications, how they support those with networking and infrastructure and things like that. Those are the kind of things that the more you look at what other people are doing, the more it opens your mind to, okay, well, this is how we do it. Maybe we can do it a little differently, right? Right, great insight.",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Industry",
+      "content_type": "Advice",
+      "timestamp": "35:42 - 36:18",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP04_-_Interview_with_Data_Center_Solutions_expert_Loy_Evans_at_Cisco.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_56",
+    "text": "Right, great insight. What's your favorite tool, let's say, or application that you can share with our listeners? Truthfully, I don't really, I mean, you know, tools and, you know, books and websites and stuff like that, they're all very valuable, but, I mean, they'll come and go, right? So to me, my, to me, the most important tool of my bag is my ears. You know, listening to people and understanding and doing the best that you can to understand what they're needing, what they're looking for, what they want, listening has become an extremely difficult to understand, lost art. And I find that I gain so much more from what people are talking about if I just listen, but not just, you know, not just listen,",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Effective Listening",
+      "content_type": "Advice",
+      "timestamp": "36:16 - 37:01",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP04_-_Interview_with_Data_Center_Solutions_expert_Loy_Evans_at_Cisco.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_57",
+    "text": "but not just, you know, not just listen,\nbut listen to try to see what it is\nthat they're saying beyond their words.\nAnd if I don't understand it, ask and listen again, right?\nThere's an old saying that, you know,\nwe have two ears and one mouth\nand we should use them in that proportion.\nAnd I do happen to think that that's actually\nan extremely strong part of what we should do.\nAgain, you know, I mean, let's be honest.\nLet's say that you don't understand how to do something\non a switch or a router or a computer or in a, you know,\na VM, you can Google how to do the technical things, right?\nI mean, I do think that, you know, the more you learn,\nthe less you have to Google, right?\nBut understanding what the goals are",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Effective Listening",
+      "content_type": "Advice",
+      "timestamp": "37:01 - 37:46",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP04_-_Interview_with_Data_Center_Solutions_expert_Loy_Evans_at_Cisco.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_58",
+    "text": "But understanding what the goals are will actually tell you, you'll build your roadmap for what the technical tools are that you're gonna need and what the technical aspects are that you'll have to deliver, right? Now, I don't, you know, don't take that to say that, you know, okay, everybody can do this and just Google it and start, you know, hacking away. No, that's not what I mean. The main thing is though, learn, listen and understand what you need to do and then, you know, build your tool sets based on what that is. Yeah, I love it. It boils down to this basic fundamental, right? Like you said, listen and then listen beyond the words. I love it. What book would you recommend to S, D, Nation and why?",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Goals",
+      "content_type": "Advice",
+      "timestamp": "37:41 - 38:21",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP04_-_Interview_with_Data_Center_Solutions_expert_Loy_Evans_at_Cisco.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_59",
+    "text": "I love it. What book would you recommend to S, D, Nation and why? Honestly, you know, I can't say that I've got any one book that I would say, you know, is, I mean, if you are getting into networking from, you know, from the beginning, this goes again way, way back, but there's a book called Interconnections by Radea Perlman and that's probably one of the most consistent things that explains how Ethernet forwarding works. That's a, I mean, to me, that's a Bible that most people should have. But again, there's so many different books and resources out there. There's a ton of, you know, websites and blogs that you can follow. There's a lot of really good information out there.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Networking",
+      "content_type": "Example",
+      "timestamp": "38:18 - 38:58",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP04_-_Interview_with_Data_Center_Solutions_expert_Loy_Evans_at_Cisco.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_60",
+    "text": "There's a lot of really good information out there. If you're, you know, if you're my proficient with Google and willing to sit down and kind of follow the rabbit down the rabbit hole. But yeah, if I had to recommend just one book, it would probably be that one. Now, as the world is changing, protocols are maturing, you know, interconnections may be a little less important over the years, but we still have a spanning tree-based network and probably, I'd say, 75% of the implementations across the world. So that one is still very, very relevant today. OK, well, thanks for sharing. Now for the tech lesson of the day, folks, so tell us, Lloyd, what will we be learning today?",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Protocols",
+      "content_type": "Story",
+      "timestamp": "38:56 - 39:34",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP04_-_Interview_with_Data_Center_Solutions_expert_Loy_Evans_at_Cisco.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_61",
+    "text": "so tell us, Lloyd, what will we be learning today? Well, so I'm going to, again, kind of go a little bit high level. And to me, there's not really a specific technology that I want to cover. The main thing that I want to talk about, and I mentioned it a little earlier, that if you look at blog postings, and especially if you read articles from the register or SDN news, or any of the ZIF Davis publishing or gardener or something like that, you're going to hear things like, oh, the CCIE is worthless. The network engineer is dead. There will be no more jobs for network engineering. I personally think that all of that is just completely incorrect. Now, the one thing that I personally think is that today,",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career",
+      "content_type": "Advice",
+      "timestamp": "39:31 - 40:21",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP04_-_Interview_with_Data_Center_Solutions_expert_Loy_Evans_at_Cisco.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_62",
+    "text": "Now, the one thing that I personally think is that today, you may buy a device, and it comes shipped with the CLI, and you'll basically boot it up. You'll jump into a black, you know, looks like maybe an old green screen, right, black with green text or something like that. And you'll just start, you know, hitting command line back command line and building things, you know, from the ground up. I do happen to think that that type of tool set will probably start changing. Today, you actually have a simple CLI per device, whereas I think that where we are going to end up going over time is probably instead of individual devices with simple CLI, you're probably going to be seeing more complex fabric type networks",
+    "metadata": {
+      "domain": "IT",
+      "topic": "CLI",
+      "content_type": "Story",
+      "timestamp": "40:17 - 41:04",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP04_-_Interview_with_Data_Center_Solutions_expert_Loy_Evans_at_Cisco.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_63",
+    "text": "to be seeing more complex fabric type networks  with multiple switches, with a kind of a centralized or uniform interface for management.  And that may be, you know, CLI more likely, it's probably going to be some level of scripting, or programming, or something like that.  But things, I think the tool sets that we are going to use in a networking environment are going to change significantly  over the next, so let's say five years.  So what I would say is that, you know,  if you don't know how to do it,  I would say go start learning a programming language of some sort.  You don't have to become a world class coder,  but you can actually learn enough to understand how the data models work and how to manipulate things",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Networking",
+      "content_type": "Advice",
+      "timestamp": "41:00 - 41:47",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP04_-_Interview_with_Data_Center_Solutions_expert_Loy_Evans_at_Cisco.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_64",
+    "text": "how the data models work and how to manipulate things  within those programming languages.  And then start learning how the devices,  because almost every networking device  that are being built today, have give you the ability  to use a CLI, or use some sort of application  programming interface.  And if you're not aware, that's what API stands for.  And in API, essentially what that does  is it's an abstraction layer that allows you  to use different types of tools to drive configuration  on those devices.  So whether you go learn Python, which, you know,  if I would give somebody a tip of, you know,  if you want to just focus on one thing, right?  Which is, I know that it would be very easy  to get paralysis by analysis by trying",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Networking",
+      "content_type": "Story",
+      "timestamp": "41:44 - 42:31",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP04_-_Interview_with_Data_Center_Solutions_expert_Loy_Evans_at_Cisco.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_65",
+    "text": "to get paralysis by analysis by trying  to figure out what programming language should I learn,  and, you know, et cetera, et cetera. I think Python would learn. Yeah, Python is a perfect one,  because from an infrastructure automation perspective,  it is used in a ton of different tools, right?  Or it is used by a ton of different tools.  And so learning that, you can learn how  to manipulate infrastructure with Python.  And you can also, if you wanted to,  you can take that into a full application, right?  So you can actually go right full applications  at Python.  So now, again, that doesn't mean you have to,  but it is a flexible programming language  that allows you to utilize the native capabilities",
+    "metadata": {
+      "domain": "IT",
+      "topic": "python",
+      "content_type": "Advice",
+      "timestamp": "42:29 - 43:10",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP04_-_Interview_with_Data_Center_Solutions_expert_Loy_Evans_at_Cisco.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_66",
+    "text": "that allows you to utilize the native capabilities  in some of the equipment that you're going to use,  and learn how to do something other than  the command line interface.  So, you know, that's one thing that I would say, you know,  and, by the way, there are a ton of freeware courses out there.  There's actually a website called Coursera.  There's one called You To Me.  There's another one called, oh, shoot.  I can't remember the, the...  Audacity is another one, to have a...  Audacity, there's another coding when...  I can't remember the name of that one.  Maybe I'll come back to it later.  But there's a number of things.  Just go on Google and search for basically free programming,  or free Python programming class.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "free programming",
+      "content_type": "Advice",
+      "timestamp": "43:06 - 43:46",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP04_-_Interview_with_Data_Center_Solutions_expert_Loy_Evans_at_Cisco.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_67",
+    "text": "or free Python programming class. And I can guarantee you'll get more than 10 responses. And just go in and get started, right? And you learn about the structure of the language and things like that. Then go in and don't be afraid of learning how to interact with a device with an API. There's also another tool called Postman. You can actually get it. Postman is a rest API client for Chrome. You can get a rest API client for Firefox. You can get, you know, a number of different rest API clients that essentially allow you to very simply get started with understanding how to programmatically interface with a piece of equipment with an API client that you have for Chrome or Firefox or whatever.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Python",
+      "content_type": "Example",
+      "timestamp": "43:44 - 44:33",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP04_-_Interview_with_Data_Center_Solutions_expert_Loy_Evans_at_Cisco.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_68",
+    "text": "that you have for Chrome or Firefox or whatever. You can actually literally do programming without ever writing a single line of code. All you have to understand is, you know, what the IP address the device is and what the API structure is to trigger something, right? And the documentation typically will have it spelled out fairly easy. And go in and, you know, let's say that you wanted to go in and just do maybe a no-shot on an interface. There is actually an API command for that. You can go in and understand what that API command is and that API client basically will construct for you. URL are really a URI that when you post it or when you, you know, when you do a Git or a post of that URI, you will actually see",
+    "metadata": {
+      "domain": "IT",
+      "topic": "API",
+      "content_type": "Example",
+      "timestamp": "44:29 - 45:17",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP04_-_Interview_with_Data_Center_Solutions_expert_Loy_Evans_at_Cisco.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_69",
+    "text": "or a post of that URI, you will actually see that it's doing the same thing that you used to do with the CLI when you went in and said, config T interface, ethernet one, no-shot, right? Then there is an API command set, structure, for doing exactly that and start learning, right? So if you know, every time I set up a switch, I do these 50 commands, right? Whatever that is. I say maybe it's only 10 commands, maybe it's only 20, whatever it is. Go in and figure out how to map that into an API and go write a script for it. Go write a Python program for it. Go build that whole structure into one URI command or a handful of URI commands and use it in your that REST API client. Just get started, right?",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Automation",
+      "content_type": "Advice",
+      "timestamp": "45:14 - 46:01",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP04_-_Interview_with_Data_Center_Solutions_expert_Loy_Evans_at_Cisco.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_70",
+    "text": "in your that REST API client. Just get started, right? Just start using those new tools because the more exposure you have to that, the more prepared you're going to be for what the next wave of things is which is going to be a lot more programmatic and automated network infrastructure. I love it. Thanks for sharing, Lloyd. Anything else you want to add onto this lesson? I think to me, the biggest thing is whether, whether you're talking about technology or protocol or tools or anything like that, all of these things will kind of ebb and flow and come and go and they'll change over time. But the biggest thing that I think that people need to figure out how to master is people, right?",
+    "metadata": {
+      "domain": "IT",
+      "topic": "API client",
+      "content_type": "Story",
+      "timestamp": "45:57 - 46:40",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP04_-_Interview_with_Data_Center_Solutions_expert_Loy_Evans_at_Cisco.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_71",
+    "text": "that people need to figure out how to master is people, right? People are some of the most biologically and technologically complex machines in the world. That is something that you've got to figure out how to work with people and working with people in a technology environment is actually going to make you more successful than just learning another protocol. Well, Lloyd, I really have truly enjoyed listening to your journey, your insights, and appreciate you teaching us how the network engineer might change within the next five years and to help prepare us and what to expect and how can we get started? Absolutely. Well, thanks a lot, Lloyd. Appreciate your time. This Rockstar SE class has ended,",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Leadership",
+      "content_type": "Story",
+      "timestamp": "46:34 - 47:19",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP04_-_Interview_with_Data_Center_Solutions_expert_Loy_Evans_at_Cisco.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_72",
+    "text": "Appreciate your time. This Rockstar SE class has ended, but there's more ways to propel you on your ideal IT engineer journey. Head over to rockstarse.com for show notes and be sure to sign up for our mailer. This will give you exclusive access for some amazing free content to help you level up and accelerate your career. We appreciate you joining us and look forward to helping you learn, focus, and succeed next time on Rockstar SE.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "IT engineer",
+      "content_type": "Story",
+      "timestamp": "47:12 - 47:41",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP04_-_Interview_with_Data_Center_Solutions_expert_Loy_Evans_at_Cisco.mp3",
+      "source_type": "Podcast"
+    }
+  }
+]

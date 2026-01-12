@@ -1,0 +1,338 @@
+[
+  {
+    "chunk_id": "chunk_1",
+    "text": "Each week we provide tech lessons, answer questions, and bring you interviews of the most successful engineers and thought leaders working in the IT space across technologies like Data Center, Cloud, Networking, Collaboration and Security. Listen in as you'll gain insights, strategies, tips, and more to help you level up along your journey in becoming a Rockstar SE. So let the class begin! Alright, as the nation, let's get started! I am super excited to introduce my guest today, a good friend of mine, Jacob Hess. Jacob's been in the IT industry going on 15 years now, and he got his start just like I did in the US Air Force, where he was a network engineer and technical trainer. Since then, he's worked across numerous verticals as a systems engineer before co-founding NextGen in Academy for IT training.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "IT space",
+      "content_type": "Example",
+      "timestamp": "00:00 - 00:55",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP07_-_Interview_with_Jacob_Hess_-_CoFounder_of_NexGenT.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_2",
+    "text": "Hey Jacob, what's going on my man? It's great to be on with you, and hello SE Nation, it's great to be on the show, been looking forward to it. So Jacob, since I've given our listeners an overview, please take a minute and tell us a little more about yourself, such as where you're from, current role and hobbies. So I'm originally from a little town called the Beta Springs in Louisiana, which is a small historic and kind of an artsy town that lies just north of New Orleans across a lake called Lake Ponsha Train. And they're known for their water and for beer. So they make a beer called a Beta Beer, that's a local brewery, where I used to actually walk directly past a brewery on my way to school whenever I was a kid. Currently, I'm a co-founder of a sweet new IT training company called NextGen with you, my manager, Kim.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Company",
+      "content_type": "Story",
+      "timestamp": "00:55 - 01:42",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP07_-_Interview_with_Jacob_Hess_-_CoFounder_of_NexGenT.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_3",
+    "text": "And you know, it's really great to be able to work on two things that I'm super passionate about, which is training and also IT, technology. But to give you guys a little more insight into my roles and engineer, and my most recent corporate job, I was actually a systems engineer, where I worked for a really great reseller and consulting company, which was called TechLinks. So they are worked with some really extremely talented engineers. I did pre-sales, design, and implementation of Cisco-based networks. And there I specialize in doing projects related to route switch, security, and voice, and also did break-fix troubleshooting for around 100 companies. So that's my most recent role, and regarding my hobbies, I like to play with technology, and really I consider myself a PC enthusiast.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career",
+      "content_type": "Story",
+      "timestamp": "01:42 - 02:27",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP07_-_Interview_with_Jacob_Hess_-_CoFounder_of_NexGenT.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_4",
+    "text": "So I love tricking out PCs and tinkering with technology. And I also really did spiritual kind of things, like meditation, yoga, and trying to give back. And for the past year, I've actually been volunteering a lot of my time to the food for life on the Gulf Coast. Well, awesome, Jake. Thanks for sharing. I enjoy beer from Abida as well. Purple haze, right? I love that beer that comes out of that town. Yeah, that's definitely one of the most popular ones. Now, before we start into kind of your journey, let's talk about your favorite quote, and let us know why you want to share that one in particular. Okay. So my favorite quote actually has to do with learning, but not really in the regard that you would think. The quote is, this world is your best teacher. There's a lesson in everything. There's a lesson in each experience. Learn it and become wise.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Technology",
+      "content_type": "Story",
+      "timestamp": "02:28 - 03:21",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP07_-_Interview_with_Jacob_Hess_-_CoFounder_of_NexGenT.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_5",
+    "text": "And that's a quote by Swami Sivananda. And the reason why I chose that is because yes, it's about teaching, but it's that every single experience that you have is really a teacher and you can learn from every single thing that you do in your life. So, you know, life is an ongoing journey of learning. So just march forward and give it your best. I love it. Thanks a lot. Now, take us back in time. How did you start your journey in IT? So I became interested in working with technology really through my use of computers when I was a kid and my interest in gaming and the internet related things. That's what really got me started. The first time I opened a computer was to install a new DSL modem. And that's back when you would actually have to take the computer apart and put the DSL modem into a PCI slot on the motherboard, just like you used to do with old 56 K modems.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career",
+      "content_type": "Story",
+      "timestamp": "03:21 - 04:11",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP07_-_Interview_with_Jacob_Hess_-_CoFounder_of_NexGenT.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_6",
+    "text": "And that was actually a network related thing. So, you know, maybe that was telling of my future career. I also did a hardware mod, etc. for like gaming and PC modding. But career wise, I actually got my start through the United States Air Force back in 2001. So I joined the Air Force as a computer network and cryptographic systems technician and ended up working on some pretty sweet networks. So that's how I got started. Okay, awesome. So did you start right into a network tech or engineer job? Tell me more about the actual role. What did you do on a daily weekly basis when you just started?",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career",
+      "content_type": "Story",
+      "timestamp": "04:11 - 04:48",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP07_-_Interview_with_Jacob_Hess_-_CoFounder_of_NexGenT.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_7",
+    "text": "My first station actually was Arieth Lake and Heath in England. And I did some support on the communications network for the fighters squadron. So I was a network technician really. I think my title was network management technician when I first started there. So I worked on the base network, which was a campus network. So a massive switch network. Awesome. Now, what were some key moments for you that accelerated your career looking back in time? So joining the Air Force was really great. It helped me really find my career. So that was one kind of key moment. Another one was whenever I became a minute instructor. So that's where I learned that really I enjoyed training. And you know, I trained network engineers. And I learned that I really enjoyed teaching technology.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career",
+      "content_type": "Story",
+      "timestamp": "04:48 - 05:32",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP07_-_Interview_with_Jacob_Hess_-_CoFounder_of_NexGenT.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_8",
+    "text": "So that was really pivotal. And one really big one that really accelerated me personally as a systems engineer was when I joined a value-rated reseller and that was tech links. So when I joined tech links, it really skyrocketed my ability as an engineer forced me to come really good at my job. And you know, to get things done and it made me much better engineer. Okay, let's kind of elaborate more on kind of how it helps you get things done. Talk a little more about that. So I think anybody who works at a value-rated reseller or a consulting company gets basically pressed to do projects and to finish things and fix problems very quickly. So what that helps you do is to learn how to become really resourceful.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career",
+      "content_type": "Story",
+      "timestamp": "05:32 - 06:16",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP07_-_Interview_with_Jacob_Hess_-_CoFounder_of_NexGenT.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_9",
+    "text": "So how to fix things fast, how to find the answers fast, how to you know, create a project plan or a statement of work, how to make sure that you're doing all the right things that you need to do to be a good engineer because you need to be a good engineer. And you need to be a good engineer that works fast. And that just really makes you become better in all areas. Okay, perfect. Now let's talk about a current or past project you worked on that really excited you the most and why. So there's so many interesting projects. I'd actually like to talk about three. Is that okay, Terry, if we do that. Yeah, go right ahead. So I won't spend too much time, you know, I'll go through them pretty quick, but I have three that I really like. So I wanted to start by kind of going way back to where we did an uplift of the entire Air Force Base. Now that was whenever I very first got started.",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Engineering",
+      "content_type": "Advice",
+      "timestamp": "06:16 - 07:02",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP07_-_Interview_with_Jacob_Hess_-_CoFounder_of_NexGenT.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_10",
+    "text": "So it was my first year as being a network technician. And I was involved with an upgrade of a campus area network, which had many, many nodes. I forget how many, but there was about like eight eight distribution layer switches and two core switches and then you know all your access switches. So you can think of a pretty big campus. So the actual project was an upgrade from ATM to ethernet across the entire base. And so we ended up installing a couple 65 13s at the core and we had catalyst 4500s at the distribution layer. And then we had a mix. I think we had some 2950s actually. No, this is back when 2950s were relatively new. And those were all of our access switches. And it was an exciting project because I was able to work shoulder to shoulder with some top level Cisco engineers right whenever I got started.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Network Upgrade",
+      "content_type": "Story",
+      "timestamp": "07:02 - 07:46",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP07_-_Interview_with_Jacob_Hess_-_CoFounder_of_NexGenT.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_11",
+    "text": "So it was really cool to be my first year doing that. Another project that I enjoyed working on was a lot more recent. And this one I wanted to explain because it really speaks to the power of cloud networking. So this particular project I did was a core network uplift and a 50 site firewall rollout. So 50 firewalls I had to install. Now in this project, we chose to use Cisco, Marock and exoplanets. So it was really awesome because it was so simple to actually deploy these firewalls. And even though that was 50 locations, we could do it quickly because I just did all the configurations in the cloud. And then we could just take the firewall and go plug it in at that site or whatever site it was one of the 50 sites. And it would just pull it to config down and then do the Marock auto VPN, which is a really awesome feature.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Cloud Networking",
+      "content_type": "Story",
+      "timestamp": "07:46 - 08:31",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP07_-_Interview_with_Jacob_Hess_-_CoFounder_of_NexGenT.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_12",
+    "text": "And so the VPNs would just come right online and I could just see everything in the cloud connecting. So it made that project really easy to be doing it with the cloud networking technology that Marock has. So that was the second one. And the last project I wanted to mention was something that was just really cool and interesting. It was a dual-homed ASR router implementation where we had full internet routing tables with redundant carriers. And I got to set up Cisco performance routing to balance out the BGP tables. And really it was just an overall fun project. So those are the three. Nice. Yeah, I'm a big fan of Cisco Marocky myself working at Cisco. I was kind of a evangelist when Cisco acquired Marocky. It was just awesome technology, right? Simplifying configuration all in the cloud.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Cisco Marocky",
+      "content_type": "Story",
+      "timestamp": "08:31 - 09:22",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP07_-_Interview_with_Jacob_Hess_-_CoFounder_of_NexGenT.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_13",
+    "text": "Simplifying configuration all in the cloud. Now, what were some biggest lessons learned throughout these projects that you want to share? So this is kind of going to apply to really all the three projects that I just mentioned and really any project that I've done in my career or been involved with. And it's that planning is essential, but plans are essentially useless. So the message here is that you have to make plans. And in the world of IT systems engineering, you need to make actually very detailed plans. But when it comes actually to executing the project, there's always things that we encounter that we couldn't plan for. So this makes us actually be resourceful and think in our feet. But what it also means is that our plans need to be flexible.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Project Planning",
+      "content_type": "Advice",
+      "timestamp": "09:19 - 10:03",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP07_-_Interview_with_Jacob_Hess_-_CoFounder_of_NexGenT.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_14",
+    "text": "But what it also means is that our plans need to be flexible. And as a systems engineer, we have to consider this in our project as overhead so that we have time allocated for the unknowns because we will always encounter unknowns. Okay, perfect. Now, do you have any daily or weekly rituals that have helped you to become successful? Yes, I think the two most important things are exercise when you can and get good sleep. And time and time again, these for me have proved to be like hugely impactful on what I'm able to accomplish and then how good I feel while I'm doing it. Because ultimately I want to feel good on a daily basis and I want to accomplish things. So exercising, getting good sleep, super important. Yeah, it's just simple as it sounds, but it's super, super important guys.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Project Planning",
+      "content_type": "Advice",
+      "timestamp": "10:00 - 10:44",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP07_-_Interview_with_Jacob_Hess_-_CoFounder_of_NexGenT.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_15",
+    "text": "Yeah, it's just simple as it sounds, but it's super, super important guys. Now, what are some things you do to keep up with technology that kind of helps build mastery in a particular skill or maybe trying to learn something new? So really if you work at a var or a consulting company, you're always going to have new things to work on and that's constantly going to challenge you to master your skills. So if I was going to answer this question and kind of an advisory role, I would say I really think getting a job with a var is a good way to level up. But I also recommend to build a lab at your house. So I think having a home lab that you can tinker with and practice new skills and interest on is really great for you to be able to gain new skills and help with mastery and also just to help with your love of technology.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career Advice",
+      "content_type": "Advice",
+      "timestamp": "10:40 - 11:26",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP07_-_Interview_with_Jacob_Hess_-_CoFounder_of_NexGenT.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_16",
+    "text": "Oh, yeah, perfect. Like in a previous interview, we talked about different virtualization kind of simulation tools out there, right? And today's day and age is very resource for for students. What's kind of your favorite simulation tool? So if you're just getting started, I think Cisco packet tracer is a really good one. You know, recently they made it available to everybody. You just have to sign up on their website with Cisco Networking Academy. But Cisco packet tracer allows you to build a pretty big network with very minimum kind of requirements on your computer. So you can do a lot of good stuff. Now it doesn't have the full command sets available, but it has enough that you can actually learn and build decent size networks.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Virtualization",
+      "content_type": "Example",
+      "timestamp": "11:26 - 12:10",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP07_-_Interview_with_Jacob_Hess_-_CoFounder_of_NexGenT.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_17",
+    "text": "There you go, guys, that's perfect. Right. So no excuses. You heard it from Jacob. Just get packet tracer for free and off you go. Now what's your favorite tool application or website you want to share with our listeners. So here's something that is more cool. It's also useful, but I just find it to be just really, really kind of a cool thing. And that's the Cisco 3D interactive catalog. They work with this company called Kion that does 3D modeling. That's K-A-O-N. And what they've done is created a catalog of Cisco gear where you can spin the gear around in three dimensions. You can look closely zoom in and see the little details with the gear. You can also pull cards out. So you can physically pull out the line cards, well, it's virtual because it's a virtual thing. It uses the web or an app.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Tools",
+      "content_type": "Example",
+      "timestamp": "12:10 - 13:00",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP07_-_Interview_with_Jacob_Hess_-_CoFounder_of_NexGenT.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_18",
+    "text": "But you can pull out the line cards in the router or switch and see all the details inside of it. So you can get there by going to m.kion.com slash c slash c s. And I'll give you that link, Terry, but that's the Cisco 3D interactive catalog. Okay, well awesome. Yeah, we'll put that into show notes, guys. Now what book would you recommend to S.C. Nation and why? Well, since we have a lot of probably new and up and coming routes with guys, I wanted to recommend something that's useful in your home labs and also in the field. It's kind of basic, but it actually covers a lot of stuff. It's actually two Cisco handbooks from Cisco press. So they cover entry level basic configs for routing and switching and some of the most common and popular configurations as well.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Cisco",
+      "content_type": "Example",
+      "timestamp": "13:00 - 13:49",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP07_-_Interview_with_Jacob_Hess_-_CoFounder_of_NexGenT.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_19",
+    "text": "So those two handbooks are the Cisco router configuration handbook and the Cisco LAN switching configuration handbook. And for both of these, you want to make sure you're getting the second edition, which is the most recent one. And they also come in Kindle version. So you can have them on your tablet. And again, they'll help you with ISR routers, catalyst switches for your home labs because you'll probably be using those type of devices in your home labs. But it's also useful in the field. So new route switch guys. I think those are some great, some great ones. Perfect. Now for our tech lesson of the day. So tell us Jacob, what will we be learning today? So we'll be talking about something really classic to networking that spanning tree protocol. I'll talk about what it is and also cover three important points regarding spanning tree.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Cisco Routers",
+      "content_type": "Example",
+      "timestamp": "13:49 - 14:38",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP07_-_Interview_with_Jacob_Hess_-_CoFounder_of_NexGenT.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_20",
+    "text": "Guys, this is so important throughout your whole career. This will be tested over and over and over again. So Jacob, thanks for bringing this to our listeners. Go ahead and let's get started. Okay. So spanning tree protocol, it's IEEE 802.1D. Then we also have a rapid spanning tree protocol, which is 802.1W. So spanning tree protocol, we'll just say this. I'm not going to refer to the IEEE standards anymore, but I just wanted to mention what they are. So spanning tree protocol is used for switched network loop avoidance. So whenever you have two switches and you place one connection between them, there is no loop between those switches. There can't be. There's only one connection. But as soon as you add a second cable or redundant connection between those switches, well now you have two connections between those switches and there's a possible loop.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Spanning Tree",
+      "content_type": "Example",
+      "timestamp": "14:38 - 15:35",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP07_-_Interview_with_Jacob_Hess_-_CoFounder_of_NexGenT.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_21",
+    "text": "But without spanning tree protocol, what would happen if you had these two connections is that the frames would continuously get repeated between those two connections, which would continuously build and build and build the traffic, which would eventually crash the switches. So without spanning tree switches would crash every time that a new redundant connection was added. So spanning tree protocol is for preventing loops in your network in your switch network. So spanning tree works by default on Cisco switches and also most other switches. And there's some kind of essential things that we need to understand about what spanning tree does on the actual switch port whenever you connect a cable between the two switches.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Spanning Tree",
+      "content_type": "Story",
+      "timestamp": "15:35 - 16:17",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP07_-_Interview_with_Jacob_Hess_-_CoFounder_of_NexGenT.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_22",
+    "text": "So the first thing that it's going to do is it's going to block the port. Then it's going to listen for BPDUs or listen for spanning tree packets. Then it's going to learn about the spanning tree topology and then start forwarding. So this is with traditional spanning tree. It's blocking, listening, learning and then forwarding. Finally, where it starts sending frames. And then we have something called rapid spanning tree, which is newer. And the reason why I'm mentioning both of these is because you'll see them in the text and rapid spanning tree, the port states are discarding and then learning and forwarding. And it basically makes things happen a lot faster.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Spanning Tree",
+      "content_type": "Example",
+      "timestamp": "16:17 - 16:53",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP07_-_Interview_with_Jacob_Hess_-_CoFounder_of_NexGenT.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_23",
+    "text": "And it basically makes things happen a lot faster. So then we also have some spanning tree port roles. So the port roles are important because whenever you look at the spanning tree topology on the switch by doing like a show spanning tree command, for example, you're going to see the ports listed as either designated non designated or a root port. And then a designated port that means it's a port that's in the forwarding state. If it's a non designated port, it's actually blocking or discarding. And then a root port is a port that's in a porting state that leads back to the root bridge. So those are really the basic things that you need to understand about how spanning tree goes through these different port states and what those port roles are.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Spanning Tree",
+      "content_type": "Example",
+      "timestamp": "16:49 - 17:33",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP07_-_Interview_with_Jacob_Hess_-_CoFounder_of_NexGenT.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_24",
+    "text": "So the second main point I wanted to mention is that switches talk to each other about spanning tree by sending something called BPD use, which is a bridge protocol data unit. So the bridge protocol data unit includes the MAC address of the switch and some spanning tree information. So this is important because not only do the switches use this to talk about spanning tree, but it also helps with the election of what is called the root bridge. And it's really important to understand in spanning tree what the root bridge actually is. The spanning tree topology will send traffic toward the root bridge. So if the root bridge is at the edge of your network, you're going to have traffic passing in a way that is very inefficient and is not the most effective use of your switch network. You don't want traffic passing out to the edge of your network to go back to the core.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Spanning Tree",
+      "content_type": "Story",
+      "timestamp": "17:33 - 18:20",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP07_-_Interview_with_Jacob_Hess_-_CoFounder_of_NexGenT.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_25",
+    "text": "So it's important to make sure that the root bridge is actually placed at the core of the network. In order to make sure that this happens, we need to manually configure the root bridge to be at the core of the network. Many networks, they have a self-elected root bridge, meaning that people just go install the switches and then they let the switches just converge the spanning tree and elect the root bridge by default based on the MAC address. Manual root bridge configuration is something that people a lot of times don't do, but good engineers should always make sure that they do do this. So to be a good engineer regarding spanning tree, always make sure that you're manually configuring the spanning tree root bridge to be at the core of the network. Now you also need to keep in mind that there's something out there called PVST, which is per-vLAN spanning tree.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Spanning Tree",
+      "content_type": "Advice",
+      "timestamp": "18:20 - 19:07",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP07_-_Interview_with_Jacob_Hess_-_CoFounder_of_NexGenT.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_26",
+    "text": "And that basically means that there is a separate root bridge on a per-vLAN basis. Now this is important because you can actually use PVST to balance your VLAN traffic between two core switches, where you have one core switch acting as the root bridge for half of the VLANs on your network, and the other core switch acting as a root bridge for the other half of the VLANs on your network. So with this configuration, this actually makes traffic across the spanning tree be more balanced, and you get better utilization out of your network by setting it up this way, and you're getting better usage of all the ports on all your switches, and the actual flow of traffic across the spanning tree is utilizing more of the network than if you just had a single root bridge. And this is possible whenever you have a dual core kind of setup.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "VLAN",
+      "content_type": "Example",
+      "timestamp": "19:07 - 19:54",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP07_-_Interview_with_Jacob_Hess_-_CoFounder_of_NexGenT.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_27",
+    "text": "And this is possible whenever you have a dual core kind of setup. Alright, well thanks Jacob for giving us the tech lesson of the day. Hopefully that'll give you a high level understanding, and guys will be sure to include some detailed show notes where you can learn more about spanning tree. But Jacob, I've really, truly enjoyed listening to your journey, insights, and appreciate you teaching us spanning tree 101. Any closing comments or something in general you want to share with our audience? To all you fellow and future engineers out there, keep on rockin' and rollin' and be the best engineer you can be. We have a great career that is fun, engaging, and interesting, and excelling at it can really pay off in many ways. Well Jacob, thank you for being generous with your time, expertise, and share your knowledge with our listeners.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "spanning tree",
+      "content_type": "Story",
+      "timestamp": "19:49 - 20:40",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP07_-_Interview_with_Jacob_Hess_-_CoFounder_of_NexGenT.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_28",
+    "text": "Well thanks for listening SC Nation, if you enjoyed the show, please be sure to subscribe, leave a review, and share this episode with friends and colleagues. Now you know what time it is, it's time for you to level up in becoming a rockstar engineer. This rockstar SE class has ended, but there's more ways to propel you on your ideal IT engineer journey. Head over to rockstarse.com for show notes, and be sure to sign up for our mailer. This will give you exclusive access for some amazing free content to help you level up and accelerate your career. We appreciate you joining us and look forward to helping you learn, focus, and succeed next time on rockstarse.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "rockstar engineer",
+      "content_type": "Story",
+      "timestamp": "20:41 - 21:21",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP07_-_Interview_with_Jacob_Hess_-_CoFounder_of_NexGenT.mp3",
+      "source_type": "Podcast"
+    }
+  }
+]

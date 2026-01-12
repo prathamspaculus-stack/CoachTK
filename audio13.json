@@ -1,0 +1,458 @@
+[
+  {
+    "chunk_id": "chunk_1",
+    "text": "This is a great profession and quite honestly, I think anyone can do it. Each week, we provide tech lessons, answer questions and bring you interviews of the most successful engineers and thought leaders working in the IT space across technologies like data center, cloud, networking, collaboration and security. Listen in as you'll gain insights, strategies, tips, and more to help you level up along your journey in becoming a rockstar SE. So let the class begin. Hey, what's up, SE nation? Your host, Terry Kim here. And I'm super excited to introduce my guest today, Arnold Alvarez. Arnold's been in the IT industry going on 16 years. And he got his start right at Cisco systems",
+    "metadata": {
+      "domain": "IT",
+      "topic": "IT space",
+      "content_type": "Story",
+      "timestamp": "00:00 - 00:47",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP01_-_Interview_with_3X_CCIE_Arnel_Alvarez_-_Sr_Network_Engineer_at_Uber_Technologies.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_2",
+    "text": "And he got his start right at Cisco systems working in their support center called TAC. And he was able to work his way up through the different business units. And he's also a triple CCIE across route switch, storage and data center. He's also worked at VMware and now works at Uber working on their corporate infrastructure. Now in this interview, we dive into his career journey, we talk about a past project in software-defined data center. And he shares his keys to success and the tech lesson of the day is IPv6. Hey, Arnold, what's going on, my friend? Hey, how's it going, Terry? Good to hear from you again. Yeah, it's going great. Well, thanks, Arnold, for being on the show.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career Journey",
+      "content_type": "Story",
+      "timestamp": "00:44 - 01:29",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP01_-_Interview_with_3X_CCIE_Arnel_Alvarez_-_Sr_Network_Engineer_at_Uber_Technologies.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_3",
+    "text": "Well, thanks, Arnold, for being on the show. And just please share with SE nation a brief background on yourself. Yeah, so I'm Arnold Alvarez. I'm originally from the Philippines, but my dad was a Navy, so I did a bit of traveling. So I eventually ended up here in California. I'm a networking chair currently working at Uber Technologies in their corporate network infrastructure team. In terms of hobbies, I like to travel with my family. And from time to time, I like to dabble in Brazilian Jiu-Jitsu when I get a chance. Oh, wow, that is awesome. I'm an actual black belt and tech one, though, myself. But right on. I'm going to Jiu-Jitsu. I've got to learn some moves from you.",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Interview",
+      "content_type": "Story",
+      "timestamp": "01:27 - 02:08",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP01_-_Interview_with_3X_CCIE_Arnel_Alvarez_-_Sr_Network_Engineer_at_Uber_Technologies.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_4",
+    "text": "I'm going to Jiu-Jitsu. I've got to learn some moves from you. So Arnold, and before we start, I'd love to share with our listeners kind of your favorite quote. And let us know why you chose this one to share. Sure. I guess I could share a quote by Mark Twain, which he basically stated that the secret to getting ahead is getting started. Now, I really like this quote because one, it's an obvious secret. Let me explain. So especially when starting in this profession, it gets pretty daunting, right? There's a lot of times where you can hear about technologies that one, you don't understand or don't know how it works. A lot of times, you're going to hear acronyms that you have no clue what they mean.",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Mindset",
+      "content_type": "Story",
+      "timestamp": "02:04 - 02:47",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP01_-_Interview_with_3X_CCIE_Arnel_Alvarez_-_Sr_Network_Engineer_at_Uber_Technologies.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_5",
+    "text": "that you have no clue what they mean. And sometimes you're going to be looking at config guides you're going to have to take two or three passes on it just to understand what's going on. And quite frankly, that's normal, right? It's just that passion of getting started and getting your feet deep into the learning technologies what gets you ahead, right? So it's not like a one-time thing. It's actually a continuous process. So just having that right mentality of, or mindset of continuing learning is what's key. Oh, that is outstanding. I love it. We've all been there in those shoes, right? Definitely. That's some great points that you highlighted. So thanks for sharing.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Learning",
+      "content_type": "Story",
+      "timestamp": "02:45 - 03:31",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP01_-_Interview_with_3X_CCIE_Arnel_Alvarez_-_Sr_Network_Engineer_at_Uber_Technologies.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_6",
+    "text": "So thanks for sharing. Now, let's move on into kind of talking about your IT career journey. And now take us back in time. How did you actually start your journey in this career? It really started when I was younger and I started playing with computers. Started taking my computers, trying to overclock it, getting better video cards, doing online gaming, and networking between computers. That's what really fueled me and got me started to this profession. From there, I went to university and studied electrical engineering with focus on IP networks. And at that point, I decided, you know what, I want to work for the biggest and bad is networking company out there.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career Journey",
+      "content_type": "Story",
+      "timestamp": "03:29 - 04:11",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP01_-_Interview_with_3X_CCIE_Arnel_Alvarez_-_Sr_Network_Engineer_at_Uber_Technologies.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_7",
+    "text": "is networking company out there. And so I had the opportunity to work for Cisco Systems, right? So I started off there in their tech or technical assistant center, which I think is a great place to start learning about technology. Because there's just a wealth of information to be learned from the company as well as different mentors there. Actually started in the WAN team and as time progressed, I decided to learn new technology. So I jumped from the WAN team to the routing and switching team. I wanted to learn some kind of technology at the time. So it was storage area networking. I then joined a cell team, which supported that. 18T's I'd be coming back home. Then eventually ended up in the data center team,",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career",
+      "content_type": "Story",
+      "timestamp": "04:09 - 04:57",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP01_-_Interview_with_3X_CCIE_Arnel_Alvarez_-_Sr_Network_Engineer_at_Uber_Technologies.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_8",
+    "text": "Then eventually ended up in the data center team, which is right now one of my biggest interests. At that point, I actually thought, you know, let me see what else is out there. So I joined a local var, which primarily add customers, small to medium businesses as well as a lot of startups. So I didn't want to transition Arnell from going from Cisco to the var side. I think that was about four years ago. Okay. Yeah. So I made that transition and I did a lot of pre sales designing architecture as well as a lot of deployments, which was a real great experience for me, especially coming from a post-pale, post sales role. After that, I joined a company called VMware where I managed a few of their R&D labs",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career",
+      "content_type": "Story",
+      "timestamp": "04:53 - 05:44",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP01_-_Interview_with_3X_CCIE_Arnel_Alvarez_-_Sr_Network_Engineer_at_Uber_Technologies.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_9",
+    "text": "where I managed a few of their R&D labs as well as designed their latest R&D data center, and which led me to my current role at Uber is where I work on their corporate infrastructure. Oh, wow. That's quite a journey. And just to kind of put things into perspective, a lot of aspiring engineers, like they have that kind of key aha moment. And you said yours was when you first were like upgrading these, you know, making these custom PCs, or was it right when you were starting to take some courses in college when was kind of that key moment? Well, I think it was a little combination of both. I had that curiosity to learn about how things worked and why they worked, right? So, you know, again, you know,",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Career",
+      "content_type": "Story",
+      "timestamp": "05:41 - 06:27",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP01_-_Interview_with_3X_CCIE_Arnel_Alvarez_-_Sr_Network_Engineer_at_Uber_Technologies.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_10",
+    "text": "and why they worked, right? So, you know, again, you know, doing online gaming with friends is like, okay, let's network our PCs together. Let's, you know, what's your IP address? What connects your hubs, your Switch, whatever. So, I mean, that's kind of what really started for me. But actually learning the protocols and the technology in college as well as Cisco is what really fielded for me. I see. And now, was there a particular role or job title that you were aiming for? And you're like, I want to be a network engineer or I want to be an architect. What was kind of that role or title you were kind of looking for too? I think title is very important. Yep.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "networking",
+      "content_type": "Story",
+      "timestamp": "06:22 - 07:04",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP01_-_Interview_with_3X_CCIE_Arnel_Alvarez_-_Sr_Network_Engineer_at_Uber_Technologies.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_11",
+    "text": "I think title is very important. Yep. I used to think about that a lot, but senior network engineers really what I want to get to. But, you know, there's obviously other titles that I've had before, like, a technical leader solutions architect, which, which I guess were gravy points at the end. Yeah. Yeah, that's funny. You say that because in my younger years, I was always looking for these titles, right? And searching for, you know, what's the next title I'm going to go after? Exactly. Exactly. The senior network engineer that everyone wants to be, right? Right. Now, what were some key moments that you think that accelerated your career?",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career",
+      "content_type": "Story",
+      "timestamp": "07:02 - 07:38",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP01_-_Interview_with_3X_CCIE_Arnel_Alvarez_-_Sr_Network_Engineer_at_Uber_Technologies.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_12",
+    "text": "that accelerated your career? You know, it was kind of key moments where you've got a huge pay raise or you got a huge job title. What was those key moments? Well, I'd have to say at first, at least in the beginning, certifications played a key role. I guess at that point or that stage, it helps establish credibility, especially when you kind of lack on the experience side. Getting my CCI at an early stage in my career was a, was a definite plus, which opened a lot of doors and opportunities for me. But aside from that, I think it's really about experience, choosing the technologies that's really interested you in a kind of strive to be the best at it. It's what really was the kicker.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career",
+      "content_type": "Story",
+      "timestamp": "07:36 - 08:18",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP01_-_Interview_with_3X_CCIE_Arnel_Alvarez_-_Sr_Network_Engineer_at_Uber_Technologies.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_13",
+    "text": "It's what really was the kicker. Yeah, that's some great insight right there, I know that you just touched on is, I see a lot of people get so hung up on certifications and they don't realize that practical or getting as much hands-on experience, maybe it's like working on a lot of projects or helping out on projects is also very key in building your career. Absolutely, I think the main thing with certifications is, it'll help you get in the door, but you still have to walk through that door, right? So even though you're CCNA or CCMP or CCIA, once you get into your job role, you've got to show what you've got. So that's where experience kicks in. And I guess building from that is what really",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Career",
+      "content_type": "Advice",
+      "timestamp": "08:14 - 09:03",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP01_-_Interview_with_3X_CCIE_Arnel_Alvarez_-_Sr_Network_Engineer_at_Uber_Technologies.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_14",
+    "text": "And I guess building from that is what really moves you forward, right? Yep. Now you talk about building experience and I just want to touch on this a little bit more, is for our listeners, what are some key things that they can start doing maybe to start building and gaining more hands-on experience? Well, there's a lot of tools out there that you can use, especially nowadays, well back in these when I used to start, you'd actually in physical hardware to start practicing. Yep. And nowadays, there's quite a few simulators out there that gets you along your way, right? You don't have to spend arm and a leg just to buy equipment. You could get these simulators almost for free. Exactly.",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Building",
+      "content_type": "Advice",
+      "timestamp": "08:59 - 09:39",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP01_-_Interview_with_3X_CCIE_Arnel_Alvarez_-_Sr_Network_Engineer_at_Uber_Technologies.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_15",
+    "text": "You could get these simulators almost for free. Exactly. So that's a good starting point. Aside from that, searching for the right job, it'll get you the experience that you need or get you the exposure that you need to, again, help build credibility so that you could progress in your career and move forward. And Arnell mentioned a couple of things here, right? Like simulations, there's GNS3, right? There's also Cisco announced a viral that also allows a lot of simulation you can do even across their NSOS platforms as well. So yeah, thanks for sharing. Now Arnell, you've got three CCEs out of all those three CCEs. Which one would you say was the hardest and how'd you go about achieving it?",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career",
+      "content_type": "Story",
+      "timestamp": "09:36 - 10:22",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP01_-_Interview_with_3X_CCIE_Arnel_Alvarez_-_Sr_Network_Engineer_at_Uber_Technologies.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_16",
+    "text": "and how'd you go about achieving it? I'll be honest with you, I think the hardest one was the routing and switching. And the reason I say that is because it's a simulation of a lot of different technologies put into what? As compared to like storage networking, you just work on NDS switches and maybe a couple of third-party switches and you're good to go. But I think the routing and switching really builds a good foundation to get started in this type of career. The data center CCI was, again, a combination of different technologies, but I think I would have to say it's a lot more focused. But yeah, definitely the routing and switching. Okay. And with your data center,",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career",
+      "content_type": "Story",
+      "timestamp": "10:19 - 11:01",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP01_-_Interview_with_3X_CCIE_Arnel_Alvarez_-_Sr_Network_Engineer_at_Uber_Technologies.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_17",
+    "text": "Okay. And with your data center, I'm assuming that's your latest CCI you've achieved? That's correct. How long did it take you to prep for that and pass it? That's a good question. The data center CCI, I had to account that I was in the data center team at Cisco when I did this. So I had the, you know, the luxury of having all this equipment in front of me to play with and I was working the team that primarily dealt with that type of technology. So my exposure to data center was, you know, was really available. I see. That's a lot. It definitely does. It definitely does, especially nowadays when you've got to practice with UCS or Nexus OS",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Data Center",
+      "content_type": "Story",
+      "timestamp": "10:59 - 11:42",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP01_-_Interview_with_3X_CCIE_Arnel_Alvarez_-_Sr_Network_Engineer_at_Uber_Technologies.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_18",
+    "text": "when you've got to practice with UCS or Nexus OS or, you know, NDS switches. You know, there's simulates for some of those things, but not all, right? Especially to a certain depth. In terms of preparation wise, I don't know, six months probably, good six months at least. But again, keep in mind that I've been work on this technology for some time. So that definitely helped out as well. Now what's a current project or even a past project that you've worked on that's excited you the most and why? Well, current interest of mine right now is data center technologies. And I guess that's a pretty big, or pretty booming specialization right now. So that's been in my biggest interest.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Preparation",
+      "content_type": "Advice",
+      "timestamp": "11:38 - 12:23",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP01_-_Interview_with_3X_CCIE_Arnel_Alvarez_-_Sr_Network_Engineer_at_Uber_Technologies.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_19",
+    "text": "So that's been in my biggest interest. As damage before I've been working on that, at Cisco initially. But I really got to use it when I started working at VMware. So one of my projects there was to build the latest research and development data center. So I was able to apply my knowledge from what I learned at Cisco to building that data center. But at VMware we were more vendor agnostic. So we actually decided to go with BrookAid VCS fabric technology as we already had Cisco is data centers already in place. So it was a great learning experience to learn a new technology and see how it relates what I knew as well as, you know, doing all the testing and all the interrupt testing and stuff like that. So it was great.",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Career",
+      "content_type": "Story",
+      "timestamp": "12:21 - 13:16",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP01_-_Interview_with_3X_CCIE_Arnel_Alvarez_-_Sr_Network_Engineer_at_Uber_Technologies.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_20",
+    "text": "and stuff like that. So it was great. I see. Now we see a lot of hype around SDN and data center and a lot of other vendors other than Cisco, right? That are providing software-defined data center solutions. And in particular with VMware, did you have any experience with NSX or in that regards and rolling that out? Definitely. I've mentioned it before is one of the primary goals was to incorporate NSX into the data center. So given that with NSX technology, it's basically just an overlay. We were kind of trying to eat our own dog food and prove a point that we could use that technology with any type of network. I see. Now for those listeners that are not aware of,",
+    "metadata": {
+      "domain": "IT",
+      "topic": "SDN",
+      "content_type": "Story",
+      "timestamp": "13:13 - 14:03",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP01_-_Interview_with_3X_CCIE_Arnel_Alvarez_-_Sr_Network_Engineer_at_Uber_Technologies.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_21",
+    "text": "I see. Now for those listeners that are not aware of, let's say software-defined network, in particular VMware's SDN solution. Can you, does on a high level, talk about what VMware NSX is? Sure. So VMware NSX is an overlay. So if you are not familiar with overlays, think of it as underlay and overlay, right? Underlays, you're existing or current network infrastructure and overlays like a software-defined network on top of your current infrastructure, right? So VMware's NSX allows you to create a micro-signitation within your network. So, you know, your existing underlay or your existing infrastructure is basically just a foundation or piping.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "VMware NSX",
+      "content_type": "Example",
+      "timestamp": "13:59 - 14:50",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP01_-_Interview_with_3X_CCIE_Arnel_Alvarez_-_Sr_Network_Engineer_at_Uber_Technologies.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_22",
+    "text": "is basically just a foundation or piping. And with your NSX technology or your overlay, you could create networks on top of that, right? Firewalling, routing, little switching networks, all in the flight, load balancing, yeah. All that on the flight, yep, all that on software. That is awesome. Now with this VMware R&D data center build out, what were the biggest lessons you learned? Well, I'd have to say it's all about being meticulous with your planning, right? Especially when building a data center from scratch, you really have to consider a lot of things. There's a lot of things in play. So one of the things I really learned a lot was about preparation and staging.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Data Center",
+      "content_type": "Story",
+      "timestamp": "14:45 - 15:35",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP01_-_Interview_with_3X_CCIE_Arnel_Alvarez_-_Sr_Network_Engineer_at_Uber_Technologies.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_23",
+    "text": "about preparation and staging. So since we use a different vendor, a new vendor that we haven't used before, I'd have to say that working with your vendor to do interop testing, capacity planning, failover testing, and you know, just basically to iron out the bugs before bringing into production was key. I see. And that's some great insight right there as well, because I've worked on quite a few projects myself and it's really the preparation, the project planning, is another great kind of skill or asset to actually build upon during your career. Absolutely. Yeah, it's definitely a key, especially in that network. Injury. Great. Now, Arna, do you have any daily weekly rituals",
+    "metadata": {
+      "domain": "IT",
+      "topic": "project planning",
+      "content_type": "Story",
+      "timestamp": "15:32 - 16:17",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP01_-_Interview_with_3X_CCIE_Arnel_Alvarez_-_Sr_Network_Engineer_at_Uber_Technologies.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_24",
+    "text": "Great. Now, Arna, do you have any daily weekly rituals that helps you become successful? Yeah, actually do. It's funny to say that, but when I used to work at VMware and my previous jobs, I'd actually have quite a bit of commute to work. So a lot of dead time just sitting in the car, just driving to work. So what I typically do is fire up my phone and turn on YouTube and just pick a topic of interest. Like, technology I want to learn about or some technology I just heard about. And just play it and just listen to what I drive to work. And by doing that, you gain a little bit of knowledge, you know, when you have a little bit of dead time, right? Especially when you can't read.",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Success",
+      "content_type": "Story",
+      "timestamp": "16:14 - 16:57",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP01_-_Interview_with_3X_CCIE_Arnel_Alvarez_-_Sr_Network_Engineer_at_Uber_Technologies.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_25",
+    "text": "Especially when you can't read. You just listen to it and you kind of just try to absorb what you can. And one of my goals was to, you know, at least learn a technology just from listening to it. You know, maybe one topic a week, something like that, which was really key. It helps you, you know, get into the know and, you know, it helps you accelerate your learning curve. And you know, later on, maybe at night, you could just start reading about it as well. No, I love it, Arna. Thanks for sharing that because I mean, I think that's one of the keys to success is having these kind of daily, weekly rituals that you do. So over time, this knowledge can compound, right?",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Learning",
+      "content_type": "Story",
+      "timestamp": "16:55 - 17:35",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP01_-_Interview_with_3X_CCIE_Arnel_Alvarez_-_Sr_Network_Engineer_at_Uber_Technologies.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_26",
+    "text": "So over time, this knowledge can compound, right? Because it's hard to grasp so much information all at once. Absolutely. It's especially in this field, the technology is moving at such a high rate to keep up. You know, you have to do whatever means you need just, you know, find out what's going on. Exactly. Yeah. Now, what are some things you do to keep up with technology that help, let's say, build mastery in your skills or in gaining new skills? Aside from the, you know, you know, my ritual is just driving in a work. I think a lot of it has a deal with practice, right? So in order to really master a skill, at least from my perspective, is to be able to get it to work when it's usually broken, right?",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Technology",
+      "content_type": "Story",
+      "timestamp": "17:31 - 18:20",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP01_-_Interview_with_3X_CCIE_Arnel_Alvarez_-_Sr_Network_Engineer_at_Uber_Technologies.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_27",
+    "text": "is to be able to get it to work when it's usually broken, right? I mean, you could look at config guides and apply to a router and it'll work. But when you have to manipulate it to suit like business needs, you know, a lot of times it's not going to work. So you have to kind of understand how the protocol works, how the configurations do what they do, to, you know, really understand what's going on and be able to, you know, really master it. Okay. Now, what's your favorite tool or, let's say, application or even a website resource that you can share with our listeners? There's a wealth of information out there, but you want to do some reading. I network world is always a, I could say to check out.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "config",
+      "content_type": "Story",
+      "timestamp": "18:15 - 18:59",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP01_-_Interview_with_3X_CCIE_Arnel_Alvarez_-_Sr_Network_Engineer_at_Uber_Technologies.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_28",
+    "text": "I network world is always a, I could say to check out. So LinkedIn is a great resource as well. I mean, if you, you know, subscribe to certain groups that interest you. There's usually a lot of topics or a lot of information that's shared there as well. And aside from that, and you know, like I mentioned for YouTube is great. I'm not listening to CBT nuggets. It's whimsical and it's great information. Yeah. Yeah. Now, what book would you recommend to SC Nation and why? I guess if you're getting, if you're just getting started into the game, I'd say keep it simple and start with the basics. So good book would be probably routing TCP IP by Jeff Doyle.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "network",
+      "content_type": "Advice",
+      "timestamp": "18:56 - 19:40",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP01_-_Interview_with_3X_CCIE_Arnel_Alvarez_-_Sr_Network_Engineer_at_Uber_Technologies.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_29",
+    "text": "So good book would be probably routing TCP IP by Jeff Doyle. I think that's a great foundation for probably most network engineers out there. So yeah, that's a great starting point. Perfect. I'll make sure that these links and the book that Ardell mentioned is in the show notes as well, guys. So now for a tech lesson of the day, tell us Ardell, what will we be learning today? I guess we could touch up on IPv6. We could go through just like basic addressing. And we could probably compare it with IPv4 for context. As your listeners probably are more familiar with IPv4. Yep. That is perfect. Sounds good. Yeah. Sounds like a plan.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "network",
+      "content_type": "Story",
+      "timestamp": "19:34 - 20:21",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP01_-_Interview_with_3X_CCIE_Arnel_Alvarez_-_Sr_Network_Engineer_at_Uber_Technologies.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_30",
+    "text": "Sounds good. Yeah. Sounds like a plan. Let's start off with, I guess, maybe just explaining to the listeners what an IP address is and then kind of go from there. Sure. I guess you could relate it to like a phone number. Like if you cherry one thing to talk to me, you would dial my phone number, right? Yeah. So similar to IP address, if two devices want to talk, I think I have to have each one of those devices for number and it just gets, or IP address. And it is magically routed in the internet and we start talking. I see. So maybe like my phone that's connected to my Wi-Fi network or my iPad or even my computers at my house, right? They all have IP addresses. Exactly. All right.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "IP address",
+      "content_type": "Story",
+      "timestamp": "20:18 - 20:58",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP01_-_Interview_with_3X_CCIE_Arnel_Alvarez_-_Sr_Network_Engineer_at_Uber_Technologies.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_31",
+    "text": "They all have IP addresses. Exactly. All right. Let's get started. Yes. So in terms of IPv4 as well as compared to IPv6, let's get to that. So for IPv6, it's one of the obvious comparisons is that it's a bigger address space, right? So IPv4 is a 32-bit address as compared to IPv6, which is a whopping 128 bits. So if you think about size, a V4 address is 4.3 billion addresses was compared to IPv6. You have two to the 128, which is 340 undisciilion and it's actually worth it. Just think of it as a very, very big number. Yeah, definitely. So you can't take number. If we think about comparisons, if looking at an IPv4 address, it's a dotted decimal notation. So you'd have like 10.10.10.10.1 for example.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "IPv4 IPv6",
+      "content_type": "Example",
+      "timestamp": "20:55 - 22:00",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP01_-_Interview_with_3X_CCIE_Arnel_Alvarez_-_Sr_Network_Engineer_at_Uber_Technologies.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_32",
+    "text": "So you'd have like 10.10.10.10.1 for example. As with IPv6, it's in hexadecimal and separated by cones. So your address is going to be pretty big, but it's going to look something like for example 2001, colon 0, colon, FED, colon, and so on and so forth. So pretty big address. It's not one of those things where you can just tell your friends, hey, can you ping a 2001, colon 0, colon, 3101, colon. So that's it for it. And IPv6 address can be broken down into three parts. So you got your prefix. You've got your subnet IT and you have your interface ID. Now, if you compare that to IPv4, IPv4 has a network ID as well as a host ID. So a portion and a host portion. If you think about the IPv6 address, the network portion would be like your prefix and your",
+    "metadata": {
+      "domain": "IT",
+      "topic": "IPv6",
+      "content_type": "Example",
+      "timestamp": "21:56 - 22:57",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP01_-_Interview_with_3X_CCIE_Arnel_Alvarez_-_Sr_Network_Engineer_at_Uber_Technologies.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_33",
+    "text": "subnet combined. And then your host portion would be your interface ID. So the prefix part is usually given by a governing body. So let's say I've got a new site and I apply IPv6 to it. So typically they give you slash 48. And then from there, you set the IDs, what you use to chop and dice that block. In terms of your interface ID, it's a unique address or an unique address space. So in order to get that last 64 bits, what they've done is to find a unique address. And in the IP world, it's IPv4 world. It's a unique address to be like your Mac address. Right? It's globally unique. But that address is only 48 bits. So in order to get to that 64 mark, you have to bit fill. So that extra 16 bits, you would just fill it in.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "IPv6",
+      "content_type": "Example",
+      "timestamp": "22:57 - 24:04",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP01_-_Interview_with_3X_CCIE_Arnel_Alvarez_-_Sr_Network_Engineer_at_Uber_Technologies.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_34",
+    "text": "So that extra 16 bits, you would just fill it in. So basically you cut the Mac address in half and in the middle you'd fill it in with FFFE. Right. Yeah. And that's how you get your 64 bits. Couple other differences with IPv6. There's actually three different types of addresses. You've got your global Unicast address, which is basically like your routable on the internet, IPv6 address. You've got your link local address, which is used for on link or within a broadcast domain. And then you have your ULA or unique local address, which is similar to like a private address in IPv4, like RC 1918 address, where it's used to just wrap within your internet internally. Right.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "IPv6",
+      "content_type": "Example",
+      "timestamp": "24:01 - 24:53",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP01_-_Interview_with_3X_CCIE_Arnel_Alvarez_-_Sr_Network_Engineer_at_Uber_Technologies.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_35",
+    "text": "Right. I'm sure there's a lot more to talk about with IPv6, but I just leave it up to your listeners to do the research and learn more about it on their tells. Yeah, that's a great overview, Arnold. Now, where do you see IPv6 being used or being more adopted widely? Yeah. Well, I'd like to say that IPv6 has adopted a lot, but I think it's still trying to get some traction. There's a lot of people adopting it, but I personally, I don't feel like it's being adopted at the rate it should be. A lot of people don't even realize that they're using IPv6 nowadays, right? But they actually are. So in terms of cases. Let's say for example, you just turn on your Mac and you know, you check your IP addresses,",
+    "metadata": {
+      "domain": "IT",
+      "topic": "IPv6",
+      "content_type": "Example",
+      "timestamp": "24:52 - 25:45",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP01_-_Interview_with_3X_CCIE_Arnel_Alvarez_-_Sr_Network_Engineer_at_Uber_Technologies.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_36",
+    "text": "which you probably don't realize is you're probably using IPv6 natively already. A lot of people don't realize that, but yeah, it's there. In terms of companies using it, again, the adoption rate is not as fast as I think it should be. But I think it's a good technology to start learning moving forward, especially if network engineering is in your profession. Well, thanks, Arnold. And that is great. For thanks for the tech lesson of the day and guys and girls, definitely check out IPv6 and start learning a little bit about it, even though you might not practice it or implement it every day. But it's the future and it's coming in with exhaustion of IPv4. You're going to want to have this skill mastered and learn more about it. Definitely.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "IPv6",
+      "content_type": "Example",
+      "timestamp": "25:45 - 26:38",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP01_-_Interview_with_3X_CCIE_Arnel_Alvarez_-_Sr_Network_Engineer_at_Uber_Technologies.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_37",
+    "text": "Definitely. Any closing comments or something in general you want to share with our audience before we call it a wrap. Well, first off, Terry, thanks for having me. It's a bit of an honor for you to give me a call and ask me to do this. And for our listeners out there, I have to say this is a great profession and quite honestly, I think anyone can do it. I mean, I'm no exception. I'm just the Arabian show, but with a little bit of the right mindset, you know, willing to learn new technologies as well as, you know, some hard work, I think it's inevitable that you become the next Rockstar SE or no engineer. Thanks. Well, thanks for listening, SC Nation. And if you enjoyed the show, please be sure to subscribe, leave a review, and share this",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career",
+      "content_type": "Advice",
+      "timestamp": "26:37 - 27:24",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP01_-_Interview_with_3X_CCIE_Arnel_Alvarez_-_Sr_Network_Engineer_at_Uber_Technologies.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_38",
+    "text": "episode with your friends and colleagues. Now you know what time it is. It's time for you to level up in becoming a Rockstar Engineer. This Rockstar SE class has ended, but there's more ways to propel you on your ideal IT engineer journey. Head over to rockstarse.com for show notes and be sure to sign up for our mailer. This will give you exclusive access for some amazing free content to help you level up and accelerate your career. We appreciate you joining us and look forward to helping you learn, focus, and succeed next time on Rockstar SE.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Rockstar SE",
+      "content_type": "Story",
+      "timestamp": "27:24 - 27:57",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP01_-_Interview_with_3X_CCIE_Arnel_Alvarez_-_Sr_Network_Engineer_at_Uber_Technologies.mp3",
+      "source_type": "podcast"
+    }
+  }
+]

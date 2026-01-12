@@ -1,0 +1,302 @@
+[
+  {
+    "chunk_id": "chunk_1",
+    "text": "Each week we provide tech lessons, answer questions, and bring you interviews of the most successful engineers and thought leaders working in the IT space across technologies like Data Center, Cloud, Networking, Collaboration, and Security. Listen in as you'll gain insights, strategies, tips, and more to help you level up along your journey in becoming a rockstar SE. So let the class begin! Hey what's up SE nation, your host Terry Kim here. And today's episode is focused on a tech lesson for the day with my friend and co-founder of NextGen. Jacob Hess. Hey Jacob, you ready to rock the show? I sure am ready to rock the show and hello SE nation is great to be back. Alright, so today guys we have a special tech lesson of the day.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Tech Lessons",
+      "content_type": "Example",
+      "timestamp": "00:00 - 00:52",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP05_-_Tech_Lesson_-_The_OSI-Model_with_Jacob_Hess.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_2",
+    "text": "Alright, so today guys we have a special tech lesson of the day. Jacob, what are we going to learn today? Today we're going to talk about the Open Systems Interconnect model or the OSI model. We'll talk about what it's made of and also the future of networking regarding the OSI model. So awesome episode coming for you guys today. Alright so I love this because it brings back a lot of memories and we'll help you dissect the OSI model, we'll talk about what it is, why it's important, go into the history and we'll talk about the seven layers and just go deep dive into it. So let's get started folks. Jacob, what is the OSI model exactly and why is it important for listeners? So the OSI model is a seven layer reference model that was created by the International",
+    "metadata": {
+      "domain": "IT",
+      "topic": "OSI model",
+      "content_type": "Story",
+      "timestamp": "00:47 - 01:37",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP05_-_Tech_Lesson_-_The_OSI-Model_with_Jacob_Hess.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_3",
+    "text": "Standards Organization back in 1984. It was created as a way to reference a particular set of rules for creating new standards, protocols, hardware and software so that things can intermix correctly in the IT world. So that's really the reason why it was created. Again it's seven layers and it's important because it allows us to create new things with a reference point. Now whenever we're thinking about the OSI model we think of the seven layers from top to bottom. So at top we have layer seven which is the application layer and then at the bottom we have layer one which is the physical layer. So how can you think of these layers in reference to the real world? Well the application layer which is at the top is really where the user, the end user",
+    "metadata": {
+      "domain": "IT",
+      "topic": "OSI Model",
+      "content_type": "Story",
+      "timestamp": "01:37 - 02:20",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP05_-_Tech_Lesson_-_The_OSI-Model_with_Jacob_Hess.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_4",
+    "text": "interfaces with the OSI model layers. So an end user interfaces at layer seven and then sends a message and as that message passes down through each of the other layers it will eventually end up on the physical wire which is actually layer one. So it goes from the top to the bottom, goes across the wire and then goes from bottom to top to get to the other side where it is then able to be read by the end user on the other side of that connection. All right so you're saying basically if I'm on my computer and I'm working with any type of application that could be considered at layer seven and once the communication starts flowing in all the way to the actual physical layer meaning that cable medium that connects to into my network it goes from layer seven to layer one. Yes that's right.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "OSI model",
+      "content_type": "Example",
+      "timestamp": "02:20 - 03:12",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP05_-_Tech_Lesson_-_The_OSI-Model_with_Jacob_Hess.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_5",
+    "text": "Yes that's right. So if you were creating some type of web document and you were inputting into the system that's where you're interacting with the OSI model. It's a network communication reference model. Awesome and who created this OSI model? So the model was created by the International Standards Organization back in 1984 and this organization is actually composed of 196 countries so they make a lot of different standards and that's why they're called the International Standards Organization. Yep and I remember the ISO has published like 20,000 plus international standards covering almost every industry from technology to food safety to agriculture to health care. So this is a huge organization that puts international standards out to the world and one of those standards is the OSI model.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "OSI model",
+      "content_type": "Story",
+      "timestamp": "03:11 - 04:03",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP05_-_Tech_Lesson_-_The_OSI-Model_with_Jacob_Hess.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_6",
+    "text": "one of those standards is the OSI model. So let's now move into the actual seven layers and Jacob why don't you tell us a brief description about each layer. So starting at the top we have the application layer. Again, these layers work from top to bottom. So the application layer is for the end user process such as file transfers, email, stuff like that. Then the message moves down into the presentation layer which is layer six which provides translation to and from the application layer and things like data encryption and data decryption. You can also think of things like file formats like your JPEG or your MPPEG file formats at this layer. So that moves down to the session layer which is layer five.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "OSI model",
+      "content_type": "Example",
+      "timestamp": "04:00 - 04:42",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP05_-_Tech_Lesson_-_The_OSI-Model_with_Jacob_Hess.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_7",
+    "text": "So that moves down to the session layer which is layer five. So the session layer is responsible for coordinating and establishing sessions between applications on either side of the connection. So it's there to manage those sessions between the applications. Then we move down to the transport layer and here's where we really start getting into what we call networking layers, the bottom four layers. So the transport layer is there to reassemble data from the upper layers and unite them into the same data stream. So after that's done, we move down into the network layer. So when we get down to the network layer which is layer three, we look at things like IP, internet protocol and routing. So this is where our router is reside.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Networking",
+      "content_type": "Story",
+      "timestamp": "04:39 - 05:18",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP05_-_Tech_Lesson_-_The_OSI-Model_with_Jacob_Hess.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_8",
+    "text": "So this is where our router is reside. So the network layer provides logical network addressing and path determination and routing services. So every single device in the world actually has a burned in or hardware address and that's called a MAC address and that actually resides at this data link layer. So from there we're adding on the MAC information and then the information is put onto the physical layer or the physical medium. So that's layer one. At this layer we have some different standards relating to electrical signaling and defining the physical network media such as like copper cabling or fiber optics.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Network Layers",
+      "content_type": "Story",
+      "timestamp": "05:16 - 06:00",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP05_-_Tech_Lesson_-_The_OSI-Model_with_Jacob_Hess.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_9",
+    "text": "the physical network media such as like copper cabling or fiber optics. So at this point we actually have the message passed through layer seven all the way down to layer one and then it goes across that physical medium. Now on the other side of this connection it is then unpackaged up through each one of those layers. So again that is kind of a description of overview of what each layer is and what each layer does and make sure you're always thinking of it as data passing from layer seven down to layer one and then back up from layer one up through layer seven. Guys I know that was a lot of different layers right to kind of remember. So let me kind of share with you on how you could actually remember this from bottom up and Jacob mentioned there's seven layers so let's start with layer one right physical",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Network Layers",
+      "content_type": "Story",
+      "timestamp": "05:55 - 06:45",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP05_-_Tech_Lesson_-_The_OSI-Model_with_Jacob_Hess.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_10",
+    "text": "moving upwards to data network transport session presentation and application and a good\n\nway to remember this is using the terminology please do not throw sausage piece away.\n\nSo good way to remember the model and so Jacob let's talk about how a computer moves data\n\nthrough this OSI model.\n\nSo every computer actually works at all seven layers of the OSI model.\n\nSo a computer moves data through this model by the user interacting with the computer\n\nand then the application layer providing its services so this could be something like\n\nemail whatever it may be and then that data that is input by the user passes down through\n\neach one of those layers goes across the physical medium and then is unpackaged as it goes\n\nback up the layers to the end user.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "OSI model",
+      "content_type": "Story",
+      "timestamp": "06:45 - 07:36",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP05_-_Tech_Lesson_-_The_OSI-Model_with_Jacob_Hess.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_11",
+    "text": "back up the layers to the end user. So something to note here is as it passes down each layer there's something called a PDU or a protocol data unit which describes the message or the data as it moves through each layer. So when we're referencing this information in the application presentation and session layers which is layer seven six and five we call this data the PDU is actually data we just call it data at that point. Now once it moves into the bottom four layers which are the networking layers we move into the transport layer first which is layer four and there we reference the information as a segment. So the transport layer it's called a segment. Then moving down into the network layer we begin to call the information a packet or",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Networking",
+      "content_type": "Story",
+      "timestamp": "07:34 - 08:21",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP05_-_Tech_Lesson_-_The_OSI-Model_with_Jacob_Hess.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_12",
+    "text": "a data gram and then we move down into the data link layer where we start calling this information a frame. Then going down into the physical layer we reference it as actual bits. So once it gets on the physical layer is being turned into ones and zeros in a combined binary data stream that passes across a wire. So we reference it in these different ways to give people a way to understand the data and what they're talking about. So you might be talking networking with somebody and they may say hey the data packet or the information packet well if they say that you know they're talking about layer three which is a network layer and people may also talk about layer three networking or routing. So all these terms kind of relate to each other whenever we're talking about information",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Networking",
+      "content_type": "Story",
+      "timestamp": "08:21 - 09:06",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP05_-_Tech_Lesson_-_The_OSI-Model_with_Jacob_Hess.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_13",
+    "text": "and how it relates to the OSI model. Thanks Jake. Now talking through all these OSI layers I really want for our listeners to be able to relate to these layers in terms of devices. Is there a way you can talk about certain let's say network devices that relate to certain layers of the OSI model for context? This is a really really good point actually. So we'll start at layer one the physical layer. Here we have cabling we talked about cabling in media it could be like your copper cabling could be your fiber optics could be even wireless media. We also have a device though a specific device that works at this layer and that will be a hub. So you may have seen or heard about hubs before this is actual piece of networking equipment that works only at layer one.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "OSI model",
+      "content_type": "Story",
+      "timestamp": "09:06 - 09:56",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP05_-_Tech_Lesson_-_The_OSI-Model_with_Jacob_Hess.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_14",
+    "text": "that works only at layer one. It's not an intelligent device it doesn't make any decisions it just acts like a physical device that turns a single wire into multiple wires because it has many ports. Also what is at this layer is a repeater so a hub is also a repeater because it repeats the signal that it receives and just sends it back out of all of its ports. Moving on to layer two we actually have switches in this layer. So this was a technology that really improved the networking world when switches were created because they're actually able to remember different layer to information that's connected to each port and make intelligent decisions about where to send the information they receive. So in this way switches work at layer two and utilize MAC addresses to determine intelligently",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Networking",
+      "content_type": "Story",
+      "timestamp": "09:54 - 10:40",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP05_-_Tech_Lesson_-_The_OSI-Model_with_Jacob_Hess.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_15",
+    "text": "where to send information they receive. Then moving up to layer three the networking layer this is where we have our routers. So routers are said to be layer three devices and the reason is is because routers make intelligent decisions based on layer three header information such as an IP packet. So an IP address. Routers look at IP addresses to determine where to route or send their information. So they work at layer three. Now we also have layer four which is part of the networking layers. So we have layers four three two and one that are primarily considered to be the layers of the OSI model that network engineers are mainly concerned about. So layer four actually can be composed of many different types of devices and this may",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Networking",
+      "content_type": "Story",
+      "timestamp": "10:40 - 11:26",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP05_-_Tech_Lesson_-_The_OSI-Model_with_Jacob_Hess.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_16",
+    "text": "make you scratch your head here but I'm going to say that a router in a switch can also work at layer four. work at layer four. Now don't get confused by this. A router is a layer three device and a switch is a layer two device but we can start to add more services to these routers and switches that can make them also function at layer four. So we can say for example a switch we can add routing functions to that switch and then it becomes a multi layer switch working also at layer three and then we can add some transport layer information regarding TCP and UDP working in that switch and then it becomes even a layer four device. Now a router can also do this so we can say that a router can also work at layer four if it's a multi service router and we also have another device which is a firewall.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Network",
+      "content_type": "Story",
+      "timestamp": "11:26 - 12:14",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP05_-_Tech_Lesson_-_The_OSI-Model_with_Jacob_Hess.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_17",
+    "text": "it's a multi service router and we also have another device which is a firewall.  You know I haven't mentioned that one yet so the hardware firewall is always a layer four device because it has to include the transport layer protocols in order for it to be a firewall.  four device because it has to include the transport layer protocols in order for it to be a firewall.  be a firewall.  So here we have layer four firewall multi service router and a multi layer switch.  Now another thing to note about any device that you're referencing in the OSI model is  that if it works at a specific layer it also works at all the layers beneath it.  So if we have a multi service router working at layer four it also works at layer three layer two and layer one a hub on the other hand since it only exists at layer one can  only work at layer one.  Good stuff Jake.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Network",
+      "content_type": "Story",
+      "timestamp": "12:09 - 12:56",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP05_-_Tech_Lesson_-_The_OSI-Model_with_Jacob_Hess.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_18",
+    "text": "only work at layer one. Good stuff Jake. Well what if we actually broke down some of these devices and talked about the differences concerning the OSI models. For example a lot of our students and listeners are probably familiar with the switch, the router and hub. Why don't we go in and break that down Jake. So other than the fact that they exist and work at these different layers there is a way that you can think about how data flows through a network in relation to these devices. So let's say a computer is sending information from itself to another computer. Now if these computers were just directly connected to each other and there was no networking devices in between them just a cable then the information would just go down to layer one",
+    "metadata": {
+      "domain": "IT",
+      "topic": "OSI models",
+      "content_type": "Story",
+      "timestamp": "12:53 - 13:38",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP05_-_Tech_Lesson_-_The_OSI-Model_with_Jacob_Hess.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_19",
+    "text": "and then come back up through the layers at the other side. However when you start to bring the devices into the mix the way that this information passes in relation to the OSI model changes a little bit because now you have a new device in between these two hosts that are passing traffic between each other. So let's just take a hub for example. If we have a computer let's say computer a sending information to computer b and there's a hub in the middle connecting them together it's actually still the same thing as if there was just a computer talking to the other computer because a hub again only works at layer one the physical layer. So in that case the information is still coming through layer seven down to layer one just passing directly through that hub on layer one and then going back up through the layers",
+    "metadata": {
+      "domain": "IT",
+      "topic": "OSI model",
+      "content_type": "Example",
+      "timestamp": "13:38 - 14:30",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP05_-_Tech_Lesson_-_The_OSI-Model_with_Jacob_Hess.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_20",
+    "text": "when it's received on the other side. Moving over to a switch we can now say that when the information passes from host a to host b is going down the layers to the physical layer going to the switch where the switch then looks at it up to layer two so as being unpacked up to layer two so that the switch can see the MAC address the MAC address destination and then it switches it out one of its ports that it sees the destination MAC address on and then it puts it back onto the wires so it goes back down onto the physical layer where then the host host b receives that information and then unpacks it all the way back up the seven layers. So I hope that gives you guys a really good kind of idea of where we're going with this because that will let you know how a router works as well.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Network",
+      "content_type": "Example",
+      "timestamp": "14:25 - 15:10",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP05_-_Tech_Lesson_-_The_OSI-Model_with_Jacob_Hess.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_21",
+    "text": "because that will let you know how a router works as well. So in the world of layer three we can think of the same concept so we have host a passing a message to host b but now these two hosts reside on two different IP networks we'll say one resides on the 172 16 dot zero dot zero network and another one resides on the 192 dot 168 dot zero dot zero network. So these are two different IP networks. So an information passes from host a and is destined for the network that host b is attached to the router then has to take that information unpack it up to at least layer three to look at that IP header and find out the IP destination to properly route it. So it will do that and then it will put the information back down to layer two then back",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Router Works",
+      "content_type": "Example",
+      "timestamp": "15:06 - 15:59",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP05_-_Tech_Lesson_-_The_OSI-Model_with_Jacob_Hess.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_22",
+    "text": "onto the physical layer then it will route out to the host and the host will then unpack  it back up all the way to layer seven.  So thanks Jacob for covering all these layers especially the differences between the router switch and hub because I think that's very important for our listeners and as I mentioned  this brought back memories on how we had to actually memorize this back when I used to  teach in the military network engineers and please do not throw sausage piece away right  from the bottom up but what if you need to memorize that top down from application presentation session transport network data and physical.  So another way to remember it from top down is all people seem to need data processing.  Again that's top down and then from bottom up please do not throw sausage piece away",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Network Layers",
+      "content_type": "Story",
+      "timestamp": "15:54 - 16:48",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP05_-_Tech_Lesson_-_The_OSI-Model_with_Jacob_Hess.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_23",
+    "text": "and this OSI tech lesson will stay with you for the long term guys so it's really setting a rock solid foundation. So Jacob let's talk about as we wrap up the show how the OSI model is in relation to the future of networking for our listeners and talk a little bit about SDN and how it affects this model. Sounds good. The future of networking is moving more towards application kind of centric type of networking model. So that's where software defined networking comes into play that's what SDN is software defined networking and how this relates to the OSI model is that network engineers are now needing to really consider all the layers of the OSI model not just the bottom four which have traditionally been called the networking layers that was layer 4, 3, 2 and 1.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "OSI model",
+      "content_type": "Example",
+      "timestamp": "16:48 - 17:39",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP05_-_Tech_Lesson_-_The_OSI-Model_with_Jacob_Hess.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_24",
+    "text": "have traditionally been called the networking layers that was layer 4, 3, 2 and 1. I'm buying people have been calling them the networking layers for years and years but now network engineers are starting to really need to look at the application presentation and session layers as well as the future of network engineering evolves and the world of IT really moves towards software defined networking and application centric network infrastructures. Thanks Jacob for sharing that with us as we wrap up the show. I hope this lesson was very helpful guys. It is the foundation and building blocks upon our last lesson what is a network and please email us any questions you have at questions at rockstarse.com and we'll help answer these questions and keep in mind lucky winners will be picked randomly for some awesome rockstar",
+    "metadata": {
+      "domain": "IT",
+      "topic": "networking layers",
+      "content_type": "Story",
+      "timestamp": "17:35 - 18:31",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP05_-_Tech_Lesson_-_The_OSI-Model_with_Jacob_Hess.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_25",
+    "text": "SE T-shirts at the end of the month. So again questions at rockstarse.com and guys and gals thanks for listening that's a wrap until next time you know what time it is it's time for you to level up in becoming a rockstar engineer. This rockstar SE class has ended but there's more ways to propel you on your ideal IT engineer journey. Head over to rockstarse.com for show notes and be sure to sign up for our mailer. This will give you exclusive access for some amazing free content to help you level up and accelerate your career. We appreciate you joining us and look forward to helping you learn, focus and succeed next time on rockstarse.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "rockstar engineer",
+      "content_type": "Story",
+      "timestamp": "18:31 - 19:13",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP05_-_Tech_Lesson_-_The_OSI-Model_with_Jacob_Hess.mp3",
+      "source_type": "podcast"
+    }
+  }
+]

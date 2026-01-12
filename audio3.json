@@ -1,0 +1,482 @@
+[
+  {
+    "chunk_id": "chunk_1",
+    "text": "Hey SC Nation, sorry we've been off the air for the past month, as we've been super busy lately. On the good news, we have been able to get many interviews and technical lessons done with some amazing engineers and thought leaders working in the IT space all cute up. We'll be sure to start releasing this once a week moving forward. Now this episode is sponsored and brought to you by our IT training company called NEXTGEN, and we are the creators of Zero to Engineer, a revolutionary online course for those that are looking to break into network or systems engineering from the ground up. Zero experience or certifications are required. Visit zerotoengineer.com and feel free to share this with your friends and family that are looking for a proper jumpstart in exploring a career in IT.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "IT space",
+      "content_type": "Story",
+      "timestamp": "00:00 - 00:52",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP12_Cisco_SE_Manager_and_CCIE_Rusty_Heird_shares_what_he_looks_for_when_hiring_and_more.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_2",
+    "text": "are looking for a proper jumpstart in exploring a career in IT. Hurry as enrollment will be closing down next week and again that is zerotoengineer.com and now on to the show. I think there's never been a better opportunity for what we do as SCs or engineers and I think there's lots of good opportunity for all of your listeners. Each week we provide tech lessons, answer questions and bring you interviews of the most successful engineers and thought leaders working in the IT space across technologies like data center, cloud, networking, collaboration and security. Listen in as you'll gain insights, strategies, tips and more to help you level up along your journey and becoming a rockstar SE. So let the class begin. Alright SE Nation, let's get started.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career",
+      "content_type": "Story",
+      "timestamp": "00:47 - 01:42",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP12_Cisco_SE_Manager_and_CCIE_Rusty_Heird_shares_what_he_looks_for_when_hiring_and_more.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_3",
+    "text": "So let the class begin. Alright SE Nation, let's get started. I am simply thrilled to introduce my formal manager from Cisco Rusty Hurd. He has one of the lowest CCI numbers I've seen at number 1753 in routing and switching for 20 years now and was a great mentor to me helping me push myself to always grow. I can't wait to dive into his past and current projects and gather his thoughts on what it takes to become a rockstar SE on his team and what he looks for when recruiting for top talent and more. Hey Rusty, it's been a while. How's it going sir? Hey Terry, it's great. How are you doing? I'm doing great. Thanks for doing this interview. Oh, you're very welcome. I'm glad to be on with you.",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Interview",
+      "content_type": "Story",
+      "timestamp": "01:36 - 02:22",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP12_Cisco_SE_Manager_and_CCIE_Rusty_Heird_shares_what_he_looks_for_when_hiring_and_more.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_4",
+    "text": "Oh, you're very welcome. I'm glad to be on with you. Well Rusty, since I've given our listeners an overview, please take a minute. Tell us a little more about yourself, such as where you're from, your current role and maybe some hobbies. Okay. I originally have from small town in South Arkansas called Warren, Arkansas. And when I graduated college from the University of Arkansas in Fayetteville, I worked at Texas Instruments. But back in 86, I moved to Tulsa, Oklahoma and I've been here ever since and I've worked for several different technology companies here in Tulsa. And like you said, currently I'm an SE manager at Cisco System and have been that for little over 10 years. As far as hobbies, I really like to travel a lot.",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Interview",
+      "content_type": "Story",
+      "timestamp": "02:18 - 03:04",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP12_Cisco_SE_Manager_and_CCIE_Rusty_Heird_shares_what_he_looks_for_when_hiring_and_more.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_5",
+    "text": "As far as hobbies, I really like to travel a lot. I've traveled to some really cool places around the world and really enjoy that. And then a few years ago, my wife bought me a digital SLR camera and so I picked up photography. And the thing I liked about it is I knew nothing about it. So it's been a really great learning experience to use in that. Yeah, I've seen some awesome pictures you always share like even on Instagram. Yeah. And before we start Rusty, I would like to have you share with our audience, maybe your favorite quote and let us know why you chose this one. One of my favorite quotes is by Thomas Edison. And he says, opportunity is missed by most people because it's dressed in overalls and looks like work.",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Mindset",
+      "content_type": "Story",
+      "timestamp": "03:01 - 03:43",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP12_Cisco_SE_Manager_and_CCIE_Rusty_Heird_shares_what_he_looks_for_when_hiring_and_more.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_6",
+    "text": "looks like work. And part of the reason I like that is because it just puts a picture in your mind of work, dressed in overalls. And I do think it's a good reminder for me to always keep my eyes open. Sometimes it's really easy in the tech world to get super focused on a particular technology or products. And I think there's a lot of things that go by that way. So it's a good reminder for me to keep my eyes open. Yeah, I love it, Rusty. When I first read it, it was just hilarious. Myself included, sometimes the easiest things are better to kind of just tackle, right? And like hard work, you just kind of procrastinate. Exactly. Thanks for sharing that with us. Yeah.",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Mindset",
+      "content_type": "Story",
+      "timestamp": "03:40 - 04:25",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP12_Cisco_SE_Manager_and_CCIE_Rusty_Heird_shares_what_he_looks_for_when_hiring_and_more.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_7",
+    "text": "Exactly. Thanks for sharing that with us. Yeah. I'd love to kind of go into, you mentioned you work that Texas instrument, but maybe there's other kind of career or roles you were in that you'd love to share with our audience. But let's go back in time. How did you actually start your career in IT? Well, for that, after I moved to Tulsa, I got a job with a company at the time called TellX Computer Products. And they were just in the early stages of making, you got to remember I'm a little old or Terry. So this was back in 86. So one of the big deals was the personal computer and TellX Computer products, which got bought by Memorix at some point and became Memorix. TellX started manufacturing their own PCs, which got them into networking.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career",
+      "content_type": "Story",
+      "timestamp": "04:22 - 05:08",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP12_Cisco_SE_Manager_and_CCIE_Rusty_Heird_shares_what_he_looks_for_when_hiring_and_more.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_8",
+    "text": "TellX started manufacturing their own PCs, which got them into networking. And so I was there as a sort of a consulting systems engineer in the home office at Tulsa for all the remote people in the US. And we started getting in gear that we would do testing with to make sure it worked with our brand of PCs from synoptics, wealth, fleet, Cisco, proteon. And so that was back in the early days of networking. There were all kinds of companies sprouting out, take advantage of it. And I learned a lot then. And one of the things that was happening is the industry was moving from the proprietary protocol that IBM had called S&A to more standards like Ethernet, ATM and IP. So that's where I got my start in IT. I worked for a couple of companies in Tulsa on their internal IT network.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career",
+      "content_type": "Story",
+      "timestamp": "05:03 - 05:58",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP12_Cisco_SE_Manager_and_CCIE_Rusty_Heird_shares_what_he_looks_for_when_hiring_and_more.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_9",
+    "text": "I worked for a couple of companies in Tulsa on their internal IT network. And then I worked at North Tel for a short time in Tulsa and then finally I finally landed at Cisco. I see. You mentioned Memorix. Did you start right into an engineer role? Yeah, so I did start as an engineer at Memorix TellX. But it was very different than the work I did at TI, obviously, because there I actually used my doubly degree. When I got to Memorix TellX, I was pretty much learning all about the OSI model and the stack of the protocols. I see. When during your career did you actually obtain your CCI, or when did you start studying for that? Yeah, so that was back. I got that in 1996 and I got it when I was at Memorix TellX.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career",
+      "content_type": "Story",
+      "timestamp": "05:53 - 06:39",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP12_Cisco_SE_Manager_and_CCIE_Rusty_Heird_shares_what_he_looks_for_when_hiring_and_more.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_10",
+    "text": "I got that in 1996 and I got it when I was at Memorix TellX. And so that's where I was studying. And you know, things have changed quite a bit since then. At the time, you could only, really there wasn't much to study with. And so what I had to study with as far as a lab was two Cisco 2500 routers with back-to-back wind cables, which is nowhere near what people have today. But of course, today the test is a lot harder with all the advances in iOS and all the tons of features that you have to know. Back then things were a little simpler. So I was able to pass it on my first time and was very glad to get that done for sure. Oh, wow. Not quite often you hear engineers say they passed their CCI on their first attempt, right? Yeah.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career",
+      "content_type": "Story",
+      "timestamp": "06:35 - 07:22",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP12_Cisco_SE_Manager_and_CCIE_Rusty_Heird_shares_what_he_looks_for_when_hiring_and_more.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_11",
+    "text": "Yeah. So then happen often, I don't know if it was luck or what that I was glad it was over. So did you go from Nortel straight into a management role? No. I went from Nortel to a job at Cisco as a local SE. I did that for a couple of years and then it was a consulting SE for probably five years and then since then I've been a manager. Okay. Can you tell the audience maybe what an SE is from a focusing on pre-sales like you joined on the same as the pre-sales SE, right? Yeah. So what a pre-sales SE does at Cisco is basically their job is to be a trusted advisor to the customer to go in sort of like a consultant and to say, what are you trying to do? What are the problems that you're trying to solve and to listen and then to propose a solution",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Career",
+      "content_type": "Story",
+      "timestamp": "07:21 - 08:12",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP12_Cisco_SE_Manager_and_CCIE_Rusty_Heird_shares_what_he_looks_for_when_hiring_and_more.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_12",
+    "text": "that can help them meet the goals that they need to meet. Obviously that means knowing a lot about the solutions that we sell, how those can be put into place and then also how to get those things designed and configured so that the solution works for the customer. What some advice you can share Rusty with our audience that are thinking about becoming a systems engineer and maybe possibly come work for Cisco one day? Sure, Terry. I think for sure one thing is you got to have a lot of knowledge about the products and the technologies that are out there today. The protocols are very important knowing how to do those design type projects is very critical. But one of the things that's also very critical is learning how to listen to what your customers",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Systems Engineer",
+      "content_type": "Advice",
+      "timestamp": "08:12 - 08:58",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP12_Cisco_SE_Manager_and_CCIE_Rusty_Heird_shares_what_he_looks_for_when_hiring_and_more.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_13",
+    "text": "are telling you as far as what they need, learning how to relate to people and learning how to convey your ideas with passion. One of the things that when I was in SE that I used to get asked quite a bit was what do you recommend? These customers really want to hear what you recommend. Some would want options but what I finally learned worked the best for me was to say what I would do if I were in your place is this. That basically showed them here's what I'm the most confident about as far as the solution for your problem and that seemed to make a big difference. On your team let's kind of dive into I know you're constantly recruiting right for good SEs. What do you look for when you're recruiting for top talent engineers?",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Recruiting",
+      "content_type": "Advice",
+      "timestamp": "08:58 - 09:44",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP12_Cisco_SE_Manager_and_CCIE_Rusty_Heird_shares_what_he_looks_for_when_hiring_and_more.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_14",
+    "text": "What do you look for when you're recruiting for top talent engineers? One of the things I talked to people about quite a bit is that we all have three things. One is how smart we are. One is how hard we work and one is the attitude that we bring. If I'm talking to folks and I can get two out of three of those things I'm going to go for work ethic and the attitude every time. If you've got all three that's like a bananas and a bonus and that's great because those folks can do exceptional things but folks that work hard and have a great attitude can also do really good things as well. That's I think a sure way that I get good employees when I can get that. Oh wow. No I love it. Being smart and then attitude and strong work ethics right? Right.",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Recruiting",
+      "content_type": "Advice",
+      "timestamp": "09:40 - 10:35",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP12_Cisco_SE_Manager_and_CCIE_Rusty_Heird_shares_what_he_looks_for_when_hiring_and_more.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_15",
+    "text": "Being smart and then attitude and strong work ethics right? Right. Exactly. I see. I like that. That's part of our culture values too as we've been expanding our team for our star up actually and we really strongly believe in having good attitude and strong work ethics. I mean this is so true to when it comes to talent because like you can learn stuff right? And if you have attitude and you have strong work ethic you can really pretty much learn anything. Yes exactly and I've run across some folks who are really smart but don't have a good attitude and what it does is it can really impact the team overall because it just brings down the positive nature of the work that you're doing and the work together.",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Work Ethics",
+      "content_type": "Advice",
+      "timestamp": "10:29 - 11:17",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP12_Cisco_SE_Manager_and_CCIE_Rusty_Heird_shares_what_he_looks_for_when_hiring_and_more.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_16",
+    "text": "down the positive nature of the work that you're doing and the work together. So that's why I really rank it third in most cases because of that. Okay. No this totally makes sense. So Rusty let's kind of dive into your current or let's say past project you've worked on that excited you the most and why? Sure. One of the things that I'm doing with my team right now is something called strengths finders and it's basically a model and a tool from a group called the Gallup organization which most everybody knows from the polling work that they do for all kinds of things. But one of the things that they learned is that they had all this data that they could put to use as far as with helping people know what their strengths are.",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Mindset",
+      "content_type": "Story",
+      "timestamp": "11:11 - 11:59",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP12_Cisco_SE_Manager_and_CCIE_Rusty_Heird_shares_what_he_looks_for_when_hiring_and_more.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_17",
+    "text": "put to use as far as with helping people know what their strengths are. And so I had each personal my team take a test takes about 30 minutes costs about $15 and it gives you your top five strengths. I think the basic premise of the model is that if you spend all the time that you have on development which is limited for each of us each day on making your weaknesses better, you'll bring them up to potentially power potentially subpar you'll improve them slightly. But if you spend that same amount of time on your strengths, you can exponentially grow that because the strengths of the things that you're naturally gifted and good at. And so I've had my team go through that and then each week when we have an SE meeting, I'll have one personal and a team talk about the action plan that they have for their strength.",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Strengths",
+      "content_type": "Advice",
+      "timestamp": "11:54 - 12:47",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP12_Cisco_SE_Manager_and_CCIE_Rusty_Heird_shares_what_he_looks_for_when_hiring_and_more.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_18",
+    "text": "strength. I think the reason I do that is so that the other folks can learn from them what they're doing and how they're doing it. But also you get to know the strengths of your teammates that way. And one of the things I've seen is that across our team there are probably two or three things that are more prevalent than others. And so our team has some strengths. And so I'm not there yet. It's a journey. It's a process that we're trying to figure out how to make the most use of. But one of the things that's really important to me is that the SEs on my team are working on their strengths as far as making them stronger. Hmm. I see. What's kind of one kind of strength that you could share with the audience? Yeah.",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Strengths",
+      "content_type": "Story",
+      "timestamp": "12:46 - 13:26",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP12_Cisco_SE_Manager_and_CCIE_Rusty_Heird_shares_what_he_looks_for_when_hiring_and_more.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_19",
+    "text": "Yeah. So one of the top strengths on my team, I think three or four people have is called Relator. And so what the Relator strength is is that you're really able to form good relationships with not necessarily everybody, but with a core group of people. And one of the things that that works great for is when you're a systems engineer, you have to have good relationships with your customers. And so one thing that these people do is instead of saying at the surface level of their relationship, they'll actually dig down to a deeper level, which makes a stronger bond. And I think that explains probably partly why all of our customers really like the SEs that they work with. Hmm. That's very interesting. I might have to run the tests for my team and see.",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Strengths",
+      "content_type": "Advice",
+      "timestamp": "13:25 - 14:13",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP12_Cisco_SE_Manager_and_CCIE_Rusty_Heird_shares_what_he_looks_for_when_hiring_and_more.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_20",
+    "text": "I might have to run the tests for my team and see. Yeah. I would highly recommend it. It's a good test to take for sure. I see there's a actually Wall Street best seller strengths finders 2.0 book. I could put that into show notes. Is that kind of relevant to this? I think from Gallup. Yeah. That is relevant because you get the book and within the book, there's a coupon for you to go take the test online. So that's the way that you get that. Okay. Perfect. Yeah. Well, thanks for sharing that. Now, let's kind of talk about maybe some keys to success that have helped you. So I'll start with kind of just rapid fire questions. Sure.",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Success",
+      "content_type": "Story",
+      "timestamp": "14:10 - 14:48",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP12_Cisco_SE_Manager_and_CCIE_Rusty_Heird_shares_what_he_looks_for_when_hiring_and_more.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_21",
+    "text": "So I'll start with kind of just rapid fire questions. Sure. Do you have any daily or weekly rituals that helped you become successful? Yeah. There's one thing I do weekly. What I do is on Friday afternoon is I'll set aside an hour. And I'll block my calendar for that hour and I'll look back at the week that I just had and kind of see where I did well, where I, where I didn't do well and also keep track of anything that I needed to do that didn't get done that week that needs to roll over. And that does two things. One, it helps me celebrate the successes that I had because one of the strengths that I have actually is as an achiever and one of the weaknesses of the achiever strengths is that you don't stop and celebrate success.",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Success",
+      "content_type": "Advice",
+      "timestamp": "14:44 - 15:31",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP12_Cisco_SE_Manager_and_CCIE_Rusty_Heird_shares_what_he_looks_for_when_hiring_and_more.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_22",
+    "text": "is that you don't stop and celebrate success. So I'm trying to sort of work that into my ritual on Friday afternoon, but and then also I look ahead to the next week and say, what do I have to do? And that really helps me so that when I come to Monday morning and I've had the weekend and slept a couple of times, I can look at the notes I have and go, okay, I've got to do these things this week. Oh, that's awesome. I think reflection is very important. So you can kind of quickly see where you can kind of figure out what you need to improve on, right? To become better. So I love it. That's exactly right. Constantly improving. What are some things you do to keep up with technology that helps you build mastery in",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Success",
+      "content_type": "Advice",
+      "timestamp": "15:29 - 16:11",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP12_Cisco_SE_Manager_and_CCIE_Rusty_Heird_shares_what_he_looks_for_when_hiring_and_more.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_23",
+    "text": "gaining new skills or mastering current skills? Yeah, that's a great question, Terry. And for me, I think it's a little different than the guys that work on my team. But one of the things I look at pretty regularly is called TED Talks and what that does. And I'm sure most people know what that is, but it shows you sort of what's what's coming down the pike years ahead of time, up to years ahead of time. But one of the things that's relatively new in the industry is IoT and there's some IoT TED Talks. I can send you a link to those that you can put in the show notes as well. And then I think podcasts are a great resource for learning. There's a couple of management podcasts that I listen to you. I listen to yours as well.",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Skill Development",
+      "content_type": "Advice",
+      "timestamp": "16:11 - 16:54",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP12_Cisco_SE_Manager_and_CCIE_Rusty_Heird_shares_what_he_looks_for_when_hiring_and_more.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_24",
+    "text": "I listen to yours as well. And I think those are just really useful for time that you're driving or exercising or whatever where you can pick things up. Oh, nice. Yeah. Yeah. Thanks for the shout out. Yes, sir. Absolutely. Yeah, I think podcasts is a great way, especially if you're commuting a lot of people commute. And even if you exercise, it's a great way to kind of multitask, if you will, because it's easier to just plug in some headphones, right? Right. And go for a jog. Now, what's your favorite tool or application or website that you can share with our listeners? Well, one of the tools that I want to talk about is something I learned from one of the essays that was on my team at one point. His name is Mark Braydler.",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Productivity",
+      "content_type": "Story",
+      "timestamp": "16:52 - 17:35",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP12_Cisco_SE_Manager_and_CCIE_Rusty_Heird_shares_what_he_looks_for_when_hiring_and_more.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_25",
+    "text": "essays that was on my team at one point. His name is Mark Braydler. And he introduced me to a tool called the Pomodoro technique. And what it is, it is a way for you to help you focus more when you're studying or when you're just trying to get work done. And it's basically where you do one thing at a time for 30 minutes, whether that's studying or email or expense reports or whatever. And then you'll take a break for five to 10 minutes and then you'll get back on it for another, you know, for the next block of time. And you can switch tasks between, but you only do one thing during that time because one of the things that I think has been a problem for me in the past is I'll get to work on something and some email will pop up the text or phone call.",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Productivity",
+      "content_type": "Story",
+      "timestamp": "17:31 - 18:17",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP12_Cisco_SE_Manager_and_CCIE_Rusty_Heird_shares_what_he_looks_for_when_hiring_and_more.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_26",
+    "text": "something and some email will pop up the text or phone call. And this really helps you when you need to get some focused time to really do that. Hmm. I love it. Pomodoro, huh? Yeah. Okay. I'll put that into show notes. I wonder if there's some like hardware gadget or like timers that work with the Pomodoro technique. There are plenty of apps in the app store for Google and for Apple or for your computer that have timers to do exactly that. Yeah, you're right. I see. Okay. Cool. Now, what book would you recommend to SC Nation and why? Well, I think the one that you mentioned earlier, the strengths, finders by the Gallup organization is definitely one I'd recommend.",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Pomodoro",
+      "content_type": "Story",
+      "timestamp": "18:12 - 18:56",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP12_Cisco_SE_Manager_and_CCIE_Rusty_Heird_shares_what_he_looks_for_when_hiring_and_more.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_27",
+    "text": "organization is definitely one I'd recommend. And then another one is how to fire up your presentation by a gentleman named Tom McCarthy. I got to take a class of his. It was, I think a three day class. And it was very helpful to me to help me learn how to do a better job of of conveying the passion that I have for something to other people. Perfect. One question I forgot to ask when we talked about your career, I wanted to kind of throw in here is if an engineer, you know, isn't the field or listening to the show and wants to kind of take the steps in becoming an SC manager or take a management path, what are some things that they can do to kind of prepare for that? Yeah, that's a great question.",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Career Advice",
+      "content_type": "Story",
+      "timestamp": "18:53 - 19:41",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP12_Cisco_SE_Manager_and_CCIE_Rusty_Heird_shares_what_he_looks_for_when_hiring_and_more.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_28",
+    "text": "Yeah, that's a great question. I think one thing for sure is be really observant of the managers that you work for now and in the past. See what they do well and see what they don't do well. And then line yourself up with some mentors, whether it's your current manager or not, that you see as being a good manager of people. Just having some conversations with those folks over time about what they would recommend for you will be very helpful because those kind of people are able to see into your life and to see what kind of things that you excel at, maybe that you don't see yourself and also give you some good advice on next steps that you can take. But I think one thing that is very helpful in addition to all that is for you to be a",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Management",
+      "content_type": "Advice",
+      "timestamp": "19:38 - 20:30",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP12_Cisco_SE_Manager_and_CCIE_Rusty_Heird_shares_what_he_looks_for_when_hiring_and_more.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_29",
+    "text": "mentor yourself, for you to work with someone who's not as far along as you to learn how\n to help them grow in advance.\n I think that's a really big key to learning how to be a just a better manager.\n Hmm, no, I love it, Rusty.\n And I think, I mean, you mentioned a couple of things just to highlight is we often don't\n take the time to get feedback, right?\n From my peers and colleagues.\n And that's so super important.\n And then, you know, just carving out some time to actually mentor and give back, right?\n That's super important as well for growing.\n Right.\n So now for the tech topic of the day, Rusty, tell us what do you want to share with our\n listeners?\n Well, Terry, I thought about this and I'm a manager.",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Mentorship",
+      "content_type": "Story",
+      "timestamp": "20:30 - 21:15",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP12_Cisco_SE_Manager_and_CCIE_Rusty_Heird_shares_what_he_looks_for_when_hiring_and_more.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_30",
+    "text": "listeners? Well, Terry, I thought about this and I'm a manager. I haven't been a direct engineer for quite a while now. So I thought, what in the world am I going to talk about? But one of the things that I still do is I'm involved in customer escalations and problems. So I thought I'd go through a list of sort of some basics and a lot of folks may know all this and that's fine. For when you've got a problem, what's a basic troubleshooting 101 list? So the first thing is don't panic. I've got a story from one customer that I worked with years ago where they're having some problems and they rebooted everything was their first step as a way to fix it. And of course, all the data that told us what the problem was was gone by the time it all came back up.",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Problem Solving",
+      "content_type": "Story",
+      "timestamp": "21:11 - 21:59",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP12_Cisco_SE_Manager_and_CCIE_Rusty_Heird_shares_what_he_looks_for_when_hiring_and_more.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_31",
+    "text": "came back up. So don't panic and reboot everything. Get the right resources engaged early and that's on your side, on the vendor partner side, whatever. And then one important question is what was the last thing that changed? And I can't tell you how many problem scenarios I've been in where that question was asked and of course the answer was nothing. And then we came to find out that yes, there was something that changed and that was what caused the problem. So that's a good question to ask early on. Give us an example, Rusty real quick. Tell us a story where you've asked that and you found the problem. Well, I'll tell you a story from when I was an engineer at a company in Tulsa where I was the problem.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Reboot",
+      "content_type": "Advice",
+      "timestamp": "21:58 - 22:44",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP12_Cisco_SE_Manager_and_CCIE_Rusty_Heird_shares_what_he_looks_for_when_hiring_and_more.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_32",
+    "text": "I was the problem. I had a sun workstation and that was, I think we were using it to put our network management on. It was added to the network and around that time, this was way back in the day, Terry. So it was on a 10 base five network, which if you do some looking on the internet had a thing called a vampire tab. So instead of switching ports, it actually had a tap that dug into the cable for the backbone. So anyway, most of the things were connected that way. Well, when I powered this workstation, the backbone would go down and of course cause all kinds of problems. Nobody could tell where the problem was coming from. At some point, somebody asked, did anybody check the cable that was attached to that work station?",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Network",
+      "content_type": "Story",
+      "timestamp": "22:41 - 23:35",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP12_Cisco_SE_Manager_and_CCIE_Rusty_Heird_shares_what_he_looks_for_when_hiring_and_more.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_33",
+    "text": "station? And we said, yeah, yeah, yeah. Well, it turned out that cable was bad. And so whenever I turned the workstation on it brought the whole network down, we were able to finally confirm that and we changed the cable out and everything worked. Oh, wow. So that was the last thing that changed and it costs quite a bit of money and a lot of stress. That's a lesson learned, right? You learn. Yeah, exactly. It's a great troubleshooting method. So I just moved to my office and I found that piece of cable that I brought with me because it's such a good reminder. Oh, wow. I might have to put that maybe even in the show title, right? Yeah. The vampire tap that brought down the network. Exactly.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "troubleshooting",
+      "content_type": "Story",
+      "timestamp": "23:34 - 24:20",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP12_Cisco_SE_Manager_and_CCIE_Rusty_Heird_shares_what_he_looks_for_when_hiring_and_more.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_34",
+    "text": "The vampire tap that brought down the network. Exactly. That's a great title. So let's recap. Is it three? Is it Don't Panic to get the right resources engaged and then three asking the question, what was the last thing that was changed? Yeah. So those are the three that I talked about. So let me give you just a couple more. Yep. Perfect. Get the data that you can and my recommendation is you're starting it layer one cabling up through layer three. There's a lot of data there that you can get that can help you. And then I think one really key thing is learning to know when to escalate the problem. You've got some group of team working on this problem at the beginning and they need",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Network",
+      "content_type": "Advice",
+      "timestamp": "24:16 - 25:02",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP12_Cisco_SE_Manager_and_CCIE_Rusty_Heird_shares_what_he_looks_for_when_hiring_and_more.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_35",
+    "text": "time to be able to sort of learn what's happening to be able to put their own view of what could be the problem and to do some initial steps. But there's a fine balance between giving folks time to get up to speed versus when you need to get a higher level resource involved who has more experience and is going to get to the bottom of it quicker. So I think that's a skill that you learn over time through experience. And you do need at some point to escalate to get better resources pulled into it. And then I think the last thing for me is was this a process problem and how do we fix that? So for example, my cable thing, one of the things that was the problem there is that we added something is the network and nobody checked the cable before we did that. So I think that was a process thing, right?",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Problem Solving",
+      "content_type": "Advice",
+      "timestamp": "25:02 - 25:53",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP12_Cisco_SE_Manager_and_CCIE_Rusty_Heird_shares_what_he_looks_for_when_hiring_and_more.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_36",
+    "text": "So I think that was a process thing, right? Let's check the cable before we do that from there on. Perfect. I love it. So it's top, it's six, right? Yeah. The items total. Okay. Recapping one, don't panic to get the right resources engaged three. What was the last thing that changed? And then for, get the data that you can from like layers one through three or as much information as possible. Probably document that too, right? Exactly. So you can roughly somewhere, right? That you can kind of transcribe somewhere else and learning to understand when to escalate. I think that's very important. Maybe some people put their ego in the way and just keep on troubleshooting non-stop.",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Process",
+      "content_type": "Story",
+      "timestamp": "25:51 - 26:32",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP12_Cisco_SE_Manager_and_CCIE_Rusty_Heird_shares_what_he_looks_for_when_hiring_and_more.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_37",
+    "text": "It's true. It's true. Was this a process problem? How do we avoid that? I love that because then you can create a process or template checklist to kind of avoid those problems in the future. Right. Oh, this is great. I'm going to list all the steps, guys. Don't worry in the show notes and you can kind of reference that. But there you go. Let's top six steps to help troubleshoot and get to the solution faster. Thanks for us, Steve, for sharing that. Yeah, Terry, for sure. So Rusty, I've truly enjoyed listening to your journey, insights, and appreciate you teaching us the tech topic of the day on six steps of troubleshooting as an engineer. Hopefully that will have a lot of impact and be useful to all you listeners.",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Troubleshooting",
+      "content_type": "Story",
+      "timestamp": "26:32 - 27:14",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP12_Cisco_SE_Manager_and_CCIE_Rusty_Heird_shares_what_he_looks_for_when_hiring_and_more.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_38",
+    "text": "Hopefully that will have a lot of impact and be useful to all you listeners. Any closing comments or something in general you want to share with our audience? Well, Terry, the only thing I was going to share is, you know, I'm old enough to have been through a couple of transitions in there's definitely a lot of things happening in this area right now. You've got IoT, you've got network programmability, you've got cloud, and all those things are changing sort of right before our eyes. So I think there's never been a better opportunity for what we do as S.E.'s or engineers. And I think there's tons of lots of good opportunity for all of your listeners. So I'm really excited for the future. Yeah, same here. We think the future holds bright in our career field.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career Field",
+      "content_type": "Advice",
+      "timestamp": "27:10 - 27:57",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP12_Cisco_SE_Manager_and_CCIE_Rusty_Heird_shares_what_he_looks_for_when_hiring_and_more.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_39",
+    "text": "We think the future holds bright in our career field. It will morph and change over time, but it's an exciting time to be actually joining the field of IT, right? That is very true. It's very much like when we went from the old proprietary protocols, the standard protocols, that was a huge change, and that's what's happening now. It just looks different. Yes, super exciting times. Well Rusty, thank you for being so generous with your time, expertise, and sharing your knowledge with our listeners. You're very welcome Terry, thanks for having me and I appreciate it. This Rockstar S.E. class is ended, but there's more ways to propel you on your ideal IT engineer journey. Head over to rockstarse.com for show notes and be sure to sign up for our mailer.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career Field",
+      "content_type": "Story",
+      "timestamp": "27:54 - 28:41",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP12_Cisco_SE_Manager_and_CCIE_Rusty_Heird_shares_what_he_looks_for_when_hiring_and_more.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_40",
+    "text": "Head over to rockstarse.com for show notes and be sure to sign up for our mailer. This will give you exclusive access for some amazing free content to help you level up and accelerate your career. We appreciate you joining us and look forward to helping you learn, focus, and succeed next time on Rockstar S.E.",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Career Growth",
+      "content_type": "Advice",
+      "timestamp": "28:36 - 28:53",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP12_Cisco_SE_Manager_and_CCIE_Rusty_Heird_shares_what_he_looks_for_when_hiring_and_more.mp3",
+      "source_type": "Podcast"
+    }
+  }
+]

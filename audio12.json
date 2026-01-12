@@ -1,0 +1,374 @@
+[
+  {
+    "chunk_id": "chunk_1",
+    "text": "What is the largest network you can think of? Each week, we provide tech lessons, answer questions, and bring you interviews of the most successful engineers and thought leaders working in the IT space across technologies like Data Center, Cloud, Networking, Collaboration, and Security. Listen in as you'll gain insights, strategies, tips, and more to help you level up along your journey in becoming a Rockstar SE. So let the class begin! Hey, what's up, SC Nation? You're host Terry Kim here. And today, I have my friend and co-founder of NextGent, Jacob Hess on the show, to provide you the tech lesson of the day. How's it going, Jacob? You ready to rock the show? Ready to rock and roll, Terry?",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Network",
+      "content_type": "Story",
+      "timestamp": "00:00 - 00:48",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP02_-_Tech_Lesson_-_What_is_a_Network_with_Jacob_Hess.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_2",
+    "text": "You ready to rock the show? Ready to rock and roll, Terry? All right, so what are you going to teach us today? Well, today we'll just start off by talking about what a network is. OK, that sounds great. So break it down for us. Well, I can break it down for you in a very few amount of words, actually. So at the smallest scale, a network is really just two or more computers that can send data back and forth to each other. OK, that's pretty simple. So you're saying, my computer and my daughter's computer can talk to each other throughout network. Yes, that's right. Simply put, that creates a network. Awesome. Now, I'm imagining there's different types of networks as well.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "network",
+      "content_type": "Story",
+      "timestamp": "00:44 - 01:27",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP02_-_Tech_Lesson_-_What_is_a_Network_with_Jacob_Hess.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_3",
+    "text": "Now, I'm imagining there's different types of networks as well. Yes, there are very many types of networks, but we can break it down into a description that you can actually understand by telling you some of the most common networks that are referenced in a networking field. But we can actually start by just saying, what is the largest network you can think of? And I'm sure everybody has thought of this. If you haven't, though, no problem, but I'll go ahead and tell you, it's the internet. The internet is the largest network in the world. And in fact, it's called the internet because it's many different networks all interconnected together. Oh, I see. Now, is this the internet that Al Gore had invented?",
+    "metadata": {
+      "domain": "IT",
+      "topic": "networks",
+      "content_type": "Story",
+      "timestamp": "01:22 - 02:06",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP02_-_Tech_Lesson_-_What_is_a_Network_with_Jacob_Hess.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_4",
+    "text": "Oh, I see. Now, is this the internet that Al Gore had invented? Yes, actually, that would be the same internet. All right, so let's go ahead and break this down a little bit more. So yeah, just giving you more kind of a scale of things, the internet is actually at the scale of billions of interconnected devices these days. Actually, reaching, I believe, into the teens of interconnected devices, as the most recent report I looked at. But anyway, let's go ahead and break down some networks that are commonly referred to and the most common ones that you will ever run into that people are always talking about in networking field are the local area network and the wide area network. So we're going to start there.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Networking",
+      "content_type": "Story",
+      "timestamp": "02:00 - 02:43",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP02_-_Tech_Lesson_-_What_is_a_Network_with_Jacob_Hess.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_5",
+    "text": "and the wide area network. So we're going to start there. So talking about the local area network or LAN, as it's called, LAN, local area network, this is the smallest kind of form of network. And you were just talking about you and your daughter's computer connecting together and communicating together. Well, that would really just be a local area network if they were all connected to the same switch or hub within your house. So you can kind of think of your home network as being a local area network. I see. So for those that might not be familiar with the terminology router or switch, they probably are familiar with that cable modem they've got sitting on top of their computer desk or somewhere",
+    "metadata": {
+      "domain": "IT",
+      "topic": "network",
+      "content_type": "Story",
+      "timestamp": "02:40 - 03:24",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP02_-_Tech_Lesson_-_What_is_a_Network_with_Jacob_Hess.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_6",
+    "text": "on top of their computer desk or somewhere in their living room. And there's these ports that are in the back of it that they connect to. Is that the same thing as a router or switch? Whenever you have a cable modem, sometimes it has a router or a switch built into it. And you plug your computers. It could even plug your printer into it. All these different devices that you want to communicate to in your house, those would all be considered to be on the same local area network. All right. So it's making more sense now for those that want to maybe enhance their local area network. They might go to, let's say, Best Buy to buy the latest wireless router for faster speeds or whatnot.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Networking",
+      "content_type": "Example",
+      "timestamp": "03:21 - 04:05",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP02_-_Tech_Lesson_-_What_is_a_Network_with_Jacob_Hess.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_7",
+    "text": "to buy the latest wireless router for faster speeds or whatnot. Yes, great point there, actually. Because that actually brings us into describing another type of local area network, which is the wireless local area network or the WLAN. That's pretty cool. All right. Let's break it down some more. OK. So we've talked about a local area network and a wireless local area network. And really, the differences between those is the wireless uses wireless radio technology to connect all the different hosts and devices that are connected to the network. Whereas a regular LAN uses physical cabling. It could be many different types of physical cabling. We won't get into all that.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "LAN",
+      "content_type": "Story",
+      "timestamp": "03:59 - 04:38",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP02_-_Tech_Lesson_-_What_is_a_Network_with_Jacob_Hess.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_8",
+    "text": "We won't get into all that. But really, they're both LANs. But these are two different types of networks that are referred to in the networking world. We'll stick with LAN for now. And we're going to move on to WLAN, the WLAN area network. So thinking again of the LAN, your house. And then you want to send some information from your house, the LAN at your house. Let's say to your friend's house. Let's say you want to do a video chat with your friend. Well, in order to do that, you're going to have your traffic leave your local area network and travel over a WLAN area network to get to your friend's local area network. And so that connection between the two local area networks",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Networking",
+      "content_type": "Story",
+      "timestamp": "04:36 - 05:15",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP02_-_Tech_Lesson_-_What_is_a_Network_with_Jacob_Hess.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_9",
+    "text": "And so that connection between the two local area networks is what we're considering, the wide area network. So a wide area network spans a large geographic distance. OK, so you're saying when I face time or jump on Skype with my friends, I'm going from my LAN to the internet and then to their LAN. And that's going through a wide area network. Is that correct? Yes, that's right. So actually, the internet is the largest wide area network in the world. What else, Chase? Well, we can actually say that there's many different types of WLANs out there that you might want to be aware of. So let's take a business, for example. A business might have a headquarters and a branch office. Can you imagine that?",
+    "metadata": {
+      "domain": "IT",
+      "topic": "WAN",
+      "content_type": "Story",
+      "timestamp": "05:11 - 05:54",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP02_-_Tech_Lesson_-_What_is_a_Network_with_Jacob_Hess.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_10",
+    "text": "Can you imagine that? I think a lot of people can. Well, if you wanted a high speed dedicated private connection from the headquarters building to a branch office, you might lease a private wide area network connection from a provider. So you would have a private connection that doesn't pass through the public internet because the public internet is kind of like the wild, wild west. And there's a lot of things out there like hackers and things that cause trouble, you could say. So in the case of a business, they might want to lease a private wide area network connection from their headquarters to their branch so that data is more safe and secure. And also, those type of connections are normally more high speed.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Private Connection",
+      "content_type": "Example",
+      "timestamp": "05:53 - 06:31",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP02_-_Tech_Lesson_-_What_is_a_Network_with_Jacob_Hess.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_11",
+    "text": "And also, those type of connections are normally more high speed. are normally more high speed. Although these days, internet connections are picking up and getting very, very fast across the world. So that's actually becoming a very wide use technology in the business world as well for these types of lands. But to do that, since the internet is a wild, wild west, you've got to encrypt that traffic whenever it travels out there. But that's going into another can of worms. So keeping things where they're at, talking about the wide area networks, we've described that the internet is a wide area network and that we can lease private wide area networks. And those are really the primary types of lands. So if we look at a wide area network,",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Wide Area Networks",
+      "content_type": "Story",
+      "timestamp": "06:28 - 07:09",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP02_-_Tech_Lesson_-_What_is_a_Network_with_Jacob_Hess.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_12",
+    "text": "So if we look at a wide area network, how do we get these private circuits that you mention? Couple kind of carriers come to mind. Is like AT&T or Verizon companies that business would seek out these type of private connections? The absolutely. So you'll just have a provider or a carrier exactly like you said that will provide these private connections. And normally, it's your internet providers. Your internet providers will provide you a public internet connection. And they can also provide you with a private WAN connection that traverses through a privatized network that goes through their network. All right, there you have it, guys. So we talked about what a network is. We talked about what a local area network is.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Network",
+      "content_type": "Example",
+      "timestamp": "07:06 - 07:52",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP02_-_Tech_Lesson_-_What_is_a_Network_with_Jacob_Hess.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_13",
+    "text": "We talked about what a local area network is. And then Jacob further broke down what a wide area network is. And we talked about different type of private WAN connections and also the importance of encrypting traffic if you're going over the internet to create some type of wide area network. So moving on, Jake, what else do you want to go ahead and break down for us? So piggybacking off, you were just talking about the providers. Well, a lot of people are familiar with cellular providers. So that actually can bring us over to our next topic that we haven't talked about that's similar to the wireless LAN. And that's the wireless WAN. So just like we had the wireless LAN, which is akin to a LAN, we have a wireless WAN,",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Network",
+      "content_type": "Story",
+      "timestamp": "07:48 - 08:34",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP02_-_Tech_Lesson_-_What_is_a_Network_with_Jacob_Hess.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_14",
+    "text": "which is akin to a LAN, we have a wireless WAN,  which is akin to a WAN.  So you can think of wireless cellular technology  and establishing a connection via the wireless technology  over a wireless cellular provider network  to create a wireless wide area network.  So in fact, if you think of your cell phone,  whenever it transmits data to get to the internet,  it's actually passing that data over a wireless wide area  network and then going into the cellular network  to get out to the internet.  That is awesome stuff.  So you're saying my smartphone actually comprises  of being connected to a local area network as well  and also a wide area network?  You could say that.  Well, your cell phone actually is just a single node",
+    "metadata": {
+      "domain": "IT",
+      "topic": "wireless",
+      "content_type": "Story",
+      "timestamp": "08:31 - 09:20",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP02_-_Tech_Lesson_-_What_is_a_Network_with_Jacob_Hess.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_15",
+    "text": "Well, your cell phone actually is just a single node on your own little network there. So there really isn't another local network until you connect more devices to your phone. And a lot of people may actually be familiar with initiating the Wi-Fi on their cell phone and connecting their laptop to that Wi-Fi. Now whenever you do that, you're connecting to a wireless LAN that is controlled and initiated by your cell phone. And data passing from your computer, connecting through the wireless LAN to your cell phone, then goes through the wireless WAN of the cellular network and then out to the internet. So you're actually going from a wireless LAN to a wireless WAN to get out to the internet, in that case.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Network",
+      "content_type": "Story",
+      "timestamp": "09:17 - 09:57",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP02_-_Tech_Lesson_-_What_is_a_Network_with_Jacob_Hess.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_16",
+    "text": "to a wireless WAN to get out to the internet, in that case. Yeah, so if I look at my wireless plan in my household, my daughter is just stream so much YouTube and videos and you name it, right? Doing FaceTime and they eat up a lot of my bandwidth which AT&T caps, unfortunately. And I have to pay for these overages. So the smart thing to do is try to connect to some wireless local area network and stream from there, right? Yeah, absolutely. Because most of the time, even if your regular internet service is metered, it's going to be metered at a much less cost than your cellular provider via your phone. So you should have much more higher data rates available to you on your regular internet versus a cellular.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Internet",
+      "content_type": "Story",
+      "timestamp": "09:54 - 10:45",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP02_-_Tech_Lesson_-_What_is_a_Network_with_Jacob_Hess.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_17",
+    "text": "to you on your regular internet versus a cellular. Yeah, recently I actually upgraded my Xfinity from having it metered at 300. And I believe I paid like $39 for unlimited bandwidth. So right now I have zero cap, basically. Yeah, that's super awesome. Yeah, so in that case, you know, anybody in that situation, absolutely. You would want to connect your phones and all your wireless devices to your home wireless network rather than using that metered data service via the cellular provider. So I hope that helps everyone with a better understanding of different type of local area networks, wide area networks, and also wireless local area networks, and wireless wide area networks. Now, some other networks come to mind,",
+    "metadata": {
+      "domain": "IT",
+      "topic": "LAN WAN",
+      "content_type": "Example",
+      "timestamp": "10:41 - 11:33",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP02_-_Tech_Lesson_-_What_is_a_Network_with_Jacob_Hess.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_18",
+    "text": "Now, some other networks come to mind, such as, let's say, metropolitan area networks or campus area networks, which one should we break down first Jacob? Well, since you're the man, I'm going to break down the man first, which is the metropolitan area network. So the metropolitan area network is something that confuses a lot of people from time to time. That really is something that's composed of many different wands and lands. And really, the whole point of having this term metropolitan area network is just to describe a larger network, something that's larger than a land that's composed of many wands and normally can span many city blocks or across a city-wide kind of geographic location.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "networks",
+      "content_type": "Story",
+      "timestamp": "11:31 - 12:16",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP02_-_Tech_Lesson_-_What_is_a_Network_with_Jacob_Hess.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_19",
+    "text": "many city blocks or across a city-wide kind of geographic location.  It would be like the city network.  OK, so let's take, for example, the city of Atlanta.  Well, think about it like this.  If you're the city of Atlanta, you're  going to have many different government buildings dispersed  all throughout the city.  And those government buildings are probably,  if you're up to date and technology,  going to need to connect to each other via different man  or different wands.  So in that case, whenever you connect all these different  government buildings together over these different geographic  locations, that's then considered  to be a metropolitan area network.  All right, it's all coming together now.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "network",
+      "content_type": "Story",
+      "timestamp": "12:11 - 12:54",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP02_-_Tech_Lesson_-_What_is_a_Network_with_Jacob_Hess.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_20",
+    "text": "All right, it's all coming together now. And I'm curious now, what makes the man all connected? What connects these networks together? Well, that would be wide area networks. So it could be things like the internet with encrypted VPN tunnels or private least wands. It could be many different types of circuits. It could also be privatized land connections like Metro Ethernet, which is actually a long haul type of local area network connection, which determinology there can get a little bit gray. You know, there's many ways that these different devices can interconnect, many different types of circuits. But the main way to think of a metropolitan area network is something that's larger than a land",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Networks",
+      "content_type": "Story",
+      "timestamp": "12:51 - 13:32",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP02_-_Tech_Lesson_-_What_is_a_Network_with_Jacob_Hess.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_21",
+    "text": "is something that's larger than a land and connected via many different wands. All right, so let's move on and talk about the campus area network. Yes, the campus area network. The campus area network is a type of network that's going to have usually some very beefy switches at the core. And a lot of times some beefy switches at also the distribution layer. And then you connect out to many different access switches across the campus network fabric. So in this case, campus networks are composed of many different switches. So that's kind of the main thing. I know we haven't been talking really about routers and switches too much here. But campus area networks are usually",
+    "metadata": {
+      "domain": "IT",
+      "topic": "campus network",
+      "content_type": "Story",
+      "timestamp": "13:30 - 14:11",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP02_-_Tech_Lesson_-_What_is_a_Network_with_Jacob_Hess.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_22",
+    "text": "and switches too much here. But campus area networks are usually composed of many different switches that are able to pass a high amounts large, large quantities of traffic. So you can think of like a school campus or a large, a large school campus, where you have many different buildings and classrooms and all this that have lots of data flowing between them all the time. And that would be a campus area network. So in a campus area network, you usually have like a central processing area where you have your other types of connections coming in, such as like your internet connection or other type of WAN services, or maybe even your server farm is located there near the core of your network.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "campus area networks",
+      "content_type": "Example",
+      "timestamp": "14:07 - 14:46",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP02_-_Tech_Lesson_-_What_is_a_Network_with_Jacob_Hess.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_23",
+    "text": "farm is located there near the core of your network. And network is created in such a way that nodes all around the campus have fast access to that core or as fast as possible. Now, another thing you can think of related to a campus area network is like a military base. And in fact, whenever I was in the military, and probably when you were in the military, you heard this type of term that was created, I think, by someone in the military, called a band, a base area network, which was debatable whether that's a real thing. In the civilian world, you don't really hear it too much. But in the military, it is something that's referenced a base area network. But really, it's the same thing as a campus area network.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "campus area network",
+      "content_type": "Story",
+      "timestamp": "14:43 - 15:21",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP02_-_Tech_Lesson_-_What_is_a_Network_with_Jacob_Hess.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_24",
+    "text": "But really, it's the same thing as a campus area network. It's just another name for something. Because a military base is kind of like a school campus in a way, because it's got many different buildings that all need high speed connections together with each other. And they're all kind of in the same geographic zone. They're not very, very geographically separated, which is what differentiates a campus area network from a metropolitan area network. Because a metropolitan area network needs these wide area long haul geographically separated connections to connect the different devices throughout the overall network. Yeah. And just a segue into the different kind of cabling methods you see in a campus area,",
+    "metadata": {
+      "domain": "IT",
+      "topic": "campus area network",
+      "content_type": "Story",
+      "timestamp": "15:18 - 16:00",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP02_-_Tech_Lesson_-_What_is_a_Network_with_Jacob_Hess.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_25",
+    "text": "of cabling methods you see in a campus area, what kind of cabling methods do we see between the core down to the distribution or to the access or in between these buildings? Well, since these are usually longer halls and they need a higher bandwidth, that's going to be fiber optics. That was a great question. You can have copper running, let's say, like 10 gig at the core between the switches, but generally, or even 40 gig these days. But generally, you're going to use fiber optics to connect your core or even between the course, which is a lot of times fiber is used. So most of the time, probably. But anyways, to answer your question, fiber optics is probably going to be your connectivity medium",
+    "metadata": {
+      "domain": "IT",
+      "topic": "cabling",
+      "content_type": "Example",
+      "timestamp": "16:00 - 16:40",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP02_-_Tech_Lesson_-_What_is_a_Network_with_Jacob_Hess.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_26",
+    "text": "is probably going to be your connectivity medium choice between the network infrastructure devices. And guys and gals, that's another great tech lesson of the day. We could probably do a whole other segment just on fiber optics, there are different cable medium types. Oh, absolutely. That's a very wide topic that we can discuss, for sure. All right. So let's go ahead and move on to the final type of network, I believe. Sure, this isn't actually the final type of network that exists period, but this is the final most important type of network that we're going to mention here. And that's the storage area network. There are other types of networks. I'll just go ahead and mention the personal area network,",
+    "metadata": {
+      "domain": "IT",
+      "topic": "network",
+      "content_type": "Story",
+      "timestamp": "16:38 - 17:17",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP02_-_Tech_Lesson_-_What_is_a_Network_with_Jacob_Hess.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_27",
+    "text": "I'll just go ahead and mention the personal area network, which are things like Bluetooth and whatnot. And there's other ones as well. You can find out there if you search on the internet, all the different types of network. But that's just really getting into the weeds. So this last one that we want to mention is very important, it's called the storage area network. And the storage area network is a network that's created, usually within another network. So it'll be within a land somewhere. And the whole purpose of it is to create high speed network connectivity between servers and storage devices. So let's say you have a disc array, and they're all connected via very high speed network connections.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Network",
+      "content_type": "Story",
+      "timestamp": "17:14 - 17:55",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP02_-_Tech_Lesson_-_What_is_a_Network_with_Jacob_Hess.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_28",
+    "text": "and they're all connected via very high speed network connections. And this could be all different types of technology, like ISCSI or Fiber Channel. So the storage area network is there to provide high, high, high speed connectivity between the servers and the storage medium. And the reason why that exists is so that it doesn't actually have to rely on the land to get access to the storage, because the land will be consumed by other traffic. And we want to keep this traffic between the servers and the storage in its own little consolidated network. So that's the purpose of the storage area network. Great. And I would assume since this is tied closely to the server farm, this would usually",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Storage Area Network",
+      "content_type": "Example",
+      "timestamp": "17:51 - 18:35",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP02_-_Tech_Lesson_-_What_is_a_Network_with_Jacob_Hess.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_29",
+    "text": "to the server farm, this would usually reside within a data center. Is that correct? Oh, yes, for sure. You wouldn't have to have it in a data center, but it would be where the center of all your data is, whether that's in an actual data center building, which is high quality, secure, and has lots of great air flow, and whatnot. As the time moves forward with technology, and we're starting to get these smaller storage area networks, they're able to actually be put in smaller locations. But yes, I mean, to answer your question, you would normally see Sands inside of a data center. Yeah, for sure. Well, that's a wrap, folks. We covered all the different type of networks.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Data Center",
+      "content_type": "Story",
+      "timestamp": "18:32 - 19:12",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP02_-_Tech_Lesson_-_What_is_a_Network_with_Jacob_Hess.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_30",
+    "text": "We covered all the different type of networks. Let's see if Jacob could say that really fast. Let's see. Land, when, can, man, W land, W land, sand. And I'm just going to throw Pan in there just for giggles. I don't know if that was fast enough. Let's try that a little bit faster, Jacob. Land, when, can, man, sand, Pan, W land, W land, W land, man, there you have it, folks. That is a wrap. I really appreciate you guys listening to this show. If this was informative, please leave us a review, rate our show. And be sure to check out the show notes, to check out our four-page Chi Chi guide on what is a network. And you'll be able to download that from rockstarse.com. And guys, you know what time it is.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Network",
+      "content_type": "Story",
+      "timestamp": "19:09 - 20:02",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP02_-_Tech_Lesson_-_What_is_a_Network_with_Jacob_Hess.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_31",
+    "text": "And guys, you know what time it is. It's time to take massive action and level up in your journey in becoming a rockstar engineer. This rockstarse class has ended, but there's more ways to propel you on your ideal IT engineer journey. Head over to rockstarse.com for show notes and be sure to sign up for our mailer. This will give you exclusive access for some amazing free content to help you level up and accelerate your career. We appreciate you joining us and look forward to helping you learn, focus, and succeed next time on rockstarse.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "rockstarse",
+      "content_type": "Story",
+      "timestamp": "20:01 - 20:35",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP02_-_Tech_Lesson_-_What_is_a_Network_with_Jacob_Hess.mp3",
+      "source_type": "podcast"
+    }
+  }
+]

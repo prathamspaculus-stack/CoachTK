@@ -1,0 +1,1658 @@
+[
+  {
+    "chunk_id": "chunk_1",
+    "text": "all right well I'd like to just jump right in you know JT is a co-founder of tufted needle and he bootstrapped this with the co-founder dahi Park and it's just a fascinating story took it from a six thousand dollar personal investment and scaled it to 250 million in Revenue in just six years flat what an incredible journey he's been featured on USA Today um entrepreneur uh recode Mashable you name it he's been on publicize on so many different uh startup magazines and TV shows we're honored to have you on the show JT um welcome to the show thank you uh JT once you um just kind of give a quick intro on you know maybe your background",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Bootstrapping",
+      "content_type": "Story",
+      "timestamp": "00:00 - 00:50",
+      "reference_link": "https://www.youtube.com/watch?v=7XR2CEC6lJk",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_2",
+    "text": "intro on you know maybe your background your upbringing and you know you're kind of up to finding or founding tough to needle so I as a kid um you know my dad and my parents went around a lot so um almost every other year of a new school district until I have high school I've always been entrepreneurial sold my parents car when I was on to my bus driver um had a small business um in middle school and then started um out of high school I started like building my friends computers doing I.T first saw me inside businesses wow I ended up at uh how old were you during that time um well I started that when I was 16. wow so he started really early on",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Entrepreneur",
+      "content_type": "Story",
+      "timestamp": "00:45 - 01:29",
+      "reference_link": "https://www.youtube.com/watch?v=7XR2CEC6lJk",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_3",
+    "text": "wow so he started really early on entrepreneurship I mean it was video games like that was better it's like so you installed the games then they don't work with the drivers or whatever and so I had to learn how to fix Wikipedia's my friends were like did you fix Mike if he was running taller than like now building computers or yeah they could make my own and then that led to helping small businesses build their machines and servers and then vpns and all that stuff so kind of scale out so I ended up deciding I didn't want to do service I wasn't really sure when I wanted to be as when I grew up anyway and so I just like Tech and cool what kind of cool ideas my dad always told me",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Entrepreneurship",
+      "content_type": "Story",
+      "timestamp": "01:26 - 02:03",
+      "reference_link": "https://www.youtube.com/watch?v=7XR2CEC6lJk",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_4",
+    "text": "kind of cool ideas my dad always told me stories of Silicon Valley and Steve Jobs and uh you know stuff you know a lot of innovation the brainiacs and Silicon Valley so I always wanted to go in that direction so anyway with the service business I ended up deciding I wanted to build products and I wanted to start how I'm going to get in the software so I ended up passing on a couple big Tech schools for uh I briefly I want to be a doctor so I ended up okay I applied for pre-med at Penn State but yep closest University in my dad went and got a big anniversary so that the parents kind of ambition for you or I was going to one doctor I wasn't sure what I wanted to be honestly yep",
+    "metadata": {
+      "domain": "Mindset",
+      "topic": "Innovation",
+      "content_type": "Story",
+      "timestamp": "01:58 - 02:41",
+      "reference_link": "https://www.youtube.com/watch?v=7XR2CEC6lJk",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_5",
+    "text": "I wasn't sure what I wanted to be honestly yep um I wanted to get into peer engineering and so the big Tech schools I was eyeing it had some opportunities there and then ultimately was like so stressed out like is this the right path maybe I should follow my dad's footsteps and be a doctor and so I switched to pre-med applied to a school locally which was Penn State which turned out to be a really great school for me um at the end um but like what am I doing it's art school I changed my major back to computer science so I made your computer Science and Mathematics into some entreprial classes there now I'm actually involved I'm on the uh",
+    "metadata": {
+      "domain": "Mindset",
+      "topic": "Career",
+      "content_type": "Story",
+      "timestamp": "02:35 - 03:16",
+      "reference_link": "https://www.youtube.com/watch?v=7XR2CEC6lJk",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_6",
+    "text": "entreprial classes there now I'm actually involved I'm on the uh I'm advising on the business school and say we know I did graduate with these requests to graduating it's like pretty funny but um so you dropped out I've been staying helped out three times three tasks yeah the final time I had um actually so somebody at Facebook found my online portfolio and so I once I started doing the interview process there and a few other places of like I went Squad Elite this yep not that they don't like this right but anyways while I was at school I built a couple different products um and then ended up finding my co-founder okay for top of the needle yeah so he bark yep yeah and so he was",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Story",
+      "content_type": "Story",
+      "timestamp": "03:09 - 03:52",
+      "reference_link": "https://www.youtube.com/watch?v=7XR2CEC6lJk",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_7",
+    "text": "yeah so he bark yep yeah and so he was in the um School of IST doing cyber security and oh so cyber security yeah that's cool he's like big on lap three insecurity and all that stuff nice apple is now but you guys were roommates or dorm mates so I so I had a I was I was like negotiating with professors because I didn't want to do classwork yep I don't like like contrived work so I negotiate with my professors and show them when I was building like in you know in software classes I'm like could I just build could could you just grade me on this so one of the others so some of them said yes some said snow but yeah one of the professors was like you need to meet",
+    "metadata": {
+      "domain": "IT",
+      "topic": "cyber",
+      "content_type": "Story",
+      "timestamp": "03:46 - 04:26",
+      "reference_link": "https://www.youtube.com/watch?v=7XR2CEC6lJk",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_8",
+    "text": "one of the professors was like you need to meet um the the person who was head of the entrepreneurship yep um program that was even started yep and so I ended up meeting her and she's like we'll build you with syllabus and you can get a free version of miter around this thing that you're building wow that's how I got connected to the business school even so that on the engineering side I had a syllabus built already what I was building on the business side it was where the business plan and 15 they were helping line up this day was actually helping line up like my first few customers which was wow if he ended up come suggesting I go to an entrepreneurship",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Entrepreneurship",
+      "content_type": "Story",
+      "timestamp": "04:21 - 05:00",
+      "reference_link": "https://www.youtube.com/watch?v=7XR2CEC6lJk",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_9",
+    "text": "come suggesting I go to an entrepreneurship um the entrepreneurship Club yep and Thomas I mean at that time becoming more extroverted but I was introverted and I wanted to just stay in my apartment code and so but she's like you know you could be other entrepreneurs and learn what they're doing you could share but they're you know what you're doing with them yep so I went to this club I got excited worked up my confidence and went and I noticed really quick that it's all talk and there wasn't a lot of like actual buildings right and so I didn't really find that I was on the same I couldn't find peers not to say that there wasn't possibilities that yep and",
+    "metadata": {
+      "domain": "Mindset",
+      "topic": "entrepreneurship",
+      "content_type": "Story",
+      "timestamp": "04:54 - 05:33",
+      "reference_link": "https://www.youtube.com/watch?v=7XR2CEC6lJk",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_10",
+    "text": "there wasn't possibilities that yep and if other people but I was really looking for other builders and makers right and that that seems like how you in the past like built up your experiences through actually building and that's funny you say that because at our school entity Academy it's all about building projects versus going to a bunch of text yeah that's like you know until I mean I don't know how to do something so just start with my hair the lineup for my father is a polymath it is like it does he's just a genius of many many different forms of under you know is under there's a scale of understanding on different areas is always inspired and so he gets his hands dirty and hell",
+    "metadata": {
+      "domain": "Mindset",
+      "topic": "Building",
+      "content_type": "Story",
+      "timestamp": "05:29 - 06:08",
+      "reference_link": "https://www.youtube.com/watch?v=7XR2CEC6lJk",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_11",
+    "text": "and so he gets his hands dirty and hell it doesn't do something he'll fix stuff in the house build live steam locomotives he'll take blueprints from Steam Engines scale him down he had a metal working shop and cnc's and blades and all that stuff in her garage so I grew up with that wow um so you know I he was always like you don't know how to do it just roll your sleeves up and figure it out they ain't got to learn on the job yep and so anyways so yeah so I ended up um she said how did it go even at that club that I sent you to do and so I was like well I'm uh I'm not sure I want to go back it was it for other makers and she goes it's funny you should say that",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Mindset",
+      "content_type": "Story",
+      "timestamp": "06:04 - 06:45",
+      "reference_link": "https://www.youtube.com/watch?v=7XR2CEC6lJk",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_12",
+    "text": "she goes it's funny you should say that I have another student who I sent Jeff who's an entrepreneurship minor yep he said the same thing maybe the two of you should meet so then I meet up with Davey and note him all along like they're saying do you know those people you said it's like you yeah so you sit down and you're like like we've known each other this whole time like we just met yeah so you know I was teaching him he he was he's a brilliant marketer he really understands the perspective of like a customer yeah and I'm like the product person so I was teaching him how to code he had a he had a business in school put himself through school he was teaching me about",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Story",
+      "content_type": "Story",
+      "timestamp": "06:41 - 07:17",
+      "reference_link": "https://www.youtube.com/watch?v=7XR2CEC6lJk",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_13",
+    "text": "school he was teaching me about marketing and we'd always talk about doing something together yep so zooming foreign I lead school he leads school he goes to work for a big data company I ended up in Silicon Valley making a name for myself out there for billion for helping build like engineering design teams thinking product user experience you know what is it for solving kind of a deal and so I ended up the final company I was at before starting our company uh day he we needed somebody to to be the director of marketing and then to do business development and all that but like I know the perfect person I haven't talked to him in a while I call him he flies out decides to join and",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Marketing",
+      "content_type": "Story",
+      "timestamp": "07:14 - 07:54",
+      "reference_link": "https://www.youtube.com/watch?v=7XR2CEC6lJk",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_14",
+    "text": "him he flies out decides to join and this company you know um I really like the founder and the team I was working with but honestly like the idea wasn't really a problem and that's what I started to see what the difference was with a lot of failed startups and the ones that succeeded yep because behind all of these like star companies there's hundreds and hundreds of like copycons all these other companies well hundreds yeah so I go to Silicon Valley I think and I'm going to final this Innovation and like not really Brilliance but not a lot of innovation it might not to say that there is right hands it seems like they're raising money with ideas that are just like",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Startup",
+      "content_type": "Story",
+      "timestamp": "07:48 - 08:33",
+      "reference_link": "https://www.youtube.com/watch?v=7XR2CEC6lJk",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_15",
+    "text": "money with ideas that are just like interesting or it's like it's like this idea or this company or this startup that's succeeding but it's got this little bit of a tweak and it's like sure tons of companies like that yeah and color whatever happens a little bit like that and so after pivoting three times I was just like you're like losing bits of my soul bits of my time working 16 to 80 80 hours a week I've got a wife yep and so I'm sleeping at the office under my desk so is dahi and it's like super super stressful at us and I'm like you know I'm done you know launching a product we had a ton of funding and we do all this marketing and lastly you have to find out people aren't",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Startup",
+      "content_type": "Story",
+      "timestamp": "08:30 - 09:09",
+      "reference_link": "https://www.youtube.com/watch?v=7XR2CEC6lJk",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_16",
+    "text": "do all this marketing and lastly you have to find out people aren't interested and they kill it too right they're killing it's like we're pivoting yep based up some watching the direction an idea of another investor yes a lot of friends who are really great about Investors but it's like you know I don't want to waste my time like that I'm okay Sergeant you know and experimenting but um you know I'm I'm investing so much of my life into my my brain power yeah my energy to these things and so I get excited and then it bombs and it's just like emotionally it's hard yep so if we get to six months or so there and I basically had to take my co-founder for a walk and and break the news so I'm so",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Startup",
+      "content_type": "Story",
+      "timestamp": "09:04 - 09:45",
+      "reference_link": "https://www.youtube.com/watch?v=7XR2CEC6lJk",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_17",
+    "text": "a walk and and break the news so I'm so embarrassed that after you recruited him I priced you pitched in I pitched him and I'm like I think I'm gonna I think before I go toxic because I'm about big on you know supporting the ideally right and so I've realized I'm not Supreme I need to leave this company and how big is this company like post series a b c c nut seed giant giant on the Giants I won't say remember but an insane number maybe it's a double digit yes seed round and wow so they're blocked and burned with probably pretty high oh yeah but the thing is like when you've got that kind of money like you know you can have a team of a dozen people for how long forever yeah yeah so where's the fire",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Company",
+      "content_type": "Story",
+      "timestamp": "09:41 - 10:20",
+      "reference_link": "https://www.youtube.com/watch?v=7XR2CEC6lJk",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_18",
+    "text": "forever yeah yeah so where's the fire find it right I see so they had a lot of cash in the bank small team right spitting 100 items on the wall all there's a lot of whiplash very much to one extreme you know and not to say that's not I'm going to be very respectful of that can't work it could work yep but you know we were kind of done with it and we're like I say I would come I was embarrassed I'm planning to leave and he's like while I was trying to figure out how to break it to you I was playing them maybe two so in that moment I'm like you what up we always talked about doing something together you want to do and he's like wow let's do it so we fist bumped in",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Team",
+      "content_type": "Story",
+      "timestamp": "10:15 - 10:49",
+      "reference_link": "https://www.youtube.com/watch?v=7XR2CEC6lJk",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_19",
+    "text": "wow let's do it so we fist bumped in down the night it's like okay well we don't want to be like all these others start of yo scene this is 2011 2012 2011 okay 2011 or early actually I think this was early 2012 in the early 2012 and so you don't have the idea of tough to know them right this is just like hey let's do something together let's let's we're like it's like okay if we're gonna go about this looking at the patterns of the companies that work what seems to be the things that work yep and so number one stuck with a problem not an idea yep and so we spent in the we were so burnt out on investors we're you know so we end up together extreme uh so let's pause here for a second",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Strategy",
+      "content_type": "Story",
+      "timestamp": "10:45 - 11:27",
+      "reference_link": "https://www.youtube.com/watch?v=7XR2CEC6lJk",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_20",
+    "text": "end up together extreme uh so let's pause here for a second for the viewers because there's no right and wrong in terms of should I fundraise right as the first time founder for should I bootstrap sure what I wanted to know is that in the mind of JT what made you think hey should I go raise a seat run and brown and do this properly right because that could have been one Avenue or I'm gonna bootstrap to sing walk us through that decision framework bootstrapping nothing that's what we wanted and honestly we came up with some really so let me just why is that mental why did that come out and why did they wanted the controller on Destiny you know and so no important Network you",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Strategy",
+      "content_type": "Story",
+      "timestamp": "11:20 - 12:01",
+      "reference_link": "https://www.youtube.com/watch?v=7XR2CEC6lJk",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_21",
+    "text": "know and so no important Network you don't want to look up to yeah then you talk to investors and then or in you know private equity and whatever and they you're you're bootstrapping and so they say oh you're building a lifestyle business from there it's like you know what then yeah then I'm gonna build a lifestyle because Bell chip was a great lifestyle business right left they just exited yeah then now and you're not I don't get to jump jump the story but right we ended up making pretty decent money and now I look back and I'm like baby we shouldn't have built it as big or wanted to build it as big as we did so now I'm advising my brother like lifestyle man like you don't need a lot",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Mindset",
+      "content_type": "Story",
+      "timestamp": "11:58 - 12:30",
+      "reference_link": "https://www.youtube.com/watch?v=7XR2CEC6lJk",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_22",
+    "text": "lifestyle man like you don't need a lot of money to like have a beautiful life absolutely and so uh you know and so anyway so we listed out we were so we just we got to see like where we don't want to buy our customers yep I like I don't want to sell yeah on the market if the product's good enough shouldn't it just win on its own absolutely but you know unfortunately there are a lot of like really clever marketers out there and who have like shittier product and it's like unfortunately in this day and age right now I think in a lot of ways the best marketer wins not the best product ones they do win but I feel like long term like five ten years they're gonna deal with churn and and nothing I",
+    "metadata": {
+      "domain": "Mindset",
+      "topic": "life",
+      "content_type": "Story",
+      "timestamp": "12:27 - 13:08",
+      "reference_link": "https://www.youtube.com/watch?v=7XR2CEC6lJk",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_23",
+    "text": "gonna deal with churn and and nothing I just had values yeah it's gonna drop them back there with the big Tech in a lot of ways and we're seeing that with a lot of other startups yeah it's like it's a house of cards yep and you can fool people in the meantime but nothing to all do but but yeah so we were like cars so let's let's recap for the viewers if I'm a Founder I'm listening to this what's what's some decision Frameworks that I should be thinking about if I say hey should I go raise a seed round or should I go bootstrap what some questions I should ask myself um well I think you know once you know what your problem is so we just wanted to solve the problem we were familiar",
+    "metadata": {
+      "domain": "Strategy",
+      "topic": "Fundraising",
+      "content_type": "Advice",
+      "timestamp": "13:03 - null",
+      "reference_link": "https://www.youtube.com/watch?v=7XR2CEC6lJk",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_24",
+    "text": "to solve the problem we were familiar with yep you know like Travis being in New York trying to hail a taxi and it's difficult and it's raining and whatever it is and it's like why isn't there enough for this yep you know and you see you hear these stories of Founders who like have their own problem yeah and so we spent two weeks thinking about what are the problems in our life yeah that are acting a pain fits that's how we randomly find mattresses of all things we're just like yeah the one thing that let's be working to do but we kept joking about it's like maybe we should try it so let's talk about the well just to recap on the balloon strap versus fundraising so you guys said we're gonna",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Problem",
+      "content_type": "Story",
+      "timestamp": "13:43 - 14:20",
+      "reference_link": "https://www.youtube.com/watch?v=7XR2CEC6lJk",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_25",
+    "text": "fundraising so you guys said we're gonna bootstrap no matter what why because we don't want we want to control our destiny we don't want to report to invest I think there's new ways to raise money now where you still could trigger dusted it yep but uh I think we're seeing more and more of that but you know for us it was if you remove the the funding as a constraint you are forced it's like playing burning your boats right when that's the lineman would use like quit your job and go start something yep so we only had so much money in our savings account so how much money did you have in your savings we had about six ish ish months I had I was living in an",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "fundraising",
+      "content_type": "Story",
+      "timestamp": "14:14 - 14:54",
+      "reference_link": "https://www.youtube.com/watch?v=7XR2CEC6lJk",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_26",
+    "text": "months I had I was living in an expensive apartment in Palo Alto yeah kids East in school and Palo also so expensively cupertino's yeah my apartment was like you know it was it was rough um but anyways you know it's expensive yeah and expensive to buy you know until again so what a motivation to take a leak absolutely and live off of the small amount of savings yup could have moved and sit and bought myself four times but same thing with dahi six months we'll see you guys yeah we we we're always we're always a little bit more private about our financial situations but yeah I mean he was he was crappy too yeah so six months Nest Egg that's perfect I",
+    "metadata": {
+      "domain": "Mindset",
+      "topic": "Financial",
+      "content_type": "Story",
+      "timestamp": "14:50 - 15:32",
+      "reference_link": "https://www.youtube.com/watch?v=7XR2CEC6lJk",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_27",
+    "text": "six months Nest Egg that's perfect I think me and my co-founder had about six months on our first startup yeah and we like literally burned our boats moved to Atlanta but we're burning our boats wrap this apartment only one way forward yeah three of us moved into an apartment for four months let's figure the ending out yeah and the fear it's like you know then get a job if it if you're a couple months out just go get a job yep and so that was that was our Hail Mary it didn't work out so we wanted to at least create some artificial fear or anything or incentive motivation if you'll raise money and honestly I didn't want to do it it's like you you build a pitch deck you have to go and like pitch pitch",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Startup",
+      "content_type": "Story",
+      "timestamp": "15:28 - 16:05",
+      "reference_link": "https://www.youtube.com/watch?v=7XR2CEC6lJk",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_28",
+    "text": "you have to go and like pitch pitch pitch oh yeah find some investors like think yeah to themselves how do I can I sell this thing and he did a huge  or flip it to the next investor not saying they all do that but a lot of them I think that's witnessed do yep and then once you get your money then you have to go hire your team yep and then you gotta and then you have to build in over how many months six months a year then you launch it to find that people like it or not I don't want to spend that much time doing that I'd like rather know real quick like whether somebody likes it we're building so we picked five problems and and just for the viewers you're very technical I mean",
+    "metadata": {
+      "domain": "Strategy",
+      "topic": "Startup",
+      "content_type": "Story",
+      "timestamp": "16:02 - 16:38",
+      "reference_link": "https://www.youtube.com/watch?v=7XR2CEC6lJk",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_29",
+    "text": "the viewers you're very technical I mean you're building PCS at 16 and had a small business and so you're you have a very technical background in Pen coding for viewers that are listening you know that are trying to build Tech startups you might want to go find a technical co-founder because one what I'm going through my head if I'm a founder and I don't know how to code I'm going to go raise a seed route that might be one better option because I need to go hire that technical co-founder but in JT's case he he is the technical co-founder so you know how to build product yeah and the thing is like at the end of the day what I think people forget is all we're doing is making tools for Tool",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Tech",
+      "content_type": "Advice",
+      "timestamp": "16:34 - 17:13",
+      "reference_link": "https://www.youtube.com/watch?v=7XR2CEC6lJk",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_30",
+    "text": "we're doing is making tools for Tool makers yep so if you don't know how to make a tool yep what do you do it exactly so I think somebody getting wanted to be a Founder it's like uh if you get a business degree go take some engineer it go alert it you can do it or find your engineer cover yep find your maker just just a recap right like if we look at two options bootstrap like JT's doing he can build product six months in that stick highly recommend that maybe even 12 months if you can afford it and if you don't have the technical expertise to build product then you can go raise a seed route maybe 100K 215 and kind of find that exactly the profile yep so now you've got six months Runway",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Founder",
+      "content_type": "Advice",
+      "timestamp": "17:09 - 17:56",
+      "reference_link": "https://www.youtube.com/watch?v=7XR2CEC6lJk",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_31",
+    "text": "yep so now you've got six months Runway you bootstrap this thing with six thousands on five called side concepts with six dollars so tell me about that idea where you're like Hey we're gonna put it three thousand each and put this into so for each of these we did we listed out so shopping for a mattress is one of them okay break down that problem what about it yep and so too many models I don't know from this I like I don't want to hassle with a sales person I don't want to go into a store yep and you know how to you know I have all these questions all these problems that like what is the about the experience I didn't like well the other experience when did he shop for a match he didn't",
+    "metadata": {
+      "domain": "Strategy",
+      "topic": "Bootstrapping",
+      "content_type": "Story",
+      "timestamp": "17:50 - 18:29",
+      "reference_link": "https://www.youtube.com/watch?v=7XR2CEC6lJk",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_32",
+    "text": "when did he shop for a match he didn't like and then what would we just do instead who came up with the idea about the mattress industry that was a experience I had you you I got married after college When shopping for a mattress it was but like he did it too yeah just was on my list but he's like that's so sorry to me maybe so that was one of our five so if you wanted to do it online because you're you're an online guy we both get it okay well most people go to the mattress store right because he didn't scale you know yeah you're instead of being on a quarter yesterday you're in the corner of everybody's Street on their phone yep so and if we could figure it out you could find any",
+    "metadata": {
+      "domain": "Strategy",
+      "topic": "online",
+      "content_type": "Story",
+      "timestamp": "18:26 - 19:04",
+      "reference_link": "https://www.youtube.com/watch?v=7XR2CEC6lJk",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_33",
+    "text": "their phone yep so and if we could figure it out you could find any mattress companies online literally you could but you know we wanted to We There we wanted to find a mattress company that could you could shift it yeah and there are companies that did it but they shipped Me by like LTL big trucks you have to take off work to receive it so we're like could you just put it in a small box yep so we had to figure that out but you know we ended up making a machine and all the other bed in the box companies but anyway so yes number one mattress then you have four more other ideas it's further ideas yep so we break down the problem what were we doing said and then we shortened that each of those",
+    "metadata": {
+      "domain": "Strategy",
+      "topic": "Problem",
+      "content_type": "Story",
+      "timestamp": "18:58 - 19:38",
+      "reference_link": "https://www.youtube.com/watch?v=7XR2CEC6lJk",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_34",
+    "text": "and then we shortened that each of those lists to a pitch yeah and so we built a fake website it was a very website but the photo stock image of a managers we broke down it's like all right so here are all the problems yeah so one mattress model instead of a lot one firm this works for everybody and maybe a free trial ship start to your door no sales person any sales person would be just us to start but we basically are not commissioned so like we want you to just get the best mattress you know service you know returns you know jipped and it's not hard to return and all these other tricks and games way to go into all of it but yep and then what are the what",
+    "metadata": {
+      "domain": "Strategy",
+      "topic": "Business",
+      "content_type": "Story",
+      "timestamp": "19:34 - 20:09",
+      "reference_link": "https://www.youtube.com/watch?v=7XR2CEC6lJk",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_35",
+    "text": "it but yep and then what are the what are the fewest of these that would have convinced us to buy from a mattress company you've never heard of it is sight and see if you think so we reduce that list convert it out into a website but a photo stock image of a mattress with a credit card form it'll be integrated into stripe early early we authorize but not capture your money so at least we knew I wouldn't necessarily advocate for this is a little gray yes I'm telling like the secret sauce like we did some testing and either testing yep you know we launched the site he launches a an ad yeah an online ad and then within 15 minutes somebody's hammering the processing button we're",
+    "metadata": {
+      "domain": "Strategy",
+      "topic": "Testing",
+      "content_type": "Story",
+      "timestamp": "20:06 - 20:41",
+      "reference_link": "https://www.youtube.com/watch?v=7XR2CEC6lJk",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_36",
+    "text": "hammering the processing button we're like holy and found it so we had four other ideas yep um two of which have validated just like that one okay everyone was like uh vitamin basically the idea was about vitamin packs we up pill pack started later I don't know if we oh I heard it custom bite of it like yeah I don't stack it went viral and read it yep so that was another one but this the supplies we were gonna have to raise money so we'll like strike them or not I'd have been a bigger company but we didn't want to do that that way yep um so then we had a few others one of them was a B2B business it was a product for software companies that did he had insights when he was ripping data and so",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Startup",
+      "content_type": "Story",
+      "timestamp": "20:38 - 21:16",
+      "reference_link": "https://www.youtube.com/watch?v=7XR2CEC6lJk",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_37",
+    "text": "insights when he was ripping data and so we built a PowerPoint presentation we actually went into like we pitched executively huge companies and they're like we're on a full of trial we did have the money to support ourselves that look so strip that one yeah top the needle of the mattress idea so in June of 2012 we wrote we launched that site ad somebody clicks they're like okay how long did that take that process to test a week one week yep yeah that from there we shut down site down and then through June of 2012 to October of 2012. it's like all right well are there even factories that can do this yeah that were made of physical product well let's go back going back to the purchase how",
+    "metadata": {
+      "domain": "Strategy",
+      "topic": "product",
+      "content_type": "Story",
+      "timestamp": "21:12 - 21:53",
+      "reference_link": "https://www.youtube.com/watch?v=7XR2CEC6lJk",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_38",
+    "text": "go back going back to the purchase how many people purchased the mattress well they were trying to purchase somebody was trying they didn't even have a mattress they were hitting the process yeah and but we didn't have a product it was a it was a fake right right so they didn't actually put the credit card in they did but it wouldn't author they did wouldn't authorize it it would authorize but not capture the fun oh there's a form of in mind the way the transactions work behind this so how many orders did you get that you're like all right this is it one you got one order and you're like okay this is this is not a credit card decline but the system error and then we're like all right within 15",
+    "metadata": {
+      "domain": "IT",
+      "topic": "transactions",
+      "content_type": "Story",
+      "timestamp": "21:48 - 22:22",
+      "reference_link": "https://www.youtube.com/watch?v=7XR2CEC6lJk",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_39",
+    "text": "then we're like all right within 15 minutes if we sold another one in 15 minutes we're getting the math on the napkin like we could be wrong and profitable click but we have to make a mattress so I shut the site down and I see it right at the next day that night June 2012 to October 2012 we had to figure out if we could even find a factory to make one right the more we dove in the more we're like oh my God like it's bad like not only the customer experience sure about the products right in the way the margins work it's like whoa not good yep like there are huge huge markups like the com the mattress ipop was for several thousand dollars then you can manufacture that for a hundred",
+    "metadata": {
+      "domain": "Strategy",
+      "topic": "Startup",
+      "content_type": "Story",
+      "timestamp": "22:19 - 22:58",
+      "reference_link": "https://www.youtube.com/watch?v=7XR2CEC6lJk",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_40",
+    "text": "you can manufacture that for a hundred bucks so like and so you say I go in and I'm like getting more and more Angry like we need to fix this so I'm a Tempur-Pedic and it's like six or eight grand what's the markets on that mattress I don't know their Marge I see you know and I'll talk about specific companies yep but it was a it was a well-known real that I bought from wow so when I learned about the supply chain and like you got to be kidding wow of course there's a lot of investors in this industry yeah so anyway so we start drop the needle this one I'm thinking that yeah we start tuck the needle officially and so it's supply chain figure that whole thing out over the",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Strategy",
+      "content_type": "Story",
+      "timestamp": "22:53 - 23:28",
+      "reference_link": "https://www.youtube.com/watch?v=7XR2CEC6lJk",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_41",
+    "text": "figure that whole thing out over the summer and we launched in October of 2012. yep six thousand dollars to a bank account six thousand and three thousand each three thousand each because I think I think it was I'm like the same name in the bank but then the bank is a big chain you need to put so many so much money in right and then we had to write checks so we that money went in to open up our bank account yep and then we'll launched the site and just like we did in who's 15 minutes yep we started making sales what wow so within like I want to say the weeks yeah well I'm in profitable which means we aren't able to pay our bills yep and buy ramen noodles to stay alive yep so I we I ended up",
+    "metadata": {
+      "domain": "Strategy",
+      "topic": "Launch",
+      "content_type": "Story",
+      "timestamp": "23:25 - 24:02",
+      "reference_link": "https://www.youtube.com/watch?v=7XR2CEC6lJk",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_42",
+    "text": "to stay alive yep so I we I ended up moving it from Palo Alto to Phoenix Arizona yep we can't survive here you guys both move well yeah and so we ended up finding I'd be both moved into was I went to a remote marriage somebody might say Palo Alto to kind of ramp down the apartment and then I have it without the Arizona and let them take his Florence OR wow so it was Christmas so so anyway that was October 2012. we get the Romney profitable yep so and what is Romney profitable you guys be able to pay yourselves a salary or pay bills pay bills she keep the lights on out of it yep and go to the grocery store and buy ramen noodles to stay alive yep which is",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Strategy",
+      "content_type": "Story",
+      "timestamp": "23:59 - 24:41",
+      "reference_link": "https://www.youtube.com/watch?v=7XR2CEC6lJk",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_43",
+    "text": "ramen noodles to stay alive yep which is a huge relief because okay now I don't even get jobs and so all right so that's our minimum so we wanted to go you know our minimum was we just wanted to be financially independent that's Financial Independence debate yep and if we can go big and disrupt something giant great now you guys are both in your late 20s right we understand this 26 26. yep and that we skipped a part of the six-month mattress manufacturing hunting like I almost automatically going to China like Korea like you guys we wanted to make anything that you guys want to do in the states and so what what made you think about oh we can actually find the manufacturer that produces",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Financial",
+      "content_type": "Story",
+      "timestamp": "24:37 - 25:20",
+      "reference_link": "https://www.youtube.com/watch?v=7XR2CEC6lJk",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_44",
+    "text": "about oh we can actually find the manufacturer that produces cheaper mattresses I couldn't I couldn't find websites yeah I think they happened now because now they're like looking for the next top of the needle in the call right no but um but yeah so I couldn't find them I found a trade magazine you know and I use a piece of paper and a pencil on the phone and start calling and I'm like I found this um a sales person who must have had a boring day in these I'm like I cut my mattress open what's this component what's that component like I don't know what this fabric is it's not a woven it's not a woven or a knit and he's like that's called ticket yep and then it's like",
+    "metadata": {
+      "domain": "Strategy",
+      "topic": "Problem",
+      "content_type": "Story",
+      "timestamp": "25:13 - 25:50",
+      "reference_link": "https://www.youtube.com/watch?v=7XR2CEC6lJk",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_45",
+    "text": "called ticket yep and then it's like that's called memory foam that's called whatever foam and so it says Michael who makes this company inside well this company that company is out writing down their phone numbers to start calling them navigating The Social Network of a phone book basically you don't you know it doesn't have to be that complicated no I think it's getting Scrappy down to the basics see just pick up the freaking phone which is not phone calls and then the sales people wouldn't they're like who are you what company are you with I'm like an entrepreneur you're like no hang on yeah so then I rented a car and I droved I literally would walk into Dawn to the",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Strategy",
+      "content_type": "Story",
+      "timestamp": "25:47 - 26:18",
+      "reference_link": "https://www.youtube.com/watch?v=7XR2CEC6lJk",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_46",
+    "text": "I droved I literally would walk into Dawn to the factory floor you go get this big industrial park where else yeah where else and all the doors are locked during business hours or what that what's going on here so I drive around the back I see trucks I just like get on my car and just hop in doesn't have silence I was like yeah and I'm like look resistors are like oh you know Jim over there so I said talk about that in the level it's like it's like hey so we have a meeting like no but it's things like I have to get in like he's like all right well I'll take the meeting so I ended up doing that to find the guy that was epic So eventually so we finally filed somebody to make our",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Story",
+      "content_type": "Story",
+      "timestamp": "26:14 - 26:47",
+      "reference_link": "https://www.youtube.com/watch?v=7XR2CEC6lJk",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_47",
+    "text": "so we finally filed somebody to make our mattress and then we start ship it so we launched the company and look it up which when we registered site October 2012. yep and from and then Arctic then Robert possible within a few months wow huge relief yep and then the following year we grew we relocated a few minutes yep we um worked out of Dave's apartment and eventually found a Trans an auto transmission shop that had a front office available super scrapping right yeah working in cafes and then we lived to his Auto transmit with shop and Apache Boulevard and Tempe Arizona and yeah and then we started you know our brothers my my brother Tyler and his brother gunny started so our first",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Startup",
+      "content_type": "Story",
+      "timestamp": "26:44 - 27:23",
+      "reference_link": "https://www.youtube.com/watch?v=7XR2CEC6lJk",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_48",
+    "text": "brother gunny started so our first employees they did customer service yep so we brought family in I think Tony work with family as long as you said expectations sure so I bring in our family into cost so we do a million in sales the first year wow which isn't much if you break it down like tick margins out take out sure there's still a lot zero to one million is the hard shirt for first time family so then the following year we do nine wow that's when like 900 that's when the other entrepreneurs see it and there's differences between entrepreneurs who make yes and not experience who follow yep so so anyway so we end up launching all these other entrepreneurs start and then I'm not",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Entrepreneurship",
+      "content_type": "Story",
+      "timestamp": "27:19 - 27:55",
+      "reference_link": "https://www.youtube.com/watch?v=7XR2CEC6lJk",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_49",
+    "text": "entrepreneurs start and then I'm not going to name name for one popular with a New York and then one in you know how and then Bata and you know there's others locked in clouds to start because the barriers to entry and finding a factory to condense them the all of a sudden becomes these yeah then you see top the needle just taking off on a rocket right but you see all they're in there like we can do the same thing as when they copy the model one match or in the 10 inches free trial all the stuff we figured out they mimic yeah the older mattress companies start mimicking too and so it looks like it's been done all along but we are the right attacks of the whole thing well after I got to know",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Strategy",
+      "content_type": "Story",
+      "timestamp": "27:51 - 28:26",
+      "reference_link": "https://www.youtube.com/watch?v=7XR2CEC6lJk",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_50",
+    "text": "the whole thing well after I got to know you I mean I feel like you guys pioneered and disrupted this industry and for first time Founders you know I think it's important that if you create something you should innovate right you should innovate yeah create innovate and disrupt and if you don't want to compete you got to keep making right keep changing and so one of the competitors at least I know that came into the market big time was Raising lots of money was Casper so I'm sure Casper was one of your main yeah and they started 2014 2004 two years ahead I mean like looked on exactly like our site except for our branding difference where I changed the product a little bit did",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Innovation",
+      "content_type": "Story",
+      "timestamp": "28:23 - 29:00",
+      "reference_link": "https://www.youtube.com/watch?v=7XR2CEC6lJk",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_51",
+    "text": "changed the product a little bit did your beds roll out and and expand so that's what we did they were like oh no way we're we were we started on a table wow wooden dowel we added a mattress and a mattress back tape it yep well before we tape it we'd cut a little hole in the side yep we'd roll it on the table with a wooden dowel you take a shot back on on sucking mode on reverse suck the air out then we'd roll it tape it slide it into a box yep then we hear like wow we can't keep up with the volume of sales then we find this metal compactor that would compress it so we don't have to use the dowel in the shop back then we get attach a heating element then we find an engineering company that would",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Strategy",
+      "content_type": "Story",
+      "timestamp": "28:56 - 29:37",
+      "reference_link": "https://www.youtube.com/watch?v=7XR2CEC6lJk",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_52",
+    "text": "find an engineering company that would fold and squeeze and roll it all automatic and put it into a box because we didn't have enough um like Leverage to get exclusivity done a machine then goes in fact or isn't the factories are like we're going to say yes all the startups now like Catalina who eventually would say no to all of us absolutely convinced one of them to do it now they're saying yes to everybody they got the same machine so use all the same software all the process that we help them to innovate so we basically built the factory it helped they did the work we helped Factory build their Factory to cater the top needle which then became the factory for all our",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Innovation",
+      "content_type": "Story",
+      "timestamp": "29:34 - 30:08",
+      "reference_link": "https://www.youtube.com/watch?v=7XR2CEC6lJk",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_53",
+    "text": "then became the factory for all our competitors wow which now looking back the competitors were super helpful because all their money they were spending raised awareness it did I did it we just continue to grow bootstrap right we think getting comfortable with shopping for mattresses online I sure that became the new Norm so looking back I've only had actually pretty thankfully spelled that buddy yeah because it accelerated us but and you know we had to play the game different we couldn't do giant Subway takeovers at a huge washer in New York City to try to buy our customers we had to be profitable all the way and what didn't raise any money what that's that's what's",
+    "metadata": {
+      "domain": "Strategy",
+      "topic": "Growth",
+      "content_type": "Story",
+      "timestamp": "30:03 - 30:40",
+      "reference_link": "https://www.youtube.com/watch?v=7XR2CEC6lJk",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_54",
+    "text": "money what that's that's what's incredible about the story two Founders I mean two set of Founders going on two different paths literally Casper raising I don't know what they raised at I know it was a lot of nice nine figures yeah and yeah hundreds of millions of dollars six thousand bootstrap and seeing identical path but then Casper not being profitable and it's kind of the Silicon Valley Kool-Aid right like they don't worry about profits now the sentiments change a lot so it's different but in the past it's like just growth grow at all costs and they're just they're running to pass I don't care about growth I want to build a great product yeah solve the problem and the company",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Founders",
+      "content_type": "Story",
+      "timestamp": "30:35 - 31:17",
+      "reference_link": "https://www.youtube.com/watch?v=7XR2CEC6lJk",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_55",
+    "text": "yeah solve the problem and the company will find its size yep cans if the customer is taken care of and the employees are taken care of and you know and I can feel good about what I'm doing you know I I believe in like operating out of like from my heart like enabling people to get what they want if employees are doing the thing they will they don't like it anymore leave yep um we all know we're in for if I raise money from investors I don't want a ton of strings attached it's going to be growth and it's sacrifice at all costs forget that I'm not doing those anymore yep so what what one to nine um then you guys launch on your own website but you also launch on Amazon",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Growth",
+      "content_type": "Story",
+      "timestamp": "31:12 - 31:54",
+      "reference_link": "https://www.youtube.com/watch?v=7XR2CEC6lJk",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_56",
+    "text": "website but you also launch on Amazon correct yeah Amazon is a huge huge um strategy for us yeah talk about that well so you know where phrases being Geniuses for like carving out that market that's not what we're doing we wanted to have a place to point to reviews and it's like well I don't really I don't trust any reviews on the on the company's own website yep so let's make sure our product's badass yep our customers love it and we're not gaming it yep because when you put it on another platform it's out of your control I mean yeah there's gaming of reviews and stuff Insurance on on platforms we didn't want to play that because in the year it's also a house of",
+    "metadata": {
+      "domain": "Strategy",
+      "topic": "Launch",
+      "content_type": "Story",
+      "timestamp": "31:49 - 32:27",
+      "reference_link": "https://www.youtube.com/watch?v=7XR2CEC6lJk",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_57",
+    "text": "because in the year it's also a house of cards I mean they're honest authentic I mean and make sure we try to call ourselves out on our we did it or a team but like we if we're going to put it on Amazon to send reviews better be a good product sure so we wanted to be viral good valid product but also affordability I think you guys cracked the nut on yeah cutting out the middlemen so to speak the brick and martial words to charge what we need and pass those savings so as long as we can afford our margins make the product as long as we pay our employees while and confront feature development like great and then we'd they'd be back into the price that way and when you",
+    "metadata": {
+      "domain": "Strategy",
+      "topic": "Product",
+      "content_type": "Advice",
+      "timestamp": "32:22 - 33:02",
+      "reference_link": "https://www.youtube.com/watch?v=7XR2CEC6lJk",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_58",
+    "text": "into the price that way and when you launched like how much was your typical mattress like on average uh thousand dollars thousand dollar mattress nice um so you do one to nine and then from there how many employees are you at at 9 through the thirteen thirteen we move out of the transmission shot then we moved on to um Grant Street behind the baseball stadium Downtown Phoenix yep and a really cold oven um got a really good deal and so then we go to 45 um let's say if we nine million and 45 million 40 employees then 100 million and then we got to 250 million annual revenue before we did the merge of cert symbols wow so year five you got to 100 million",
+    "metadata": {
+      "domain": "Strategy",
+      "topic": "Growth",
+      "content_type": "Story",
+      "timestamp": "32:58 - 33:47",
+      "reference_link": "https://www.youtube.com/watch?v=7XR2CEC6lJk",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_59",
+    "text": "symbols wow so year five you got to 100 million um I don't remember the year I'd say it's the first year 2013 was one yep then 14 was nine 15 was 45 and then 16 I think we had 95 105 somewhere in there okay wow then yeah don't call me no I don't remember it's been a while yep and then the last year did 250 and then tell us that the transition to this merger how did it happen so we figured out how to go out of home marketing and open up stores so we would suck all of the sales in the local city like a black hole yep we need one store not a store in every single quarter we figured out to do it and it wasn't in the hidden Arc editors and it was all marketed but it was customer",
+    "metadata": {
+      "domain": "Strategy",
+      "topic": "Growth",
+      "content_type": "Story",
+      "timestamp": "33:40 - 34:30",
+      "reference_link": "https://www.youtube.com/watch?v=7XR2CEC6lJk",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_60",
+    "text": "was all marketed but it was customer love that's what it was and the marketing was just fuel you have drops over you would go into a city you'd be dropping us do our to get the awareness we already have customers there we put one store and then Walt all the customers would go in we didn't match the store to go bankrupt what do you mean one store like a physical store physical store oh wow but the thing is because we're cash poor yep we're doing 250 well we're hit the Run rate we know because like they know I think we did that Year One almost 200 175 190 somewhere where we hit a 250 million run rate but even though we're big and revenue we aren't so big in profit because we're",
+    "metadata": {
+      "domain": "Strategy",
+      "topic": "Marketing",
+      "content_type": "Story",
+      "timestamp": "34:27 - 35:04",
+      "reference_link": "https://www.youtube.com/watch?v=7XR2CEC6lJk",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_61",
+    "text": "aren't so big in profit because we're funneling all the cash back in to grow up which now in hindsight I kind of wish you did it but so but then we found this and why is that to grow more steadily and to maybe take yeah because we got our eye out the ball it's a huge mess up I think is that we stopped creating then we'd start hiring people in our company don't understand how to make stuff and then we're spending all this time scaling not thinking about what are we going to build next for our customer maybe it's not a mattress we have customers ask them for like sure Furniture other products we did yeah fully good speed design luggage we design cookware we designed office",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Growth",
+      "content_type": "Story",
+      "timestamp": "35:01 - 35:36",
+      "reference_link": "https://www.youtube.com/watch?v=7XR2CEC6lJk",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_62",
+    "text": "design cookware we designed office furniture all before all those d2c companies did in our Workshop wow and we did this after the merger or before before the merger and why didn't those products launch honestly because we were so concerned about growth and I think we had gone a little slower it would have been bigger later and then so I think a lot of companies have been started doing those things after that and why did you want to grow so fast what was driving that motivation I think ego and I think also when you start bringing in employees who get equity and you know you don't set expectations very well it's like they say boot to pack a napkin the other company gets",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "growth",
+      "content_type": "Story",
+      "timestamp": "35:33 - 36:12",
+      "reference_link": "https://www.youtube.com/watch?v=7XR2CEC6lJk",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_63",
+    "text": "pack a napkin the other company gets this big then they'll get this much more return I'm telling that too I want to hire people that are about the amount first yep as of money first has impacted team first yep so that's my that's my mind you get I see so anyways it's I think it was more about growth in scaling and Community billion everyone wanted some liquidity it seems like sooner rather than later Yang then they got a while on them got major liquid sure no once we actually did the deal right um but you know you know he hears it typical typically if a 10 plus so most companies Bond like so it's I think of all who did I mean a lot of them are very then I was super pick",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Growth",
+      "content_type": "Story",
+      "timestamp": "36:09 - 36:53",
+      "reference_link": "https://www.youtube.com/watch?v=7XR2CEC6lJk",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_64",
+    "text": "all who did I mean a lot of them are very then I was super pick so we ended up finding a way to expand our marketing yep and go into these like cities fast and but being cash Port you know it was like a six to nine month um turnaround so we're like all right so we need to we need to raise but maybe those time so we start looking around and then 2018 2017. um that was 2017. so we started looking around yep and then work it's on the street talking it was Raising and then now we get like Mega Juggernaut companies talking to us about acquisition um I didn't want to acquire yep that he we wanted to do a merger yeah no we won't tough the yellow wit you know I",
+    "metadata": {
+      "domain": "Strategy",
+      "topic": "Growth",
+      "content_type": "Story",
+      "timestamp": "36:47 - 37:32",
+      "reference_link": "https://www.youtube.com/watch?v=7XR2CEC6lJk",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_65",
+    "text": "won't tough the yellow wit you know I wanted to be customer first yep so we find certain settings and we're like all right they're not what we fought for an enemy yep and so they want to be a customer first we're like our goal is to make the market the the industry customer first yep just have to be tough to needle but like it could be cool and the topio gets to be the number one we would set the stand or the others fall and a lot of companies did follow our standard of your Senate but you get in at a giant company then it's like turn keep boom We rate it like a pirate ship sure Pirates and then we've make them customer Centric with all their brands and then we could just it",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Strategy",
+      "content_type": "Story",
+      "timestamp": "37:28 - 38:09",
+      "reference_link": "https://www.youtube.com/watch?v=7XR2CEC6lJk",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_66",
+    "text": "their brands and then we could just it could then top email accelerates they have the skeleton key to unlock all the stores that we want to expand to yep and the household name brand everywhere you know and as long as we can maintain our values so we get in there and you know things changed you know I was so maybe a little cliche how you found about it but we had good intentions when did this merger happen 2018-2018 yeah and early 2018 um it was it was finalized in September of 20. okay so light years three three and a half years four years you've been with Serta Simmons as a chief disruption officer and I finished my I did I upheld all my obligations and then you just got",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Strategy",
+      "content_type": "Story",
+      "timestamp": "38:05 - 38:47",
+      "reference_link": "https://www.youtube.com/watch?v=7XR2CEC6lJk",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_67",
+    "text": "all my obligations and then you just got out when did you transition out technically in March of this past year okay my deal was four year deal four years but I mean they were using me and I wanted to work and how about day he what did he stay the four years too he stayed for six months and he was tired of doing all the paperwork I see he sent him up he'll like to go and I'll just stay it's like you know I've got this team I got this brand and care a lot about it for sure so I just want to see you know our work get finished so let's go back in time a little bit uh for the followers I think there's some golden nuggets in terms of product Market that you got it really fast wrench you say so",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Transition",
+      "content_type": "Story",
+      "timestamp": "38:43 - 39:21",
+      "reference_link": "https://www.youtube.com/watch?v=7XR2CEC6lJk",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_68",
+    "text": "you got it really fast wrench you say so year one like what two three months you got bootstrap yes and and I think that's the powerful lesson here guys if he raised a lot of money you might do a lot of stuff on the wall to see what sticks but when you're bootstrapped you have to get the product Market fit much faster it's playing the game on it's like when you play video games yes the settings I like cardboard hardcore Advanced so yeah it was like I like you to die yeah but but it feels better yeah so when was kind of the AHA like like in the startup Journey you know me and Jacob is going to roller coaster ride for us and at one point we have to think about liquidity as Founders too right",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Startup",
+      "content_type": "Story",
+      "timestamp": "39:17 - 39:57",
+      "reference_link": "https://www.youtube.com/watch?v=7XR2CEC6lJk",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_69",
+    "text": "about liquidity as Founders too right like hey do we play this to the rest of our lives do we Europe we're an exit I have two kind of lessons not all companies like you know a base camp for 37 signals like they're I that really resonates with different ways to go about it absolutely I'd love 37 signals that that's what put me in the start of game actually I think it was very inspirational for me very soon and I like their kind of ethos around kind of like the long term you know what do you want to do for the rest of your life they're like what are some projects you've never got so my lens is much different on now projects and people who I work with it's like I look at the long",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Founders",
+      "content_type": "Story",
+      "timestamp": "39:53 - 40:30",
+      "reference_link": "https://www.youtube.com/watch?v=7XR2CEC6lJk",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_70",
+    "text": "I work with it's like I look at the long term versus the short term but I'm curious like one during your scale up like one to nine nine to forty when was that aha moon was like holy smokes we made it like this is taking off like rocket ship when did you have that feeling as soon as I could buy groceries they buy groceries uh-huh I mean you're like we made it minimum if that's all I went then yeah all right then we use that as our base and maybe start another thing and did you like have this conviction when was the confidence because sometimes as Founders we doubt ourselves too right and I'm curious when you you've both like said wow like was it the grocery",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Scale",
+      "content_type": "Story",
+      "timestamp": "40:26 - 41:10",
+      "reference_link": "https://www.youtube.com/watch?v=7XR2CEC6lJk",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_71",
+    "text": "like said wow like was it the grocery thing like literally like we were able to pair so we I had signed out the whole way posture syndrome and I think actually talk about that I think a posture syndrome super important I think if you're creating anything new to be honest I think none of us actually know overdo it that's the absolute truth and I think people use their past experiences and they put suits and ties on or yeah I've done this before let's like no you haven't the variables have changed it gain shape the other might be patterns you could use today like things change right and so let's be confident in ourselves and be honest with ourselves we don't know what we're doing let's",
+    "metadata": {
+      "domain": "Mindset",
+      "topic": "Honesty",
+      "content_type": "Advice",
+      "timestamp": "41:06 - 41:44",
+      "reference_link": "https://www.youtube.com/watch?v=7XR2CEC6lJk",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_72",
+    "text": "we don't know what we're doing let's try it and see it back us I'll be with all this practice trial and error one step at a time exactly nice and when you went to one to nine you're at 13 9 to 40. there must been a big jump when you went from like 48 to Great king nine figures in Revenue like employee-wise culture talk about that well culture started to really change the 45 that's when the employees started looking me different in the eyes I didn't like that yep it was weird you know go from friend plus manage even if I'm good at it yep and I think I'm good at it because I don't like it you know I just want people to like like what they're doing yep smart",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "culture",
+      "content_type": "Story",
+      "timestamp": "41:41 - 42:23",
+      "reference_link": "https://www.youtube.com/watch?v=7XR2CEC6lJk",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_73",
+    "text": "like like what they're doing yep smart I'm providing guidance and Direction that's money roll and challenging the team no I think that we're not here to be laissez-faire just have fun all day and like we're here for the mission yep you know and um so that changed a lot you know interpersonal Dynamics are we at a great award-winning culture uh we always viewed like our customer is customer one and our employees are customer one it's about uh things really changed when we started doing bonuses and different paying grades I see and there's politics yep you know then it just were awarded them I see so how many employees did you scale up to 175 200 wow it's still going company",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Culture",
+      "content_type": "Story",
+      "timestamp": "42:19 - 43:05",
+      "reference_link": "https://www.youtube.com/watch?v=7XR2CEC6lJk",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_74",
+    "text": "scale up to 175 200 wow it's still going company Retreats we'd shut the whole company down for a week even though the banner inside customer service is off just like connectors you know peers and get to know each other and build trust and go back and kick asset kick ass at work epic Retreats are important I think I mean my first company all hands I took the company is Santa Cruz mountains and we did like survival training cool building out like like literally I don't know when you call them like like shelters basically I love summer yeah it was like five different groups like look you don't need money you can just go in the woods yeah we're gonna teach you how to survive in",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Retreats",
+      "content_type": "Story",
+      "timestamp": "42:59 - 43:44",
+      "reference_link": "https://www.youtube.com/watch?v=7XR2CEC6lJk",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_75",
+    "text": "the woods yeah we're gonna teach you how to survive in the woods you know hunt and survive because they say something like if you get lost more than three days or something like the the chance of someone finding you is very rare so like survival skills is super important water fun in water yep finding Water Shelter so where'd you guys take in capping so it started with Lake Powell this is the first time I think we rented two houseboats then we eventually rented I think eight there's only one beach in Lake Powell that houses eight hottest spots and then we had all these like military tents it was Giant and we had a a supercell storm coming through jars like what the",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Survival",
+      "content_type": "Story",
+      "timestamp": "43:38 - 44:23",
+      "reference_link": "https://www.youtube.com/watch?v=7XR2CEC6lJk",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_76",
+    "text": "a supercell storm coming through jars like what the like we all like became like bees and then we all like fixed it and gotta got everybody together got everybody safe and it was like super cool um very much bonded um then we went to Zion you know let me started wow in a national park that's epic because we grew too big to bring everybody so what's the biggest what's the largest gathering you guys had oh I would be like a Christmas party where we have like most employees plus their plus ones I see maybe 300 wow rented out the Phoenix Art Museum was super cool so my wife Sarah was had a culture yeah she just put it's on these epic um like culture events yep it's like you",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Story",
+      "content_type": "Story",
+      "timestamp": "44:13 - 45:02",
+      "reference_link": "https://www.youtube.com/watch?v=7XR2CEC6lJk",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_77",
+    "text": "epic um like culture events yep it's like you know mind blowing and cool and then we printed out the Museum of um Museum of musical instruments that was really cool that was a cool one yeah it was like you know interesting neat place and and you were CEO like all the way up to the merger I was the CEO up until about a year before the merger okay and I was like CEO but I I liked having peers so my cup Shredder and I were you know I might have been CEO neighbor kind of playing because we always had well after our first couple years we brought into somebody who played like CEO operator so then I think it was always a foreign I think it's good we didn't know how to",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "CEO",
+      "content_type": "Story",
+      "timestamp": "44:56 - 45:45",
+      "reference_link": "https://www.youtube.com/watch?v=7XR2CEC6lJk",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_78",
+    "text": "I think it's good we didn't know how to use our power either so there were times where we felt like the team was taking over Direction it was kind of wandering sure so I've learned a lot of lessons with that too did you bring on any sea level Suites at a certain scale we would for the most part promote then promote from with it which I think there's pros and cons than that yeah so so if you were to rewind time and you would have rebuild this thing how would you do things differently I'd go way slower um I'd focus more on like making sure we're innovating marketing shouldn't be holiday I think it's like you know what is the customer saying the products the hill",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Strategy",
+      "content_type": "Story",
+      "timestamp": "45:41 - 46:18",
+      "reference_link": "https://www.youtube.com/watch?v=7XR2CEC6lJk",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_79",
+    "text": "customer saying the products the hill customer experience should be pulling it along and making the market his job easy yeah so that goes slower after you get product Market did right yeah and then once you get productive I think you can still go slow to go bigger faster later but I think you know I also wouldn't be like let's grow till the in I mean degrees let's find the right signs of wherever it kind of Finds Its path the fit that as Founders we can decide if we're going to keep going or hand it over to somebody else for one cool and you know let's go build into the thing find another problem solve yeah would you have expanded the product set much faster yes absolutely it's like offering",
+    "metadata": {
+      "domain": "Strategy",
+      "topic": "product",
+      "content_type": "Advice",
+      "timestamp": "46:15 - 46:57",
+      "reference_link": "https://www.youtube.com/watch?v=7XR2CEC6lJk",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_80",
+    "text": "faster yes absolutely it's like offering linen pillows other elements I think we could have done that sooner I mean we expand the aquatics Concepts we were building the top leader while these other brands all these other areas yep so um I would have you know that was the path but where I really like to spend my times in the r d lab Yeah in our Workshop which is what I'm doing now so but yeah there's a lot of things that do different so that r d lab you were really like really you really enjoyed creating new products it seems like and bringing them to life did it like did you get Whiplash just like we're just not like were you sad about not shipping those products or what",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Strategy",
+      "content_type": "Story",
+      "timestamp": "46:50 - 47:35",
+      "reference_link": "https://www.youtube.com/watch?v=7XR2CEC6lJk",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_81",
+    "text": "not shipping those products or what happened there yeah because you know you developed the product and we have to figure out the supply chain and called the team members are all dialed on heading the goals in the next thing and it's hard to keep up with all that so it had been easier somebody kind of helped do that for us you know for we went a little bit slower we had another team going to expanding all that so how come none of those products shipped was it because the merger was about to happen and then right I see yeah okay that was one reason we are also getting a lot of pressure for all the The Dumping you know there's inter country Dynamics and politics there's a I will say of it",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Strategy",
+      "content_type": "Story",
+      "timestamp": "47:31 - 48:10",
+      "reference_link": "https://www.youtube.com/watch?v=7XR2CEC6lJk",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_82",
+    "text": "politics there's a I will say of it there's a country dumping product yep selling products at cost you know it's like it was impossible to compete with so actually very thankful for some of the terrorists got the you know make it easy easier to survive as an American company otherwise we were sort of checkmated and having to ship all of our manufacturing our receipt is it so that was adding a lot of pressure um you know so if you're looking to do something else to you know that's the way it's going to go it's the way it's going to go what's some habits or let's talk about some habits you know um I'm a big uh component about just rituals and habits yeah",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Habits",
+      "content_type": "Story",
+      "timestamp": "48:06 - 48:45",
+      "reference_link": "https://www.youtube.com/watch?v=7XR2CEC6lJk",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_83",
+    "text": "um I'm a big uh component about just rituals and habits yeah um because sometimes you know we wake up and we might not feel a certain way and we're always just our biology every day right and so I think it's very important to have these habits to make sure that we're productive and and we're creating a sense of we're creating our own vibration or energy when we come to work yeah what what's what's kind of rituals that were habits that you you've done in the past have helped you become a really strong founder oh um remembering you know every day reminding myself why I'm doing what I'm doing then shaking off any energy yep you know like creative thoughts or",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Habits",
+      "content_type": "Story",
+      "timestamp": "48:39 - 49:21",
+      "reference_link": "https://www.youtube.com/watch?v=7XR2CEC6lJk",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_84",
+    "text": "you know like creative thoughts or whatever and you know focusing and meditating on like what I value which is like about your life right now you loving others peace I value my family um and then like what is what's my work and I'm doing and why am I doing it and like it's a coffee then running through I have a trigger list nice um like the top ten just like checking off first thing like ballots and my ballast and what am I doing for you know myself with Audi what am I doing like what am I gonna do today for my body like jump on the trampoline go to the gym whatever go for a run even if it's just a stretching note you know in the sun um what am I gonna do with like my",
+    "metadata": {
+      "domain": "Mindset",
+      "topic": "Meditation",
+      "content_type": "Example",
+      "timestamp": "49:17 - 50:00",
+      "reference_link": "https://www.youtube.com/watch?v=7XR2CEC6lJk",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_85",
+    "text": "note you know in the sun um what am I gonna do with like my family and you know my house and my dog and then it's like okay work yep you know what how what are the customers thinking how are they feeling um you know and I just kind of you know every day has different triggerless and it's sort of like what's one thing I can do for each of these days nice and so that way every day I'm doing one and one thing in areas that matter to me so that's what I do that's awesome um in terms of meditation what kind of practice uh honestly sometimes it's just like laying on the couch with my eyes shut and just thinking yeah absolutely on The Thinker yeah Stillness just thinking too yeah",
+    "metadata": {
+      "domain": "Mindset",
+      "topic": "Meditation",
+      "content_type": "Story",
+      "timestamp": "49:52 - 50:35",
+      "reference_link": "https://www.youtube.com/watch?v=7XR2CEC6lJk",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_86",
+    "text": "yeah Stillness just thinking too yeah and I really I love to like we were talking about this before like the light do a lot of things a lot of hobbies yep a lot of other interests like motorcycling that skydiving um you know I do a practice body movement martial arts and jurassics and stuff like that I like you know I'm always changing and experiencing and keychain even if it's just like sitting and playing video being interior absolutely you know um just you know experiencing life it's like you know life happens and it sips by like what do you you know you're working but for what so as long as I'm having fun and doing something that matters good impact and I'm spending",
+    "metadata": {
+      "domain": "Mindset",
+      "topic": "Experiences",
+      "content_type": "Story",
+      "timestamp": "50:29 - 51:09",
+      "reference_link": "https://www.youtube.com/watch?v=7XR2CEC6lJk",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_87",
+    "text": "matters good impact and I'm spending time with my family or whatever it like I don't like to be alone so these relationships it's like my dad would say like you know don't lose you know don't win the battle but lose the warrant like right relationship with my wife and my family and my loved ones like is important so and also myself absolutely uh you know I think these are things that I think about these days since like less about like what new toy coming by or new place can I travel to and it's more like maybe I don't need all those things and that's just like their toys and that's icy and the cake is the journey yep the experiences you go and that you're doing stuff that's fun",
+    "metadata": {
+      "domain": "Mindset",
+      "topic": "Priorities",
+      "content_type": "Story",
+      "timestamp": "51:06 - 51:45",
+      "reference_link": "https://www.youtube.com/watch?v=7XR2CEC6lJk",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_88",
+    "text": "that you're doing stuff that's fun that's a mic drop right there right the journey is so important and we get wrapped up like oh I'll be happy when I get this house I'll be happy when I buy this car I'll be happy when I can go on this vacation and it's no like design your life where you can enjoy the present limit right exactly that's that's powerful um now have you found more balanced like obviously after the exit or the after the m a yeah right because in the first few years he probably was grinded right a lot of hours oh well no no tell us about that you know the first year was slow really yeah because you didn't have any money for marketing no so you know",
+    "metadata": {
+      "domain": "Mindset",
+      "topic": "Happiness",
+      "content_type": "Story",
+      "timestamp": "51:40 - 52:26",
+      "reference_link": "https://www.youtube.com/watch?v=7XR2CEC6lJk",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_89",
+    "text": "any money for marketing no so you know then once we started really getting a lot of traction yeah I think on a fast I so I lost myself from work wow interesting and so more like 40 50 60 hour a week at least in the first year you know and I'm just now saying yeah like maybe 20 minutes okay there you go what do we do yeah like you know we can only make so many phone calls yep we don't have money for our marketing lunches you have to manufacture the bed and you have to wait did you get these things set up and it's like well we don't have enough work to do so I start writing code for the website and automating behind the scenes and So eventually our customer service agents",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Marketing",
+      "content_type": "Story",
+      "timestamp": "52:21 - 52:58",
+      "reference_link": "https://www.youtube.com/watch?v=7XR2CEC6lJk",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_90",
+    "text": "eventually our customer service agents were either like 10 20 of our editors yep you know so we did out the software it was a little bit before the horse I'm very pragmatic and told not because I'm bored but I still then once it started really Catching Fire then I was overlooked I see when when was that year two year three yeah I would say 2013 when we really started when that's when we did a million um in sales that's when they started to really catch it when did you hit burnout because we all know there's a burnout period constant talk about that I mean you know while the first year we were in the I've heard like the pit of Sorrow so there was times where like is this thing gonna",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Growth",
+      "content_type": "Story",
+      "timestamp": "52:55 - 53:30",
+      "reference_link": "https://www.youtube.com/watch?v=7XR2CEC6lJk",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_91",
+    "text": "times where like is this thing gonna even grow anymore and yep do we still want to do this mattresses are sovereign Sexes before you know we built into a sexy cool grade yep people wanted to be a part of like we had some of the reasons we moved to Phoenix because like tried convincing a Silicon Valley Brainiac or engineer or whatever intended to drop the golden handcuffs that they're Cushing you know you know big tech company salary pay benefits whenever or leave the startup they co-founded yep been in to join inventors company and then it's like you know then you get the mercenary types I want to join and then if they don't get enough equity or they get their they",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Growth",
+      "content_type": "Story",
+      "timestamp": "53:27 - 54:05",
+      "reference_link": "https://www.youtube.com/watch?v=7XR2CEC6lJk",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_92",
+    "text": "enough equity or they get their they pass their cliff and yeah and they you'd find another startup and they just there's no loyalty at all I'm like for the viewers what what is Cliff so you know the standards and the the patterns that are changing you know I think but you know if you typical one-year Cliff it means like you know whatever percentage how many options uh your part of your benefits package when you join has been conked out for you you've earn it over time you just have given to your oh and usually it's over several months a month so if you if it's a 48 40 year package yep it's split up equally amongst four years by month but to protect the business yep you have to",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "equity",
+      "content_type": "Advice",
+      "timestamp": "54:01 - 54:43",
+      "reference_link": "https://www.youtube.com/watch?v=7XR2CEC6lJk",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_93",
+    "text": "protect the business yep you have to stay for a year before activating the first year yep so he that prevents you know people coming in like sycophantic types or people who maybe sure it fits from getting Equity before you know they the company's found a good fit so that's the that protects that's more on the side of protecting the business I think it also helps to protect the business the people from themselves to the call absolutely I I highly recommend the one-year Cliff you know especially with co-founders the early employees because you don't want them to take a big chunk of the equity and leave at nine months they come to understand yeah even co-pounder so we did a four-year",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Equity",
+      "content_type": "Advice",
+      "timestamp": "54:39 - 55:17",
+      "reference_link": "https://www.youtube.com/watch?v=7XR2CEC6lJk",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_94",
+    "text": "even co-pounder so we did a four-year one-year vest Cliff um and I think that's that's very important to protect the company and protect your shares because of co-founder like after six months it's like I don't want to do it if yeah if they take half the company you're screwed yeah so you know give it back give another person who wants to stick around yep so but if you spent a full year and then you get one quarter or one eighth or one or one sixth however many years you're going to do yep and so you know you get you get paid for the earlier yep one slash 48 12 months you get 12 months all at once on the 13 month Mark and then off you go yeah some people might design some six months",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Strategy",
+      "content_type": "Advice",
+      "timestamp": "55:13 - 55:50",
+      "reference_link": "https://www.youtube.com/watch?v=7XR2CEC6lJk",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_95",
+    "text": "people might design some six months Clips but I I like the one year I think one year's I like one year I think four year vast six year eight year depending on what kind of business You're Building yeah also or profit share or phantom phantom shares a lot of different ways you could do things as yep so up to the merger whose idea was it to hey let's let's either sell the company let's merge let's raise right because that that was probably that was all joined there are times where we were on the different pages but it's so important to get on the same page and lock arms yep and in honestly like the way we really operate it uh especially you know I was reminding myself it's like my",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Strategy",
+      "content_type": "Story",
+      "timestamp": "55:46 - 56:27",
+      "reference_link": "https://www.youtube.com/watch?v=7XR2CEC6lJk",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_96",
+    "text": "reminding myself it's like my relationship with my co-founders were from Consulting and like this this has to crash and burn as long as every our employees accustomed to taken care of yep like you know my relationship with him matters more so that's how I operate and I'm seeing it now like where we we're still friends and helping each other we're both building some cool stuff and I'm really glad that we we kept our relationship as like the the Golden Goose when home the companies are one of maybe one of maybe is what they call them that's a great Point as Founders I think sometimes we will burn relationships or we will you know tear each other down because",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Relationship",
+      "content_type": "Story",
+      "timestamp": "56:25 - 57:07",
+      "reference_link": "https://www.youtube.com/watch?v=7XR2CEC6lJk",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_97",
+    "text": "relationships or we will you know tear each other down because all this kind of stress you know of building a corporation like I've had this talk with my co-founder Ashley where we would butt heads and I think some of these aren't talked about enough and that's why we have the show unscripted this is raw this is like the real stuff and you know we have co-founder conflict I always say there's two things that will shut down a company um you run out of cash or you have a co-founder conflict co-founder conflict is real it's like a marriage right like we've had I've had where my co-founder like literally threw in the towels like if this I'm out he was about to bounce",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Co-founder",
+      "content_type": "Story",
+      "timestamp": "56:59 - 57:44",
+      "reference_link": "https://www.youtube.com/watch?v=7XR2CEC6lJk",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_98",
+    "text": "if this I'm out he was about to bounce out of San Francisco while I was in the middle out of live race yeah and so how do you handle those situations right like between co-founders you have to lock in like you said somehow get to an agreement because if you're not aligned it's good enough yeah I'm just gonna see how we we I always believed in to same people by marriage and never throw the ultimatum like you know do this or I want this or forget this like I'm out of here white you know that the bond that's the promise got to say that you know there are people you don't want to cut bias unlike per ways like and double bird Bridges yep the world's is becoming",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Co-founders",
+      "content_type": "Advice",
+      "timestamp": "57:40 - 58:19",
+      "reference_link": "https://www.youtube.com/watch?v=7XR2CEC6lJk",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_99",
+    "text": "bird Bridges yep the world's is becoming smaller and so even if somebody's like I don't want to be a part of it don't like ruin it on your way out either right hand it back yeah the evidence be kind and respectful and loving and no you know everybody like gets what they deserve but also like gives back what maybe they had them up for yep and just like be cool like it we just all be more cool yeah and also chill your jets like you know somebody gets emotional foot let them get emotional like cool off and I think people should allow themselves to be redeemed and and forgiving and be cool about it yep sorrow imperfect human beings yeah living on this planet track lady more how you treat somebody else",
+    "metadata": {
+      "domain": "Mindset",
+      "topic": "emotional",
+      "content_type": "Advice",
+      "timestamp": "58:14 - 58:59",
+      "reference_link": "https://www.youtube.com/watch?v=7XR2CEC6lJk",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_100",
+    "text": "lady more how you treat somebody else like what happens when it happens to you how do you want them to treat you yeah so I'm like somebody like freaks the  out like you know I wanna you know maybe I'm gonna Park out laters yeah it would be like cool maybe fine flying it out the other day I just want everybody to be happy that's awesome so the exit happens right like you you come down to I'm sure that was a lot of stress too up to the exit uh or let's call it the m a it was a true M A merger essentially um yeah legally up operationally and financial hands in a minute that's a giant was a giant deal yeah so when this went through like how was that",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Mindset",
+      "content_type": "Story",
+      "timestamp": "58:56 - 59:36",
+      "reference_link": "https://www.youtube.com/watch?v=7XR2CEC6lJk",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_101",
+    "text": "went through like how was that celebration like when it hit your bank account you know you and day he tell us that moment oh so when okay the money came in yeah parts are the full value of the deal yep and they know what value is all arbitrary and Sir Apple it could have been worth even more or less uh value is just the number like we arbitrarily kind of make up Hadoop so um but sold at the peak 250 million in sales then the merger have been the merger yep yeah so when the when the so percentage of the deal percentage of the value of the company was was was given us in cash and we also carved out a very large percentage of our boy base um also had Equity so yep a lot of",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Strategy",
+      "content_type": "Story",
+      "timestamp": "59:31 - 60:17",
+      "reference_link": "https://www.youtube.com/watch?v=7XR2CEC6lJk",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_102",
+    "text": "large percentage of our boy base um also had Equity so yep a lot of people who bet on the company exercise their options stuck around mates and really good money and things go well they might still make a lot more money sure could bet on it or not because certain is private right yeah it's probably acquired you yeah and it's all private companies so how it performs and all that is you know let's prime it yep but you know you know the goal is at some point maybe there's a good idea again so people who've battled on the company large term might still benefit from that um you know but we'll have to see how it all plays up how does that work additional secondary well one day",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Equity",
+      "content_type": "Story",
+      "timestamp": "60:10 - 60:46",
+      "reference_link": "https://www.youtube.com/watch?v=7XR2CEC6lJk",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_103",
+    "text": "work additional secondary well one day maybe IPO or something like that yeah I mean there's a lot of things that I'm not going to speak for them you and I are the largest individual shareholders of brownie but like you know there's a lot of different ways you can kind of look at how private Equity Works yep they might sell to somebody else they might keep it private um own it they might go public there's a lot of different options yep so I don't really necessarily know yep um uh so how much like percentage cash for a stock can you share that I won't share that number so let's talk about small percentage in cash and the rest is writing that's why I was a merger yep",
+    "metadata": {
+      "domain": "Strategy",
+      "topic": "IPO",
+      "content_type": "Conversation",
+      "timestamp": "60:42 - 61:20",
+      "reference_link": "https://www.youtube.com/watch?v=7XR2CEC6lJk",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_104",
+    "text": "writing that's why I was a merger yep but they didn't get bought out cash so what you guys got got that cash wire or that bank wire how did how did that feel what did that look like it doesn't feel like anything was totally surreal didn't feel like anything so that and I'm not the kind of person that goes on no I was getting advising it's like do not touch it don't even invest it synonym for a year and just be yep and I honestly feel like I could have spent later or more of it I think being a good Steward of money is also learning how to educate yourself how much are you going to give away yeah donate yeah and or how much are you good what are you gonna buy what are you",
+    "metadata": {
+      "domain": "Mindset",
+      "topic": "Money",
+      "content_type": "Story",
+      "timestamp": "61:16 - 61:55",
+      "reference_link": "https://www.youtube.com/watch?v=7XR2CEC6lJk",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_105",
+    "text": "what are you gonna buy what are you going to spend on like put it to good use yep I'll just set an account with her away especially now the fleas and so um you know being a good Steward of your own money tree family of yourself but honestly it was very surreal it still is I'm like you know I we celebrate it and my my wife and I bought a house yep and I bought a a fancy car an old car yeah no I didn't spend hundreds of thousand dollars you didn't get a Lancel no but I thought it was all vintage port that I got a really good deal on oh no he got it fixed off and you know it's less expensive than a than a you know going and leasing a new car anyway yep but um and we got a dog and I started um you",
+    "metadata": {
+      "domain": "Mindset",
+      "topic": "Stewardship",
+      "content_type": "Story",
+      "timestamp": "61:53 - 62:35",
+      "reference_link": "https://www.youtube.com/watch?v=7XR2CEC6lJk",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_106",
+    "text": "and we got a dog and I started um you know now we can afford to go traveling so we start traveling and some of my daily members you know aren't able to travel certain ways I was able to support staff and do family trips that was all really really cool and we still continued to do that right um but you know I was also being careful that he had money sick you know and it's not about the bloody but it does relieve like I don't have to worry about looking at the restaurant bill is what you might start to do remember the time I was still looking at the restaurant bill at all because it's like oh I can afford these things now on it but um I do now look at the bill I'll make sure it's",
+    "metadata": {
+      "domain": "Mindset",
+      "topic": "Financial",
+      "content_type": "Story",
+      "timestamp": "62:30 - 63:07",
+      "reference_link": "https://www.youtube.com/watch?v=7XR2CEC6lJk",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_107",
+    "text": "look at the bill I'll make sure it's fair but I mean I can tip editor and you know and all that kind of stuff but honestly it's still kind of surreal um I think it's like for me it was a very slow change but honestly after the deal yeah and after it's sort of like there was less and less work for me to I was the chief disruption officer at sort of Simmons it was very difficult to do that at a big company that has so much between the factory and so much process so many managers and all that and my job was to break glass and I did but a lot of the no I'm like yeah I'm not sure I could talk about it or not but anyways like I got bored yep and so that was a whole thing and you served like almost",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Change",
+      "content_type": "Story",
+      "timestamp": "63:03 - 63:41",
+      "reference_link": "https://www.youtube.com/watch?v=7XR2CEC6lJk",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_108",
+    "text": "whole thing and you served like almost four years like literally yeah right and as I went and I started backing out I was really working to replace myself so that I passed the bus test we would talk about so like I'm not needed the other company can live without me um and so yeah there was a period of time where I got really bored and I had a friends you know I was stressing that I was losing momentum and I'm like am I going to find my next company and what I'm going to do am I in one hit wonder sort of the deal right um and I had a really great friend uh say maybe you should be bored it'd just be bored just think and relax and just trust and you know and oh maybe those",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Strategy",
+      "content_type": "Story",
+      "timestamp": "63:38 - 64:16",
+      "reference_link": "https://www.youtube.com/watch?v=7XR2CEC6lJk",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_109",
+    "text": "trust and you know and oh maybe those synchronous would pop up yep so it has been this is quickly so yeah I mean I think it was good took a break and I'm very grateful that I have the luxury to be able to do that yep in the meantime of gonna happen with family members get on their feet with stuff and if I'm you know kind of beat the path Trailblazer figured it out yep and I'm helping my friends and family and other entrepreneurs do that too amazing I think it just like what I love about startups you know I'm an immigrant I came from Seoul Korea and came from nothing right and like lived in complete poverty and here like we're in in America where we can chase the American",
+    "metadata": {
+      "domain": "Mindset",
+      "topic": "Startups",
+      "content_type": "Story",
+      "timestamp": "64:11 - 64:51",
+      "reference_link": "https://www.youtube.com/watch?v=7XR2CEC6lJk",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_110",
+    "text": "America where we can chase the American dream literally like it is you know I think a huge benefit that we we sometimes take for granted that here in the United States we could start and um spin up companies like with just an idea it's a problem yeah and I think this whole American Dream thing is changing I I worry for people that they're chasing the icy they're choosing it against it yep what if there is no exit I what are the bombs but you could have enjoyed the whole way yep now and so I I think that the the American dream is just the fact that you can do it you can do it you can have and maybe you can have fun yep and if your company crashes and burns whatever like yeah start another one you",
+    "metadata": {
+      "domain": "Mindset",
+      "topic": "American Dream",
+      "content_type": "Story",
+      "timestamp": "64:46 - 65:27",
+      "reference_link": "https://www.youtube.com/watch?v=7XR2CEC6lJk",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_111",
+    "text": "whatever like yeah start another one you want to yep um get advising to help maybe reduce some of that risk and if it's see it's great that's icing but like I'm done chasing your dopamine of getting a reward at the end we're for sure and on the let along the way I love that analogy now you have an exit under your belt I guess for my point is just if if you if your family is not wealthy and you as an entrepreneur can change the game for your entire family where they don't have to worry about finances I think that just changes the game for your generation for your family generation and that's also being an example too it's like you want to win the lottery and then blow it all right",
+    "metadata": {
+      "domain": "Mindset",
+      "topic": "Entrepreneurship",
+      "content_type": "Story",
+      "timestamp": "65:23 - 66:07",
+      "reference_link": "https://www.youtube.com/watch?v=7XR2CEC6lJk",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_112",
+    "text": "the lottery and then blow it all right it's like getting advice and kind of even like management yep and look how do you not blow it if you're going to give money or help family members how do you do it in a way that's like not going to sacrifice your relationships later absolutely I didn't I don't I do believe in helping family if it's done very with good expectations and slowly I think it needs to be slow I read this article where they were just sharing stat statistics someone won the two billion dollar Powerball in LA okay and they were showing statistics around like some like it was some crazy number like 90 or higher they lose all their money within",
+    "metadata": {
+      "domain": "Mindset",
+      "topic": "Advice",
+      "content_type": "Story",
+      "timestamp": "66:02 - 66:42",
+      "reference_link": "https://www.youtube.com/watch?v=7XR2CEC6lJk",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_113",
+    "text": "higher they lose all their money within five years yeah like how crazy is that it's because they don't know nothing about money management they they've never had this much money before they don't know what to do with it yeah I've cheer this live B do have it's like first you have to be it yeah do it and then you have it and it's like you know it's like how do you be it's it's like how you become a millionaire when to have all Millions before you become a millionaire yeah yep so and this is like you know a Rich Dad Poor Dad buck and in that um uh author and and you know or Dave Ramsey when he talks about other really brilliant people like teach how to make",
+    "metadata": {
+      "domain": "Mindset",
+      "topic": "Money",
+      "content_type": "Story",
+      "timestamp": "66:38 - 67:15",
+      "reference_link": "https://www.youtube.com/watch?v=7XR2CEC6lJk",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_114",
+    "text": "brilliant people like teach how to make how to be good stewards if you want it yep uh and manage your money well so that you know you can enjoy it and also nothing lose it it'll contribute to the growth and Empower businesses and and be able to share that with your family Etc so it's a lot of stuff to learn it's just so much content yeah can get to there I made lost I was in the corporate world as an engineer and what I found with the Rich Dad Poor deck kind of the the whole quadrant where he talks about like employee self-employed but to build true wealth is you either start a business or you invest in other businesses and that's why I love the startup game whether you bootstrap or",
+    "metadata": {
+      "domain": "Mindset",
+      "topic": "Wealth",
+      "content_type": "Story",
+      "timestamp": "67:12 - 67:53",
+      "reference_link": "https://www.youtube.com/watch?v=7XR2CEC6lJk",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_115",
+    "text": "startup game whether you bootstrap or run a BC back company is that you're going to be able to play in that upper quadrant you know yeah like starting your own gifts you've got to invest and then eventually instead of starting your own thing is the best in your energy yep so you get energy from Sun you get energy from eating food that's converted into calories and you know Body Energy you got to put that in channel into something that matters yep um or you take your money your dollars and you put it into things that you believe in and let it grow so there's ways there's you've got to invest yourself you know to hit or G or you know your dollars or something",
+    "metadata": {
+      "domain": "Strategy",
+      "topic": "Investment",
+      "content_type": "Advice",
+      "timestamp": "67:49 - 68:28",
+      "reference_link": "https://www.youtube.com/watch?v=7XR2CEC6lJk",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_116",
+    "text": "to hit or G or you know your dollars or something um you know if you've got a burning man one of the things that they practice there is like give what you need so wait you've been to Burning Man no and I have a lot of friends it's on my bucket list yeah and that's like no I got this isn't my life and it's you know there's a lot of you know no religious sex who also have Prejudice yep you know give what you mean it's all it's it's paradoxicals and don't have energy giveaway it's like you hear and you're tired get off your ass and go have a walk at least yeah or or run in a treadmill watch how you give the energy you don't have away and you start getting more energy and you know I",
+    "metadata": {
+      "domain": "Mindset",
+      "topic": "Energy",
+      "content_type": "Advice",
+      "timestamp": "68:24 - 69:03",
+      "reference_link": "https://www.youtube.com/watch?v=7XR2CEC6lJk",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_117",
+    "text": "start getting more energy and you know I think that there's a lot of um new ways of thinking in fact the same it can change you know your world absolutely it's been the word for me at least I've been practicing it didn't even call them back around yep so you talked about this r d project that you're working on tell us a little bit about that projects so you're doing some uh lab or r d work yeah so my big thing right now um is I think the kind of startups and companies can really benefit from so many to help them think through their product it also develop new technologies and so my father built this like incredible lab for a cup of needle and it was more than that you know if we",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Mindset",
+      "content_type": "Story",
+      "timestamp": "68:58 - 69:40",
+      "reference_link": "https://www.youtube.com/watch?v=7XR2CEC6lJk",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_118",
+    "text": "it was more than that you know if we could you know from 3D printing Electronics et cetera et cetera um could pretty much just like manifest ideas and so my whole thing is like I just want to support society and entrepreneurs and companies and big companies too who like have lost sight of creation and all that so I think that there's some opportunity there we'll see yep um but so far as things you work here is Walmart like you need projects um they get packed stuff like stuff that matters not just like building a widget to sell it make money on it's like you know the world needs attention ring yeah the love needs attention absolutely so many problems to solve yeah with",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Innovation",
+      "content_type": "Story",
+      "timestamp": "69:37 - 70:18",
+      "reference_link": "https://www.youtube.com/watch?v=7XR2CEC6lJk",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_119",
+    "text": "many problems to solve yeah with technology too yeah and so it's a lot of the r d has not had nothing to do with like profit it's like it's about like solving this issue if we don't have a planet we don't have a listing that yep you know it's like I think it's played at first then people and here about people the world's going so there's some projects it's also just like unfunding myself to just like help the planet yeah talking about saving this planet like because I I'm a big believer in that we should take care of this planet versus trying to take us to another planet what's your thoughts on hilon trying to take us tomorrow I think it's smart like the way",
+    "metadata": {
+      "domain": "Mindset",
+      "topic": "sustainability",
+      "content_type": "Story",
+      "timestamp": "70:15 - 70:51",
+      "reference_link": "https://www.youtube.com/watch?v=7XR2CEC6lJk",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_120",
+    "text": "tomorrow I think it's smart like the way I view about elode and Mars and other you know whatever is like that's all a hedge so you know if we don't succeed and take care of them I have confidence that we can do it I think the world is a little bit too pragmatic and waiting for problems but I think that it's happening here we're doing it and we can get him even once we solve it like I think we can do better um but then it's you know and then you've got Brilliance you know hedging with other planets and all that you know depending how that's all going to work and how the governance and new societies end up with like new empires elsewhere but um that'll be interesting to watch",
+    "metadata": {
+      "domain": "Strategy",
+      "topic": "Leadership",
+      "content_type": "Story",
+      "timestamp": "70:47 - 71:29",
+      "reference_link": "https://www.youtube.com/watch?v=7XR2CEC6lJk",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_121",
+    "text": "but um that'll be interesting to watch um but yeah at least with this point in it I think it's going to be really important to you know to um stop throwing trash on the street yep here and treating each other with respect I'm tired in the sphere stuff being tired of the lack of forgiven innocent people of redemption and I can't even just start to get along you have to forgive not forget either I'm I you know I'm frustrated with that like why do we have to like cancel everything and forget everything yeah it was a reason history is important so it does not repeat itself yep keep the stuff up and let's remember it like we're you know let's remember mistakes let's remember things that",
+    "metadata": {
+      "domain": "Mindset",
+      "topic": "forgiveness",
+      "content_type": "Story",
+      "timestamp": "71:24 - 72:07",
+      "reference_link": "https://www.youtube.com/watch?v=7XR2CEC6lJk",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_122",
+    "text": "mistakes let's remember things that we've now view as mistakes we didn't then and so that we can like maintain and develop new values to that so I think we should remember if we who we really truly are I think that's the yeah like if you could remember who we are I mean including history and not repeating itself then we can get to a place where we can really search Humanity yeah right I agree nice so for the viewers you know this this is probably one of the most you know inspiring entrepreneur bootstrap stories like ever told literally right uh for those viewers that are saying hey you know F to BCE is like f Silicon Valley and there's another one there's a good bus man",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Story",
+      "content_type": "Story",
+      "timestamp": "72:04 - 72:51",
+      "reference_link": "https://www.youtube.com/watch?v=7XR2CEC6lJk",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_123",
+    "text": "another one there's a good bus man there's some good invested for sure because I read a lot of venture capital and I think there's a play in Silicon Valley and using DC money to build very impactful companies like if you think about Google Apple all PC back Amazon was a VC backdate Amazon actually raised a million dollars Jeff Bezos like across 20 uh investors I mean like you know the party ground literally and I don't know if you know the story um SoftBank he actually um Turned Down uh Jeff Bezos because of evaluation um yeah his biggest regret in investment in history he said it on an interview yeah it was just fascinating that's what",
+    "metadata": {
+      "domain": "IT",
+      "topic": "VC",
+      "content_type": "Story",
+      "timestamp": "72:48 - 73:33",
+      "reference_link": "https://www.youtube.com/watch?v=7XR2CEC6lJk",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_124",
+    "text": "yeah it was just fascinating that's what I told you but for the viewers that say hey man I love JT sorry it's inspirement it's I want to bootstrap my next idea tell the viewers what are some things that they should think about about going down this passive taking an idea and bootstrapping it start to find a problem and it's it just look in your own life and if you don't know and it's you're struggling to find a problem that affects um know meditate on it and when you write it down yep we start to think of more I I love this idea and this is really a golden gem here start with the problem but if you have experienced a problem directly yourself that's where",
+    "metadata": {
+      "domain": "Mindset",
+      "topic": "Bootstrapping",
+      "content_type": "Advice",
+      "timestamp": "73:30 - 74:13",
+      "reference_link": "https://www.youtube.com/watch?v=7XR2CEC6lJk",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_125",
+    "text": "problem directly yourself that's where you can scratch that problem right whether you know a corporate environment where it's a personal Bishop because you're used exactly so I love that what else I think also seeking shared experience so no read books read get talk to other entrepreneurs yep and find new shared experience and finding your advising as you go as well yep um I think advising is really important to you there's a lot of wisdom out there but I would say also be careful not to get caught up in the paralysis do analysis and read all the books even like sure I burn the boats and go and take the plunge yeah and if you fail okay do it again yeah and if you do and",
+    "metadata": {
+      "domain": "Mindset",
+      "topic": "Entrepreneurship",
+      "content_type": "Advice",
+      "timestamp": "74:10 - 74:50",
+      "reference_link": "https://www.youtube.com/watch?v=7XR2CEC6lJk",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_126",
+    "text": "okay do it again yeah and if you do and do it again and keep going until you find it and if you you don't want to do it join a company that's doing it and don't happen not everybody is to be an entrepreneur you could be an entrepreneur and you could join another one I don't think I think that there could be a world where every single person is an entrepreneur but I think that they're it's probably more likely like it's a percentage of people and there's like doing it helping build yes and people in entrepreneurs can change and follow and beep app for a link I like the intrapreneur idea too so if you have to start off idea one day you want to start your own company why not join a",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Entrepreneurship",
+      "content_type": "Advice",
+      "timestamp": "74:46 - 75:24",
+      "reference_link": "https://www.youtube.com/watch?v=7XR2CEC6lJk",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_127",
+    "text": "to start your own company why not join a mission that you're proud of right right and just learn the startup game by joining that company and shadowing them and then a few years down the road like you don't have to start right now so I'd love to learn a lot by being a part of it yep and I think find something we're seeing it with coven people don't want to go back to work it's like work on something that's in that inspires you that's something that's cool you'll be in spine and then now you can jump out of bed without hitting the the series button over you you know and it took me nowadays we have this luxury or have the opportunity to join companies that are inspiring to us that are working on",
+    "metadata": {
+      "domain": "Mindset",
+      "topic": "Startup",
+      "content_type": "Advice",
+      "timestamp": "75:18 - 76:00",
+      "reference_link": "https://www.youtube.com/watch?v=7XR2CEC6lJk",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_128",
+    "text": "inspiring to us that are working on stuff that matters to us yep so like every employee that I hire now is I have to check the box like they love our mission if they don't love our what I found is the ones that love the mission and the impact they're making they're the ones that bride in the urban couple's degree yeah and it's helping people probably flock you know and as soon as they they feel that they're no longer you know inspired they should go up yep push your lead share feedback you know and if it's still you're still not finding that like leave because I feel like we do our best work but we're in flow we're actually doing the things we want to do yep",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Mission",
+      "content_type": "Story",
+      "timestamp": "75:54 - 76:35",
+      "reference_link": "https://www.youtube.com/watch?v=7XR2CEC6lJk",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_129",
+    "text": "doing the things we want to do yep surrounding yourself with advisors I think that's great feedback so like connecting with other entrepreneurs other Founders maybe joining an ecosystem right yeah okay exactly I like that um I think also um one quote comes to mind one of my favorite Bruce Lee quotes is like take what's useful discard what's not make it your own chicken though yeah Farm without four right like that I would recommend for all founders when you surround yourself with advisors because sometimes you get bad advice too so you just gotta be careful I think sharing experience matters enthused because like advice is a dime dozen and like I said window we don't really know",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Advice",
+      "content_type": "Advice",
+      "timestamp": "76:32 - 77:11",
+      "reference_link": "https://www.youtube.com/watch?v=7XR2CEC6lJk",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_130",
+    "text": "like I said window we don't really know what we're doing yep so it's all there there's all so many variables yep so I would say seeking shared experience getting ideas and then using your own intuition to trying stuff yep and then three save six to 12 months of Runway that's fun and then figure out how much do you need to get product Market fit for for these guys it was six grand and they got roaming you to profitable 90 days but that number might be different for him so right same for everybody yep yeah anything else you want to add on to that uh well without overloading with too much information that's a good start nice so those are three bullet points I",
+    "metadata": {
+      "domain": "Strategy",
+      "topic": "Startup",
+      "content_type": "Advice",
+      "timestamp": "77:07 - 77:46",
+      "reference_link": "https://www.youtube.com/watch?v=7XR2CEC6lJk",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_131",
+    "text": "nice so those are three bullet points I think it's like you know it's as an entrepreneur or it's a it's a battle itself yep you know and it's okay to have imposter syndrome and and to have some fear of the unknown and all of that I think that's all very natural and I think it's actually pretty healthy absolutely I think fear is also a catalyst to go into courage and love Yeah and and that's very powerful don't want to be stuck there but it could be the Catalyst totally agree yeah awesome um what other projects are you working on well right now I've started but I started advising my friends companies and some really cool Technologies and stuff that's like big big big wow um so",
+    "metadata": {
+      "domain": "Mindset",
+      "topic": "Entrepreneur",
+      "content_type": "Story",
+      "timestamp": "77:42 - 78:26",
+      "reference_link": "https://www.youtube.com/watch?v=7XR2CEC6lJk",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_132",
+    "text": "stuff that's like big big big wow um so that's then led to so basically doing this you know r d took ogs yes to help doing some Angel Investing too on the stunts that major investing yep I've done some Angel Investing I'm not currently disclosing to a company's invested in yep so stealth companies yeah nice fixed up though really cool inspiring stuff wow uh but also so it's really just this R D um lab on building yep on and then I'm starting this um co-founding this company where all the superdoa heck yeah and inspect we're doing is we're bridging you know as Founders and even Executives like you just want um no but if you just you're seeking advice it's so hard to find really good",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Investing",
+      "content_type": "Story",
+      "timestamp": "78:20 - 79:08",
+      "reference_link": "https://www.youtube.com/watch?v=7XR2CEC6lJk",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_133",
+    "text": "advice it's so hard to find really good advisors or find who they are so we're basically just helping Founders connect with other Founders exited Founders yep and other like skilled people so they get the answers they get the wisdom as they need as they go so it's Supernova so companies like startups and you know in some mature startups as well um we're helping to cut it's kind of building building and managing helping them facilitate their Advisory Board love it and it can change as you go because you know when we've had advisors like you know six months from now I might need some other kind of advice so we just help everybody connect and get like the Stellar smarts it's like you",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Advice",
+      "content_type": "Advice",
+      "timestamp": "79:04 - 79:46",
+      "reference_link": "https://www.youtube.com/watch?v=7XR2CEC6lJk",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_134",
+    "text": "like the Stellar smarts it's like you know with investors you hear like smart money yeah so it's like we bring the smart or so we're working with the investors too yeah check it out and put it in the show notes as well um I believe it's one supernova.com one supernoa yeah so one Supernova is Another Log here no yeah and um I'd love this concept like when Barry you know brought it to me I was like whoa yeah like I've been dreaming about this concept I told Barry and like things manifest you know um and there's no coincidence and and when Barry kind of reached out I was like wow like I've had this in my head for a while and why because when you get an investor like Cuts you",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Investors",
+      "content_type": "Story",
+      "timestamp": "79:42 - 80:26",
+      "reference_link": "https://www.youtube.com/watch?v=7XR2CEC6lJk",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_135",
+    "text": "for a while and why because when you get an investor like Cuts you like a seven million check they're gonna sit on your board right and then you might get some board observers but I would like to say eight times out of ten sometimes these Partners they're great investors don't get me wrong they see patterns things like that but what I found is that they lack operational experience being in the trenches with the founders with the startups because not every VC started his fund by building and scaling and exiting they come out Ivy leaks and go into an associate and yeah no idea there's a lot of Brilliance in that right to financial Engineers but you yeah but even on our board at Sarah",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Investors",
+      "content_type": "Story",
+      "timestamp": "80:19 - 81:03",
+      "reference_link": "https://www.youtube.com/watch?v=7XR2CEC6lJk",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_136",
+    "text": "yeah but even on our board at Sarah Simmons like we've got um you know an executive it's just super badass who referred around the Gap and advances other big tech companies and he gets hands on yep that's inspiring to me right and so you know but a lot of times these boards it's you know I'm not really sure what what they're doing is the company yeah succeed yeah wait so and so we're helping basically we found this right right and and we're not knocking some of the big DC firms whether it's like a sequoia or a16 like they might have hundreds of people that helped and I think there are jobs wow and they've done it very well but then how about 95 of other VC firms that just write the",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Board",
+      "content_type": "Story",
+      "timestamp": "80:59 - 81:42",
+      "reference_link": "https://www.youtube.com/watch?v=7XR2CEC6lJk",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_137",
+    "text": "of other VC firms that just write the check you know to me like Founders need more advisors and why I love this concept is you're you're having a basically a dynamic Advisory Board yeah for your needs yeah whether it's marketing fundraising other investors who maybe don't have the ability to advise or helping plug in with their with their startups too awesome love it yeah so check it out if you need some advisory help this is really for post Siege stage companies right yeah maybe that might change this is really impact first impact first yeah impact first here in zero we're finding good companies and discuss about the money in the retirement we just want to get the",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Advisory",
+      "content_type": "Advice",
+      "timestamp": "81:35 - 82:16",
+      "reference_link": "https://www.youtube.com/watch?v=7XR2CEC6lJk",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_138",
+    "text": "the retirement we just want to get the advice ain't it yep connect the people who with the people who love to impact people then profits I do I do planet people impacts probably nice I love it all right well it was a pleasure doing this interview with you JT um I think there's so much golden nuggets and gems here um and if people want to get a hold of JT how could they get a hold of you or um well I'm not on social media uh JT hang.com okay I'm at the hey email service right yup super cool so straightta.com okay awesome well it's a pleasure thanks for being on the show all right cool thank you yeah foreign [Music]",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Interview",
+      "content_type": "Story",
+      "timestamp": "82:12 - 83:02",
+      "reference_link": "https://www.youtube.com/watch?v=7XR2CEC6lJk",
+      "source_type": "YouTube"
+    }
+  }
+]

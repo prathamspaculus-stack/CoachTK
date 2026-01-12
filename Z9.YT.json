@@ -1,0 +1,218 @@
+[
+  {
+    "chunk_id": "chunk_1",
+    "text": "Over 250,000 tech workers were laid off in the last year. But unlike what most people are saying, it's not because of AI or a changing economy. Instead, there's a deeper shift happening in the tech space. See, I've been in the tech space for over 25 years. I work with startups, big corporations, government contractors, military, and at one point I was making 350,000 a year in IT. And today I'm the founder of a tech school called NGT Academy where we've trained over 12,000 students, many who went on to go work for companies like Microsoft, Cisco, Google, Amazon, and even the US military. And I'm telling you from the collective experience of thousands of my students,",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Tech Layoffs",
+      "content_type": "Story",
+      "timestamp": "00:00 - 00:45",
+      "reference_link": "https://www.youtube.com/watch?v=k-JJm2iIh9g",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_2",
+    "text": "experience of thousands of my students, that it is true. Tech jobs are getting harder to land than ever before. And if you're applying to tech jobs the same way people did 5 years ago, I can guarantee you you'll be left behind. And because the rules have changed, so if you're frustrated, confused, wondering if tech is even worth it anymore, I'm going to explain what's really happening in the tech job market and how you can actually get ahead of it. Just a few years ago, tech was the hottest market. Companies were hiring like crazy with massive funding in Silicon Valley.  Fairside compiled a list of America's 15 highest paying companies, but tech",
+    "metadata": {
+      "domain": "IT",
+      "topic": "tech jobs",
+      "content_type": "Story",
+      "timestamp": "00:41 - 01:24",
+      "reference_link": "https://www.youtube.com/watch?v=k-JJm2iIh9g",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_3",
+    "text": "highest paying companies, but tech companies dominated the list with nine of the 15 places, including Netflix at number two and Google at 13. The country's five biggest tech companies are growing and investing in the future. If you had any experience or just came out of any coding boot camp, you would basically be guaranteed a job. But that turned out to be a bubble. You see, during the pandemic, tech companies overhired. Help desk jobs boomed. Software engineering and pretty much every tech sector, including the entire cyber security departments, were staffed overnight. That's what this graph represents. But then everyone realized they did too much too fast. So",
+    "metadata": {
+      "domain": "IT",
+      "topic": "tech",
+      "content_type": "Story",
+      "timestamp": "01:20 - 02:07",
+      "reference_link": "https://www.youtube.com/watch?v=k-JJm2iIh9g",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_4",
+    "text": "realized they did too much too fast. So in 2022 to 2023, companies like Google, Meta, Amazon, and Microsoft started laying off their workers and still continuing into 2025, where now more than 150,000 job cuts across 549 companies have already happened. And those cuts aren't happening to underperformers or slackers. They're happening to solid employees who just got caught in the shift. But now all of these layoffs led to a flooded job market with experienced candidates looking for jobs and fewer open positions at companies. This is why the total open job market at tech startups, tech unicorns, and public tech companies have decreased dramatically in 2025. And",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Job Market",
+      "content_type": "Story",
+      "timestamp": "02:01 - 02:50",
+      "reference_link": "https://www.youtube.com/watch?v=k-JJm2iIh9g",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_5",
+    "text": "have decreased dramatically in 2025. And this is the tech hiring mirage. The illusion that there's an unlimited opportunity in the tech market has now disappeared. and we're left with the current job market where it seems like everyone's struggling. But what if I told you that tech isn't dead? And actually, there's a huge opportunity most people are missing out right now because they're playing the old game, following the old rules of tech. Let me explain. The reality is that most people in tech are learning the wrong skills and they're learning them in the wrong order. For example, employers today aren't just hiring coders or network engineers. In 2021, everyone was getting",
+    "metadata": {
+      "domain": "IT",
+      "topic": "tech hiring",
+      "content_type": "Story",
+      "timestamp": "02:44 - 03:34",
+      "reference_link": "https://www.youtube.com/watch?v=k-JJm2iIh9g",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_6",
+    "text": "engineers. In 2021, everyone was getting hired, but today companies want problem solvers who can understand systems, protect the infrastructure, and deliver business value fast. Because we don't want it to be looked at as a cost center, but an innovation center. And there's a skill gap going on right now where candidates who are in the marketplace with four years of a computer science degree and 4.0 0 GPA, but they still can't troubleshoot a real world network or lock down a compromised server or explain how modern systems communicate across the internet. And that's the problem because that's what employers notice first, especially in technical interviews. And this is why we",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career",
+      "content_type": "Advice",
+      "timestamp": "03:28 - 04:14",
+      "reference_link": "https://www.youtube.com/watch?v=k-JJm2iIh9g",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_7",
+    "text": "technical interviews. And this is why we have people struggling to even get help desk jobs and others struggling because they're trying to jump into highpaying IT roles like cyber security without having the basic technical skills and an understanding of the digital battlefield they're supposed to defend. That's like why trying to be a special force operator without going through basic training. Can you imagine like trying to be a Navy Seal and don't have your foundation? It doesn't work. Employers can spot it instantly. But even if you have the right skills, like many people do, there's another battle happening and it's causing people to get ignored in the hiring process. This new threat is",
+    "metadata": {
+      "domain": "IT",
+      "topic": "technical interviews",
+      "content_type": "Story",
+      "timestamp": "04:10 - 04:54",
+      "reference_link": "https://www.youtube.com/watch?v=k-JJm2iIh9g",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_8",
+    "text": "the hiring process. This new threat is the AI curveball. It's already here and the AI curveball. It's already here and it's not just replacing factory workers or data entry clerks. It's transforming IT work in itself. AI is already eliminating most entry-level roles like QA testing, customer support, and even junior coding. With tools like GitHub, Copilot, Chat, GPT, countless automation platforms, one engineer can do now work of three or even four. This means companies don't need huge teams anymore, especially on the software teams. They need highly efficient specialized teams within IT. So, if you're applying for jobs that used to be handled by entry or mid-level teams, you're probably finding them gone. And it's because the",
+    "metadata": {
+      "domain": "IT",
+      "topic": "AI impact",
+      "content_type": "Story",
+      "timestamp": "04:48 - 05:37",
+      "reference_link": "https://www.youtube.com/watch?v=k-JJm2iIh9g",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_9",
+    "text": "them gone. And it's because the expectations from companies have skyrocketed. They want value from day one. Because now what's happening is AI is automating low-level task. And for the other task, companies are outsourcing more work to places like India, the Philippines, Eastern Europe because the labor is cheaper. But this trend isn't, you know, eliminate all entry-level jobs in every company, but it eliminates the generic ones, the software engineering roles, the ones where you can easily be replaced by a cheaper, faster alternative, whether it's an AI coder or it's someone offshore. In fact, the World Economic Forum says there's going to be hundreds of millions of job displaced but",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Job Market",
+      "content_type": "Story",
+      "timestamp": "05:33 - 06:16",
+      "reference_link": "https://www.youtube.com/watch?v=k-JJm2iIh9g",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_10",
+    "text": "of millions of job displaced but creating tens of millions of new AI jobs. AI systems need to secure the infrastructure. They need proper configuration and active monitoring. Cyber security becomes super important for compliance and ethical implementation is more critical than ever. If your resume, your skills, and your online presence bleed into the sea of sameness, then yes, you will be replaced. But if you stand out, you become irreplaceable. Which is why today's most hirable candidates are the ones who stack hybrid skills. That's right. being kind of like a MacGyver with that kind of all Swiss Army knife. That's the type of talent that employers are seeking for. Those that can blend",
+    "metadata": {
+      "domain": "IT",
+      "topic": "AI jobs",
+      "content_type": "Story",
+      "timestamp": "06:11 - 07:00",
+      "reference_link": "https://www.youtube.com/watch?v=k-JJm2iIh9g",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_11",
+    "text": "are seeking for. Those that can blend traditional technology with something else that's harder to outsource or automate. Someone that is an architect, a thinker, a problem solver. For example, someone who knows network engineering but also knows cyber security and compliance or how to evaluate hybrid cloud environments with mixed with on-prem or even using AI prompting for engineering brings a lot more value to the table than someone who just passed a basic or got a theoretical degree in 4 years at university. So let's say you're studying cyber security for another example. That's great. But imagine adding incident response or penetration testing or being able to do",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Job Requirements",
+      "content_type": "Advice",
+      "timestamp": "06:56 - 07:43",
+      "reference_link": "https://www.youtube.com/watch?v=k-JJm2iIh9g",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_12",
+    "text": "penetration testing or being able to do network defense to ethical hacking allinone. Being exposed to cloud platforms like AWS or Azure or Google Cloud along with basic scripting with Python. This combo moves you into an associate level conversation pretty quickly and it shows that you're hungry but you're multiaceted like MacGyver or maybe you're in a help desk but you're also learning log analysis with Splunk or the Elkstack and that's valuable for companies cuz these employers want you to be well-versed in the latest technologies. Now you see you're different from everyone else. You can bring more value to these teams. You can even go further by adding soft skills",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career",
+      "content_type": "Advice",
+      "timestamp": "07:38 - 08:27",
+      "reference_link": "https://www.youtube.com/watch?v=k-JJm2iIh9g",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_13",
+    "text": "even go further by adding soft skills like public speaking, being able to work in teams, writing skills, customer engagement. And as you advance these type of skills, you can go into more advanced roles like pre-sales engineering, technical consulting, or becoming a cyber security consultant, which aren't beginner jobs. These are advanced jobs that point to a six-figure salary cuz now you stand out. Think of it like building your superpower stack. overlapping abilities that complement each other. Because if you're not employed yet, you can write or speak about those insights. You can build sample projects to showcase your portfolio that addresses these critical",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career Advancement",
+      "content_type": "Advice",
+      "timestamp": "08:22 - 09:08",
+      "reference_link": "https://www.youtube.com/watch?v=k-JJm2iIh9g",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_14",
+    "text": "portfolio that addresses these critical IT problems that are top of- mind for CIOS, directors, and even csos. That's how you demonstrate problem solving ability, not just textbook knowledge. And that's where smart IT professionals stand out because they got the right training. Now, this is just the first thing to do. And I know it might sound like a lot, but right now the reality is that the skill bar in tech is much higher and AI and automation is only accelerating it. But there is a path forward and I want to map it out right for you right now. In today's competitive tech market, just having certifications isn't enough. It gets you past the job filters like the thousands",
+    "metadata": {
+      "domain": "IT",
+      "topic": "problem solving",
+      "content_type": "Advice",
+      "timestamp": "09:03 - 09:51",
+      "reference_link": "https://www.youtube.com/watch?v=k-JJm2iIh9g",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_15",
+    "text": "past the job filters like the thousands of other résumés that HR sees. But once you're in front of the hiring manager or the actual IT director, they want real evidence that you can solve problems that matter. That's why you need to learn how to position yourself beyond the IT certifications to stay competitive and to be able to provide value and to be able to just crush that technical interview. And how do you do that is through experience and competency and therefore becomes your confidence going into these interviews. So if you're studying cyber security, don't just list your CompTI of security plus right build a portfolio of projects and you can use virtual labs, you can",
+    "metadata": {
+      "domain": "IT",
+      "topic": "interview",
+      "content_type": "Advice",
+      "timestamp": "09:45 - 10:31",
+      "reference_link": "https://www.youtube.com/watch?v=k-JJm2iIh9g",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_17",
+    "text": "to be able to talk to cloud security, which is a big need for a lot of companies that have hybrid environments. And next is positioning yourself with a lot of these IT companies have meetups. They have webinars where they showcase the latest innovative technologies and it's good to connect with these people, network with them via LinkedIn. Go to these events and really engage with the latest technologies. Another thing is you can follow these uh product leaders and visionary CIO directors and you can comment on their posts on LinkedIn. Start building that network, sharing your projects, sharing your contribution maybe to even open- source projects. And all these micro interactions will build",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Networking",
+      "content_type": "Advice",
+      "timestamp": "11:07 - 11:53",
+      "reference_link": "https://www.youtube.com/watch?v=k-JJm2iIh9g",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_18",
+    "text": "all these micro interactions will build  visibility for your personal brand and  people start seeing you in the comments.  And that perception makes hiring you  feel like a no-brainer. But if you're  not sure what direction to take in your  career, then you need to be careful just  jumping into action and commenting and  posting random things. That's not going  to get you anywhere. Otherwise, you'll  end up just being a waste of time and  you'll also struggle to get a job. And  that's why we built a free quiz to tell  you exactly what direction you should  pursue in information technology based  on your personality, your lifestyle  goals, and where your current skill  levels are. It's a free quiz to help you",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Personal Brand",
+      "content_type": "Advice",
+      "timestamp": "11:48 - 12:30",
+      "reference_link": "https://www.youtube.com/watch?v=k-JJm2iIh9g",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_19",
+    "text": "levels are. It's a free quiz to help you figure out which high-paying tech path is actually right for you, and how you can stand out in the segment of the IT industry. That way you don't waste years chasing the wrong thing and struggling. And it only takes 3 minutes. It's personalized and it's 100% free. Tap the link on your screen or in the description to get your free tech career path now. [Music]",
+    "metadata": {
+      "domain": "IT",
+      "topic": "career path",
+      "content_type": "Example",
+      "timestamp": "12:25 - 12:58",
+      "reference_link": "https://www.youtube.com/watch?v=k-JJm2iIh9g",
+      "source_type": "YouTube"
+    }
+  }
+]

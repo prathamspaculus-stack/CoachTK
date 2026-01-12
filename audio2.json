@@ -1,0 +1,1106 @@
+[
+  {
+    "chunk_id": "chunk_1",
+    "text": "What defines meaning in life? It's not how much money you make. It's not the size or how many millions of transactions that you, the systems you design are. It's how did you make a difference in people's lives? Because you can change one person's world, you can change the world. Each week, we provide tech lessons, answer questions, and bring you interviews of the most successful engineers and thought leaders working in the IT space across technologies like data center, cloud, networking, collaboration, and security. Listen in as you'll gain insight, strategies, tips, and more to help you level up along your journey in becoming a rockstar SE. So let the class begin. Now, this episode is sponsored and brought to you by our IT training company called NextGen.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "meaning",
+      "content_type": "Story",
+      "timestamp": "00:00 - 00:49",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP13_Colin_McNamara_DevOps_expert_and_cloud_architect_shares_with_us_on_how_to_secure_your_future_in_IT.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_2",
+    "text": "our IT training company called NextGen. And we are the creators of Zero to Engineer, a revolutionary online course for those that are looking to break into network or systems engineering from the ground up. Zero experience or certifications are required. Visit zerotoengineer.com and feel free to share this with your friends and family that are looking for a proper jumpstart in exploring a career in IT. And again, that is zerotoengineer.com. And now onto the show. All right, SE Nation, let's get started. I am super excited to introduce my guest today, Colin McNamara, who is a founder and principal consultant at Farquhley, where he helps companies, communities, and individuals succeed in the world being transformed by NextGeneration technology.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "IT training",
+      "content_type": "Story",
+      "timestamp": "00:46 - 01:38",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP13_Colin_McNamara_DevOps_expert_and_cloud_architect_shares_with_us_on_how_to_secure_your_future_in_IT.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_3",
+    "text": "and individuals succeed in the world being transformed by NextGeneration technology. Previously, he was running DevOps at Dimension Data and has been a very early adopter of DevOps practice. And his expertise is around SDN DevOps and open source. Hey, Colin, it's been a while. What's going on, my man? Ah, this enjoying this beautiful Texas winner that's switching between 30 degrees and 80 degrees every three days. Is that saying here in Texas, if you don't like the weather, just wait a minute. So. All right. Hey, since I've given our listeners an overview, can you go ahead and take a minute and let us know a little bit more about yourself, where you're from, your current role, and maybe some hobbies? So my name's Colin McNamara. I call Austin, Texas home.",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Success",
+      "content_type": "Story",
+      "timestamp": "01:33 - 02:21",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP13_Colin_McNamara_DevOps_expert_and_cloud_architect_shares_with_us_on_how_to_secure_your_future_in_IT.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_4",
+    "text": "So my name's Colin McNamara. I call Austin, Texas home. It's the number two place in America to live, as well as the fastest growing technology community in the nation. I formally have lived for many, many years in Silicon Valley, as well as San Diego. I founded a Farquely Inc in October. We're now at the point where we actually have employees. It is great. So October 2016, my interests are applying advanced technologies and especially research and doing applied research on that. So if I think of on the business side or on the technical side, tracking technologies as they come out in colleges or in the open source community, working with them, getting to know them, getting experience with them, implementing them, and then finding the time when those technologies are actually",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Personal",
+      "content_type": "Story",
+      "timestamp": "02:16 - 03:05",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP13_Colin_McNamara_DevOps_expert_and_cloud_architect_shares_with_us_on_how_to_secure_your_future_in_IT.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_5",
+    "text": "finding the time when those technologies are actually going to make a difference in business. Then understanding what I need to do organizationally, whether it's times as a dimension data, running two continents for DevOps, or whether it's at Nexus reporting to the partners and running DevOps for North America. The game here is, for me, in the exciting part, is where can I take these new technologies that are coming and changing the world, and build organization and help craft an organization, sometimes change an organization. That's the hardest part. But pivot an organization to be able to actually help their customers help themselves with that. The for hobbies, well, I've been traveling a lot. I love to get to know the world in this country.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Leadership",
+      "content_type": "Story",
+      "timestamp": "03:05 - 03:51",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP13_Colin_McNamara_DevOps_expert_and_cloud_architect_shares_with_us_on_how_to_secure_your_future_in_IT.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_6",
+    "text": "I love to get to know the world in this country. My most recent trip, I took a 12-day road trip across the Southeast, did not plan where we were going to end up, ended up at the base of the Appalachian Trail, hanging out in a cabin by a river for Thanksgiving, going through all these little back roads of America, and it was really interesting going through the South and the Southeast, and having the perspective of someone who's deeply involved in technical transition and industry transition is very interesting to see all the shuttered factories, all the communities in decline. And I think it's something that, and it happened to me also when I lived in Silicon Valley, we kind of lived in this bubble in technology and realized, well, why don't you just go to school, why don't you just move to Silicon Valley?",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Travel",
+      "content_type": "Story",
+      "timestamp": "03:47 - 04:35",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP13_Colin_McNamara_DevOps_expert_and_cloud_architect_shares_with_us_on_how_to_secure_your_future_in_IT.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_7",
+    "text": "why don't you just move to Silicon Valley? Why don't you go work 100 hours a week? Hey, everything can be good. And the reality is, there's communities all across America now which are in transition. And the manufacturing sector in America isn't a huge transition. Now recently, we're seeing, you know, manufacturing started and come back to America, but at the same time, we're seeing this growth in robotics, this application of DevOps to making things like cars, in shirts and pipes and fuel. And it was really interesting on this road trip to kind of connect back with Core America and see the people that we as a community, and this DevOps community, this engineering community spans a globe, that we as a community are going to be working a lot closer with",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Core America",
+      "content_type": "Story",
+      "timestamp": "04:34 - 05:23",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP13_Colin_McNamara_DevOps_expert_and_cloud_architect_shares_with_us_on_how_to_secure_your_future_in_IT.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_8",
+    "text": "that we as a community are going to be working a lot closer with as the Internet of Things, as 5G, LTE, Refresh, as all these things come together to basically robotize manufacturing in America. And it was this amazing road trip, with a whole bunch of riding and thinking and resting and relaxing, and I kind of capped it off with a trip to the West Coast. I had my grandmother raised me in that passing away. Beautiful woman, amazing woman, died in 93, was a private pilot for 63 years. It has degree in mathematics and degree in psychology so that she started when she was 15 in a little farm town in California. And I went back to speak at her, speak her memorial, and ended up taking the Zephyr train back across America. So across, on one half of America, across most of it by car,",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Community",
+      "content_type": "Story",
+      "timestamp": "05:19 - 06:13",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP13_Colin_McNamara_DevOps_expert_and_cloud_architect_shares_with_us_on_how_to_secure_your_future_in_IT.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_9",
+    "text": "So across, on one half of America, across most of it by car, or much of it by car, and then on the flip side, took the train, the trains that were the highlight of the 30s and 40s, and took it across the Sierra Nevada's and the Rocky Mountains. So, very much an interesting time. Oh, wow. No, thanks for sharing that. Yeah, you've been on the road quite a bit, seems like. Oh, yeah, don't even count Africa, speaking of Devobstays, Africa, the month before. I keynoteed Linuxcon and Containercon Europe in Berlin. It's Christmas was a little milder. I ended up just doing a staycation in Austin and spinning with my son. It was great. Well, thanks for sharing, Colin. I'd love to kind of just next dive deep into maybe your IT career journey.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career Journey",
+      "content_type": "Story",
+      "timestamp": "06:07 - 06:59",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP13_Colin_McNamara_DevOps_expert_and_cloud_architect_shares_with_us_on_how_to_secure_your_future_in_IT.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_10",
+    "text": "I'd love to kind of just next dive deep into maybe your IT career journey. And before that, I'd love for you to share with our audience your favorite quote and let us know why you chose this one to share. So, my favorite quote, and this is my email signature for gosh, probably most of the late 90s and 2000s. And it was a quote from these amazing men who were able to create things under fire while they're being bombed while they're being shot at, while flame throwers were being launched on them. Those were the CBS, the United States Navy. Now, I'm a marine myself. And so, there is obviously we like to gest, and we like to kind of like to poke and prod any one of any other service. But there are some people in the Navy that I respect. And the CBS are one of them.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career Journey",
+      "content_type": "Story",
+      "timestamp": "06:55 - 07:38",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP13_Colin_McNamara_DevOps_expert_and_cloud_architect_shares_with_us_on_how_to_secure_your_future_in_IT.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_11",
+    "text": "But there are some people in the Navy that I respect. And the CBS are one of them. And their quote is, the impossible, or it's going to be the difficult we do immediately, the impossible just takes a little longer. And for me that summarized this innovative and can-do attitude that permeates the highest performing organizations and people, that there's no challenge that is unattainable, that by working smart, by using our minds and our bodies and our eyes and our ears and communicating and working with the teams around us, we can move mountains. Wow. It's always just resonated with me. Yeah, I love it. Anything is possible, right? Absolutely, especially nowadays. Now, take us back in time. How did you actually start your journey in IT?",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Innovative Attitude",
+      "content_type": "Story",
+      "timestamp": "07:34 - 08:19",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP13_Colin_McNamara_DevOps_expert_and_cloud_architect_shares_with_us_on_how_to_secure_your_future_in_IT.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_12",
+    "text": "Now, take us back in time. How did you actually start your journey in IT? Actually, the very, very start of it, I was 12 years old. I was traveling with my grandmother in my, at the time, my grandmother, I think I was living with her at the time. And with her and her partner, Charlie, her S-Sport, you know, based her boyfriend, and to the International Flying Farmers, National North American Convention in Sacramento, California. And it's an organization for farmers who are also pilots. So you don't go to do all these fly-ins and you tour people's farms and the manufacturing side. And I ended up winning two scholarships that year out of that conference. One of them was a flying scholarship. And the second one was a technology scholarship. And I got my first laptop.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career",
+      "content_type": "Story",
+      "timestamp": "08:14 - 09:07",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP13_Colin_McNamara_DevOps_expert_and_cloud_architect_shares_with_us_on_how_to_secure_your_future_in_IT.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_13",
+    "text": "And the second one was a technology scholarship. And I got my first laptop. And my grandmother and Charlie were kind enough to let me wax the airplane, which if you unfold an airplane and you apply three quotes of wax, that's a huge amount of surface area for $50 each and the motorhome, right? And I would use those money to use that money to buy computer books. So, yeah, I had interesting computers through through high school, but I grew up very, very poor. My mom worked at a rug factory in the God job as a secretary. My dad was a kind of out of the picture. And so I ended up doing graphic design in high school while working at a market research firm. And then the first hometown buffet franchise in America, actually. And so what ended up happening is,",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Personal Story",
+      "content_type": "Story",
+      "timestamp": "09:02 - 09:52",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP13_Colin_McNamara_DevOps_expert_and_cloud_architect_shares_with_us_on_how_to_secure_your_future_in_IT.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_14",
+    "text": "franchise in America, actually. And so what ended up happening is, I joined the Marine Corps, the day I graduated high school, I left for boot camp. I got emancipated at 17. I joined the reserves to paper college. And this guy interesting, I could have gone to Stanford, but I didn't realize that if your parents were poor, you went for free. But, you know, hindsight's 20, right? Yeah. I'm working at this restaurant and I ended up relieving myself of my employment. It was very young, very young Marine and full of piston vinegar. And so I'm about to get kicked out of my apartment. I've been living off those 15 cent hamburgers that McDonald's had back in the late 90s. Oh, wow. Yeah, the ones that would come out like every Wednesday.",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "franchise",
+      "content_type": "Story",
+      "timestamp": "09:48 - 10:33",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP13_Colin_McNamara_DevOps_expert_and_cloud_architect_shares_with_us_on_how_to_secure_your_future_in_IT.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_15",
+    "text": "Oh, wow. Yeah, the ones that would come out like every Wednesday. And I didn't have a microwave. I was eating cold. And I was walking across the, from my apartments to the parking lots of the Taco Bell. And I was going to put in my application. And I just needed money and I survived. And this gray hashback pulls up. And it was a guy who used to work with at Home Debra Faye. He had been joined the Army Reserves. And he had ended up, I said, hey, Colin, what's going on? Told him what's going on. He's like, hey, why don't you go to tomorrow? Go talk to the General Manager of DKA computers as a local systems integrator, which had an attached ISP in Fresno, California. And I gave you a job putting PCs together. And so I ended up starting on the midnight shift",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Career",
+      "content_type": "Story",
+      "timestamp": "10:29 - 11:15",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP13_Colin_McNamara_DevOps_expert_and_cloud_architect_shares_with_us_on_how_to_secure_your_future_in_IT.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_16",
+    "text": "And so I ended up starting on the midnight shift putting PCs together. And I learned, I saved, I, everything I had was, are you telling me if I learned stuff and maybe pass a test that you will make me more money and I can afford to eat? This is cool. There's a, I mean, starvation is a great motivator. Absolutely. Yeah, so I ended up, I ended up running the ISP by the end of the year. And managing the operating, managing the service operations. I ended up actually using some programmatic means. I remember ghost back then as well as some other auto-automated install techniques to optimize manufacturing. It was a huge save. It was about $40,000 of inventory that we didn't have to carry, which is big for us. And I bounced around over the years.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career",
+      "content_type": "Story",
+      "timestamp": "11:13 - 12:01",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP13_Colin_McNamara_DevOps_expert_and_cloud_architect_shares_with_us_on_how_to_secure_your_future_in_IT.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_17",
+    "text": "that we didn't have to carry, which is big for us. And I bounced around over the years. I ended up moving to Silicon Valley after a couple of years of that. And worked as an operations guy on a development team at a 100 year old print company called Net Publishing. And I had the pleasure of working under some amazing development architects and some amazing managers. And learning how, from Ed Namp, who's brother actually ran the super-collider in Texas and he was a key contributor to Chaos Theory. Ed was the super-collider guy. Jim was a, he dropped out of high school. Who may have? He didn't go to college, but he was a brilliant man. He ran a great business. He had great values. And he had people that loved the company, that loved each other and loved him.",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Career",
+      "content_type": "Story",
+      "timestamp": "11:57 - 12:42",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP13_Colin_McNamara_DevOps_expert_and_cloud_architect_shares_with_us_on_how_to_secure_your_future_in_IT.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_18",
+    "text": "And he had people that loved the company, that loved each other and loved him. And they worked there. They were there for life. I learned a lot about how to lead people. I learned a lot about how to manage myself. I got my first cubby day timer. I went through my first ISO certification and had my first introduction to Lean. Some of the key concepts in DevOps are, it's called the Theory of Constraints, which is used every day in manufacturing state. So I had this really interesting, cash-lucky experience of a girlfriend, me and my girlfriend, breaking up in Fresno, me saying, screw this town I'm at it here, putting my resume up online and ending up in Silicon Valley and into a situation where I was supported.",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Leadership",
+      "content_type": "Story",
+      "timestamp": "12:38 - 13:27",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP13_Colin_McNamara_DevOps_expert_and_cloud_architect_shares_with_us_on_how_to_secure_your_future_in_IT.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_19",
+    "text": "and ending up in Silicon Valley  and into a situation where I was supported.  I was, I think, 18th of the time, 19th of the time, very young.  And I was supported and I was immersed in the craziness that is Silicon Valley in its heyday.  When it wasn't about money,  when it wasn't about your exit,  when it was about the innovation,  when it was cool to be carted.  It was the first time in my life  that this little nerd from a farm town,  20,000, 2000 people could come in and be a rock star.  And for what I loved, and which was tinkering.  But that's how I got started.  It was an amazing start, and so thankful.  So you went from, yeah, from Marines, Huah,  and I was actually in the Air Force, Huah,  so we trained together a Keesler Air Force base.  There you go.  Yeah.",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Career",
+      "content_type": "Story",
+      "timestamp": "13:20 - 14:11",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP13_Colin_McNamara_DevOps_expert_and_cloud_architect_shares_with_us_on_how_to_secure_your_future_in_IT.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_20",
+    "text": "so we trained together a Keesler Air Force base. There you go. Yeah. And I mean, some takeaways here, I think for the audience is be hungry folks. I mean, you heard Colin. That's a great motivator to push yourselves beyond your limits. Now, I'm curious Colin, you went from first IT job, building PCs, and then it seems like you went into a systems administration, and then kind of into a network engineer role midway through your career. I've actually, that was in the first year I made that transition. So I was not going to live in poverty. Yeah. I mean, you factoring job in the central valley was just over minimum wage anyways. But I learned that if you gain certifications and you learn new skills that you could work at a rate.",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Career",
+      "content_type": "Advice",
+      "timestamp": "14:05 - 14:52",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP13_Colin_McNamara_DevOps_expert_and_cloud_architect_shares_with_us_on_how_to_secure_your_future_in_IT.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_21",
+    "text": "and you learn new skills that you could work at a rate. So it's a lesson that everyone needs to take. There's other financial lessons, like putting your money into assets versus liabilities and stuff like that you learn later on. But at that time, it started out of hunger. But I had always been interested in this stuff. I'd always loved it. I've taken apart every single piece of electronics I own. And it was, I can even trace it back to my childhood friends, Scott Davis. I probably became friends when I was four or five. His dad was a math teacher at the local middle school. And his entire garage was full of electronic stuff. We could solder. We can take things apart. I remember trying to build my first airplane control panel at like eight and writing our bikes down to radius",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Mindset",
+      "content_type": "Story",
+      "timestamp": "14:50 - 15:36",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP13_Colin_McNamara_DevOps_expert_and_cloud_architect_shares_with_us_on_how_to_secure_your_future_in_IT.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_22",
+    "text": "at like eight and writing our bikes down to radius shaft to get switches and lights. This love and this joy for exploring the nuances and interconnections and the puzzle that is our industry. When you can find that, when it's not about the money, because it wasn't about money back then, it was, I was happy I had a job where I wasn't starving. But it was this joy of being able to use my brain and connect and share with people and learn with people. And it was really, I felt at home, surrounded by people just like me who maybe didn't, I guess not just like me. I was in sports. I played volleyball. I race bicycle. But I never, this kind of did my own thing. I was at a full-time job or two. And so coming into this industry where I could talk,",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Industry",
+      "content_type": "Story",
+      "timestamp": "15:33 - 16:25",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP13_Colin_McNamara_DevOps_expert_and_cloud_architect_shares_with_us_on_how_to_secure_your_future_in_IT.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_23",
+    "text": "I was at a full-time job or two. And so coming into this industry where I could talk, I could go off on my crazy rants about the newest package from from whoever or whatever. And people would have opinions about it, would want to hear it and would be excited about it. And they had information that would make me excited. And I could share knowledge. It was this amazing, amazing time in my life. So yeah, I started putting PCs together. I figured that out. That was Windows 95 at the time. I actually had to learn SCO Unix. The National Park Service was implementing an online registration system. And so I actually built that for them out of SCO Unix. Rebuilt this with this new technology that came out called Windows NT. Figured out Citrix. It was a small farm town.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career",
+      "content_type": "Story",
+      "timestamp": "16:21 - 17:05",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP13_Colin_McNamara_DevOps_expert_and_cloud_architect_shares_with_us_on_how_to_secure_your_future_in_IT.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_25",
+    "text": "But it was for learning. Yeah. And I ended up running the service, came from moving the day shift, running the service desk, had a team of five or six. And then I ended up, it can be a bit of a smart ally sometimes. And I ended up hacking the PCs that were used for the distributors to come in, the other small PC retailers, the guy puts PCs together kind of thing. And making it so I could put snarky messages on them and open up the CD trays and just kind of screw people. Which was not the best thing to do. The fellow who ran the ISP, DK online at the time, was brought into trace it back. And instead of firing me, you couldn't really arrest people for that back then. I get promoted. And I ended up running the ISP.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career",
+      "content_type": "Story",
+      "timestamp": "17:47 - 18:40",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP13_Colin_McNamara_DevOps_expert_and_cloud_architect_shares_with_us_on_how_to_secure_your_future_in_IT.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_26",
+    "text": "I get promoted. And I ended up running the ISP. Yeah, and running a small development team, we built some web card applications, flash-based stuff that allowed you to go through decision trees to lower the cost of quoting for the systems we sold. And running all the dial-up ISP works and all the pops for a lot of California is where our pops were. Kind of contracted out for the rest of them. So Colin, I'm curious, when did you make that transition from being an engineer and working an IT on the customer side to the systems integrator or partner side and doing actual consulting? Well, technically, DK A had corporate customers, although rarely did, most of it was consumer-based. So the dial-up ISP was direct to consumer or the PCs direct to consumer.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career",
+      "content_type": "Story",
+      "timestamp": "18:36 - 19:25",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP13_Colin_McNamara_DevOps_expert_and_cloud_architect_shares_with_us_on_how_to_secure_your_future_in_IT.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_27",
+    "text": "So the dial-up ISP was direct to consumer or the PCs direct to consumer. Many times there were small businesses. So my first real technology, my first real adult job, I won't count working at home down buffet in high school or Bartel's research in high school as, I guess Bartel's was actually real job. Managed teams there too, but 16, not only enough. But DK was my first taste of how you can maintain the level of professionalism, how you can actually listen to a customer's business needs. And take all this technology stuff you've been learning about and translate the technical tools that you have available into ways of helping these businesses grow. It was my first taste set, it wasn't deep into it. I went back after a nap publishing,",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career",
+      "content_type": "Story",
+      "timestamp": "19:22 - 20:15",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP13_Colin_McNamara_DevOps_expert_and_cloud_architect_shares_with_us_on_how_to_secure_your_future_in_IT.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_28",
+    "text": "It was my first taste set, it wasn't deep into it. I went back after a nap publishing, I ended up going to work for a company called Infobond where I got my first taste in Voice for IP. My first taste in voice communications was actually DK, ran the PBX's too, or as well should I say. And I remember seeing in Network Road Magazine, I think it was Network Road, one of the trade megs, there's this guy in a nice suit and he was holding up a telephone and it was plugged into a patch panel or a wall full of patch panels. And he was, it was a article about how we saved $60,000 a month, I believe it was, between New York and Tokyo for the stock exchange, using Voice over Frame Ulay. And I had started using Voice over Frame Ulay and then some early Voice over IP with the MC3010 platform at nap publishing.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career",
+      "content_type": "Story",
+      "timestamp": "20:08 - 21:01",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP13_Colin_McNamara_DevOps_expert_and_cloud_architect_shares_with_us_on_how_to_secure_your_future_in_IT.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_29",
+    "text": "and then some early Voice over IP  with the MC3010 platform at nap publishing.  So I was able to work a lot there.  It's early 2000.  2000s, we had a kind of a spin in startup  called Pickback and Ship.com.  It was the first company out there,  the first platform where you could upload a PDF  and have it printed out and delivered  wherever you wanted in the nation.  And so we had built this platform  where HP's second run printing actually went through  my data centers, went through the platform.  Microsoft's the whole MS giving site  was actually hosted on our stuff.  And so I'd learned and participated  and wrote a little bit of code.  And mostly did the systems network engineering for that  and for the locations around the nation.  But it had the opportunity to learn,",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Early Days",
+      "content_type": "Story",
+      "timestamp": "21:00 - 21:46",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP13_Colin_McNamara_DevOps_expert_and_cloud_architect_shares_with_us_on_how_to_secure_your_future_in_IT.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_30",
+    "text": "and for the locations around the nation. But it had the opportunity to learn, even down to, you know, I had a bird five color printing process. These are locomotive size presses and digital workflow. I tend to be very curious. And when people let me ask questions, I tend to. But so I ended up going to this consulting company called Infobon, so I was hunting growth and hunting pay raises. And in retrospect, I probably should've stayed longer at nap publishing. Because I needed to grow more in my soft skills as a person. But I wanted to learn new technical stuff and the CIO, we had a leadership swap for our CIO. Yeah, Silicon Valley is shops crumble. So I had a win to go work with Infobon. And I got my first experience with this platform, the Celsius platform,",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Career",
+      "content_type": "Story",
+      "timestamp": "21:42 - 22:34",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP13_Colin_McNamara_DevOps_expert_and_cloud_architect_shares_with_us_on_how_to_secure_your_future_in_IT.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_31",
+    "text": "And I got my first experience with this platform, the Celsius platform, it's called call manager. And I'd done a little network engineering, systems engineer work for them and for customers all across Silicon Valley, including my claim to fame, I don't say claim to fame, but one more fun stuff was working with Embarcadero systems where the work we did actually caused the dock workers union strike that took that crunch star economy for a while in the United States of automating, automating the scanning, the systems and the whole paperwork workflow of when containers come off shifts and go into the Multimodal distribution channel. And I had the opportunity to learn, to really get my first handsets in install media for call manager then.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Experience",
+      "content_type": "Story",
+      "timestamp": "22:28 - 23:11",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP13_Colin_McNamara_DevOps_expert_and_cloud_architect_shares_with_us_on_how_to_secure_your_future_in_IT.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_32",
+    "text": "to really get my first handsets in install media  for call manager then.  I had bounced from there to a couple of different companies.  I'd started the voice practice at extra team,  built their voice business.  Me and a fellow named Rick Davis who,  well, he was a quintuple CCI,  I'm pretty sure he has more.  He was, I worked under him,  he was my engineering mentor.  But we built, we built extra team up to a silver partner  with $2 and about $14 million a year in revenue.  And I ended up getting activated to go to war  in 2003, 2003.  Yes, and they were in the reserves, right?  Yes, I got the call.  The, the president of the United States  really requires your service.  And 72 hours later, I was,  had a war wedding.  I got married that the night before I deployed.",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Career",
+      "content_type": "Story",
+      "timestamp": "23:07 - 24:03",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP13_Colin_McNamara_DevOps_expert_and_cloud_architect_shares_with_us_on_how_to_secure_your_future_in_IT.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_33",
+    "text": "had a war wedding.  I got married that the night before I deployed.  Oh, wow.  Yeah, I'm not the smartest thing, but you know,  it's not.  In retrospect, not the smartest thing.  But you know, at the time, it made sense.  And so yeah, I ended up,  we're supposed to go to the sandbox, go overseas to Iraq  and we ended up, my unit was,  we ran for it operating basis.  It was a firefighter at the time.  I had started working on service-toe missiles  when I joined the Marine Corps  and then the platform that worked on got phased out.  So we're retrained.  So I got to sit on top of fire trucks  and get me bears is horrible.  But yeah, exactly.  Yeah, so I ended up getting activated for war  and went away for a year and had to come back in  and restart my career.",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "War Story",
+      "content_type": "Story",
+      "timestamp": "23:57 - 24:42",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP13_Colin_McNamara_DevOps_expert_and_cloud_architect_shares_with_us_on_how_to_secure_your_future_in_IT.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_34",
+    "text": "and went away for a year and had to come back in and restart my career. I was lucky, my unit, the Marines we were over in Iraq in 14 days, my unit was supposed to hit the sandbox in day 27. So that activation we stayed back and air operations for Marine Corps in the Western United States in Miramar and Pendleton, Mima. So it was, made some really great friends. But and I ended up teaching CCNA classes to the com squadron while I was there. Oh, cool. Yeah. So anyways, I'm gonna go through the life story or not. But it's just, it's really interesting lesson from that is there's times when you're forced to go back to zero and you forget a lot. You forget a lot what you know. And it's scary and you lose a lot of the, when you train yourself up as a skilled tradesman",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Career",
+      "content_type": "Story",
+      "timestamp": "24:37 - 25:32",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP13_Colin_McNamara_DevOps_expert_and_cloud_architect_shares_with_us_on_how_to_secure_your_future_in_IT.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_35",
+    "text": "when you train yourself up as a skilled tradesman and that would be a CCIE as a skilled tradesman. I got my CCIE in 2007. In what technology? Storage networking. Oh, wow. That was one of the new track stages released too. My friend was studying for that. Yeah, absolutely. I was one of the first CCIE, storage CCIE's outside of Cisco. Okay. You must have got into a lot of ice-cuzzy and fiber channel work to pursue that route. Oh, yes. Yes. When I came back from war, I had worked with when I was in Infabon, a company called Open Wave Systems. Open Wave, if you use the next-elf phone, a sprint phone. They made browsers and mobile phone operating systems and all the backend equipment that makes Spring, Next-Tell Run and stuff.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career",
+      "content_type": "Story",
+      "timestamp": "25:29 - 26:14",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP13_Colin_McNamara_DevOps_expert_and_cloud_architect_shares_with_us_on_how_to_secure_your_future_in_IT.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_36",
+    "text": "and all the backend equipment  that makes Spring, Next-Tell Run and stuff.  And I had actually built one of the largest ice-cuzzy networks  in the world at that time,  is 2,000 nodes that were running.  We're running on a NetApp had,  came out with their filers back then.  And ice-cuzzy was a brand new thing.  Yep.  But we consolidated data centers  and we had built our platform.  Basically, we had these, it looked like little V blocks,  but IBM based.  So yeah, no, it's been a really interesting journey.  Yeah, I mean, thanks for sharing, Colin.  You've have a lot of exciting roles  and it seems like you had a lot of projects  that really kind of helped you level up  in your career really fast.  Yeah.  Which leads me to the next question I wanted to ask is,",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career",
+      "content_type": "Story",
+      "timestamp": "26:10 - 26:54",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP13_Colin_McNamara_DevOps_expert_and_cloud_architect_shares_with_us_on_how_to_secure_your_future_in_IT.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_37",
+    "text": "Yeah. Which leads me to the next question I wanted to ask is, what's maybe a past project you've worked on that excited you the most or maybe even a current one and why? As a director of the data center practice and the cloud practice for a medium size company called NexusIS by the $130 million in revenue, covering the nation, but mostly in the West United States. And it came in there due day, it's turned around and it building a $100 million business in 18 months. And this is an engineering leader. So I still, I'm not probably the best engineering ever met, but I'm really good at making organizations home. And we've been working with a large enterprise customer out of Silicon Valley that makes photo editing applications. They had moved there,",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Interview",
+      "content_type": "Story",
+      "timestamp": "26:50 - 27:35",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP13_Colin_McNamara_DevOps_expert_and_cloud_architect_shares_with_us_on_how_to_secure_your_future_in_IT.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_38",
+    "text": "that makes photo editing applications. They had moved there, they were in the process of moving they were in the process of moving their suite of creativity applications to cloud platform called Amazon. They had decoupled parts of the print and some other things kind of hamstring people's ability to steal the software, but then also more importantly, to shift over a new recurrent revenue model in a SaaS model versus the software. So they had asked, so we had gotten, we were working them with them on some data center work and the discussions got into a point where they had asked us to help them evaluate some private cloud options. They're V-clod director, Eucalyptus Cloud Stack in this little project called Open Stack. This was in 2011.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Cloud Migration",
+      "content_type": "Story",
+      "timestamp": "27:30 - 28:13",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP13_Colin_McNamara_DevOps_expert_and_cloud_architect_shares_with_us_on_how_to_secure_your_future_in_IT.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_39",
+    "text": "Eucalyptus Cloud Stack in this little project called Open Stack. This was in 2011. And so when we came back to do the engineering huddle, I, the name came up on the board and went, Dean, and I had been following and working with Eucalyptus for a while before that. And V-clod director, this cloud in the name, but the interesting thing about this was, I'd heard about Open Stack. I was, I was, potentially involved with, with Josh's project, which adds NASA Ames and Cisco systems actually sold the, the UCS computing hardware for the first part of Open Stack, inside of our containers. They leaked, you could not go in without getting electrocuted, long stories with that. But I, you know, I saw Open Stack Pop its name back up",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Open Stack",
+      "content_type": "Story",
+      "timestamp": "28:08 - 28:58",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP13_Colin_McNamara_DevOps_expert_and_cloud_architect_shares_with_us_on_how_to_secure_your_future_in_IT.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_40",
+    "text": "But I, you know, I saw Open Stack Pop its name back up to the beginning of the day. What is Open Stack for the audience that is like, thinking, what is this? I've never heard of it. Can you briefly explain what Open Stack is? Absolutely. Open Stack is a collection of applications and projects that when combined together, provide a cloud computing platform that an end user or an operator can run their applications on. It is in many ways a parallel to the features functions and structure that you see at Amazon. Yep. Amazon Web Services. Open Stack is open source, correct? Absolutely. Open Stack is open source. Open Stack is open source. It is managed by the Open Stack Foundation. This foundation has a great structure of 60 plus projects within it,",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Open Stack",
+      "content_type": "Story",
+      "timestamp": "28:55 - 29:39",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP13_Colin_McNamara_DevOps_expert_and_cloud_architect_shares_with_us_on_how_to_secure_your_future_in_IT.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_41",
+    "text": "This foundation has a great structure of 60 plus projects within it, a structure for assigning a project technical leads, technical direction, boards that cover technical direction as well as legal and organizational direction. They have, how's, by summits every six months all around the world. They switch between America and internationally. The last summit that I was at had, I believe, 7,000 people. And the first summit I was at, the first one I spoke at, is in San Diego and I believe there was two meeting rooms, some breakout rooms, and seven card tables in the hall in San Diego. So it's, it's, Open Stack, so it was interesting when Open Stack came up. Yep. This is basically private Amazon. The RAC space uses it,",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Open Stack",
+      "content_type": "Story",
+      "timestamp": "29:34 - 30:24",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP13_Colin_McNamara_DevOps_expert_and_cloud_architect_shares_with_us_on_how_to_secure_your_future_in_IT.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_42",
+    "text": "Yep. This is basically private Amazon. The RAC space uses it, a bunch of other providers, Cisco uses it, huge, long list of projects. If you go to, if you go to Open Stack.org and look at the customer references, there's a long list. It's out there, it's everywhere. And I was really lucky to be, to get, to be working with amazing people that communicated very well, that we could sit together in a huddle and say, how can we help this customer best? I've been tracking Open Stack, but I'm not an expert there. And so we went ahead and did some installations in our own labs, and then I tracked my happy butt down to the Open Stack meetup group at Yahoo. Yahoo was an early adopter of Open Stack. They had 10,000 nodes.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Open Stack",
+      "content_type": "Story",
+      "timestamp": "30:21 - 31:00",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP13_Colin_McNamara_DevOps_expert_and_cloud_architect_shares_with_us_on_how_to_secure_your_future_in_IT.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_43",
+    "text": "Yahoo was an early adopter of Open Stack. They had 10,000 nodes. My now great friend, Sean Roberts, but I did not know him at the time, was the Chief Infrastructure Architect at Yahoo, and also the sponsor of Open Stack at Yahoo, and ran the Open Stack meetup group with you and meller from Citrix. He did a lot of stuff in Zen and Cloud Stack. So I walk in to the, the, the beginners, welcome to Intro to Open Stack, and there's a video of you in giving a basic presentation on the API structure, and I sit next to this guy named Vene. Vene benay. And we struck with conversation, I'm a chatty guy. And turns out he was working for, I believe, AdTran at the time, and on the service writer side, and was wanting to learn about this too. And we had already done,",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Open Stack",
+      "content_type": "Story",
+      "timestamp": "30:56 - 31:39",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP13_Colin_McNamara_DevOps_expert_and_cloud_architect_shares_with_us_on_how_to_secure_your_future_in_IT.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_44",
+    "text": "and was wanting to learn about this too. And we had already done, where I knew the basic stuff, and so he was, hey, I wanna go over to this intermediate session. Well, so we pop in and we sit down with a couple of guys from eBay and PayPal, and other Silicon Valley types around figure stuff out, like stuff work, well before Open Stack was cool. And I would say in many cases, well before it's functional. And so you and stood up and said, hey, we're gonna run the experiment here. In two four hour meetups, we're gonna design test, design test, develop and deploy, and document, features within Open Stack. And we decided on storage QS. So improving Nova as well as horizon to pass additional information about instances in there.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Open Stack",
+      "content_type": "Story",
+      "timestamp": "31:37 - 32:19",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP13_Colin_McNamara_DevOps_expert_and_cloud_architect_shares_with_us_on_how_to_secure_your_future_in_IT.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_45",
+    "text": "to pass additional information about instances in there. So needless to say, this was not an easy endeavor, and it took six months to get our first patch in. And that was actually the subject of my first presentation at an Open Stack Summit, which was surviving for your first commit and engineers guide to contributing Open Stack, because no one had documented it, no one had done anything. This was the first time that I had seen a software development manufacturing line in action, a continuous integration and delivery system. As the first time that I had seen globally, developers working together in using continuous integration to deliver a product and a project. And it clicked, it absolutely clicked. All these things I had been responsible for,",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Open Stack",
+      "content_type": "Story",
+      "timestamp": "32:15 - 32:59",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP13_Colin_McNamara_DevOps_expert_and_cloud_architect_shares_with_us_on_how_to_secure_your_future_in_IT.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_46",
+    "text": "it absolutely clicked. All these things I had been responsible for, and Nexus ran the data center practice and the cloud practice. So I was responsible for the delivery, not personally responsible, we had hundreds of engineers, delivery of our data center products and solutions. This was MK5K2K, so data center switching, this was data center security appliances, this was a compute, this was storage platforms, EMC, NetApp, go down the line, a lot of UCS at the time. Nexus was pretty much funded by Cisco, so there's a high alignment to that. And the software manufacturing lines, you think of the fundamentals of DevOps, the fundamentals of modern software development, are you maintain quality of velocity and governance, you maintain three things.",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Career",
+      "content_type": "Story",
+      "timestamp": "32:56 - 33:40",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP13_Colin_McNamara_DevOps_expert_and_cloud_architect_shares_with_us_on_how_to_secure_your_future_in_IT.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_47",
+    "text": "are you maintain quality of velocity and governance, you maintain three things. You use test-driven development, you write tests before you write your features, you load those tests in the features, into this automated test framework, Jenkins being the most popular one, there's about 40 other ones out there. And literally every time you submit a line of code, it tested, it integrates, it deploys in production. And it was this eye-opening way, the new way of making software, and it resulted, and this is in 2011, in finding the DevOps community, finding DevOps days in Mountain View and sitting in this little room, with maybe a hundred or 150 people, I don't know, and being immersed in people that were just like me,",
+    "metadata": {
+      "domain": "IT",
+      "topic": "DevOps",
+      "content_type": "Story",
+      "timestamp": "33:35 - 34:18",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP13_Colin_McNamara_DevOps_expert_and_cloud_architect_shares_with_us_on_how_to_secure_your_future_in_IT.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_48",
+    "text": "I don't know, and being immersed in people that were just like me, eyes are opening to this transition, right? And it was the most exciting time. And out of that, I decided the OpenSack was gonna be significant, so I decided to build a capability and practice about it. Sean and I have faced the same challenge however, there were no one with skills. And so we decided to solve the problem instead of complaining about it. We were both responsible to our businesses, and we created a training in a moment program called OpenSack Training. That was a project inside OpenSack Incubated Underdogs. Red Hat came into OpenSack a little bit later, and offered, incorporated all the content that we created and the project that we created, into their OpenSack training, they deliver globally.",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Transition",
+      "content_type": "Story",
+      "timestamp": "34:13 - 34:59",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP13_Colin_McNamara_DevOps_expert_and_cloud_architect_shares_with_us_on_how_to_secure_your_future_in_IT.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_49",
+    "text": "into their OpenSack training, they deliver globally. So intensely proud. And Sean and I have kind of backed away, and when projects get maturity, they become a little bit less exciting, you might say. I like starting and growing things, and kind of handed off to other management teams for keeping and running. But it's the certified OpenSack administrators come out of that. And more importantly, the tools to educate yourself and learn, and one of the core tendents of OpenSack training was the identification of intellectual gifted individuals and economically disadvantaged areas, and providing them with the tools that lift themselves out of poverty. This is the same thing that happened to me by accident. I grew up in poverty. I was lucky enough to live with my grandmother off and on,",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "OpenSack",
+      "content_type": "Story",
+      "timestamp": "34:56 - 35:46",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP13_Colin_McNamara_DevOps_expert_and_cloud_architect_shares_with_us_on_how_to_secure_your_future_in_IT.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_50",
+    "text": "I grew up in poverty. I was lucky enough to live with my grandmother off and on, and she was not in poverty at all. But when I lived with my mom, meals were hard to come by. She was a secretary. And we were able to actually, Pranov, Pranov, Sulte, was our first intern that we put through the program, and he actually taught the first class of seven professors in India. And Pranov works for Susa in Germany now, and has an amazing life. And there are people all around the world who have used this training, have used this content to educate themselves to improve their own position in life, improve their own company's position in the marketplace. That far, hands down would be the most interesting",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Childhood",
+      "content_type": "Story",
+      "timestamp": "35:41 - 36:24",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP13_Colin_McNamara_DevOps_expert_and_cloud_architect_shares_with_us_on_how_to_secure_your_future_in_IT.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_51",
+    "text": "That far, hands down would be the most interesting\nThat far, hands down would be the most interesting\nAnd it works on many.\nBut when you think about it,\nwhat defines meaning in life?\nIt's not how much money you make.\nIt's not the size or how many millions of transactions\nthat you, the systems you design are.\nIt's how did you make a difference in people's lives?\nBecause you can change one person's world,\nyou can change the world.\nAnd something that we all have a responsibility to do,\nas we're engineering,\nas we're learning new skills in this industry,\nthere is someone behind us.\nThere is someone below us,\nthat is yearning for the chance to learn.\nAnd it's really, it's on us,\nto teach them, to take them under a wing,\nto do what we can to help them grow.",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "meaning",
+      "content_type": "Story",
+      "timestamp": "36:19 - 37:06",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP13_Colin_McNamara_DevOps_expert_and_cloud_architect_shares_with_us_on_how_to_secure_your_future_in_IT.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_52",
+    "text": "and to teach them, to take them under a wing, to do what we can to help them grow. And it's a passion of mine. And absolutely, that would be kind of my favorite project. Maybe not the coolest one, but my favorite. Yeah, thank you for sharing. For the audience, let's say, if you're a network engineer in an enterprise, and you see your company in transition to integrate more DevOps best practices and move into that kind of model, what are some things network engineers can do now to be more proactive to understand this world better? Other than, let's say, meetups, is there certain tools or technologies that you should start reading on that you feel like are kind of the hot trends and what's relevant in this world right now? Well, yes.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "DevOps",
+      "content_type": "Example",
+      "timestamp": "37:02 - 37:51",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP13_Colin_McNamara_DevOps_expert_and_cloud_architect_shares_with_us_on_how_to_secure_your_future_in_IT.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_53",
+    "text": "and what's relevant in this world right now? Well, yes. So people process and technology all go together. At first, you need to, the thing about learning in my experience is perspective. If you can't gain perspective first, then you're just learning facts and figures and whatnot. But you have no idea how it all goes together. So to learn perspective, one of the most powerful teachers in the world, and most influential teachers in the world, was this little guy in Greece, we've Greece, called Socrates, right? So he came out with a teaching method called the Socratic Method. And that's telling through story. That is teaching through storytelling. So there's this great book that actually read back in 2000, believe it or not, 2000, 2001, sometime around there,",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Perspective",
+      "content_type": "Story",
+      "timestamp": "37:48 - 38:41",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP13_Colin_McNamara_DevOps_expert_and_cloud_architect_shares_with_us_on_how_to_secure_your_future_in_IT.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_54",
+    "text": "in 2000, believe it or not, 2000, 2001, sometime around there, called the goal, which is about the theory of constraints and is about the mathematical equation and optimization of mechanical, mechanical, excuse me, optimization of manufacturing workflows, right? Now, that same math and that same process was taken by, has been taken by automotive manufacturing companies like Toyota, into Toyota production management system and whatnot, TPMS and others. But it's the core of DevOps. And so the first thing I usually recommend anyone doing, if they're starting to explore DevOps, is to read a book, read a story. It's not a technical book. It's called the Phoenix Project. It's by a really, really awesome fellow named Gene Kim. He was the founder and CEO of Tripwire",
+    "metadata": {
+      "domain": "IT",
+      "topic": "DevOps",
+      "content_type": "Story",
+      "timestamp": "38:37 - 39:34",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP13_Colin_McNamara_DevOps_expert_and_cloud_architect_shares_with_us_on_how_to_secure_your_future_in_IT.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_55",
+    "text": "He was the founder and CEO of Tripwire and then ended up taking a CTO role. So he could focus on how did he put it? That a really great dinner with him a couple of years ago where I invited him to this investment-making thing in Vale where all the family's right horses and hang out and talked really smart. People only turned me down and flat. And I would never have that happen. I was dumbfounded. And I'm like, I'm confused. This is really awesome. Some of my best friends, I've both brought into here and I made here an amazing, amazing intellectual growth. And when I went, why don't you turn this down? And he said something very simple. So there's times in your life where you can see that the world needs something and you're uniquely suited to provide it.",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Intellectual Growth",
+      "content_type": "Story",
+      "timestamp": "39:30 - 40:20",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP13_Colin_McNamara_DevOps_expert_and_cloud_architect_shares_with_us_on_how_to_secure_your_future_in_IT.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_56",
+    "text": "that the world needs something and you're uniquely suited to provide it. And when you can identify those things, everything else is a distraction. And his distraction was translating, you like Goldwater, I think, book The Goal into a modern story of a DevOps transition called the Phoenix Project. Now, I would recommend that any network engineer starting in a DevOps transition, read that story. It is an easy read. It is not full of technical jargon but what it will start to do is familiarize you with the Agile transformation process. They prod the different tools and techniques that a DevOps team will use every day of how they prioritize work, of how the teams work together, and how that they track issues. I think that that is hands down",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Mindset",
+      "content_type": "Advice",
+      "timestamp": "40:15 - 41:11",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP13_Colin_McNamara_DevOps_expert_and_cloud_architect_shares_with_us_on_how_to_secure_your_future_in_IT.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_57",
+    "text": "and how that they track issues. I think that that is hands down the best way to start. Past there, past that, there's a couple of projects that they wanna learn. So there's toolchains that are used within DevOps. Get Gary Jenkins are the most common for source control for governance and for the continuous integration on made a QA. And they're tied together in an orchestrated manner. You can go and get it as a service from CloudBees or you can install it yourself in a container or you just by hand, either way. But there's toolchains that are able to affect change in network devices programmatically right now. The first ones came out from Jeremy Schalman who did some early on work with Puppet to go ahead and define some basic ways of turning a port off and on back in probably 2012,",
+    "metadata": {
+      "domain": "IT",
+      "topic": "DevOps",
+      "content_type": "Story",
+      "timestamp": "41:06 - 41:58",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP13_Colin_McNamara_DevOps_expert_and_cloud_architect_shares_with_us_on_how_to_secure_your_future_in_IT.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_58",
+    "text": "of turning a port off and on back in probably 2012, maybe around there. And the Red Hat through the acquisition of Ansible has really put some grease together to make agentless network configuration. So being able to SSH into a system, control its state, control SSH into a networking device as well as systems and control their state in the Ansible project. It is really, really powerful. It has the ability to get you as an network engineer to a point where you're working with code and the abstractions in code. And it maybe just push a variety input to the code. Fill out a few variables and pushing it out. But when you start, especially if you're early on in your career, if you start early on in your career with programmatic methods of doing things,",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Ansible",
+      "content_type": "Example",
+      "timestamp": "41:54 - 42:44",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP13_Colin_McNamara_DevOps_expert_and_cloud_architect_shares_with_us_on_how_to_secure_your_future_in_IT.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_59",
+    "text": "if you start early on in your career with programmatic methods of doing things, well, it's much less scary. And you end up building those skills. It just takes time. You know, here about the 10,000 hours of becoming an expert, well, it takes about that time to become an expert and software too. So working with Ansible is probably really, really smart right now, working with Puppet. So there's configuration and release management out there. There's different release management tool chains that work with different infrastructure. So you have to get familiar with Ansible, get familiar with Puppet. They work differently and they can be used for some of the same stuff, but it's like having a knife in a shovel in your backpack, both are handy. They use different ways.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career",
+      "content_type": "Advice",
+      "timestamp": "42:38 - 43:23",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP13_Colin_McNamara_DevOps_expert_and_cloud_architect_shares_with_us_on_how_to_secure_your_future_in_IT.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_60",
+    "text": "a knife in a shovel in your backpack, both are handy. They use different ways. But at the end of the day, you start using these tool chains that are simple enough and they will save you time in your network engineering day. Now, I use that time that you created to start implementing things like flow management, like implement Scrowman Conbon in your team with yourself. One of the first things that we do, and frankly, when coaching an organization through a DevOps transition, is to sit down with them and do some workshops to go ahead and find out what all the available work is. What are all the things that people are doing in this team in this workflow? Map out using a tool called ValueStream, mapping the input and the output of that workflow and find the constraints within it.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "network engineering",
+      "content_type": "Advice",
+      "timestamp": "43:17 - 44:05",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP13_Colin_McNamara_DevOps_expert_and_cloud_architect_shares_with_us_on_how_to_secure_your_future_in_IT.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_61",
+    "text": "mapping the input and the output of that workflow  and find the constraints within it.  So it's a way of, there are ways that you can do,  especially by using Conbon boards.  And you'll learn about this when you start getting  into the DevOps community.  There's ways you can start to operate how you do your work  every day that will align into how software developers  do their work every day.  And eventually, if you do it in a structured process  and you identify areas of operational maturity  and structure improvement areas of growth,  then you'll get to a point where you yourself  have improved to level where you may actually  be leading that transition in your company.  Very cool.  I think that's a good, great takeaway right there, folks,  is if there's a transition happening,",
+    "metadata": {
+      "domain": "IT",
+      "topic": "DevOps",
+      "content_type": "Story",
+      "timestamp": "43:59 - 44:47",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP13_Colin_McNamara_DevOps_expert_and_cloud_architect_shares_with_us_on_how_to_secure_your_future_in_IT.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_62",
+    "text": "is if there's a transition happening, like Colin says, you can really kind of take the lead on that and be in front of that. And that's like really game changing for you and the organization and everyone involves, right? Absolutely. Now, Colin, real quick, give us a example of a network team utilizing Ansible inside their infrastructure and their DevOps team. Although the simplest example would add moves and changes, the most fundamental atomic unit of network engineering is changing the status of a port. Deploying a switch, putting a configuration on it, hooking that switch into whatever systems that are going to be integrated with it, whether it be authentication, logging, whatnot. And then making sure that that switch is functional, that it is hooking, see they're switching",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Ansible",
+      "content_type": "Example",
+      "timestamp": "44:45 - 45:43",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP13_Colin_McNamara_DevOps_expert_and_cloud_architect_shares_with_us_on_how_to_secure_your_future_in_IT.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_63",
+    "text": "that it is hooking, see they're switching or routing into the appropriate networking connections at the right rate, that converges and fails in the right way, and then bringing it into production. Those are things that you can actually do with both puppet and Ansible for layer T switching. There's pluses of minuses and you probably pull your hair out a little bit. But functionally, there's a QA developer who writes tests to make sure that you can virtually test out, either in a physical rack or in a virtual instance, how that switch will integrate with other network systems. Because remember, networks are eventually consistent distributed systems. So very complex to test. With the exception of controlled systems, which we kind of went through a phase where controllers",
+    "metadata": {
+      "domain": "IT",
+      "topic": "networking",
+      "content_type": "Story",
+      "timestamp": "45:41 - 46:29",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP13_Colin_McNamara_DevOps_expert_and_cloud_architect_shares_with_us_on_how_to_secure_your_future_in_IT.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_64",
+    "text": "which we kind of went through a phase where controllers controlled everything, and we're kind of back to this middle ground. But you have your QA developers, you have your development managers, making sure the teams are working closely together, their governance practices, making sure that code quality and standards are met. You have your development engineers who are actually writing the code. You have what I've seen the most successful is network engineers with 10, 20 years experience the CCI as the world that are adjunct to the team, that work with the team that are learning code. So they're learning to be development engineers. And it takes a year or two for that to happen. But they are working to make sure that to answer the questions for the developers,",
+    "metadata": {
+      "domain": "IT",
+      "topic": "teamwork",
+      "content_type": "Story",
+      "timestamp": "46:25 - 47:06",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP13_Colin_McNamara_DevOps_expert_and_cloud_architect_shares_with_us_on_how_to_secure_your_future_in_IT.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_65",
+    "text": "But they are working to make sure that to answer the questions for the developers, that may not have specific understanding of the ASICs or how specific functions work. And then working with your release engineer to release that into production. Right? Your release engineer is at last hand off before the operations of the product. And there's a flow. There's an entire process. And if you really want to know the entire process, the Bible on this for continuous integration was written by Jess Humble, is called Continuous Delivery. I had, I think, five migraines by the time I was done reading it. But it does tell you how to do it. It's not really focused on network engineering, but on Agile Software Development, which that is the core of DevOps. I see.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "DevOps",
+      "content_type": "Story",
+      "timestamp": "47:03 - 47:53",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP13_Colin_McNamara_DevOps_expert_and_cloud_architect_shares_with_us_on_how_to_secure_your_future_in_IT.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_66",
+    "text": "that is the core of DevOps. I see. Yeah. What's your thoughts, Colin, on what's your view, let's say, with the future of networking with all this automation going on? How do you see the network engineering field evolve over the next five, five, seven years? Well, I think the important thing is, foundation work is more important than ever. So you can't skip your foundations. When you skip your foundations, you build a shaky business. Right. At the end of the day, an individual listening to this podcast is looking how to improve their position in the world, improve their skills, improve their salary, improve their ability to contribute to the businesses and to their selves and those family. And those foundations that you're building right now is software development has to be part of that foundation",
+    "metadata": {
+      "domain": "IT",
+      "topic": "DevOps",
+      "content_type": "Advice",
+      "timestamp": "47:49 - 48:45",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP13_Colin_McNamara_DevOps_expert_and_cloud_architect_shares_with_us_on_how_to_secure_your_future_in_IT.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_67",
+    "text": "is software development has to be part of that foundation as well as the foundations of how systems connect together. And when I started out, routers were basically specialized servers. Right. So we're coming right back right back to where we started. routers are now specialized functions of servers. They just happen to run as a virtual machine or as a container. And there are still routers that you plug in, you screw in, but understand that your ability to invest in skills that are durable. So your ability to work as a software developer is a durable skill. Your ability to craft working code is a durable skill. Your ability to work with, listen to the business leaders and involve them in the agile process that you're developing code for them to add value is an extremely durable skill.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "software development",
+      "content_type": "Story",
+      "timestamp": "48:41 - 49:34",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP13_Colin_McNamara_DevOps_expert_and_cloud_architect_shares_with_us_on_how_to_secure_your_future_in_IT.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_68",
+    "text": "is an extremely durable skill. Now, the specifics of learning the configuration details of a certain platform, not durable. Going way faster and faster every day. The learning that specifics following ITF, IEEE, T11 and ITU, those basics and those foundational basics are important to learn and everyone must. However, entering the industry right now today, if you don't learn those software development skills, I worry that you won't be set up for the longest term success and you'll most likely be replaced by an intelligent system. There's a huge risk for knowledge workers in the world in America. And right now, the risk to America knowledge worker was off-shoring of your job. It happened to me. So someone getting started in the field of IT, would it be a safer bet to build a networking foundation, learn network engineering and then specializing, right?",
+    "metadata": {
+      "domain": "IT",
+      "topic": "software development",
+      "content_type": "Advice",
+      "timestamp": "49:31 - 50:32",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP13_Colin_McNamara_DevOps_expert_and_cloud_architect_shares_with_us_on_how_to_secure_your_future_in_IT.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_69",
+    "text": "learn network engineering and then specializing, right? Maybe in cybersecurity or IoT or some other kind of area where they can build more domain expertise around. Well, and so I've always been, so there's been this, I've worked in the industry with specialists who become so hyper specialized that when the world changes, they get stuck. And there's this delicate balance. I have personally preferred working, especially earlier in my career in short-stints. So if you go to Stanford's Stanford Design Lab, the idea, they have this notion that the world's full of a lot of eyes. It's a single person who has developed an expertise and a knowledge in a specific process and has become an expert in said process, right? That is specialization. The roots of modern economics go to a point to the specialization of labor, right?",
+    "metadata": {
+      "domain": "IT",
+      "topic": "network engineering",
+      "content_type": "Advice",
+      "timestamp": "50:28 - 51:24",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP13_Colin_McNamara_DevOps_expert_and_cloud_architect_shares_with_us_on_how_to_secure_your_future_in_IT.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_70",
+    "text": "The roots of modern economics go to a point to the specialization of labor, right? And the transfer of wealth, a monetary value to those who specialize in something really hard to do. Things have changed, however, where now software can do the same thing. And so one person or a team of people can create intellectual property or software which they can then do that single person's expertly done thing. I was a storage CCIE. That doesn't exist in the world. Yeah, absolutely now. Well, even more than, yeah, it is obsolete. I ran the largest voice or the sixth largest voice or IP network on the globe. That's obsolete now. I had the largest ice because you never can move. Not totally obsolete, but not nearly necessary. I had one of the largest dialypies in California. That's obsolete, right?",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career",
+      "content_type": "Story",
+      "timestamp": "51:17 - 52:10",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP13_Colin_McNamara_DevOps_expert_and_cloud_architect_shares_with_us_on_how_to_secure_your_future_in_IT.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_71",
+    "text": "I had one of the largest dialypies in California. That's obsolete, right? Obstile lessons is guaranteed in our industry is ever increasing. And so what I recommend is figure out your fundamentals. Figure out your process fundamentals, learn how to work together in a distributed team, learn how to communicate effectively, learn how to listen, right? Learn the human element. Humans are going to be here. I can guarantee it. Learn to be a good leader. Doesn't matter if you're a manager, doesn't matter if you are the mail room clerk. You leadership starts with yourself and others will follow around you. Learn the base technical elements of continuous integration. Learn, get a job working as squashing bugs or support engineer on a software development team that does things well.",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Leadership",
+      "content_type": "Advice",
+      "timestamp": "52:05 - 52:54",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP13_Colin_McNamara_DevOps_expert_and_cloud_architect_shares_with_us_on_how_to_secure_your_future_in_IT.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_72",
+    "text": "team that does things well. These are things you can do that provide you with durable baseline skills. And then find when you are looking to gain entrance into a certain technical area, learn it, spend a year or two doing it, gain a level of expertise, then move on. And eventually instead of being an eye shape person who is incredibly at risk to any change in our industry economic downturn, technical innovation or corporate strategy, you change into a T shape person where the eye kind of branches over and you're adding on one or two different areas, shaped like a T. And eventually you grow those areas for a year or two and then you add more and you become your knowledge and skills become shaped more like a comb. And what I found, comb shaped people are extraordinarily valuable. I pay comb shaped people extraordinarily handsome salaries and they get a lot of benefits.",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Career Growth",
+      "content_type": "Advice",
+      "timestamp": "52:51 - 53:50",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP13_Colin_McNamara_DevOps_expert_and_cloud_architect_shares_with_us_on_how_to_secure_your_future_in_IT.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_73",
+    "text": "I pay comb shaped people extraordinarily handsome salaries and they get a lot of benefits. They get to go to conferences whenever they want. They get to contribute to whatever open source projects they want. They get spoiled because they are worth it. The challenge is becoming a comb shaped person because the one thing we cannot guarantee and you can't count on in today's world that what I am doing today is what I'll be doing tomorrow. No thanks for sharing, Colin. Now let's move on and talk about the tech topic of the day. Tell us, Colin, what do you want to share with our listeners? Well, and I kind of hinted at it a little earlier in the inner talk. So I walk into my home and I'm sure many of us are the same way. We have access to wearable devices that take our heart rate, take our GPS location.",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Comb Shaped",
+      "content_type": "Story",
+      "timestamp": "53:44 - 54:30",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP13_Colin_McNamara_DevOps_expert_and_cloud_architect_shares_with_us_on_how_to_secure_your_future_in_IT.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_74",
+    "text": "We have access to wearable devices that take our heart rate, take our GPS location. The thermostats connected to both the industrial machinery that is my air conditioner and heating unit, but also the internet in my iPad. What's happening right now and Intel has been a really great company to work with. I've had the pleasure of working with them, attending developer forum, working in their Intel Builders program for many years. And the innovations that are coming out of Intel right now, which let's face it, Intel is the arms dealer to the world. When Intel makes a new chip, about six months later, all the manufacturers put a tin can around it, call it a product, right? But what's happening with Intel and others in this space is there's something really important happening is the ability to take sensors and input and distribute them around your home,",
+    "metadata": {
+      "domain": "IT",
+      "topic": "IoT",
+      "content_type": "Story",
+      "timestamp": "54:26 - 55:16",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP13_Colin_McNamara_DevOps_expert_and_cloud_architect_shares_with_us_on_how_to_secure_your_future_in_IT.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_75",
+    "text": "happening is the ability to take sensors and input and distribute them around your home, your business, your plant in the world, have them powered via solar and radio or RF radiation, have them bringing back data into these systems that are crunching numbers every day. And the ability to affect change, whether that's moving a valve in a chemical plant or that's opening a door in your office. What is the tech top of the day is how internet of things is connecting with the 5G LTE refresh. Mobile Edge Compute is the most significant change that I've seen in my 20 years. The ability to effectively run a 5G LTE cell site where my cell phone can connect to, my OT devices can connect to, it can be both licensed and unlicensed. So it's like super 10 gig Wi-Fi at latency that my self driving vehicles, whether it be a car on the road or a forklift to my warehouse or a drone that's picking up boxes, right?",
+    "metadata": {
+      "domain": "IT",
+      "topic": "IoT",
+      "content_type": "Story",
+      "timestamp": "55:10 - 56:08",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP13_Colin_McNamara_DevOps_expert_and_cloud_architect_shares_with_us_on_how_to_secure_your_future_in_IT.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_76",
+    "text": "a car on the road or a forklift to my warehouse or a drone that's picking up boxes, right? All these things are connecting together in a distributed system. That is so cool. And is this referred to as fog computing as well? The fog computing is one of the terms that's used inside of it. The hot tech topic of the day for me is how these come together. And the fog is a buzzword, but at the end of the day, combining IoT and internet of things is really interesting. Sensor and servos. A sensor and a servo combine with a program to orchestrate those two together. That equals a robot. And robotics and its most finite elements is literally taking over the world right now. So what future IT person will be in charge of this mobile edge compute distribution system? My hope is actually network engineers.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "IoT",
+      "content_type": "Story",
+      "timestamp": "56:03 - 56:58",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP13_Colin_McNamara_DevOps_expert_and_cloud_architect_shares_with_us_on_how_to_secure_your_future_in_IT.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_77",
+    "text": "My hope is actually network engineers. So the scary thing is it actually requires the engineer and network engineer to be true. So if you don't have engineering discipline and engineering skill, and you probably need to get it, actual like go go mentor under engineer. You don't have to go to college for it. Go find someone to learn from. Right. I was so lucky to work under Rick Davis on that quintuple CCIE almost two decades ago. I learned a lot. But there's this I think network engineers who are also software engineers as well, true development engineers. They're poised to be able to un-lead unlock a huge amount of value. And this is in a world where large companies and I'll give a simple example of manufacturing process. Look at Tesla's giga plant in Nevada. It is almost completely automated.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "network engineers",
+      "content_type": "Story",
+      "timestamp": "56:54 - 57:51",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP13_Colin_McNamara_DevOps_expert_and_cloud_architect_shares_with_us_on_how_to_secure_your_future_in_IT.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_78",
+    "text": "Look at Tesla's giga plant in Nevada. It is almost completely automated. Now they're also they're still working the kings at that thing. Their last quarter of the report I think they miss shipping, missed some of their ship units. But this is this is a great example of a software development team normalizing. Right. They are there are software developers who work with engineers who know how to build and put together cars to automate the system of putting a car together. Right. There's there's technical systems. There's physical there's all sorts of complication that comes inside of this and the network network engineer who understands software development. The thing on network engineers is when everything else is broke they usually blame it on the network. Yeah. Right. It's a network problem.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Tesla",
+      "content_type": "Story",
+      "timestamp": "57:46 - 58:36",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP13_Colin_McNamara_DevOps_expert_and_cloud_architect_shares_with_us_on_how_to_secure_your_future_in_IT.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_79",
+    "text": "network. Yeah. Right. It's a network problem. And so from the birth of a network engineer you are tasked with figuring out the unfigurable with all fingers pointed at you. And that's the you know the positive and negative about it. And these seem engineers that are able to look at these complex systems and understand the business needs that are trying to achieve and understand this the development workflows and participate in those. They have the ability to actually make the differences in companies growing and companies going out of business. Well, hey, let's go into the lightning round. I just have probably three or four questions I like to kind of go through. Do you have any daily weekly rituals that help you become successful? Absolutely. Watch on the sunrise.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "network",
+      "content_type": "Story",
+      "timestamp": "58:32 - 59:20",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP13_Colin_McNamara_DevOps_expert_and_cloud_architect_shares_with_us_on_how_to_secure_your_future_in_IT.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_80",
+    "text": "Absolutely. Watch on the sunrise. So the one thing that helped me become successful when I was first starting out. Well, everyone else was taking their money that they earned that day and blowing it on pizza or lunch. One, I took the money I was making. I kept my expenses low and I invested in myself. I bought a built a server is the fastest server in Fresno at the time. And I invested in my learning and instead of going to lunch, I took time and I sat out back on the park bench in the back of the store, DK computers and I read and I learned. And what I did is I invested an hour a day. I started a habit where I invested an hour a day in myself. I created an intellectual property in my head. I created value and that simple habit of taking an hour and day to invest in yourself.",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Success",
+      "content_type": "Advice",
+      "timestamp": "59:18 - 60:18",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP13_Colin_McNamara_DevOps_expert_and_cloud_architect_shares_with_us_on_how_to_secure_your_future_in_IT.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_81",
+    "text": "I created value and that simple habit of taking an hour and day to invest in yourself. And sometimes it isn't technical learning, but it also includes your physical body, your diet, your calisthenics, your ability to get out and move. By spending at least an hour a day taking care of your mind, your body, meditating a little, take your soul, however you choose to see fit. But taking that hour and a day investing in yourself is one something that a lot of your peers in the industry probably won't do. And if you can successfully keep that up, an hour a day over a career is a lot of hours. And you will find yourself surpassing your peers in knowledge in both the intelligence that applies to intellect, but also intelligence that applies to emotions. You will be a better leader for yourself, for your family if you have one and for your business is best thing. I love it.",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Self Care",
+      "content_type": "Advice",
+      "timestamp": "60:11 - 61:13",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP13_Colin_McNamara_DevOps_expert_and_cloud_architect_shares_with_us_on_how_to_secure_your_future_in_IT.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_82",
+    "text": "business is best thing. I love it. Yeah, the power of habit and compound interest right over time. Absolutely. What are some things you do to keep up with technology and that's helped you build maybe mastery in your current skills or in gaining new skills? So what I, the secret to my success, I will share it publicly, is to understand, get to a baseline understanding of technology. You have to get your baseline. You can't shortcut these things. But eventually you get to a point where you're gaining expertise in a certain field or a specialization where you get to the point where you are referencing RFCs, requests for comments, you're your participating in ITF working groups, you're mailing lists, you're participating in upstream open source projects where experimentation on the next big thing is, right?",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Success",
+      "content_type": "Story",
+      "timestamp": "61:09 - 62:04",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP13_Colin_McNamara_DevOps_expert_and_cloud_architect_shares_with_us_on_how_to_secure_your_future_in_IT.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_83",
+    "text": "big thing is, right? And for me, the secret for increasing my value in the marketplace or the last 20 years has been to one of the secrets, has been to track technology as it comes out of pure research. There's pure science that happens all the time. It's really fun, right? And look at that early, the first research implementation. Like it usually happens in college programs, more and more happening in open source world. One of the reasons I love the open source community is because it's where innovation is happening right now. But if you're totally new to something, you can start a standards body. You can start ITF, you can start ITU, you can start at T11, find the appropriate standard body for what your focus is. And you get to this point where you can start to track a technology as it makes this progression",
+    "metadata": {
+      "domain": "IT",
+      "topic": "innovation",
+      "content_type": "Story",
+      "timestamp": "62:01 - 62:52",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP13_Colin_McNamara_DevOps_expert_and_cloud_architect_shares_with_us_on_how_to_secure_your_future_in_IT.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_84",
+    "text": "And you get to this point where you can start to track a technology as it makes this progression from pure research to the early research implementation, usually to college, to early commercial implementation, usually open source project or maybe a startup. And then makes the leap to the general commercial implementation. Now if you've been following a technology, since it was a research white paper and a research scientist's lab idea, all the way down to the talk that the professor gave, I'm a professor Shanker talk on SDN and Berkeley, changed my life, right? When if I think of like Brent Salisbury's nice talk, Brent Salisbury is a docker right now, but he was very early on in a very influential and open flow. But you have these talks where you start to see the early research implementation. He was at University of Kentucky at the time.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Technology Progression",
+      "content_type": "Story",
+      "timestamp": "62:47 - 63:41",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP13_Colin_McNamara_DevOps_expert_and_cloud_architect_shares_with_us_on_how_to_secure_your_future_in_IT.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_85",
+    "text": "He was at University of Kentucky at the time. And then you see the early commercial implementation, like Nisero would be a great example in SDN space. And then you see the acquisition and creation of NSX or the creation of the ACI platforms at Cisco. Following these technologies as they progress, it gives you time to learn about it, to provide context, to see the email conversations, to have conversations. If you can get yourself to open networking summit or something like this, these are great places to invest. And what happens is a beautiful thing can happen. Your skills are going to be at the highest level in the industry because it's new. And you'll have understood it because you've tracked it, you'll be comfortable with it. And there's this crux that happens where your value shoots up.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career",
+      "content_type": "Advice",
+      "timestamp": "63:39 - 64:27",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP13_Colin_McNamara_DevOps_expert_and_cloud_architect_shares_with_us_on_how_to_secure_your_future_in_IT.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_86",
+    "text": "And there's this crux that happens where your value shoots up. You will make more money, you'll be more valuable to your company or yourself or whatever. Because the day something is released, you will know exactly how it needs to be integrated. You will know exactly how to get value out of it. And wherever you're working, whether you're at a customer, whether you're at a consultancy, whether you're an integrator, whether you're at a manufacturer, you'll be able to clearly understand this complex, technical thing and be able to teach others about it and share it and implement it and make the world a better place. But it starts, it starts with understanding the science. And that's the foundation. I love it, Colin. Thanks. Thanks for sharing that. What's your favorite tool, application or website that you can share with our listeners?",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Mindset",
+      "content_type": "Advice",
+      "timestamp": "64:23 - 65:11",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP13_Colin_McNamara_DevOps_expert_and_cloud_architect_shares_with_us_on_how_to_secure_your_future_in_IT.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_87",
+    "text": "What's your favorite tool, application or website that you can share with our listeners? There is a tool that I use every day. So I'm currently in an experiment for 2017. I am obviously a start-up on business last year. I'm a first employees. This is fun. But one of the things inside DevOps and Agile software development is the optimization of flow. And I'm just a methodology. I hinted at Scrim and Conbon. And so I implement those in my own life. In my own personal life, my assistant uses that from my own life, Operations Management uses that for the business. And there's a tool that I've used for years. It's called Trello. It's a free tool with a paid upgrade that is used that you can create these online Conbon boards that work through a website, that work through a mobile device, seeing your iPhone",
+    "metadata": {
+      "domain": "IT",
+      "topic": "DevOps",
+      "content_type": "Example",
+      "timestamp": "65:04 - 65:55",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP13_Colin_McNamara_DevOps_expert_and_cloud_architect_shares_with_us_on_how_to_secure_your_future_in_IT.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_88",
+    "text": "boards that work through a website, that work through a mobile device, seeing your iPhone  and iPad, whatever device.  And you can take data.  You can hook plugins into this.  You can take data out of it.  I started using it for my writing workflow for everything in my life.  And I've been using Trello probably, I brought it into the OpenStack community in our project management methodology is 2011-2012 somewhere around there.  I love Trello.  It is a wonderful tool.  There are things that annoy me to know, no end.  But I would really recommend that if you're a engineer and you're starting this transition  that you probably do a little reading about Scrum and Conbon, read the Phoenix project,  read some of the follow on books that Jean John and others wrote.  And implement these processes in your own lives and use your life as a starting point.",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Trello",
+      "content_type": "Story",
+      "timestamp": "65:52 - 66:41",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP13_Colin_McNamara_DevOps_expert_and_cloud_architect_shares_with_us_on_how_to_secure_your_future_in_IT.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_89",
+    "text": "And implement these processes in your own lives and use your life as a starting point. I've been doing that for myself and it's incredibly powerful. Well, Colin, I have truly enjoyed listening to your journey, insights and appreciate you teaching us the tech topic of the day. Any closing comments or something in general you want to share with our audience? So at the end of the day, the industry that we're in, we're lucky. We're very lucky to be in the networks and systems and engineering industry. We're at the start of a change, which with the onset of robotics, cognitive computing, Internet distributed sensor networks and cloud platforms power them all. We're at the beginning of a time in humanity where lots of things are going to change. The fundamentals of economics are changing. It may be a really rough time for the world and especially for our nation and for the",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Industry Change",
+      "content_type": "Story",
+      "timestamp": "66:36 - 67:35",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP13_Colin_McNamara_DevOps_expert_and_cloud_architect_shares_with_us_on_how_to_secure_your_future_in_IT.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_90",
+    "text": "It may be a really rough time for the world and especially for our nation and for the USA listeners. And network engineers who are in DevOps engineers, people who are investing themselves in the ability to apply software development, modern software development, methodologies, two things, whether it's a networking device, a switch of server or an IoT endpoint or it's a robot on a factory floor. It is those skillsets which will push our communities, our countries in this world through this gap of people aren't getting paid to put things together in factories anymore because robots are making it and white color jobs are going away because of cognitive compute. It will push us through this through this gap and into a world. And this is my belief that people that are listening here on this call today, the skills",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Future Work",
+      "content_type": "Advice",
+      "timestamp": "67:30 - 68:19",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP13_Colin_McNamara_DevOps_expert_and_cloud_architect_shares_with_us_on_how_to_secure_your_future_in_IT.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_91",
+    "text": "And this is my belief that people that are listening here on this call today, the skills that they're developing can be used to bring us to the next level of production in America to the robot-sized factory, to robot-sized the ability to manage our food supplies, to robot-sized the ability to manufacture homes and clothing. Literally the bottom of the, of myaselos hierarchies needs of food shelter and safety, we have the ability with the skills and technologies that are coming out today to address those needs. And I would encourage those network engineers and system, those engineers who are looking at gaining new skills to really take a close look and open their mind and expand their horizon to how can I apply these skills to moving my business forward. And I can assure you that if y'all can make that pivot, if any single one of you can make",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Skills",
+      "content_type": "Advice",
+      "timestamp": "68:15 - 69:11",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP13_Colin_McNamara_DevOps_expert_and_cloud_architect_shares_with_us_on_how_to_secure_your_future_in_IT.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_92",
+    "text": "And I can assure you that if y'all can make that pivot, if any single one of you can make that pivot, hopefully many, that what we result is that gap where we're going to have a lot of financial issues in the world will shorten. That the skills that you'll be developing to manage networks today will be developing to manage robots tomorrow. And they will help you and your family and this country in this world. Well Colin, thank you for being so generous with your time, expertise, and sharing your knowledge with our listeners. Thanks for listening as a nation and if you enjoyed the show, please be sure to subscribe, leave a review, and share this episode with your friends and colleagues. Now you know what time it is, it's time for you to level up and becoming a rock star engineer. This rock star SE class has ended, but there's more ways to propel you on your ideal IT",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career Advancement",
+      "content_type": "Advice",
+      "timestamp": "69:05 - 69:57",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP13_Colin_McNamara_DevOps_expert_and_cloud_architect_shares_with_us_on_how_to_secure_your_future_in_IT.mp3",
+      "source_type": "Podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_93",
+    "text": "This rock star SE class has ended, but there's more ways to propel you on your ideal engineer journey. Head over to rockstarse.com for show notes and be sure to sign up for our mailer. This will give you exclusive access for some amazing free content to help you level up and accelerate your career. We appreciate you joining us and look forward to helping you learn, focus, and succeed next time on rockstarse.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "IT engineer",
+      "content_type": "Story",
+      "timestamp": "69:52 - 70:16",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP13_Colin_McNamara_DevOps_expert_and_cloud_architect_shares_with_us_on_how_to_secure_your_future_in_IT.mp3",
+      "source_type": "Podcast"
+    }
+  }
+]

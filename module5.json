@@ -1,0 +1,518 @@
+[
+  {
+    "chunk_id": "chunk_1",
+    "text": "Before we go into the hot seats, we're going to talk about interview types. So typically, interview types that we see in the field is if depending on if you're on the customer side, right? You could interview with the VP or some manager and before that you make a plan like with an HR department, right? Same thing on the customer or the manufacturing side, but it's a little bit different. So, manufacturers versus customers, HR, hiring manager, right? This is the hiring manager. You may or may not interview with a peer. Usually, you don't. Usually, it's like HR hiring manager and maybe the head of the department, okay? And you're pretty much done. Usually, it stays within this kind of world. Whereas, if you actually interview for a manufacturer or a bar, it's going to be a little more intense,",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Interview Types",
+      "content_type": "Story",
+      "timestamp": "00:00 - 01:19",
+      "reference_link": "https://vimeo.com/reviews/48b3efa2-8184-4747-aaf2-e2591f669f92/videos/247357450",
+      "source_type": "Course"
+    }
+  },
+  {
+    "chunk_id": "chunk_2",
+    "text": "where before you were used to just maybe interviewing with, you know, two to three people, on a manufacturer at bar side, you might interview with four to eight people, okay? So, both sides have maybe an HR or, you know, like a person that screens you, so HR or even a recruiter, and then you're going to interview with either a peer and then hiring manager. So, peer, so another engineer, SC, in this case, and then you're going to, um, SC manager, you might interview with two SC managers, one on the current, like this local team that you're applying for this region, and someone is, you know, appeared to that SC manager, so he can get a second opinion. And then, same thing with the peers, you might hire, you might interview with two people, okay? On a manufacturing side,",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Interview Process",
+      "content_type": "Story",
+      "timestamp": "01:19 - 02:41",
+      "reference_link": "https://vimeo.com/reviews/48b3efa2-8184-4747-aaf2-e2591f669f92/videos/247357450",
+      "source_type": "Course"
+    }
+  },
+  {
+    "chunk_id": "chunk_3",
+    "text": "you will also, um, because you'll be side by side working with account managers, you'll interview with an account manager, most likely the person that you're going to be working with side by side and supporting, and then someone that's appeared is a regional sales manager, RSM. And now, you're going to also interview with a director of SCs, or, yeah, director of SCs. So, if we look at this, you've got two, four, five, six, seven, seven interviews, right? It's what I had to go through, um, getting to Cisco, getting to a RUBA, getting, like, these are all kind of rounds, if you will. And it takes about three rounds, and they'll cut you off, and you'll never make it to the director or the RSM. Like, if you fail at your first technical interview,",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Interview",
+      "content_type": "Story",
+      "timestamp": "02:41 - 03:50",
+      "reference_link": "https://vimeo.com/reviews/48b3efa2-8184-4747-aaf2-e2591f669f92/videos/247357450",
+      "source_type": "Course"
+    }
+  },
+  {
+    "chunk_id": "chunk_4",
+    "text": "you may never get another chance. So, it's like, it just stops there, right? Usually, um, the SC manager sometimes will be the first interview, and if you pass them, then you'll go into the peers, and then kind of work your way into the A&RSM and then the last director. And really, this, this is just, you're pretty much done, this is just like the last due diligence, it's like round three, okay? And usually, for round three, the top two make it. So, you have the first pick, and then you have a runner up, because things could, someone get cold feet, like, hey, I don't want to leave my company, they go to the runner up. So, it's usually top two, making it to the third round of interview. Sometimes they'll do three, but usually it's two, and that's round three. So, round one,",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Interview",
+      "content_type": "Story",
+      "timestamp": "03:50 - 04:43",
+      "reference_link": "https://vimeo.com/reviews/48b3efa2-8184-4747-aaf2-e2591f669f92/videos/247357450",
+      "source_type": "Course"
+    }
+  },
+  {
+    "chunk_id": "chunk_5",
+    "text": "you know, right here, round two, getting through other kind of expanded team members, and then round three is getting that senior management approval and blessing, and then off you go. All right, so customer side, manufacturing, and partner side, very identical, but as you can see, it's like, either double or triple amount of interviews when you go from, let's say, step four, to step five, right, on the period. A lot more intense as you go higher up in your career when you're applying for systems engineering or architect roles, and same thing with, like, Amazon. So, Amazon, you know, interesting enough, they do all this right here in one day. So, I did eight interviews. The first round is the HR. So, this is like, this is, this is round one, getting past",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Career",
+      "content_type": "Story",
+      "timestamp": "04:43 - 05:41",
+      "reference_link": "https://vimeo.com/reviews/48b3efa2-8184-4747-aaf2-e2591f669f92/videos/247357450",
+      "source_type": "Course"
+    }
+  },
+  {
+    "chunk_id": "chunk_6",
+    "text": "the recruiters, getting past HR, like, then you're good, right? Now you're going into round two, like, you know, with two to four interviews, and then round three is when you're getting senior management approval, and then the offer letter comes in. All right, so, we're going to go into hot seats and go into some interview practices. We're going to play the role of Jacob, who has applied for a systems engineer role at Cisco Systems, and I will play the SC manager, okay? So, we're going to kick things off with some general questions. With SC manager, it's going to be very, like, personality driven to see if this person has the right passion and enthusiasm for the job, and really it's not, I'm not going to ask any technical questions, right? But I think the first thing to, well, what kick things off? So, the first question is, I'm going to,",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Interview",
+      "content_type": "Story",
+      "timestamp": "05:42 - 06:50",
+      "reference_link": "https://vimeo.com/reviews/48b3efa2-8184-4747-aaf2-e2591f669f92/videos/247357450",
+      "source_type": "Course"
+    }
+  },
+  {
+    "chunk_id": "chunk_7",
+    "text": "we'll just dive right in. So, Jacob, pleasure meeting. Pleasure meeting. Yeah, thanks for having me here. No problem. So, Jacob, tell me about yourself. So, my name is Jacob Hess, as you know, I've been working in network engineering and IT for, shoot over 15 plus years now. I got my start in the Air Force, and I really just got a passion for networking then, and so much so that I really wanted the teaching. So, I applied for instructor duty, and I ended up teaching for three years, teaching a new guy's coming into the Air Force, training hundreds of IT engineers. So, I really, really loved that, right? But then, I didn't really want to spend my entire career in the military, so I did get out, and then I started working at a credit union, working in the network, working in the",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Jacob Hess",
+      "content_type": "Story",
+      "timestamp": "06:50 - 07:34",
+      "reference_link": "https://vimeo.com/reviews/48b3efa2-8184-4747-aaf2-e2591f669f92/videos/247357450",
+      "source_type": "Course"
+    }
+  },
+  {
+    "chunk_id": "chunk_8",
+    "text": "Department in IT, and that's where I really started to find out how much there was to IT, and I\nI really dug in, learning the full stack of technologies, routing, switching wireless voice\nof RIP and security, and from there, I actually ended up going working at a value-by-dare reseller,\nor I supported over a hundred different customers, and doing lots of projects. So, doing projects on\nall the above, right? Wireless security, voice of RIP, and installing one project I did over 250\nphones and also to wireless project, where I installed APs at over 17 different branches,\nand I also have done a dual firewall install project, and also a BGP-WAN project. So, that's just\nto give you a little good idea of my kind of vast expertise or experience, and a little bit more",
+    "metadata": {
+      "domain": "IT",
+      "topic": "IT Career",
+      "content_type": "Story",
+      "timestamp": "07:34 - 08:27",
+      "reference_link": "https://vimeo.com/reviews/48b3efa2-8184-4747-aaf2-e2591f669f92/videos/247357450",
+      "source_type": "Course"
+    }
+  },
+  {
+    "chunk_id": "chunk_9",
+    "text": "about myself would be besides just having a passion for IT, you know, I really love working as part of the team, I really love doing projects, I really love getting my feet wet and getting my hands dirty, so to speak, and you know, just bringing it all I got. Yeah, so what made you apply to this SE role in this particular time in your career, and what's your kind of your aspirations? So, really, I like Cisco, you know, throughout my entire history, I've been working on Cisco products, and I've always kind of had that vision to work at Cisco Systems. I've always kind of had that set in my sights. Now, I did work at a value-added reseller, and I know a lot of times, you know, Cisco Systems doesn't want to hire people who work at a value-added reseller or a partner,",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career",
+      "content_type": "Story",
+      "timestamp": "08:27 - 09:15",
+      "reference_link": "https://vimeo.com/reviews/48b3efa2-8184-4747-aaf2-e2591f669f92/videos/247357450",
+      "source_type": "Course"
+    }
+  },
+  {
+    "chunk_id": "chunk_10",
+    "text": "but over the past year, I've actually been working on a startup, I know you didn't mention that to a startup or company, but now I'm ready to go back in the corporate world, so I think this is a perfect time to make that transition and shoot for the job that I always wanted and work for Cisco Systems. I love being in SE, and I think working for manufacturers is going to help me take myself to the next level. Great. Now, Jacob, tell me about what some Cisco products, you know, this is an enterprise sales role, right? And you've applied for a position where you'll be serving, you know, about five to six of our biggest fortune of 500 clients. Now, what some exciting technologies or products set step is exciting to you about what we have to offer. Well, there's a lot, but in my mind,",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Career Transition",
+      "content_type": "Story",
+      "timestamp": "09:16 - 10:03",
+      "reference_link": "https://vimeo.com/reviews/48b3efa2-8184-4747-aaf2-e2591f669f92/videos/247357450",
+      "source_type": "Course"
+    }
+  },
+  {
+    "chunk_id": "chunk_11",
+    "text": "I really like simplicity. So I'm going to start out by saying I really, really like the Miraculous products, and the customers like them too. I did a lot of Miraculous dolls on a work that I've bought. So just the entire suite of Miraculous products, there's even phones now, and the simple occasion that brings to the environment is just awesome. So from whether it's, you know, the appliances where you can do firewalling or, all right, we're going to cut right there. So immediate some feedback, right? You know, when I came into the room, like, what if you're sitting down, Jacob stood up, like, there's this kind of mannerism, like courtesy, things like that, professionalism you want to have, right? If you don't want to be like slouching and, you know, you want to be very professional, like upbeat, bring that energy, bring that passion, right?",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Professionalism",
+      "content_type": "Advice",
+      "timestamp": "10:03 - 10:53",
+      "reference_link": "https://vimeo.com/reviews/48b3efa2-8184-4747-aaf2-e2591f669f92/videos/247357450",
+      "source_type": "Course"
+    }
+  },
+  {
+    "chunk_id": "chunk_12",
+    "text": "Bring your A game, bring that energy to the room so you get elevate their energy, right? So that's one kind of critique right there. Tell me about yourself. Jacob didn't go into the weeds of like he's from Louisiana, he's got a brother and a cousin and like, he does this for his hop, like, he went right into his value, his strengths, which is key, right? You want to highlight your strengths for that role. He mentioned projects like he worked at a four, he did hundreds, like, I'm like, whoa, this guy's designed hundreds of products, he needs to be on my team, like, he could sell a lot of stuff, but at the end of the day, as he manages, like, I need someone that can articulate and communicate lots of different projects and sell that to an enterprise. Now, one thing",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Interview",
+      "content_type": "Advice",
+      "timestamp": "10:53 - 11:34",
+      "reference_link": "https://vimeo.com/reviews/48b3efa2-8184-4747-aaf2-e2591f669f92/videos/247357450",
+      "source_type": "Course"
+    }
+  },
+  {
+    "chunk_id": "chunk_13",
+    "text": "that he kind of messed up on is he brought an irrelevant experience. So it's like, you know, I want that to start up, like, you never, if you have gaps, like, in your career and you're applying for something, unless they ask, never volunteer for unnecessary information that's irrelevant to the job. Makes sense? And then when I asked him about what is exciting about this role, because this is an enterprise SC role, right? I said there's five to six clients, it gives you context, right? So immediately, if you did your homework around wherever you're applying for the job, this is an enterprise kind of client facing role, you're going to basically position the highest end product that Cisco has to offer. So Marockie kind of plays in the whole, like, small, to medium-sized space more versus the enterprise space. Now, they have done large installs,",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Interview",
+      "content_type": "Story",
+      "timestamp": "11:34 - 12:31",
+      "reference_link": "https://vimeo.com/reviews/48b3efa2-8184-4747-aaf2-e2591f669f92/videos/247357450",
+      "source_type": "Course"
+    }
+  },
+  {
+    "chunk_id": "chunk_14",
+    "text": "but like, I wouldn't lead with Marockie and your passion for Marockie, because, first of all, understand whatever role you're applying for, what products are they selling? Like, or, I mean, what are you responsible for? Maybe it's Juniper, maybe it's, they have power, like, you'll know in the description. You know, say, familiar with Juniper X, you know, routers and Aristos something, you know, spying routers and, like, powell out to a far, like, understand before you go into the job where you can provide value and shine. So here, the better answer for Jacob would be, like, Cisco's got this DNA architecture that just came out super pumped about it, why? Because I think it will change the game for enterprises. And here's why. DNA really brings in all of the different",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Interview",
+      "content_type": "Advice",
+      "timestamp": "12:31 - 13:20",
+      "reference_link": "https://vimeo.com/reviews/48b3efa2-8184-4747-aaf2-e2591f669f92/videos/247357450",
+      "source_type": "Course"
+    }
+  },
+  {
+    "chunk_id": "chunk_15",
+    "text": "campus data center, all these architectures into a more, you know, software-defined world where I can automate all these moving, you know, silo pieces that once was fragmented and bring it holistically together. But you see how I just went on and on? Like, you can bring that passion, but bring it, because when I interviewed with Cisco, that's what got me to the next round two, round three, was like, whoa, Terry's passionate, right? Because in any position that if you get into the step five, the bar or the reseller or the manufacturing world, they want to see that you're actually excited about it and that your energy is going to vibrate to the customer and whatnot. Because there's a lot of influence that's happening in these roles, whether it's presenting or having good listening skills",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "campus data center",
+      "content_type": "Story",
+      "timestamp": "13:20 - 14:06",
+      "reference_link": "https://vimeo.com/reviews/48b3efa2-8184-4747-aaf2-e2591f669f92/videos/247357450",
+      "source_type": "Course"
+    }
+  },
+  {
+    "chunk_id": "chunk_16",
+    "text": "and presentation skills. So you get really excited. And then the hiring manager, the first thing you want to do is bring excitement. You want to bring it exciting, because they want, they want to make the next tire that brings the entire team up, like from an energy perspective. So passion is such an untapped thing that you have complete control of your own. Everyone of you, you know, over skill sets or everything else. All right. So that's a good start. Now let's move into, let's say, so I hope that makes sense. Some good key takeaways there. Guys. Yeah. Yeah. All right. We're going to move into more of a technical role. I'm a peer and he's, you know, interviewing, you know, in the same round, round one, or this might be round two. And round two is more on the account management side, the regional sales",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Presentation",
+      "content_type": "Advice",
+      "timestamp": "14:06 - 14:54",
+      "reference_link": "https://vimeo.com/reviews/48b3efa2-8184-4747-aaf2-e2591f669f92/videos/247357450",
+      "source_type": "Course"
+    }
+  },
+  {
+    "chunk_id": "chunk_17",
+    "text": "manager. There's going to be just kind of the same kind of questions, or they might give you scenario-based questions. Okay. So we're going to cut right into it. So, Jacob, now tell me, you know, what's your understanding of, can you, well, let me ask you, you put BGP on your resume. Tell me about how you've used BGP in the past in your projects. Sure. So various scenarios. Well, the two main scenarios would really be in private lands and then on internet connectivity. So I've done multiple different BGP installs for private wind communications for, you know, HQ branch type scenario for banks and things like that, where we use BGP to peer with the provider and just setting all that up for the customer. Also have done a dual ASR router install where we peered BGP",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Interview",
+      "content_type": "Example",
+      "timestamp": "14:54 - 15:49",
+      "reference_link": "https://vimeo.com/reviews/48b3efa2-8184-4747-aaf2-e2591f669f92/videos/247357450",
+      "source_type": "Course"
+    }
+  },
+  {
+    "chunk_id": "chunk_18",
+    "text": "with the internet and pulled full routing tables into our routers and had redundancy between one primary data center and also a secondary data center. Where the public subnet that the customer had would be online at all times and that public subnet presence could actually move from one ISP to another ISP. So were you working on ASRs or some like ISRs? ASR one thousand ones. Okay, awesome. So let's talk about spanishry. Can you tell me what spanishry is? Sure. I can also whiteboard it for you if you want to. Awesome. Let's go to the whiteboard Jacob. All right. Show me. I'll do a quick one. So all right. Too much of your time. Yeah. No problem. So the first thing most people ask is what is spanishry for? And so that's what I always start out with. Like if a customer were to ask me,",
+    "metadata": {
+      "domain": "IT",
+      "topic": "networking",
+      "content_type": "Story",
+      "timestamp": "15:49 - 16:41",
+      "reference_link": "https://vimeo.com/reviews/48b3efa2-8184-4747-aaf2-e2591f669f92/videos/247357450",
+      "source_type": "Course"
+    }
+  },
+  {
+    "chunk_id": "chunk_19",
+    "text": "what in the heck does spanishry do in my environment? In my environment, I would say, loop, avoidance. And then I can easily just explain that if we have switches, now this is the simplest scenario there can be for spanishry, right? We have switches with two connections. By default without spanishry, that's a potential for a loop or that would cause a loop. Before spanishry, that would be a loop. You can only have one link. So spanishry allows us to have multiple connections in our network and not have loops present. So it always loops automatically running on switches automatically by default. Would you like to know more? Yeah, what's I'm curious. Do you know the states of spanishry? Can you explain them like in 60 seconds? The states of spanishry, sure. So whenever you connect the port,",
+    "metadata": {
+      "domain": "IT",
+      "topic": "spanishry",
+      "content_type": "Story",
+      "timestamp": "16:41 - 17:36",
+      "reference_link": "https://vimeo.com/reviews/48b3efa2-8184-4747-aaf2-e2591f669f92/videos/247357450",
+      "source_type": "Course"
+    }
+  },
+  {
+    "chunk_id": "chunk_20",
+    "text": "it's first going to listen, then it's going to learn, then it's going to either block or forward the traffic. So as soon as you connect the two switches together, they're going to listen for something called BPDUs, rich protocol data units. And those BPDUs contain all the spanishry information. So it actually takes around 45 seconds for that to happen by default as the switch is listening, learning, all the stuff about spanishry. And then it eventually decides if it's going to block a port or if it's going to forward a port. And in this scenario, this is what would happen. You would have these two links and one of the ports would be blocked. Now it's going to be a port that's on a non-root bridge. This is our root bridge in this scenario. Now you mentioned 45 seconds. What if I don't want to wait 45 seconds because that's a big bottleneck?",
+    "metadata": {
+      "domain": "IT",
+      "topic": "switches",
+      "content_type": "Story",
+      "timestamp": "17:36 - 18:26",
+      "reference_link": "https://vimeo.com/reviews/48b3efa2-8184-4747-aaf2-e2591f669f92/videos/247357450",
+      "source_type": "Course"
+    }
+  },
+  {
+    "chunk_id": "chunk_21",
+    "text": "What do I have to do? Will you could use a spanishry port fast on your access ports or you could just switch to using rapid spanishry? And that makes things a lot faster. Awesome. All right, we're to stop there. So a couple key things, right? Amazing job, right? This is where you need to get to. You're in the technical interview process and I asked you to spanishry and you see the whiteboard right there? Take advantage of that. Hey, you might as well whiteboard that real quick. They're not going to say no. And now it's your chance to illustrate some of your strengths because you practice and you prepare this. This is one of the number one things they'll ask to us in many scenarios. Many scenarios. Like when I interviewed with Cisco, it was one of the main questions and I was",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Interview",
+      "content_type": "Advice",
+      "timestamp": "18:26 - 19:09",
+      "reference_link": "https://vimeo.com/reviews/48b3efa2-8184-4747-aaf2-e2591f669f92/videos/247357450",
+      "source_type": "Course"
+    }
+  },
+  {
+    "chunk_id": "chunk_22",
+    "text": "surprised that not a technical SC asked me it, but my managers manager. So the senior SC manager asked me that question, Mark Muffin. And like being an articulated, this is important, but you saw when I chimed in and asked him like, wait, 45 seconds. How do I avoid that? And then he was able to articulate that? That's when you have to go be able to go deep and widen to the actual topic. And then also, great thing Jacob did is when he's playing spanishry, he explained it high level and he didn't go on a rant. He basically asked me, hey, would you like to learn more? I said, absolutely. What's the actual stakes of spanishry? So they're going to see how knowledgeable you are in a particular area. So that's very important. And I think that's it. So that's kind of,",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Effective Communication",
+      "content_type": "Story",
+      "timestamp": "19:09 - 19:56",
+      "reference_link": "https://vimeo.com/reviews/48b3efa2-8184-4747-aaf2-e2591f669f92/videos/247357450",
+      "source_type": "Course"
+    }
+  },
+  {
+    "chunk_id": "chunk_23",
+    "text": "how you can leverage white boys. And then there's rapid fire questions. So let's go into quick rapid fire questions. So I'm going to say, Jacob, can you explain, I'm going to go into rapid fire mode. You don't have to know all these questions. I'm just going to write them off. So what is the seven layers of the OSI model? It will be physical layer, data link layer, network layer, transport layer, presentation layer, and application layer, that from bottom one through seven. All right. So what is the port that FTP uses? 21. How about SF and also the 20? Okay. FTP and FTP data. Awesome. So you went deep into that. How about SFTP? 22 because it works with SSH. Okay. How about DNS? DNS is 453. Okay. How does DHCP work? DHCP, dynamicose configuration protocol. Basically you just set up a scope or a pool of addresses",
+    "metadata": {
+      "domain": "IT",
+      "topic": "osi model",
+      "content_type": "Example",
+      "timestamp": "19:58 - 20:55",
+      "reference_link": "https://vimeo.com/reviews/48b3efa2-8184-4747-aaf2-e2591f669f92/videos/247357450",
+      "source_type": "Course"
+    }
+  },
+  {
+    "chunk_id": "chunk_24",
+    "text": "that you want your device, whether it's a router or a switch, or even a dedicated DSP server. You set up a scope or a pool of addresses for that server to hand out to clients on the network. You also have to set things like a force to defile gateway, the subnet mask, and any options you want. For example, if you have a voice pool, you want to make sure you're handing out option 150 so that the phones know how to get to the phone system server. Okay. Perfect. What is a LAN? Local area network. I see. Yeah. What is a LAN? White area network. What is a man? Metropolitan area network. Or it could be you or I. We're both men. Or what is awesome to put in some humor here too, right? That's going to also really help. Now what is the fastest kind of link for wireless connectivity?",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Network Setup",
+      "content_type": "Story",
+      "timestamp": "20:55 - 21:45",
+      "reference_link": "https://vimeo.com/reviews/48b3efa2-8184-4747-aaf2-e2591f669f92/videos/247357450",
+      "source_type": "Course"
+    }
+  },
+  {
+    "chunk_id": "chunk_25",
+    "text": "Now what is the fastest kind of link for wireless connectivity? That's this link. We're at actually AC now. So we're at wireless AC. It was at a lemon AC. Okay. Awesome. Now, how would you describe stateful versus stateless connections? The simplest way you can ever describe that is stateless. It is basically with firewalling is basically just an access list. It just doesn't allow the traffic or it does a lot of traffic. Stateful, you're actually watching the state of the connection and the firewall is able to make a decision to allow traffic or deny traffic based on the state of that connection. What is deep packet inspection? Deep packet inspection would be you'd have to have some type of device. It could even be running on a firewall. It usually be an additional module",
+    "metadata": {
+      "domain": "IT",
+      "topic": "wireless",
+      "content_type": "Example",
+      "timestamp": "21:37 - 22:33",
+      "reference_link": "https://vimeo.com/reviews/48b3efa2-8184-4747-aaf2-e2591f669f92/videos/247357450",
+      "source_type": "Course"
+    }
+  },
+  {
+    "chunk_id": "chunk_26",
+    "text": "or you know something that can actually analyze the packets at a deep level, opening them up, looking inside and being context aware. So looking at what's actually inside the package, what kind of traffic it actually is, like email traffic or whatever. That's what you can touch. Now, let's... I think that's good, right? You guys got the hang of that. So that's rapid fire, right? And if you're more prepared and used those flashcards, you're going to be able to prepare and go through that really fast and rapidly as well. Because the goal here is to answer as many confidently. And in some cases, it's also a screen mechanism to filter you out fast before they move you to the next round. And the one thing that I'm not going to go into is a long answer because I want to go into some hot seats. But it's... Well, we'll do one scenario. So this",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Packet Analysis",
+      "content_type": "Story",
+      "timestamp": "22:33 - 23:27",
+      "reference_link": "https://vimeo.com/reviews/48b3efa2-8184-4747-aaf2-e2591f669f92/videos/247357450",
+      "source_type": "Course"
+    }
+  },
+  {
+    "chunk_id": "chunk_27",
+    "text": "is very... This is one that gets brought up a lot. So Jacob, you know, imagine there's host A that needs to communicate to host B. And it needs to grow across multiple routers, right? Explain the actual process in order to look up host B's address. To look up host B's address. So are you referring to this? No, no, no, no. It's what that works. Or the IP address. The IP address. To look up their IP address. So in that case, or to just say, let's say a host A needs to deliver a packet to host B across to a different subnet. How would that process work? Sure. So in any communication, whether it's across a router or going to a different subnet or anything like that, first, you have to have the IP address and the MAC address of the destination. So you have to have",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Communication",
+      "content_type": "Example",
+      "timestamp": "23:27 - 24:20",
+      "reference_link": "https://vimeo.com/reviews/48b3efa2-8184-4747-aaf2-e2591f669f92/videos/247357450",
+      "source_type": "Course"
+    }
+  },
+  {
+    "chunk_id": "chunk_28",
+    "text": "those two piece information. So the first thing the host has to do is do a R. Address Resolution protocol. Look up to... If it knows the IP address, it needs to find out the MAC. So it'll send that out. Now, if it sends out that R request and the host is actually on a different network, meaning the R request, the IP address that I'm looking for, the MAC address to is on a different network than me. My router is going to receive that. And my router is going to respond to me with its own MAC address. That's a proxy R. So which actual port will the MAC, will the actual router respond on? Is it the one interfacing the next network or the one that's connected to my local area network? It's going to respond to the one connecting to the local area network. Host A. Host A sends out",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Address Resolution",
+      "content_type": "Story",
+      "timestamp": "24:20 - 25:02",
+      "reference_link": "https://vimeo.com/reviews/48b3efa2-8184-4747-aaf2-e2591f669f92/videos/247357450",
+      "source_type": "Course"
+    }
+  },
+  {
+    "chunk_id": "chunk_29",
+    "text": "the R. The router then sends its own MAC address to the host. The host can then communicate to the router to get to the next network. And then the same process repeats. The router then forwards that information to the actual host. Which had... Because he knows the actual MAC address of the actual host. Because the router's art table includes the IP address of that host, host B, and the actual MAC address of that host. So, loss of important protocols here. Like that gets brought up in this scenario where they use different type of scenarios. Whether it's applying for a job at Palo Alto, they'll use these type of mechanisms to kind of dive deeper into what you're talking about. Like I will actually cut off Jacob and say, hey, which port is that this mechanism doing that",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Networking",
+      "content_type": "Story",
+      "timestamp": "25:02 - 25:49",
+      "reference_link": "https://vimeo.com/reviews/48b3efa2-8184-4747-aaf2-e2591f669f92/videos/247357450",
+      "source_type": "Course"
+    }
+  },
+  {
+    "chunk_id": "chunk_30",
+    "text": "you're describing? Right? It's the one that's connected to the local area or the other one that's connected to the next router. Like there's all these scenarios where they're going to cut you off and ask you to dive deeper into it. And then he brought up... I might say, hey, explain the different types of art. Or, you know, can you tell me more about art and how it works? How do I resolve that host name? You know, and he started talking about DNS. Or I might be like, host A brings up a computer web browser. Right? And pulls up, you know, an application that resides inside of a data center on this server. Like they will go into these type of scenarios. And they could be doing it over their phone. They could be in person. They could actually have you right-board it. It all depends. A lot of these scenarios, for me, in round one and two,",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Scenarios",
+      "content_type": "Story",
+      "timestamp": "25:49 - 26:34",
+      "reference_link": "https://vimeo.com/reviews/48b3efa2-8184-4747-aaf2-e2591f669f92/videos/247357450",
+      "source_type": "Course"
+    }
+  },
+  {
+    "chunk_id": "chunk_31",
+    "text": "It all depends. A lot of these scenarios, for me, in round one and two, throughout the interview process, is done via the phone. So, you know, how intimidating is that as well? You have to listen really carefully, right? And then be able to answer an intelligent. But the last thing you want to do is make up answers. Okay? Like if Jacob didn't know, he would immediately say, I don't know the answer to that. And you want to skip it. Because you want to own it. Because if you fund more around, you just like, you know, you're making yourself a hole. Yeah. And you're not going to be able to get out of that hole. Okay? And also, knowing more than just cookie cutter answers. Yeah, it's a good, a good peer interview is going to try to make sure that you're not just giving a cookie cutter answer and you can explain beyond that. Exactly.",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Interview",
+      "content_type": "Advice",
+      "timestamp": "26:29 - 27:17",
+      "reference_link": "https://vimeo.com/reviews/48b3efa2-8184-4747-aaf2-e2591f669f92/videos/247357450",
+      "source_type": "Course"
+    }
+  },
+  {
+    "chunk_id": "chunk_32",
+    "text": "Exactly what you were doing there. Yep. So that's how peer interviews, that's just one example. And some peer interviews could go a little more mellow than this or even more tense, where they actually drill into you because they want to show off that they know more than you as well. Okay? Yes? If you don't know an answer, would it be good down on it if you say, I don't know exactly what it is, but I can reference this material in order to be able to find the answer. That question would come up with you. I think what's important to do is maybe if you missed or didn't know any type of information, you say, you finish that interview as best as possible and as a follow-up. Say, you know, I will stand on some of these questions and here's the research I've done and now I have a better understanding and then show them that you did",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Peer Interviews",
+      "content_type": "Advice",
+      "timestamp": "27:17 - 28:13",
+      "reference_link": "https://vimeo.com/reviews/48b3efa2-8184-4747-aaf2-e2591f669f92/videos/247357450",
+      "source_type": "Course"
+    }
+  },
+  {
+    "chunk_id": "chunk_33",
+    "text": "the diligence to understand that stuff that you missed out on. Does that make sense? And then it shows that, wow, you're a person that's coachable and you could learn new things. And you could even say that too. You could say, I don't know the answer, but I'll find out, I'll send it to you. Yep, after our interview. Kind of like the military, right? Sorry, I do not know, but I shall find out. All right. So, but some of these answers to these questions, let's say you're not 100% confident on the answers. Maybe you're like 60% confident. Should you go in and try to answer it to the best of your ability or do you just not try to pumble or just say, I don't know? If you're like 60, if you're majority confident, like you know some aspects of it, then I would say, I'm going to do",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Confidence",
+      "content_type": "Advice",
+      "timestamp": "28:13 - 28:58",
+      "reference_link": "https://vimeo.com/reviews/48b3efa2-8184-4747-aaf2-e2591f669f92/videos/247357450",
+      "source_type": "Course"
+    }
+  },
+  {
+    "chunk_id": "chunk_34",
+    "text": "my best answer this and then go at it and then just say you're not 100% in certain areas, right? Because it might be something they're going to say, hey, just take your shot at it. Because there's a big process to actually talking about how the process is behind opening above web address works and going into the actual DNS resolution and teaching about how DNS servers recursive serve like all the stuff that happens to the backend. Like some people would be really deep into that or like the three-way handshake. Like some people want you to go really dive deep into it. Like, you know, and they'll say, what's TCP window size? You're like, what? But you just talked about TCP protocol. They gave you a high level question. Now they're diving deeper. So sometimes one opening question will go into deeper dive",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Networking",
+      "content_type": "Story",
+      "timestamp": "28:58 - 29:57",
+      "reference_link": "https://vimeo.com/reviews/48b3efa2-8184-4747-aaf2-e2591f669f92/videos/247357450",
+      "source_type": "Course"
+    }
+  },
+  {
+    "chunk_id": "chunk_35",
+    "text": "questions to see how deep you can go. And the deeper you can go, it's going to impress the hell out of them. Okay. So index cards, do you prepare for these interviews? You can't just give it to happen. You should just put it that finishing. You want it, like even when you were talking about the loop of what, it's you gave a time with like 45 seconds. So, you know, you want to give as many specific as you can, I guess, right? So if they elaborate to go deeper, you want to be able to talk deeper. So you all like how Jacob went high level and then I said, yes, actually tell me more about this. They're going to dive deeper and deeper. Especially if someone like a peer interview, we open on the concept, like, I'll say, hey, what are you more comfortable with? BGP or ERGRP?",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Interviews",
+      "content_type": "Advice",
+      "timestamp": "29:57 - 30:43",
+      "reference_link": "https://vimeo.com/reviews/48b3efa2-8184-4747-aaf2-e2591f669f92/videos/247357450",
+      "source_type": "Course"
+    }
+  },
+  {
+    "chunk_id": "chunk_36",
+    "text": "You know, or OSPF or BGP? Like, I see you put on your resume. Like, you know, what are you  more comfortable with? Or what's your strongest layer three protocol? And Jacob will say, BGP,  I'm like, okay, I'm going to question this guy. He says BGP is his domain. All right. And I'm going  to dive really deep into BGP. And some people some engineers will try to show off to dive really deep.  And they might be an expert on that, right? So sometimes it's also  a tactic that I would use. If someone's an expert, they're going to ask you like, if I'm an expert in  BGP, like, and I want to drill Jacob and Jacob, like, and it's like, that's not my strong suit,  but ERGRP, I know inside and out. I can reverse it. Because now I might be actually lacking ERGRP,  and he can impress the heck out of me on ERGRP. I'm like, whoa, this guy knows his stuff, like, you",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Interview",
+      "content_type": "Advice",
+      "timestamp": "30:43 - 31:39",
+      "reference_link": "https://vimeo.com/reviews/48b3efa2-8184-4747-aaf2-e2591f669f92/videos/247357450",
+      "source_type": "Course"
+    }
+  },
+  {
+    "chunk_id": "chunk_37",
+    "text": "know? And that's that that makes up for him not knowing BGP does that make sense? So always use that as leverage to where you can reverse it. Cool? All right. So you want to jump into some hot seats? Or you guys feel like this is a good thing? So let's, is this how forward do you guys want to, who wants a ball? I would say let's ball like, do you want a volunteer for some hot seats? No. It's a little intimidating. Right? So let's do, Juan, let's jump into hot seat. So this is getting out of your comfort zone, right? I ask volunteers and no one volunteer. So you need to get out of your comfort zone the sooner, like with your friend with, like, you know, pull, like get your coworker, your friend, and anyone to help you, your parents, you know, it doesn't matter because it's practice, right? So tell me Juan, why do you want to, why do you want",
+    "metadata": {
+      "domain": "IT",
+      "topic": "BGP",
+      "content_type": "Example",
+      "timestamp": "31:39 - 32:53",
+      "reference_link": "https://vimeo.com/reviews/48b3efa2-8184-4747-aaf2-e2591f669f92/videos/247357450",
+      "source_type": "Course"
+    }
+  },
+  {
+    "chunk_id": "chunk_38",
+    "text": "to work here? It's just such a great company. It's always in the forefront of technology and management. And it's just so exciting for me to be able to work for a company that, you know, stands for all this. Awesome. Awesome. So I really liked Juan's answer there, but you need a library, right? Of course, you didn't do the recon and the research, right? Find out, like, you know, on Glassdoor, what people are raving about. And you can bring that as your strength, like you've done your research. And they're going to see that in the interview. Like, you guys want fortune, eat 500, three years in a row. I've heard this is one of the most amazing companies to work for here in Chicago. Like, bring that energy, that enthusiasm. Okay. So tell me about your strengths, Juan.",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Interview",
+      "content_type": "Story",
+      "timestamp": "32:53 - 33:42",
+      "reference_link": "https://vimeo.com/reviews/48b3efa2-8184-4747-aaf2-e2591f669f92/videos/247357450",
+      "source_type": "Course"
+    }
+  },
+  {
+    "chunk_id": "chunk_39",
+    "text": "I'm really good at understanding how the very basic stuff of networking works. And I'm really good at developing like a project where I can set up a small branch where I can set up a voice over IP where I can set up a host and, you know, how that works seamlessly in the environment. Gotcha. So like, that was pretty good. His attempt to, you know, bring out his project level experience, but my recommendation is, you know, to hit the high level, you never have to go technically, especially if it's kind of broad level questions. But you would say, I love working on projects from ground up. I'm really good at, you know, from like starting into finishing it through the plan, design, configure, implementation phase, right? And because I'm detailed oriented and start bringing",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Networking",
+      "content_type": "Story",
+      "timestamp": "33:43 - 34:41",
+      "reference_link": "https://vimeo.com/reviews/48b3efa2-8184-4747-aaf2-e2591f669f92/videos/247357450",
+      "source_type": "Course"
+    }
+  },
+  {
+    "chunk_id": "chunk_40",
+    "text": "in those strengths, I'm very detailed oriented. I'm very good at documentation. I could document an entire network. And I know people don't like documenting, but I love documenting. Like, you can kind of bring in all these strengths, whatever you're good at, don't make it up, but, you know, bring it up. So you put on your resume, like, your FSNA certified guide, like, what's, tell me, I've never heard of FSNA. What is that? Yeah. Well, I chose FSNA over other cancer applications because it's the only certification that will actually qualify you on real equipment. You have to know how to do this thing, you know, on real equipment, not only, you know, multi-blancs and questions or just kind of labs here and there. It really gives you a better understanding of how everything works versus just kind of knowing the concept behind it.",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Strengths",
+      "content_type": "Advice",
+      "timestamp": "34:41 - 35:31",
+      "reference_link": "https://vimeo.com/reviews/48b3efa2-8184-4747-aaf2-e2591f669f92/videos/247357450",
+      "source_type": "Course"
+    }
+  },
+  {
+    "chunk_id": "chunk_41",
+    "text": "Okay, give me some examples. Like, what did you do in getting certified? So we learned how to, in front of the basis from just configuring a switch or a router or any device to actually touch the equipment. We actually touched the thing. Oh wow. We loved into it, you know, we were able to configure all these things and we were able to connect between the devices. We were able to connect between, um, uh, uh, uh, have borders into a, uh, mock up branch and establish connectivity and make sure that it's secure. And, uh, we're also were able to, um, implement, uh, voiceover IP to make sure that we're working on a phone project right now. You know, that's really awesome. Yeah, I could definitely bring some expertise in that area. Yeah. So right there, right? If someone asked because you're going to put on your resume,",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Certification",
+      "content_type": "Example",
+      "timestamp": "35:32 - 36:21",
+      "reference_link": "https://vimeo.com/reviews/48b3efa2-8184-4747-aaf2-e2591f669f92/videos/247357450",
+      "source_type": "Course"
+    }
+  },
+  {
+    "chunk_id": "chunk_42",
+    "text": "what did I say? Right? Always own the stuff that you're going to put on the resume. Whether it's one word, one line, one project, be ready to answer that and take pride in the FSNA. Like Juan did right there own it, right? It's like, I looked at other search, like CCNA and it's like, it's like, just answering 60 questions. I didn't want that. I wanted hands on why? Because I'm a guy that wants to show up on day one and hit the ground running. I want to actually perform and make impact and provide value to this organization. I don't want to, you know, wait, you know, X amount of months. So like saying stuff like that, you see where I'm going with that? That, that, that, right? Does that make sense? Articulating that you can bring value and you're showing that articulating that in",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Career",
+      "content_type": "Advice",
+      "timestamp": "36:21 - 37:05",
+      "reference_link": "https://vimeo.com/reviews/48b3efa2-8184-4747-aaf2-e2591f669f92/videos/247357450",
+      "source_type": "Course"
+    }
+  },
+  {
+    "chunk_id": "chunk_43",
+    "text": "the interview. So every question, leverage it and bring that in. So that's a great job, um, bought. So round the applause for Juan. But here's a quick recap. So we talked about how to practice and prepare and really master the interview process. How to take advantage of flashcards and really understand that there is these general interview questions who have to master, right? You have to just perfect it and then there's these technical questions you're going to have to master as well. We talked about how to make an impression in that interview. We talked about different styles of interview and then we wrapped things up, um, doing some hot seats and kind of role-playing what the actual interview process would look like. So there you have it folks. Hope you enjoyed it. We're going to go into now some Q&A.",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Interview",
+      "content_type": "Story",
+      "timestamp": "37:05 - 37:59",
+      "reference_link": "https://vimeo.com/reviews/48b3efa2-8184-4747-aaf2-e2591f669f92/videos/247357450",
+      "source_type": "Course"
+    }
+  }
+]

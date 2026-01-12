@@ -1,0 +1,110 @@
+[
+  {
+    "chunk_id": "chunk_1",
+    "text": "Each week we provide tech lessons, answer questions, and bring you interviews of the most successful engineers and thought leaders working in the IT space across technologies like Data Center, Cloud, Networking, Collaboration and Security. Listen in as you'll gain insights, strategies, tips, and more to help you level up along your journey in becoming a rockstar SE. So let the class begin! Hey what's up SE Nation, fellow and future IT engineers, you're a host Terry Kim here. Welcome to episode zero, which is a quick intro about the show why it was created along with my story. On March 10th 2015, President Obama announced his TechCyre initiative, a new campaign to work with communities across the nation to get more people rapidly trained for well-paying technology jobs. And according to the White House, there are over half a million unfilled IT jobs here in the US as of 2015 and growing.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "IT space",
+      "content_type": "Story",
+      "timestamp": "00:00 - 01:05",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP00_-_About_the_Show_Become_a_Rockstar_SE.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_2",
+    "text": "And the number is expected to grow to 1 million unfilled IT jobs by 2020. And I'm assuming from a global economy, this number is a lot larger. And a lot of these jobs are in IT operations and system integration roles and not just encoding jobs, such as network systems support, administration, and engineering roles within specialization across a variety of different technologies. So the timing is perfect for those on the fence on exploring an engineer career in IT. The opportunity is huge and we're here to help you along your journey in becoming that rockstar engineer. We'll help you every step of the way from providing you a rock solid technical foundation to giving you specific strategies and insights into helping you accelerate your career to help you land that dream IT job.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "IT jobs",
+      "content_type": "Advice",
+      "timestamp": "01:05 - 02:07",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP00_-_About_the_Show_Become_a_Rockstar_SE.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_3",
+    "text": "Now, it's important to note the world of IT is changing rapidly and this notion of cloud computing has IT and businesses in the midst of transformation. You see, gone are the days where you just need to learn how to program a router or switch and you can have that nice paying network engineer job. In today's environment, employers are expecting their engineers to have knowledge in a little bit of everything and then some and that's not just limited to having to learn routing switching compute storage, cloud security, and maybe even having to code and Python or no tools such as puppet chef for IT automation and more. We call these engineers full stack systems engineers and we're on a mission to create more of these rock stars. So let's first break down our definition of what a systems engineer is in our field of IT and then I'll give you an idea of what the show is all about and why we created it.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "IT Transformation",
+      "content_type": "Story",
+      "timestamp": "02:07 - 03:14",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP00_-_About_the_Show_Become_a_Rockstar_SE.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_4",
+    "text": "Systems engineering is an interdisciplinary field of engineering that focuses on how to design, configure, manage, and troubleshoot complex IT solutions over their entire life cycles. And our mission is to help you along your journey in becoming that rock star systems engineer. So here's a format of how the show will be broken down. We'll start the week with an interview now the interviews will follow a specific format so you know what to expect and for consistency. We'll do a brief introduction of our special guest along with a favorite quote to start the interview.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Systems engineering",
+      "content_type": "Story",
+      "timestamp": "03:14 - 03:53",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP00_-_About_the_Show_Become_a_Rockstar_SE.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_5",
+    "text": "Next we'll talk about their IT career journey discuss a current or pass IT project he or she has worked on to gain some insights and lessons from their experience and then we'll move into them sharing their keys to success that has worked for them particularly such as rituals tactics, maybe some tools that they've used or some books that they would recommend. Lastly we'll finish up the interview with a short tech lesson of the day and the guests will share with us any closing comments. Now after that dose of inspiration for the week we'll continue to provide you a series of quick 20, 25 minute tech lessons throughout the week which will start at beginner level and advance as we go throughout the episodes.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career Journey",
+      "content_type": "Example",
+      "timestamp": "03:53 - 04:41",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP00_-_About_the_Show_Become_a_Rockstar_SE.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_6",
+    "text": "And we'll finally wrap up the week by answering all your questions that come to mind so be sure to ask us anything by emailing us at questions at rockstar sc dot com and lucky winners will be picked randomly for some very cool rock star and I hope this format makes sense and you're excited about the show as much as I am and launching our new show rock star sc. Now here's my story my name is Terry Kim and my dream at age 21 was to become a rock star IT engineer and land my dream job at Cisco Systems one day. Now prior to this I didn't know anything about IT or computers in fact and I was a nightclub DJ in the city of Seoul the capital of South Korea one of the 10 most visited cities on the planet home to about 10 million people and there I was completely fascinated in the world of technology and the internet.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Rock Star",
+      "content_type": "Story",
+      "timestamp": "04:41 - 05:49",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP00_-_About_the_Show_Become_a_Rockstar_SE.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_7",
+    "text": "I knew this was the future as I built my first PC and I was hooked and I remember hooking up my first dial up modem to the internet super excited if I was lucky enough to get connected at 28.8 kilobits per second. And it's hard to imagine now South Korea is the world leader in internet connectivity having the world's fastest average internet connection speed and that you can get a one-get connection to your home for about 20 dollars. Now being overseas as a military brat transitioning to adulthood made it very tough for me to break into an IT entry level job overseas. So I thought I would start by attending college and majoring in computer science or management information systems however I quickly realized that college and real world were quite different. You see I was eager to get some hands on so I decided after two years of college to join the US Air Force as a tech controller.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career",
+      "content_type": "Story",
+      "timestamp": "05:49 - 06:52",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP00_-_About_the_Show_Become_a_Rockstar_SE.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_8",
+    "text": "A career that would translate to network engineer on the civilian side and that's how I broke into IT. I started on the help desk and worked my way up. Within 10 years I ended up as a systems engineer at Cisco Systems with my dream job. However all along the way during my career I found it most difficult to find all the right information, the strategies, the right training in order to help accelerate my learning to match my ambitions. So therefore I'm on a mission to create that medium that I wish I had when I was 21. That's how rockstar SC was born. Listen in as you'll gain the latest insights, strategies, tips and more to help you level up along your journey in becoming a rockstar SC. So let the lessons begin. This rockstar SC class is ended but there's more ways to propel you on your ideal IT engineer journey.",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Career",
+      "content_type": "Story",
+      "timestamp": "06:52 - 07:54",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP00_-_About_the_Show_Become_a_Rockstar_SE.mp3",
+      "source_type": "podcast"
+    }
+  },
+  {
+    "chunk_id": "chunk_9",
+    "text": "Head over to rockstarse.com for show notes and be sure to sign up for our mailer. This will give you exclusive access for some amazing free content to help you level up and accelerate your career. We appreciate you joining us and look forward to helping you learn, focus and succeed next time on rockstarSE.",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Career",
+      "content_type": "Advice",
+      "timestamp": "07:54 - 08:12",
+      "reference_link": "http://traffic.libsyn.com/rockstarse/EP00_-_About_the_Show_Become_a_Rockstar_SE.mp3",
+      "source_type": "podcast"
+    }
+  }
+]

@@ -1,0 +1,854 @@
+[
+  {
+    "chunk_id": "chunk_1",
+    "text": "hey what's up tk here welcome to another episode of founders unscripted and today i've got an amazing episode lined up for you where i interview james richards now his story is so amazing because he ended up going from corporate to quitting his job as a lawyer at age 22. and in this episode we're gonna dive into his story how he got started and how he ended up eventually coming up with an idea to get accepted into y combinator the summer batch 2013 and learn how he ended up getting his first angel check and raising over a million dollars on demo day and then ended up doing a bridge what we call a c plus round for over 2 million",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Story",
+      "content_type": "Story",
+      "timestamp": "00:00 - 00:44",
+      "reference_link": "https://www.youtube.com/watch?v=ALz66gvRlZc&t=2s",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_2",
+    "text": "plus round for over 2 million ended up raising three and a half million dollars to launch his company tele-border so let's check it out what's up guys welcome to another episode of founders unscripted super excited to have one of my good friends and investor in next gen t here on the show james richards he actually went from corporate just like me uh into getting the startup bug and eventually finding tele-border and we're gonna dive really deep into his story um he's gonna talk about his exit and we got some really good nuggets here super excited to have james here on the show welcome james thanks glad to have you on the show yeah appreciate it",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Startup",
+      "content_type": "Story",
+      "timestamp": "00:40 - 01:35",
+      "reference_link": "https://www.youtube.com/watch?v=ALz66gvRlZc&t=2s",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_3",
+    "text": "you on the show yeah appreciate it happy to be here all right james um i'd like to just kind of dive right into kind of the back story of like you know who you are where you're from and up to the point of let's say when you got to start a bug yeah sure uh i grew up in indonesia my father is english my mother's indonesian so was there all through high school uh moved to the states for college ended up as a lawyer on wall street for a couple years uh between 2008-2010 um didn't love it felt like there was a bigger world out there and so uh i quit uh a few weeks before christmas 2010 not really having a plan or an idea as to what i was gonna go do next",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Story",
+      "content_type": "Story",
+      "timestamp": "01:31 - 02:16",
+      "reference_link": "https://www.youtube.com/watch?v=ALz66gvRlZc&t=2s",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_4",
+    "text": "to what i was gonna go do next i thought i had one which was like i was gonna go start technology businesses because that seemed like really fun and glamorous but in reality i was like laughably unprepared and naive um so yeah i but i guess you could say that was the moment when i when i had the bug and caught it okay uh and then spent the next nine years working my way into this chair yeah so 2010 let's rewind back so were you like looking at techcrunch articles were you like watching some shows like what inspired you to say like you know i'm i'm done with this corporate world i want to you know get into the tech space when was those kind of that aha moment",
+    "metadata": {
+      "domain": "IT",
+      "topic": "tech",
+      "content_type": "Story",
+      "timestamp": "02:12 - 02:53",
+      "reference_link": "https://www.youtube.com/watch?v=ALz66gvRlZc&t=2s",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_5",
+    "text": "into the tech space when was those kind of that aha moment yeah i think it was literally that um i'd be sitting at my desk or or at home uh kind of bored and just read about stuff uh i would read and i've always found myself just reading about businesses i was reading new york times business section was reading magazines was reading biographies of really like interesting business people entrepreneurs and the idea of starting businesses not necessarily technology businesses but just businesses seem to really call to me um i liked the idea of building something and being in control of my own destiny i think one of the things that i was",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Entrepreneurship",
+      "content_type": "Story",
+      "timestamp": "02:48 - 03:28",
+      "reference_link": "https://www.youtube.com/watch?v=ALz66gvRlZc&t=2s",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_6",
+    "text": "i think one of the things that i was reacting to of being a lawyer was being on the services side and not being on the which always felt reactive as opposed to proactive and so really it was just this vague feeling that that that would be interesting and fun i see so how old were you at the time i was 22. so wow you were really young yeah and you felt you were more creative it seems like you you wanted to start something like from scratch yeah i mean it was it was very much a feeling of i want to try i didn't want because i i decided to study law when i was a 16 year old uh and the idea of being a lawyer effectively from age 16 through",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Mindset",
+      "content_type": "Story",
+      "timestamp": "03:24 - 04:09",
+      "reference_link": "https://www.youtube.com/watch?v=ALz66gvRlZc&t=2s",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_7",
+    "text": "uh and the idea of being a lawyer effectively from age 16 through to 65 when you retire and never trying anything else seemed like a really bad way to live a life to me at least yep um i was totally fine with the idea that i might go out hate it and then end up being a lawyer again but i didn't want to start there i see and so so yeah that was the reasoning so tell us where where were you located were you in the bay where were you i was in new york new york city yeah and were you living by yourself or with your parents no i was living alone um you know 2008 was a really weird time in the world um financially i actually got really",
+    "metadata": {
+      "domain": "Mindset",
+      "topic": "Career",
+      "content_type": "Story",
+      "timestamp": "04:02 - 04:46",
+      "reference_link": "https://www.youtube.com/watch?v=ALz66gvRlZc&t=2s",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_8",
+    "text": "in the world um financially i actually got really lucky in that the law firm i was working at um did really well in that time represented a lot of the financial institutions that were making major transactions at the time in response to the financial crisis uh so i you know we i was relatively comfortable relative to my my peer group who had graduated into this horrible recession and so so yeah i was living alone in new york in an apartment okay so when you quit did you save up like a nest fund saying i need six months or 12 years yeah one runway i think i i yes it was something like a year okay perfect i mean this is actually a very",
+    "metadata": {
+      "domain": "Mindset",
+      "topic": "Financial",
+      "content_type": "Story",
+      "timestamp": "04:41 - 05:24",
+      "reference_link": "https://www.youtube.com/watch?v=ALz66gvRlZc&t=2s",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_9",
+    "text": "perfect i mean this is actually a very good tip and insight is like even when i quit my job my first startup in 2013 i i gave myself 12 months yeah like you know if there's no um way of generating revenue you need to like eat right and still work on that idea yeah so never be in a rush to quit your job i guess is the point you know it's always good to save a little bit and then take the leap of faith yeah i've i've thought a lot about this that's an instance of it yep i think that if you're comfortable you don't settle you know like if you're it's kind of like if your hair is on fire you don't ask about the quality of",
+    "metadata": {
+      "domain": "Mindset",
+      "topic": "Startup",
+      "content_type": "Story",
+      "timestamp": "05:21 - 06:01",
+      "reference_link": "https://www.youtube.com/watch?v=ALz66gvRlZc&t=2s",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_10",
+    "text": "fire you don't ask about the quality of the water that you're gonna throw on your head right you just like take the first thing that comes to you right uh and i think the corollary of that is that if you're under financial pressure it can be really hard to think straight sometimes and i know you know there's there's a school of thought that putting yourself under pressure can be good and useful absolutely i get that as well but i've never really felt like adding to that is necessary um and so so yeah i i think i i agree with you yup yeah um one way i look at like um sometimes giving advice to founders you know is just like if you're if your back is",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Mindset",
+      "content_type": "Advice",
+      "timestamp": "05:59 - 06:37",
+      "reference_link": "https://www.youtube.com/watch?v=ALz66gvRlZc&t=2s",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_11",
+    "text": "know is just like if you're if your back is against the wall or if you're inspired by some vision like those are kind of two ways people get super motivated to kind of kick things off right um well let me ask you um so you quit your job um we talked earlier like about having multiple ideas so you didn't even know what you wanted to get into so you take me to you quit your job now you're like hey let me throw a bunch of stuff on the wall see what sticks tell me about that that first idea yeah well i mean there were a lot so so these they they get better but the first one was um an idea that i think everyone has had at some point in",
+    "metadata": {
+      "domain": "Mindset",
+      "topic": "Motivation",
+      "content_type": "Story",
+      "timestamp": "06:32 - 07:14",
+      "reference_link": "https://www.youtube.com/watch?v=ALz66gvRlZc&t=2s",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_12",
+    "text": "think everyone has had at some point in their life which is collaborative social travel this is also back in like 2010 so you have to like rewind your brain a bit right like the iphone has only been out for a year and a half at this point i don't know if there was an app store if there was it was like really new um so in that world the idea of like social collaborative travel was actually like a hot idea um which is not a great heuristic for starting a startup but still um and so yeah i had this idea that i was gonna build this like facebook for travel call it and had a lot of ideas twitter for travel as well there's like all these ideas matched up together",
+    "metadata": {
+      "domain": "Strategy",
+      "topic": "Startup",
+      "content_type": "Story",
+      "timestamp": "07:11 - 07:48",
+      "reference_link": "https://www.youtube.com/watch?v=ALz66gvRlZc&t=2s",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_13",
+    "text": "well there's like all these ideas matched up together and this is by yourself or did you have a co-founder yeah so i had a co-founder um similar spot in his life he'd been out of college a couple years uh wasn't so happy in his job either and so we barely knew each other but we were both like hey this is great let's both quit our jobs same time and uh and go build this collaborative travel thing together so how did you guys meet and um was he technical a technical co-founder so he wants technical we met through the columbia alumni community i went to columbia law school he went to columbia undergrad okay perfect so um in hindsight do you",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Startup",
+      "content_type": "Story",
+      "timestamp": "07:43 - 08:18",
+      "reference_link": "https://www.youtube.com/watch?v=ALz66gvRlZc&t=2s",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_14",
+    "text": "columbia undergrad okay perfect so um in hindsight do you recommend always finding a technical co-founder or no um he was great he is great we're still friends we talked recently um so but i think that when i was starting out and i see this a lot in people you think in terms of what i can't do you know if i'm like i was non-technical i thought okay clearly i must go find someone who is and you see this a lot in in technical founders who are like well i can't sell so let me go find somebody who can i can't raise money let me go find someone who can i don't think anyone's ever won by being less bad i think people in general win",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "co-founder",
+      "content_type": "Advice",
+      "timestamp": "08:12 - 08:53",
+      "reference_link": "https://www.youtube.com/watch?v=ALz66gvRlZc&t=2s",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_15",
+    "text": "less bad i think people in general win by being really good at stuff and so i think the better question that i should have been asking myself was what am i like really good at and how can i magnify that and so founder and no founder co sorry co-founder no co-founder i think the better question is what are you as an individual person really really good at and how can we take the most advantage of that oh i love that i actually agree i mean before during my career development days like in corporate world i always thought the interview question like what's your strengths what's your weaknesses and if you even go into that a lot of",
+    "metadata": {
+      "domain": "Mindset",
+      "topic": "Self Improvement",
+      "content_type": "Story",
+      "timestamp": "08:50 - 09:27",
+      "reference_link": "https://www.youtube.com/watch?v=ALz66gvRlZc&t=2s",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_16",
+    "text": "weaknesses and if you even go into that a lot of people like oh i have these weaknesses yeah let me start working on my strengths right let me focus on bringing these weaknesses up yeah it's the total it's a totally bad idea yeah right totally i mean if you if you look at interviews with like a lot of elite athletes right like i mean um shaq like hall of fame center can't shoot free photos doesn't matter doesn't matter um you we can nitpick like elite like steph curry not great in the post doesn't matter yep you go all in on your strengths guys that's a really good insight and tip you should like dig into right from the start um",
+    "metadata": {
+      "domain": "Mindset",
+      "topic": "Strengths",
+      "content_type": "Advice",
+      "timestamp": "09:23 - 10:06",
+      "reference_link": "https://www.youtube.com/watch?v=ALz66gvRlZc&t=2s",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_17",
+    "text": "you should like dig into right from the start um so all these ideas you're sticking against you know i'm seeing what sticks on the wall um when was the the aha moment for tele border a lot later well yeah i mean that that two year period of my life i'm very grateful for where you know we yes you're bootstrapping still right and bootstrapping exhausting all my savings defaulted on my mortgage i mean it was uh whoa it was exactly the time it got ugly exactly um it was an interesting time uh tele-border happened in the summer of 2015. uh so a lot of change between in my apartment in new york um by by then i had moved out to the bay area with my",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Story",
+      "content_type": "Story",
+      "timestamp": "10:00 - 10:44",
+      "reference_link": "https://www.youtube.com/watch?v=ALz66gvRlZc&t=2s",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_18",
+    "text": "then i had moved out to the bay area with my girlfriend now wife okay who is from out here um we got into yc on a different idea yup i'm intimidated during the batch which i which i highly recommend what was the original idea so the original idea that we got into yc for was a company called advisable um and the idea was to package legal services in a way such that you could sell them through e-commerce so for example if you imagine the experience of buying a book on amazon you just go you find the book and you buy it and it shows up at your house yep you don't care where which warehouse it came from you don't care how long that book has",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Story",
+      "content_type": "Story",
+      "timestamp": "10:40 - 11:19",
+      "reference_link": "https://www.youtube.com/watch?v=ALz66gvRlZc&t=2s",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_19",
+    "text": "came from you don't care how long that book has been on the shelf it's just a book right so long as it's the same price and and shows up at your doorstep when it should great getting legal services are the complete opposite right you have to shop for effectively the same service through multiple different providers each of whom will say that they're different in in some dimension that you aren't necessarily qualified to evaluate all the pricing is all over the place and then the timing is as well so we thought could we like make legal services more like books and make them these units that you can sell online and and buy online as consumers",
+    "metadata": {
+      "domain": "Strategy",
+      "topic": "Legal Services",
+      "content_type": "Story",
+      "timestamp": "11:14 - 11:55",
+      "reference_link": "https://www.youtube.com/watch?v=ALz66gvRlZc&t=2s",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_20",
+    "text": "can sell online and and buy online as consumers um the trouble was with that idea that uh we went really broad yep so at next gen t you guys went really deep right you have network engineering even today i think you only have like one one track and then cyber is our next yeah but three years after three years right yeah so i think when we launched we had like 50 products in like 30 metropolitan areas because are you trying to go after legal zoom or what was is that kind of the space one tier above level yeah so like instead of do it yourself like pay someone to do it for you like you know there's quickbooks and there's h r block",
+    "metadata": {
+      "domain": "Strategy",
+      "topic": "Business",
+      "content_type": "Story",
+      "timestamp": "11:48 - 12:27",
+      "reference_link": "https://www.youtube.com/watch?v=ALz66gvRlZc&t=2s",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_21",
+    "text": "you know there's quickbooks and there's h r block we want it to be the hr block okay um but even hr blocks pretty focused right like we'll do your taxes yeah you need us one day a year but but it's really focused for us we were trying to be everything to everyone we we wanted to start by having this legal supermarket but as a result it meant that we had no way of of acquiring users really because we were just shouting into the void about legal services what we should have done from the start i think is go like vertical by vertical item by item i mean that's a big nugget and take away here guys is just like if you have a startup idea you want to go",
+    "metadata": {
+      "domain": "Strategy",
+      "topic": "Startup",
+      "content_type": "Advice",
+      "timestamp": "12:22 - 13:02",
+      "reference_link": "https://www.youtube.com/watch?v=ALz66gvRlZc&t=2s",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_22",
+    "text": "is just like if you have a startup idea you want to go like very niche and then if you think that is niche enough think again just like right niche again like one more time it's really like getting so focused that you think wow there is there even a market for this that's how nishi want to really yeah right james i think so and i think the advantage of that approach is it lets you concentrate you can concentrate your messaging you can concentrate your dollars if you're doing paid acquisition um and it's a lot easier to go from one user to two users or one customer to two customers than zero to one love it and so i think it's a really",
+    "metadata": {
+      "domain": "Strategy",
+      "topic": "Startup",
+      "content_type": "Advice",
+      "timestamp": "12:57 - 13:35",
+      "reference_link": "https://www.youtube.com/watch?v=ALz66gvRlZc&t=2s",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_23",
+    "text": "customers than zero to one love it and so i think it's a really really good thing to do to focus very deeply it's something we we advise a lot of founders to do now i agree now i want to rewind back a little bit because we jumped into um the yc but before that um a lot of founders don't talk about like like all their failures because they want to just shine the light on you know their successes yeah but one thing that like it's interesting 2013 i actually started my first tech company check action project management app yeah and that that following year i i hit the lowest like you know pit of just like depression and just like like feeling",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Founders",
+      "content_type": "Story",
+      "timestamp": "13:29 - 14:12",
+      "reference_link": "https://www.youtube.com/watch?v=ALz66gvRlZc&t=2s",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_24",
+    "text": "just like depression and just like like feeling pity for myself and seven dollars in my bank account yeah and i learned a lot from that so like i'm i'm curious did you like hit rock bottom when you depleted your savings tell me about that journey and coming back up from it so the answer to that question depends on your definition of rock bottom right yeah yeah for sure and in the words of a good friend of mine you can always find a new low yeah so i mean there were some really shitty moments so i'll i'll call it that yep um i mean at some point my credit score was 490 um below five like i didn't even know it",
+    "metadata": {
+      "domain": "Mindset",
+      "topic": "resilience",
+      "content_type": "Story",
+      "timestamp": "14:07 - 14:47",
+      "reference_link": "https://www.youtube.com/watch?v=ALz66gvRlZc&t=2s",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_25",
+    "text": "was 490. um below five like i didn't even know it goes that low um yeah i mean certainly had the seven dollar uh in the bank experience you know debit card bouncing yes which is always fun um yeah i mean it it sucks what can i tell you did you have doubts like oh maybe this isn't for me how can you not when when those things are happening yeah um i think the reason that i didn't quit uh is because i hate losing and the idea of quitting under those circumstances felt like losing i don't know why like i think that people have something that they tap into whether it's inspiration or love or passion for",
+    "metadata": {
+      "domain": "Mindset",
+      "topic": "Resilience",
+      "content_type": "Story",
+      "timestamp": "14:42 - 15:26",
+      "reference_link": "https://www.youtube.com/watch?v=ALz66gvRlZc&t=2s",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_26",
+    "text": "it's inspiration or love or passion for an idea or a mission for me honestly it's i think i'm just a terrible loser like i hate losing so much that i will like drive myself to do things just so i don't lose hmm what was the turning point then um like you know your checking account's bouncing like two years into it you have no idea was it the accelerator you started researching or what was that moment you're like wow you got kind of your spark back and your drive back so i always had the drive um driven by a fear of not losing yeah um or fear of losing so so therefore i desire not to um i think things for the business started",
+    "metadata": {
+      "domain": "Mindset",
+      "topic": "Motivation",
+      "content_type": "Story",
+      "timestamp": "15:23 - 16:06",
+      "reference_link": "https://www.youtube.com/watch?v=ALz66gvRlZc&t=2s",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_27",
+    "text": "desire not to um i think things for the business started to take off when um we pivoted during yc we went from we were on a walk with paul graham telling him how it was like five weeks to demo day or something and sales were basically zero i mean i don't think they were literally zero but they were close to it uh and so you know through that walk he gave us the advice which we took which was to pick a vertical and focus on it and um that left open the question of what vertical what what niche really uh and we both looked at each other my co-founder and i he was belgian i grew up in indonesia we both met in indonesia he was living in indonesia uh",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Strategy",
+      "content_type": "Story",
+      "timestamp": "16:01 - 16:43",
+      "reference_link": "https://www.youtube.com/watch?v=ALz66gvRlZc&t=2s",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_28",
+    "text": "both met in indonesia he was living in indonesia uh and we're here in america in mountain view on a walk both of us have visa problems um and so we thought and immigration was one of the services that we had in our legal supermarket so we thought why don't we pick if we're going to pick one that's relevant to us like that's the one that's the most relevant to us um the other piece of advice that paul graham gave us which was very good which is okay after you pick a niche it's not you're not done you have to like really explore that niche and focus uh and don't be afraid if if in doing so it takes you further away from your original idea",
+    "metadata": {
+      "domain": "Strategy",
+      "topic": "niche",
+      "content_type": "Advice",
+      "timestamp": "16:38 - 17:17",
+      "reference_link": "https://www.youtube.com/watch?v=ALz66gvRlZc&t=2s",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_29",
+    "text": "takes you further away from your original idea and so um that turned out to be pretty pretty pression because what we then did was we emailed um all of the yc founders from the from the few most recent batches just cold being like hey we're in the batch um we're pivoting to this immigration thing can we help you with your business immigration needs and we actually got a lot of responses um it turns out that like serving the immigration needs of technology startups in 2013 is like this niche underserved market it's a tiny market yep but it's it's underserved high demand for talent generally price insensitive and you can",
+    "metadata": {
+      "domain": "Strategy",
+      "topic": "Pivoting",
+      "content_type": "Story",
+      "timestamp": "17:11 - 17:54",
+      "reference_link": "https://www.youtube.com/watch?v=ALz66gvRlZc&t=2s",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_30",
+    "text": "generally price insensitive and you can show them the value of getting the right people faster yep um and people weren't going after the market because they saw it as too small like the traditional incumbents and so from there we actually had customers and then once you have customers everything follows and so that was the turning point that must have been a great feeling right first cut first customer coming on board yeah about that uh it was also kind of terrifying and and kind of weird i mean like i i literally did their visa application myself which i could do because i was a lawyer but i mean i'd be i'd be lying if i said",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Startup",
+      "content_type": "Story",
+      "timestamp": "17:50 - 18:28",
+      "reference_link": "https://www.youtube.com/watch?v=ALz66gvRlZc&t=2s",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_31",
+    "text": "but i mean i'd be i'd be lying if i said i really knew what i was doing uh it worked out fine we never had any issues with them or anyone else but uh but yeah you know in hindsight that really was the turning point but in the moment i didn't really feel it it just felt like another day yep you can't really and i think in hindsight as well now that i think about it i'd always been looking for that feeling of that turning point or that like ah finally like i'm here i've arrived it i don't know that it'll ever come no um i agree i i think a lot of people get caught up in like when that moment is but actually the journey or the process of building something great",
+    "metadata": {
+      "domain": "Mindset",
+      "topic": "Growth",
+      "content_type": "Story",
+      "timestamp": "18:24 - 19:09",
+      "reference_link": "https://www.youtube.com/watch?v=ALz66gvRlZc&t=2s",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_32",
+    "text": "the journey or the process of building something great i think that's what we enjoy as founders totally i think what did feel differently was at that point at least i was talking to a live human being on the other side right as opposed to like shouting into the void of the internet hoping that like people would come use the thing that i had built yep that makes sense now what was the model like um you charged was it a sas or how much did you charge yeah so um we we did transactional pricing so uh which is the way the market is used to paying for this kind of service so when someone when a company would need a visa or a green card for their",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "founders",
+      "content_type": "Story",
+      "timestamp": "19:03 - 19:41",
+      "reference_link": "https://www.youtube.com/watch?v=ALz66gvRlZc&t=2s",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_33",
+    "text": "need a visa or a green card for their employee uh they would come to us and say hey here's the person and then we would handle their uh their visa or green card need as the case may be uh we would track it all in our software so it was easy for them to use they'd have an interface where they could upload documents and talk to us and then under the hood uh we actually had a network of attorneys who did the actual work nice um people at the time would analogize us to uber you know because it's this marketplace concept and they thought we were doing that for reasons of efficiency or try to like be like uber the real",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Software",
+      "content_type": "Story",
+      "timestamp": "19:38 - 20:16",
+      "reference_link": "https://www.youtube.com/watch?v=ALz66gvRlZc&t=2s",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_34",
+    "text": "reasons of efficiency or try to like be like uber the real reason we were doing it is because it's um it's illegal for non-law firms to provide legal services so we couldn't ourselves as a technology company provide legal services so we had to use a network of law firms yep i see um now a couple things that james throughout like pivot right i think it's important to understand if you're getting into the startup space that like if you have one idea you don't have to really be stuck on this idea right james you can switch a good friend of mine went into another accelerator we mentioned y combinator um there's these accelerators that run 12 weeks 16 weeks",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Startup",
+      "content_type": "Story",
+      "timestamp": "20:10 - 20:54",
+      "reference_link": "https://www.youtube.com/watch?v=ALz66gvRlZc&t=2s",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_35",
+    "text": "combinator um there's these accelerators that run 12 weeks 16 weeks for founders to launch um their product on demo day and then raise a seed round we'll talk about that here shortly yeah but he went in with like a financing like idea like a building a platform for finance and then he didn't like it and then one day they were having dinner like after dinner it was san francisco it was super windy rainy they were frustrated they couldn't catch a cab yeah and they had this idea of valet anywhere yeah so it's like you know when two founders can experience the problem yeah you can like you know maybe if it resonates and you",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Startup",
+      "content_type": "Story",
+      "timestamp": "20:46 - 21:26",
+      "reference_link": "https://www.youtube.com/watch?v=ALz66gvRlZc&t=2s",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_36",
+    "text": "yeah you can like you know maybe if it resonates and you feel confident you can create a solution for it i think that's a great way also to spin up a startup idea totally and i think what what resonates with what you just said uh to me is that the reason they pivoted is because they didn't like what they were working on yep i think that's really important uh i don't see enough people asking themselves that question if this is really something they want to be doing for the next however long it takes right yeah potentially 20 years rest of their life that's a good question to ask i mean we started teleporter as as i've said in 2013",
+    "metadata": {
+      "domain": "Mindset",
+      "topic": "Confidence",
+      "content_type": "Story",
+      "timestamp": "21:22 - 21:57",
+      "reference_link": "https://www.youtube.com/watch?v=ALz66gvRlZc&t=2s",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_37",
+    "text": "teleporter as as i've said in 2013 it's 2019 now i still get people asking me like literally on the street like about their visas it's like oh hey good to see you i have this thing yeah you know and i'm so sick of talking to people about their visas yeah um and if you'd have told me six years ago you're still going to be counseling someone on their random h-1b application i don't know if i start that business if i'm being honest now that said it was solving my own problem i i yep i say this like half ingest but i do also see a lot of founders like chugging away at problems that i don't know that they're passionate about just because they like really want to build a",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Founders",
+      "content_type": "Story",
+      "timestamp": "21:52 - 22:29",
+      "reference_link": "https://www.youtube.com/watch?v=ALz66gvRlZc&t=2s",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_38",
+    "text": "because they like really want to build a business yep i also wonder if that's healthy no i don't think it's healthy at all actually like the show is inspired to be you know inspiring founders to find like things they're passionate about because i think like for an idea to really like take off i truly believe that a founder needs to have passion and hard work like combined with making something work because it's when you don't give up and like you can tap into that passion or that like why you started this in the first place yeah and that's not available if you just did something like because you want to make some quick cash in a couple years right",
+    "metadata": {
+      "domain": "Mindset",
+      "topic": "Passion",
+      "content_type": "Advice",
+      "timestamp": "22:27 - 23:06",
+      "reference_link": "https://www.youtube.com/watch?v=ALz66gvRlZc&t=2s",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_39",
+    "text": "to make some quick cash in a couple years right certainly like if you if you just want to make money like there are probably better ways to do it than starting a venture back technology company yep i think starting a business that is not venture back can often be a great way to make some short term cash absolutely although likely like getting a high paying job is probably the best way risk adjusted yeah that's a little more risk-free too yeah totally um so tell me um you go into yc who was your first investment from angel first check yeah first check well so we've raised like a hundred k i think maybe 150 coming into yc",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Startup",
+      "content_type": "Story",
+      "timestamp": "23:01 - 23:42",
+      "reference_link": "https://www.youtube.com/watch?v=ALz66gvRlZc&t=2s",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_40",
+    "text": "like a hundred k i think maybe 150 coming into yc okay uh the very yc yeah pre yc yep so and this was in the days by the way when the yc investment was 18k 18k wow back in the day now it's i think 150 i think they something like that went up yeah there was also this like weird like unkept note from like four vc funds uh anyway yeah um so we raised 150k uh first was an individual angel in new york um guy who worked at a hedge fund very smart um that we actually still keep in touch that's great uh and then 100k or 50 can't remember from a fund in indonesia where i grew up where i have a good relationship so how did you meet your first investor",
+    "metadata": {
+      "domain": "Strategy",
+      "topic": "Investment",
+      "content_type": "Story",
+      "timestamp": "23:35 - 24:23",
+      "reference_link": "https://www.youtube.com/watch?v=ALz66gvRlZc&t=2s",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_41",
+    "text": "did you meet your first investor and how did you pitch him teleporter meet his first i i think i met him because i was broke and i had heard uh through my high school alumni group that this guy at a hedge fund wanted to hire someone who could speak english in indonesian to translate some indonesian research reports or something something that he was looking at related to indonesia wow so we met for lunch and then and then became friends yep uh how did i pitch from teleporter so i didn't i pitched him uh advisable um yeah the previous idea for marketing i see awesome so i think there's a takeaway there too",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Investor",
+      "content_type": "Story",
+      "timestamp": "24:18 - 25:00",
+      "reference_link": "https://www.youtube.com/watch?v=ALz66gvRlZc&t=2s",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_42",
+    "text": "see awesome so i think there's a takeaway there too it's like i mean wouldn't you recommend founders if they can tap into their network to raise some money pre going into an accelerator kind of gives them a little jumpstart would you say or no i think that the decision to raise money is is pretty binary i think in that like if you take any outside money um there is some de minimis threshold but pretty much but it's a lot lower than people think if you raise more than call it a million dollars um you've effectively made a promise to your investors that you're going to be on this like unicorn or bust venture train um",
+    "metadata": {
+      "domain": "Strategy",
+      "topic": "fundraising",
+      "content_type": "Advice",
+      "timestamp": "24:54 - 25:36",
+      "reference_link": "https://www.youtube.com/watch?v=ALz66gvRlZc&t=2s",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_43",
+    "text": "on this like unicorn or bust venture train um and so especially here in silicon especially in silicon valley um at the valuations that silicon valley companies raise at that that's the expectation and therefore the implicit promise that you've made by taking that money so it's not something i would do casually uh because what you are doing to put it very tactically uh suppose someone invests a million dollars in your company at a five million dollar valuation post money right so they own 20 and suppose literally the next day someone calls you and it's like terry i'm gonna buy your company for five million dollars so exactly the same",
+    "metadata": {
+      "domain": "Strategy",
+      "topic": "Venture",
+      "content_type": "Advice",
+      "timestamp": "25:30 - 26:10",
+      "reference_link": "https://www.youtube.com/watch?v=ALz66gvRlZc&t=2s",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_44",
+    "text": "buy your company for five million dollars so exactly the same valuation but now you get four million dollars that's a pretty good deal if you just started the company right right but you've promised the investor that effectively you're not going to do that now they can't stop you but like that's not why they invested yup so raising money in any circumstances casually is not something i would recommend no that's a great advice um and they can't stop you like james is mentioning to you like because you have in the early stages board control and you usually don't have a board in that stage when you're raising a seed round right",
+    "metadata": {
+      "domain": "Strategy",
+      "topic": "Funding",
+      "content_type": "Advice",
+      "timestamp": "26:05 - 26:45",
+      "reference_link": "https://www.youtube.com/watch?v=ALz66gvRlZc&t=2s",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_45",
+    "text": "a board in that stage when you're raising a seed round right yeah yeah it's really just about the the alignment of expectations yeah yeah now so you go to demo day you're pitching tele-border like how how long did it take you to raise uh how much did you raise and how long did it take you yeah uh so i think pretty typical at the time like seed rounds were one or two million dollars we weren't the hottest company uh coming out of our batch uh how many companies in the batch i think like just under 50. um so we demo day was middle of august i think we ended up closing our seed round in october so like two months uh it was i think a million",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "funding",
+      "content_type": "Story",
+      "timestamp": "26:40 - 27:22",
+      "reference_link": "https://www.youtube.com/watch?v=ALz66gvRlZc&t=2s",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_46",
+    "text": "so like two months uh it was i think a million dollars coastal adventures let it uh they were the the biggest check they did most of it and then we had a few angels okay so you raised a million dollars and then um what was the plan to do like raise a million and then make new hires i'm assuming and build products like dot dot product yeah um i mean i wish it was was better than that but it kind of was um you know i think that like we were trying to position the company as as as more of a software company and not a services company and so to de-risk that for a series a we needed to prove some degree of recurring revenue",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Fundraising",
+      "content_type": "Story",
+      "timestamp": "27:16 - 27:57",
+      "reference_link": "https://www.youtube.com/watch?v=ALz66gvRlZc&t=2s",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_47",
+    "text": "needed to prove some degree of recurring revenue and also customer acquisition um and so it's effectively build product and get customers so do you remember your elevator pitch like your one liner i i don't remember the one liner i remember like the 32nd version yeah so what was your 32nd one sure so we our pitch to companies to customers was that we made it easy to hire people from all over the world if you think of really big companies like hp or google or ibm they've been hiring people from around the world for decades they can move someone to a london office or bring someone from a paris office over here like",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Strategy",
+      "content_type": "Story",
+      "timestamp": "27:52 - 28:33",
+      "reference_link": "https://www.youtube.com/watch?v=ALz66gvRlZc&t=2s",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_48",
+    "text": "or bring someone from a paris office over here like literally with the push of a button and the reason they've been able to do that is they've spent decades and tens of millions of dollars building up hr and legal infrastructure to go do that so for them they have this unfair advantage over you and the hiring markets because they they have this capability you don't want to go build that capability right as a small business as a small business you want to rent it for me so the next time you go meet an engineer who you really like but they happen to be canadian call me um i see nice um now what's after raising so you raised",
+    "metadata": {
+      "domain": "Strategy",
+      "topic": "Hiring",
+      "content_type": "Advice",
+      "timestamp": "28:28 - 29:08",
+      "reference_link": "https://www.youtube.com/watch?v=ALz66gvRlZc&t=2s",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_49",
+    "text": "call me um i see nice um now what's after raising so you raised um 1 million did you end up raising a little more capital we did so uh about a year after our seed round we ended up raising another two and a half okay uh so we've made some progress a lot of progress actually in that year but not enough to go raise an a so we raised a seat extension bridge there are always these awkward rare rounds um from some new investors at a markup which which was a good round so um million if you don't mind sharing what was the valuation cap on that yeah i think it was like five something like five and then a couple years later uh ten ten yeah okay so at that time you",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Fundraising",
+      "content_type": "Story",
+      "timestamp": "28:59 - 29:46",
+      "reference_link": "https://www.youtube.com/watch?v=ALz66gvRlZc&t=2s",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_50",
+    "text": "years later uh ten ten yeah okay so at that time you probably still own together like sixty roughly sixty seventy percent of the company no nowhere near not less uh we're pretty generous with our early employees um also i had a co-founder yep um we parted ways uh before that second seed round um but so and he had quite a bit of ownership even after that oh i see so i can't remember what i was what i how much i owned but it wasn't anywhere i see i see so under half of the company was sold yeah two rounds now um when you raise the second round did you have a board and did you guys do a financing we didn't have a board no board um",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Startup",
+      "content_type": "Story",
+      "timestamp": "29:40 - 30:24",
+      "reference_link": "https://www.youtube.com/watch?v=ALz66gvRlZc&t=2s",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_51",
+    "text": "financing we didn't have a board no board um although i would go down and meet our lead investor every month or six weeks okay yeah cool um did coastline lead your second round too or was a new investor they did not okay new investor came in now what's the hardest thing you've done um while building teleporter up to acquisition hardest well so i think the thing that i ultimately failed to do what was to build a business that had repeatable customer acquisition um in other words we couldn't figure out a way to get lots and lots of customers to use us repeatedly repeatedly uh you know we we would get a customer from here from a",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "financing",
+      "content_type": "Story",
+      "timestamp": "30:20 - 31:05",
+      "reference_link": "https://www.youtube.com/watch?v=ALz66gvRlZc&t=2s",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_52",
+    "text": "we would get a customer from here from a referral from there from word of mouth uh from there from uh pr or something but there really wasn't any repeatability to it and so it wasn't possible for us to scale the business and grow it because we were constrained by by customers by the top line um one layer below that though you can attribute that to maybe like a product market fit you can attribute that to poor leadership surely uh you can attribute it to any number of things but but that was ultimately the thing that we uh we failed to do um in terms of what was the most difficult thing i had to do with the company uh well when we failed to build a",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Scaling",
+      "content_type": "Story",
+      "timestamp": "31:02 - 31:47",
+      "reference_link": "https://www.youtube.com/watch?v=ALz66gvRlZc&t=2s",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_53",
+    "text": "company uh well when we failed to build a repeatable customer acquisition process we ended up missing all of our revenue targets two quarters in a row and when you do that but your expenses have gone up your burn starts to get pretty unhealthy oh yeah so uh and when when 85 to 90 of your your expenses are people there's really only one way you can lower it and so i end up having to lay off half the company um in one day wow uh which sucked that that must have sucked so you scaled to how many employees at this point i think peak was like 25 25 20 to 25. slashed to 12 people actually no it went to nine nine people and then uh and then two more quit two",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Failure",
+      "content_type": "Story",
+      "timestamp": "31:42 - 32:30",
+      "reference_link": "https://www.youtube.com/watch?v=ALz66gvRlZc&t=2s",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_54",
+    "text": "nine people and then uh and then two more quit two weeks later wow yeah yeah that must have been that was a really weird uh month it was a very challenging month i bet so talk to me about um well you mentioned biggest mistake let's kind of dig into that a little bit in hindsight if you could rewind before you know scaling what would you have done would you have recruited a better team would you have you know put in a customer acquisition strategy and focused on that what was the kind of key thing you would have focused your efforts on so i think i fell back on this lazy thing of throwing money at the problem i didn't feel like i was at the time i",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Mistake",
+      "content_type": "Story",
+      "timestamp": "32:26 - 33:09",
+      "reference_link": "https://www.youtube.com/watch?v=ALz66gvRlZc&t=2s",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_55",
+    "text": "money at the problem\ni didn't feel like i was at the time i\nnever woke up one day and was like you\nknow what i've got a problem let's throw\nmoney in yeah\nbut if you peel back what i was doing it\nwas effectively that\nit was okay i need to go figure out how\nto scalably go get customers\nanother footnote of that was i was doing\nall the sales the founder and ceo\nso we needed to prove that someone not\nnamed james richards could go sell a\nproduct\nso i thought great i'll just build a\nsales team and i know what to do on that\nI'm gonna\nhave a marketing guy i'm gonna have a vp\nof sales i'm gonna have some account\nexecutives some",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Strategy",
+      "content_type": "Story",
+      "timestamp": "33:04 - 33:38",
+      "reference_link": "https://www.youtube.com/watch?v=ALz66gvRlZc&t=2s",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_56",
+    "text": "of sales i'm gonna have some account executives some is this gonna be great it's just gonna cost a lot but that's okay because when you throw sales people you get back sales um it didn't work like that you know it it turned out it was a really complex product to sell and really difficult and you know we were there were constraints all over the place and it was going to take people longer than than a certain amount of time to ramp and and all these things that that we that what we did did not solve uh and so so yeah that's i don't know if that answers your question so yeah it does um tell me how how how much did you get sales up to revenue wise",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "sales",
+      "content_type": "Story",
+      "timestamp": "33:34 - 34:17",
+      "reference_link": "https://www.youtube.com/watch?v=ALz66gvRlZc&t=2s",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_57",
+    "text": "tell me how how how much did you get sales up to revenue wise up to acquisition oh uh what were we doing at the time acquisition um i think we were doing around a million between a million and a million and a half top line okay all right a year yeah okay um no but it was it was lumpy as hell yeah it was great months and you have some terrible months i see so tell me about the exit now um briefly like you know how did that come about yeah so um you know we so i guess there's two modes of of a company right you can either be be bought or be sold and there was a time uh in our life cycle where we were potentially being bought",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Exit",
+      "content_type": "Story",
+      "timestamp": "34:10 - 34:56",
+      "reference_link": "https://www.youtube.com/watch?v=ALz66gvRlZc&t=2s",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_58",
+    "text": "in our life cycle where we were potentially being bought and we decided to turn that down uh in order to go raise the the second seed round okay um you actually had offers or just interest it was like a lot of inbound interests in between okay in between uh and we declined to pursue to like formal offers because we were like we're going to take the the term sheet right yep um but then within a year of our doing that it became pretty clear that we weren't going to be able to be this big independent company that we had hoped uh and so at that point uh we effectively went back to the folks who were interested and were like",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Strategy",
+      "content_type": "Story",
+      "timestamp": "34:49 - 35:27",
+      "reference_link": "https://www.youtube.com/watch?v=ALz66gvRlZc&t=2s",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_59",
+    "text": "were interested and were like you might remember us from a year ago a year and a half ago um except this time where we've raised the next two and a half million dollars uh of pref on our cap table and then you know that that was challenging i see um so um you mentioned this it was like a downex exit right so you know for those founders that are watching it's like not every exit strategy or exit can be like all complete upside it could also be an aqua higher it could be a downside or a down route in this case you know yeah we sold for less than the amount that we had raised yep but it was a great package for you to transition",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Exit",
+      "content_type": "Story",
+      "timestamp": "35:23 - 36:09",
+      "reference_link": "https://www.youtube.com/watch?v=ALz66gvRlZc&t=2s",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_60",
+    "text": "but it was a great package for you to transition into joining trinet right talk about that briefly yeah i mean when you there came a point um you know after i'd laid off all these people and the dust had settled and kind of stabilized the team where we as a group had to decide what are we doing do we think that there's a path forward still or do we not and i think that the feeling i certainly had the feeling that there wasn't really a path to our being this the scalable company we would have we would have figured that out by then and we had tried pretty much every version of of getting that to work that we could so at that point we thought okay we can",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Strategy",
+      "content_type": "Story",
+      "timestamp": "36:02 - 36:45",
+      "reference_link": "https://www.youtube.com/watch?v=ALz66gvRlZc&t=2s",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_61",
+    "text": "that we could so at that point we thought okay we can return the money that we have in the bank what which did you have uh not much okay or i mean we had enough to like last us six to nine more months we would call it um but not much or we could um we could lay more people off to get profitable the challenge there was if you lay off your engineers you basically lay off your future if you lay out people who are getting the revenue like your services people then you lay off your present because you're laying off the revenue so so you actually don't right you end up in the same place regardless just with fewer people",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Strategy",
+      "content_type": "Story",
+      "timestamp": "36:41 - 37:24",
+      "reference_link": "https://www.youtube.com/watch?v=ALz66gvRlZc&t=2s",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_62",
+    "text": "up in the same place regardless just with fewer people um so the third option after consultation with our investors that they were okay with us pursuing was this this acquisition process um and uh yeah that's we ran one um and and it worked out well in that we were eventually acquired by trinette um which is a publicly traded hr company uh where i still work today uh and where where all of the team joined um yeah nice and were you happy with the comp package that tryna gave you and the transition yeah uh you know i think that we were all really happy to join trinette um the there were a few reasons why one i had never worked at a public",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Acquisition",
+      "content_type": "Story",
+      "timestamp": "37:19 - 38:06",
+      "reference_link": "https://www.youtube.com/watch?v=ALz66gvRlZc&t=2s",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_63",
+    "text": "um i had never worked at a public company before and so i thought that that would be that has been really interesting two we felt like there was a really great fit between our product and trinette's product and that trinet is this hr suite but they didn't have an immigration or international product yeah and we we would fill that gap uh third there in the bay area and some of the folks we were talking to weren't and um and trinette was willing to take the entire team and customers and support us and so you know that kind of makes it a no-brainer right right your people love it it's good for your customers good for the product",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Strategy",
+      "content_type": "Story",
+      "timestamp": "38:02 - 38:40",
+      "reference_link": "https://www.youtube.com/watch?v=ALz66gvRlZc&t=2s",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_64",
+    "text": "customers good for the product not to mention that the train it's a a very good company performing very well and has really great people um the the folks the individuals that trended in particular who led and sponsored the acquisition and who many of whom i still work with now are you know they're good people nice well james um last um like um advice that you want to share with um our audience do you have any last uh advice for founders if they're looking to you know spin up their own idea um spin up their own tech startup what would you what kind of advice would you give them so i think for me um it was a really interesting experience",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Advice",
+      "content_type": "Story",
+      "timestamp": "38:36 - 39:16",
+      "reference_link": "https://www.youtube.com/watch?v=ALz66gvRlZc&t=2s",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_65",
+    "text": "so i think for me um it was a really interesting experience waking up the next day after the acquisition closed it closed on a friday so i remember very vividly waking up on the saturday like first thought in my mind and it was relief um because that had been a long arduous process but then what followed the relief was um a lot of not regret but sadness around the outcome the financial outcome to investors and to be clear most of our investors were totally fine with with losing money on their investment they're professional investors they're big boys they know what they signed up for uh and they saw that we had worked",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Acquisition",
+      "content_type": "Story",
+      "timestamp": "39:11 - 39:53",
+      "reference_link": "https://www.youtube.com/watch?v=ALz66gvRlZc&t=2s",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_66",
+    "text": "what they signed up for uh and they saw that we had worked really hard to build a company and then when that wasn't possible return as much capital as we could uh that said i still felt like an  and i felt like an because i'd lost effectively three and a half billion dollars right and it felt like a failure it took me a while to realize that like and i could never change that you can't go back in time and like make the price higher like add a zero or something so that sucked i think what was really good for me was to realize that the company's eventual outcome value and my self-worth are completely independent numbers",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Failure",
+      "content_type": "Story",
+      "timestamp": "39:48 - 40:34",
+      "reference_link": "https://www.youtube.com/watch?v=ALz66gvRlZc&t=2s",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_67",
+    "text": "outcome value and my self-worth are completely independent numbers and they bear no relation to each other whatsoever and that's something that i i tell a lot of founders and something i wish i had realized even like from day one because i remember in hindsight every day i was marking myself to market and go home and be like how the company you do today good okay great i'm good i have the company to do today bad okay i'm bad and that roller coaster is just really emotional yeah roller coaster right there wow um no thanks james for that advice um all right any last words comments james uh not really this has just been fun well",
+    "metadata": {
+      "domain": "Mindset",
+      "topic": "self-worth",
+      "content_type": "Story",
+      "timestamp": "40:26 - 41:11",
+      "reference_link": "https://www.youtube.com/watch?v=ALz66gvRlZc&t=2s",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_68",
+    "text": "uh not really this has just been fun well thanks james for being on the show yeah likewise yeah thanks for having me all right [Music] what's your favorite movie godfather part two favorite book that's impossible but to tell you what i'm reading right now it's like super nerdy but i am reading a book called fundamentals of power system design okay fundamentals of power system economics it's like a college textbook on like the way the grid is priced okay that's actually right that is super geeky right it is super geeky favorite habit that you've introduced to yourself recently every morning",
+    "metadata": {
+      "domain": "IT",
+      "topic": "Conversation",
+      "content_type": "Story",
+      "timestamp": "41:06 - 41:46",
+      "reference_link": "https://www.youtube.com/watch?v=ALz66gvRlZc&t=2s",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_69",
+    "text": "introduced to yourself recently every morning i spend half an hour with my dog okay hanging out nice that's like my meditation time that is not super weird um no i like it favorite quote i don't really have that no no but for if anyone can find it like the you remember how at the start of this interview we were talking about how um you win by like being exceptional yeah definitely not like being average right you went all in on one thing i swear that when i was a kid i like watched this interview by thierry henry the the french football player who said that like he practices his right foot more than his left for this exact reason",
+    "metadata": {
+      "domain": "Mindset",
+      "topic": "Meditation",
+      "content_type": "Story",
+      "timestamp": "41:40 - 42:18",
+      "reference_link": "https://www.youtube.com/watch?v=ALz66gvRlZc&t=2s",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_70",
+    "text": "practices his right foot more than his left for this exact reason it was like 20 years ago if anyone on the internet who sees this can like find that clip i've been looking for it for like 10 years okay there's a challenge that would then put in the comment box okay hey what's up guys that is a wrap hope you enjoyed that episode with another great founder really uncovering all the secrets and strategies and learning from his failures and successes hopefully one day will inspire you to launch a successful company that makes huge impact in this world and if you enjoyed this episode hit that subscribe button share it with all your friends",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Strategy",
+      "content_type": "Story",
+      "timestamp": "42:14 - 42:54",
+      "reference_link": "https://www.youtube.com/watch?v=ALz66gvRlZc&t=2s",
+      "source_type": "YouTube"
+    }
+  },
+  {
+    "chunk_id": "chunk_71",
+    "text": "hit that subscribe button share it with all your friends and also comment below let me know what you liked let me know how i can improve the show and i'll see you in the next episode",
+    "metadata": {
+      "domain": "Leadership",
+      "topic": "Engagement",
+      "content_type": "Advice",
+      "timestamp": "42:49 - 43:06",
+      "reference_link": "https://www.youtube.com/watch?v=ALz66gvRlZc&t=2s",
+      "source_type": "YouTube"
+    }
+  }
+]

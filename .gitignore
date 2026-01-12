@@ -1,0 +1,17 @@
+# Virtual environments
+venv/
+myenv/
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Chroma DB
+chroma_db/
+chroma.sqlite3
+
+# SQLite chat memory
+chat.db
+chat.db-shm
+chat.db-wal
